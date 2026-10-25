@@ -1,0 +1,551 @@
+{
+  "slug": "hvac-refrigeration",
+  "title": "HVAC & Refrigeration",
+  "tagline": "The dedicated heating, cooling, and refrigeration path — EPA 608 to diagnostics mastery.",
+  "summary": "A deep-dive specialization of the Skilled Trades roadmap: the HVACR career from refrigeration-cycle theory through EPA 608 certification, electrical diagnostics, service excellence, and business ownership.",
+  "category": "Skilled Trades & Services",
+  "color": "#d98e5f",
+  "icon": "wrench",
+  "parent": "skilled-trades",
+  "onetRoles": [
+    "49-9021.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — HVACR Mechanics and Installers (49-9021.00)",
+      "url": "https://www.onetonline.org/link/summary/49-9021.00"
+    },
+    {
+      "label": "BLS OOH — HVACR Mechanics and Installers",
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "hv-explore",
+      "type": "node",
+      "label": "The HVACR Trade",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HVACR technicians install and service heating, cooling, ventilation, and refrigeration across homes, businesses, and industry — combining electrical, mechanical, and diagnostic craft.",
+        "why": "Climate equipment always breaks and increasingly needs efficiency upgrades — steady, ownership-friendly demand.",
+        "learn": [
+          "Read the BLS OOH HVACR profile",
+          "Compare residential service vs commercial install careers",
+          "Note the EPA 608 legal requirement",
+          "Shadow a technician for a day"
+        ],
+        "skills": [
+          "Diagnostics",
+          "Electrical literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — HVACR Mechanics and Installers",
+            "url": "https://www.onetonline.org/link/summary/49-9021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "49-9021.00"
+        ],
+        "tasks": [
+          "Install, service, or repair heating and air conditioning systems or refrigeration systems in residential or commercial settings."
+        ]
+      }
+    },
+    {
+      "id": "hv-cycle",
+      "type": "node",
+      "label": "The Refrigeration Cycle",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The core science: compressor, condenser, metering device, evaporator — pressures, temperatures, superheat and subcooling, and how refrigerant moves heat.",
+        "why": "The cycle is the trade's alphabet — every diagnosis starts with reading pressures against it.",
+        "learn": [
+          "Explain the four components and their jobs",
+          "Learn superheat and subcooling measurement",
+          "Read gauge sets on real systems",
+          "Diagnose low charge vs restricted airflow by numbers"
+        ],
+        "skills": [
+          "Refrigeration theory",
+          "Gauge diagnostics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-epa",
+      "type": "node",
+      "label": "EPA 608 Certification",
+      "variant": "accent",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Federal law requires EPA Section 608 certification to handle refrigerants — four types (I small appliances, II high-pressure, III low-pressure, Universal) by exam.",
+        "why": "It is the trade's legal entry requirement — earn it before your first job, not after.",
+        "learn": [
+          "Study for and pass EPA 608 (aim Universal)",
+          "Learn recovery, evacuation, and charging rules",
+          "Understand leak-rate thresholds and reporting",
+          "Keep your certification card on file"
+        ],
+        "skills": [
+          "Refrigerant handling",
+          "Regulatory compliance"
+        ],
+        "certs": [
+          {
+            "name": "EPA Section 608",
+            "issuer": "U.S. EPA (via approved providers)",
+            "note": "Federally required certification for servicing refrigerant equipment; Universal covers all appliance types."
+          }
+        ],
+        "resources": [
+          {
+            "title": "EPA — Section 608 certification",
+            "url": "https://www.epa.gov/section608",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-electrical",
+      "type": "node",
+      "label": "Electrical Diagnostics",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most HVAC faults are electrical: capacitors, contactors, motors, control boards, and thermostats — diagnosed with meters and wiring diagrams.",
+        "why": "Electrical fluency is what makes diagnosis fast — and what separates parts-changers from technicians.",
+        "learn": [
+          "Master multimeter use: voltage, continuity, capacitance",
+          "Read wiring diagrams and follow 24V control circuits",
+          "Test capacitors under load properly",
+          "Learn common furnace and condenser fault patterns"
+        ],
+        "skills": [
+          "Electrical diagnostics",
+          "Wiring diagrams"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-gas",
+      "type": "node",
+      "label": "Gas & Combustion",
+      "x": 1180,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Gas heating adds combustion: fuel-air mixture, heat exchangers and cracked-exchanger safety, venting, and CO testing — safety-critical knowledge.",
+        "why": "Combustion safety is life-safety work — carbon monoxide mistakes are unforgivable.",
+        "learn": [
+          "Learn combustion analysis with a tester",
+          "Master heat-exchanger inspection standards",
+          "Understand venting categories and materials",
+          "Know CO response and testing protocol"
+        ],
+        "skills": [
+          "Combustion analysis",
+          "Life-safety discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-airflow",
+      "type": "node",
+      "label": "Airflow & Ducts",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Airflow is half of comfort: static pressure, duct design, blower performance, filtration, and the leaky-duct epidemic that wastes energy nationwide.",
+        "why": "Many 'bad systems' are actually bad ducts — airflow literacy makes you the technician who fixes causes.",
+        "learn": [
+          "Measure static pressure and interpret readings",
+          "Learn duct design basics and common faults",
+          "Master blower speed and ECM concepts",
+          "Recommend duct-sealing with evidence"
+        ],
+        "skills": [
+          "Airflow measurement",
+          "Duct knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-heatpump",
+      "type": "node",
+      "label": "Heat Pumps",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Heat pumps (the electrification centerpiece) reverse the cycle for heating — with defrost strategies, balance points, and cold-climate technology reshaping the market.",
+        "why": "Heat-pump installations are exploding; technicians fluent in them ride the decade's biggest demand wave.",
+        "learn": [
+          "Learn reversing valves and heating-mode operation",
+          "Understand defrost cycles and balance points",
+          "Compare cold-climate heat-pump technology",
+          "Practice dual-fuel system concepts"
+        ],
+        "skills": [
+          "Heat-pump systems",
+          "Electrification awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-service",
+      "type": "node",
+      "label": "Service Excellence",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service is trust work: honest diagnosis, options with prices, clean workmanship, and maintenance agreements that keep systems healthy — and customers loyal.",
+        "why": "Service technicians with trust and diagnostics earn the highest wages in the trade.",
+        "learn": [
+          "Build a maintenance-checklist standard",
+          "Practice presenting repair vs replace honestly",
+          "Master systematic diagnosis before parts",
+          "Ask for reviews after every good fix"
+        ],
+        "skills": [
+          "Customer trust",
+          "Systematic diagnosis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-commercial",
+      "type": "node",
+      "label": "Commercial Refrigeration",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Refrigeration specialty: walk-ins, racks, ice machines, and supermarket systems — higher complexity, higher pay, and round-the-clock urgency.",
+        "why": "Refrigeration techs are scarcer than HVAC-only techs — the specialty pays for the extra depth.",
+        "learn": [
+          "Learn walk-in and rack system basics",
+          "Master defrost and temperature controls",
+          "Practice food-safety temperature compliance",
+          "Build a refrigeration tool set progressively"
+        ],
+        "skills": [
+          "Refrigeration systems",
+          "Food-safety compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-nate",
+      "type": "node",
+      "label": "Advanced Certifications",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond EPA 608: NATE-style excellence certifications, manufacturer training academies, and controls/building-automation credentials.",
+        "why": "Advanced certifications raise rates and open commercial and controls doors.",
+        "learn": [
+          "Pick a certification aligned to your niche",
+          "Complete manufacturer academies (often free)",
+          "Explore building-automation basics (BAS)",
+          "Track renewals and CE where applicable"
+        ],
+        "skills": [
+          "Credential planning",
+          "Renewal tracking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NATE — certification",
+            "url": "https://www.natex.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-business",
+      "type": "node",
+      "label": "Owning an HVAC Business",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HVAC ownership: trucks and inventory economics, maintenance-agreement books, honest sales culture, and technicians who stay — a famously profitable trade business.",
+        "why": "HVAC ownership is among the strongest small-business models in the trades — margins reward good operators.",
+        "learn": [
+          "Model truck economics: parts, warranty, labor",
+          "Build a maintenance-agreement base first",
+          "Learn price-book and flat-rate systems",
+          "Hire for character, train for skill"
+        ],
+        "skills": [
+          "Business management",
+          "Hiring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladder: helper → apprentice → service technician → lead/controls specialist → business owner or commercial refrigeration specialist; controls and BAS branch toward facilities careers.",
+        "why": "The ladder is license-light but skill-heavy — mastery and reputation ARE the ladder.",
+        "learn": [
+          "Map the ladder in your market",
+          "Choose service vs install vs refrigeration depth",
+          "Log your certifications and specialties",
+          "Find a mentor tech with 20 years in"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-season",
+      "type": "node",
+      "label": "Seasonality & Health",
+      "variant": "muted",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The trade peaks brutally in summer and winter: attic heat, crawlspaces, on-call rotations — hydration, knees, and boundaries are professional equipment.",
+        "why": "HVAC burns out bodies and minds that don't plan — the techs who last manage both seasons deliberately.",
+        "learn": [
+          "Build a heat-safety routine for attics and roofs",
+          "Keep hydration and cooling discipline on calls",
+          "Plan finances for the shoulder seasons",
+          "Rotate on-call fairly and rest fully"
+        ],
+        "skills": [
+          "Self-care",
+          "Seasonal planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — heat safety",
+            "url": "https://www.osha.gov/heat",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hv-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "hv-g-craft",
+      "type": "group",
+      "label": "THE CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hv-g-career",
+      "type": "group",
+      "label": "SERVICE & CAREER",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "hv-explore",
+      "to": "hv-cycle"
+    },
+    {
+      "from": "hv-explore",
+      "to": "hv-epa",
+      "dashed": true
+    },
+    {
+      "from": "hv-cycle",
+      "to": "hv-electrical"
+    },
+    {
+      "from": "hv-epa",
+      "to": "hv-cycle",
+      "dashed": true
+    },
+    {
+      "from": "hv-electrical",
+      "to": "hv-gas",
+      "dashed": true
+    },
+    {
+      "from": "hv-cycle",
+      "to": "hv-airflow"
+    },
+    {
+      "from": "hv-airflow",
+      "to": "hv-heatpump",
+      "dashed": true
+    },
+    {
+      "from": "hv-electrical",
+      "to": "hv-service"
+    },
+    {
+      "from": "hv-service",
+      "to": "hv-commercial",
+      "dashed": true
+    },
+    {
+      "from": "hv-service",
+      "to": "hv-nate",
+      "dashed": true
+    },
+    {
+      "from": "hv-nate",
+      "to": "hv-business",
+      "dashed": true
+    },
+    {
+      "from": "hv-career",
+      "to": "hv-season",
+      "dashed": true
+    },
+    {
+      "from": "hv-service",
+      "to": "hv-career"
+    }
+  ]
+}

@@ -1,0 +1,1238 @@
+{
+  "slug": "supply-chain",
+  "title": "Supply Chain & Logistics",
+  "tagline": "Plan, source, make, and deliver — master the flow of goods that keeps every business running.",
+  "summary": "Supply chain professionals coordinate forecasting, procurement, production, inventory, warehousing, and transportation so products arrive where they're needed at the lowest total cost. This roadmap follows the end-to-end flow — plan, source, make, deliver — and the certifications (CPIM, CSCP, CLTD, Six Sigma) that anchor the profession.",
+  "category": "Business & Finance",
+  "color": "#fb923c",
+  "icon": "truck",
+  "onetRoles": [
+    "13-1081.00",
+    "11-3071.00",
+    "43-5061.00",
+    "13-1023.00"
+  ],
+  "jelCodes": [
+    "L91",
+    "L23"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Logisticians (13-1081.00)",
+      "url": "https://www.onetonline.org/link/summary/13-1081.00"
+    },
+    {
+      "label": "BLS OOH — Logisticians",
+      "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm"
+    },
+    {
+      "label": "ASCM — Certifications (CPIM, CSCP, CLTD)",
+      "url": "https://www.ascm.org/ascm-insights/certifications"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "sc-overview",
+      "type": "node",
+      "label": "What Is Supply Chain?",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Supply chain management coordinates everything between raw material and customer: planning, sourcing, manufacturing, inventory, warehousing, and delivery. The classic frame is plan–source–make–deliver–return.",
+        "why": "Pandemic-era shortages made supply chain strategy visible to every board. It is a large, stable profession with clear certifications and strong demand for planners and analysts.",
+        "learn": [
+          "Read the BLS profile of logisticians",
+          "Draw the SCOR-style flow: plan, source, make, deliver, return",
+          "Trace one product you own backward through its chain",
+          "Identify 3 industries whose supply chains differ fundamentally (grocery vs aerospace vs fashion)"
+        ],
+        "skills": [
+          "Systems thinking",
+          "Coordination",
+          "Analytical thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Logisticians",
+            "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Logisticians",
+            "url": "https://www.onetonline.org/link/summary/13-1081.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1081.00"
+        ],
+        "tasks": [
+          "Analyze and coordinate the logistical functions of an organization, including movement of materials, information, and products."
+        ]
+      }
+    },
+    {
+      "id": "sc-flow",
+      "type": "node",
+      "label": "The End-to-End Flow",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Every chain is a set of linked decisions: how much to make (plan), from whom to buy (source), how to produce (make), and how to ship (deliver). Each link holds inventory and adds lead time.",
+        "why": "Seeing the whole flow lets you find where cost and delay actually accumulate — the core diagnostic skill of the profession.",
+        "learn": [
+          "Map one company's chain from supplier's supplier to customer's customer",
+          "Define upstream vs downstream and first-tier vs second-tier suppliers",
+          "Explain the bullwhip effect with a simple example",
+          "Identify the two biggest lead-time contributors in your map"
+        ],
+        "skills": [
+          "Process mapping",
+          "Systems thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Supply chain body of knowledge",
+            "url": "https://www.ascm.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-excel",
+      "type": "node",
+      "label": "Excel & Data Basics",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Planning runs on spreadsheets: forecasts, order schedules, inventory projections, and vendor scorecards. Lookup functions, pivot tables, and clean data discipline are daily tools.",
+        "why": "Supply chain roles interview with Excel cases. Fluency here is the fastest way to contribute in your first planning job.",
+        "learn": [
+          "Build a reorder-point calculator with formulas",
+          "Summarize 12 months of demand with PivotTables",
+          "Use XLOOKUP to join a price list to an order file",
+          "Practice clean-data habits: dates, units, one fact per cell"
+        ],
+        "skills": [
+          "Spreadsheet software",
+          "Data analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Microsoft Excel help & learning",
+            "url": "https://support.microsoft.com/excel",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-domains",
+      "type": "node",
+      "label": "Industry Domains",
+      "variant": "muted",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Chains differ by industry: grocery optimizes freshness and speed, aerospace optimizes traceability and downtime cost, fashion optimizes trend timing, pharma adds regulatory custody requirements.",
+        "why": "Your industry choice shapes your whole career — pick deliberately after seeing how the problems differ.",
+        "learn": [
+          "Compare inventory logic in grocery vs aerospace",
+          "Learn what makes pharma chains special (batch traceability, cold chain)",
+          "Note the manufacturing vs retail vs 3PL employer split",
+          "Pick two domains to read industry news about for a month"
+        ],
+        "skills": [
+          "Industry awareness",
+          "Comparative analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Logisticians",
+            "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-forecast",
+      "type": "node",
+      "label": "Demand Forecasting",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Forecasting estimates future demand using history and market signals: moving averages, seasonality, trend, and forecast error measures like MAPE and bias.",
+        "why": "Every downstream decision — buying, staffing, shipping — inherits the forecast's error. Planners live and die by forecast quality.",
+        "learn": [
+          "Compute a 3-month moving average forecast",
+          "Detect seasonality in 24 months of demand data",
+          "Measure error with MAPE and track bias",
+          "Explain why consensus forecasts beat single-source guesses"
+        ],
+        "skills": [
+          "Forecasting",
+          "Quantitative analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Certifications and learning",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "43-5061.00"
+        ],
+        "tasks": [
+          "Plan, direct, or coordinate the work of employees and workers engaged in production or logistics."
+        ]
+      }
+    },
+    {
+      "id": "sc-sop",
+      "type": "node",
+      "label": "S&OP Process",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sales & operations planning is the monthly executive process that balances demand, supply, and money into one operating plan: data review, demand plan, supply plan, reconciliation, executive sign-off.",
+        "why": "S&OP is where supply chain meets the C-suite. Understanding it marks you as management-track rather than execution-track.",
+        "learn": [
+          "Diagram the 5-step monthly S&OP cycle",
+          "Identify the trade-offs each step reconciles (service vs inventory vs cost)",
+          "Simulate one cycle with sample data in a spreadsheet",
+          "Write the one-page agenda an S&OP chair would use"
+        ],
+        "skills": [
+          "Cross-functional planning",
+          "Executive communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Supply chain body of knowledge",
+            "url": "https://www.ascm.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-capacity",
+      "type": "node",
+      "label": "Capacity Planning",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Capacity planning matches demand to available resources — machines, lines, people, warehouse space — across rough-cut and detailed time horizons, deciding when to add, outsource, or level-load.",
+        "why": "Capacity decisions lock in costs for years. Planners who can model them credibly become indispensable.",
+        "learn": [
+          "Compute utilization and efficiency for one resource",
+          "Run a rough-cut capacity plan against a demand plan",
+          "Compare overtime, outsourcing, and capex responses to a 20% demand spike",
+          "Explain the cost of capacity decisions made too late"
+        ],
+        "skills": [
+          "Capacity planning",
+          "Operations analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Production, Planning, and Expediting Clerks",
+            "url": "https://www.onetonline.org/link/summary/43-5061.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "43-5061.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-procure",
+      "type": "node",
+      "label": "Procurement Cycle",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Procurement turns requirements into supply: needs specification, supplier identification, RFQ/RFP, evaluation, negotiation, purchase orders, receipt, and payment — the source-to-pay cycle.",
+        "why": "Purchased goods are often the largest cost line; procurement skills pay directly and procurement is a career path of its own.",
+        "learn": [
+          "Map the source-to-pay cycle end to end",
+          "Write a one-page RFQ for a simple category",
+          "Score two suppliers on cost, quality, delivery, risk",
+          "Understand 3-way match: PO, receipt, invoice"
+        ],
+        "skills": [
+          "Purchasing",
+          "Negotiation",
+          "Vendor management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Purchasing Agents",
+            "url": "https://www.onetonline.org/link/summary/13-1023.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1023.00"
+        ],
+        "tasks": [
+          "Purchase raw or semifinished materials, machinery, or equipment for an organization; evaluate suppliers and negotiate contracts."
+        ]
+      }
+    },
+    {
+      "id": "sc-supplier",
+      "type": "node",
+      "label": "Supplier Selection",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Choosing suppliers balances price against quality, delivery reliability, capacity, financial health, and risk — then manages the relationship with scorecards and regular reviews.",
+        "why": "A bad supplier quietly taxes every downstream step. Supplier management is where procurement adds value beyond buying cheap.",
+        "learn": [
+          "Build a weighted supplier scorecard (cost, quality, delivery, risk)",
+          "Run a mock supplier audit checklist",
+          "Design a quarterly business review agenda",
+          "Plan dual sourcing for a critical component"
+        ],
+        "skills": [
+          "Supplier evaluation",
+          "Relationship management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Supply chain body of knowledge",
+            "url": "https://www.ascm.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-contracts",
+      "type": "node",
+      "label": "Contracts & POs",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Purchase orders and supply agreements fix quantity, price, lead time, quality terms, and remedies. Key structures include blanket POs, scheduling agreements, and Incoterms-based shipping responsibilities.",
+        "why": "When things go wrong, the contract is the recovery path. Reading a supply agreement without fear is a professional superpower.",
+        "learn": [
+          "Identify the essential terms of a PO",
+          "Compare spot buys vs blanket orders vs long-term agreements",
+          "Read a sample clause set: liability, lead time, price adjustment",
+          "Escalate a late-delivery scenario using contract terms"
+        ],
+        "skills": [
+          "Contract literacy",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Purchasing Agents",
+            "url": "https://www.onetonline.org/link/summary/13-1023.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1023.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-production",
+      "type": "node",
+      "label": "Production Planning",
+      "x": 60,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Production planning schedules what gets made when: master scheduling, MRP logic (what, how many, when, given lead times and inventory), lot sizing, and priority management.",
+        "why": "This is the operational heart of manufacturing supply chains and the daily work of planning clerks and production planners.",
+        "learn": [
+          "Run MRP logic by hand on a 2-level product tree",
+          "Build a weekly master schedule with rough-cut capacity check",
+          "Compare push (MRP) vs pull (kanban) scheduling",
+          "Expedite and de-expedite: how planners re-prioritize honestly"
+        ],
+        "skills": [
+          "Materials planning",
+          "Scheduling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — CPIM learning",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "43-5061.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-lean",
+      "type": "node",
+      "label": "Lean & Waste Reduction",
+      "x": 340,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Lean targets the classic seven wastes (overproduction, waiting, transport, overprocessing, inventory, motion, defects) with tools like 5S, kanban pull, standard work, and kaizen events.",
+        "why": "Lean vocabulary dominates operations job interviews, and lean thinking improves every process you'll ever touch.",
+        "learn": [
+          "Name the 7 wastes with a supply chain example each",
+          "Run a personal 5S on your workspace and time the effect",
+          "Explain how kanban limits work-in-progress",
+          "Draft a kaizen proposal: problem, root cause, countermeasure, result measure"
+        ],
+        "skills": [
+          "Continuous improvement",
+          "Waste identification"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASQ — Lean resources",
+            "url": "https://asq.org/quality-resources/lean",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-quality",
+      "type": "node",
+      "label": "Quality & Six Sigma",
+      "x": 620,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Quality management keeps output within specification: inspection, statistical process control, root-cause analysis, and the Six Sigma DMAIC improvement cycle (define, measure, analyze, improve, control).",
+        "why": "Quality failures ripple down entire chains. Six Sigma belts are widely recognized credentials for operations careers.",
+        "learn": [
+          "Explain DMAIC and what happens at each phase",
+          "Run a basic root-cause session (5 whys + fishbone)",
+          "Read a control chart: common vs special cause variation",
+          "Compute a defect rate and convert it to Sigma level roughly"
+        ],
+        "skills": [
+          "Quality control",
+          "Root cause analysis",
+          "Statistical literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASQ — Six Sigma resources",
+            "url": "https://asq.org/quality-resources/six-sigma",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-inventory",
+      "type": "node",
+      "label": "Inventory Management",
+      "x": 900,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Inventory management balances service against cost: ABC classification, cycle counting, turnover targets, and the trade-off between stockouts and carrying cost.",
+        "why": "Inventory is where working capital hides. Planners who can explain and manage it are among the most valued roles in retail and manufacturing.",
+        "learn": [
+          "ABC-classify 50 SKUs by value contribution",
+          "Compute inventory turns and days of supply",
+          "Explain the cost of overstock vs stockout for one product",
+          "Design a cycle-counting program with tolerances"
+        ],
+        "skills": [
+          "Inventory management",
+          "Data analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — CPIM learning",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-1081.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-safetystock",
+      "type": "node",
+      "label": "Safety Stock & Reorder",
+      "x": 60,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Safety stock buffers demand and supply variability; reorder points and order quantities (EOQ logic) decide when and how much to buy. Service-level targets set the buffer math.",
+        "why": "This is the bread-and-butter calculation of planning roles and a guaranteed CPIM exam topic.",
+        "learn": [
+          "Compute a reorder point from demand and lead time",
+          "Calculate safety stock from service level and variability (basic z-score method)",
+          "Explain EOQ and its real-world caveats",
+          "Tune buffers after a stockout without overshooting"
+        ],
+        "skills": [
+          "Inventory planning",
+          "Quantitative analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — CPIM learning",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-1081.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-warehouse",
+      "type": "node",
+      "label": "Warehousing Ops",
+      "x": 340,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Warehouse operations flow through receiving, putaway, storage, picking, packing, and shipping — measured in accuracy, throughput, and cost per unit handled.",
+        "why": "Distribution centers are major employers and the proving ground for many operations leaders; understanding them helps every planner.",
+        "learn": [
+          "Map the 6 warehouse process steps",
+          "Compare piece, batch, and zone picking and when each wins",
+          "Compute order accuracy and lines-per-hour",
+          "Slot 20 SKUs by velocity (ABC slotting)"
+        ],
+        "skills": [
+          "Warehouse operations",
+          "Process improvement"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Transportation, Storage, and Distribution Managers",
+            "url": "https://www.onetonline.org/link/summary/11-3071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3071.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-transport",
+      "type": "node",
+      "label": "Transportation & Freight",
+      "x": 620,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Transportation moves freight across modes — parcel, LTL, FTL, rail, ocean, air — trading speed against cost, with routing, carrier selection, and freight terms governing the details.",
+        "why": "Freight is often a top-three cost line. Transportation knowledge spans daily ops work and network design roles alike.",
+        "learn": [
+          "Compare 5 modes on speed, cost, and use cases",
+          "Explain parcel vs LTL vs FTL with rate examples",
+          "Read a basic freight quote: accessorials, fuel, terms",
+          "Plan a cost-mode trade-off for a 2-day vs 7-day promise"
+        ],
+        "skills": [
+          "Transportation management",
+          "Cost analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Transportation, Storage, and Distribution Managers",
+            "url": "https://www.onetonline.org/link/summary/11-3071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3071.00"
+        ],
+        "tasks": [
+          "Direct transportation, distribution, and storage activities in accordance with organizational policies and applicable government laws or regulations."
+        ]
+      }
+    },
+    {
+      "id": "sc-incoterms",
+      "type": "node",
+      "label": "Incoterms & Trade",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Incoterms are the ICC's standardized three-letter terms (EXW, FOB, CIF, DDP and others) defining who pays for and risks each leg of an international shipment.",
+        "why": "Cross-border buying and selling run on Incoterms; misreading one term can shift thousands in freight cost and risk to the wrong party.",
+        "learn": [
+          "Learn the 11 current Incoterms and group them by transport mode",
+          "Explain who arranges carriage and insurance under FOB vs CIF vs DDP",
+          "Trace cost/risk transfer points on a shipment timeline",
+          "Pick the right term for a sample import scenario"
+        ],
+        "skills": [
+          "International trade",
+          "Contract literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "International Chamber of Commerce — Incoterms rules",
+            "url": "https://iccwbo.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-systems",
+      "type": "node",
+      "label": "ERP, WMS & EDI",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Supply chains run on systems: ERP (SAP, Oracle, Dynamics) for planning and transactions, WMS for warehouse execution, TMS for freight, and EDI for system-to-system documents like POs and ASNs.",
+        "why": "Every planning role touches these systems; data and implementation skills (key user, super user) are a well-paid specialization.",
+        "learn": [
+          "Map which master data lives where (item, BOM, vendor, customer)",
+          "Trace an order through ERP → WMS → carrier → invoice",
+          "Explain what EDI documents 850, 856, 810 do",
+          "Practice as a 'key user': write one test script for a system change"
+        ],
+        "skills": [
+          "ERP software",
+          "Data literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Logisticians",
+            "url": "https://www.onetonline.org/link/summary/13-1081.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-kpis",
+      "type": "node",
+      "label": "Supply Chain KPIs",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The scoreboard: OTIF (on-time-in-full), fill rate, forecast accuracy, inventory turns, days of supply, perfect order rate, cost-to-serve, and cash-to-cash cycle time.",
+        "why": "KPIs structure every review meeting. Choosing and defending the right ones is how analysts get promoted.",
+        "learn": [
+          "Define and compute OTIF, fill rate, and turns",
+          "Build a one-page KPI dashboard from sample data",
+          "Explain the service-vs-inventory tension behind two KPIs",
+          "Propose one corrective action for a failing KPI"
+        ],
+        "skills": [
+          "Performance measurement",
+          "Data analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Supply chain body of knowledge",
+            "url": "https://www.ascm.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1081.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-risk",
+      "type": "node",
+      "label": "Risk & Resilience",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Resilience planning anticipates disruption: supplier risk scoring, dual sourcing, strategic buffers, nearshoring, and playbooks for port closures, shortages, and demand shocks.",
+        "why": "Post-pandemic, resilience budgets are real. Engineers of resilience — planners who price the buffer — have become strategic hires.",
+        "learn": [
+          "Score 5 suppliers on single-source and geopolitical risk",
+          "Price the trade-off: buffer inventory vs expedite freight vs lost sales",
+          "Write a disruption playbook for one scenario",
+          "Explain how nearshoring changes total landed cost"
+        ],
+        "skills": [
+          "Risk management",
+          "Scenario planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Supply chain body of knowledge",
+            "url": "https://www.ascm.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-green",
+      "type": "node",
+      "label": "Sustainable Logistics",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Green supply chain reduces freight emissions, packaging, and waste: mode shifting, load consolidation, reusable packaging, circular flows, and ESG reporting basics.",
+        "why": "Regulation and customer pressure are pushing sustainability into every freight and sourcing decision — an emerging specialty with room to lead.",
+        "learn": [
+          "Estimate the emissions difference between air and ocean for one shipment",
+          "List 5 packaging waste reductions with cost impact",
+          "Understand Scope 1/2/3 emissions at a high level",
+          "Draft a greener-routing proposal with trade-offs"
+        ],
+        "skills": [
+          "Sustainability analysis",
+          "Cost-benefit analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASCM — Supply chain body of knowledge",
+            "url": "https://www.ascm.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-omnichannel",
+      "type": "node",
+      "label": "Retail & Omnichannel",
+      "variant": "muted",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Modern retail fulfills from everywhere: stores as mini-DCs, ship-from-store, buy-online-pickup-in-store (BOPIS), and marketplace returns — each adding planning and reverse-logistics complexity.",
+        "why": "Retail supply chain jobs are numerous and growing; omnichannel literacy is required in nearly all of them.",
+        "learn": [
+          "Compare fulfillment economics: ship-from-DC vs ship-from-store vs BOPIS",
+          "Explain reverse logistics and its cost drivers",
+          "Design returns handling for an online apparel brand",
+          "Plan labor for a Black Friday BOPIS surge"
+        ],
+        "skills": [
+          "Retail operations",
+          "Reverse logistics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Logisticians",
+            "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-career",
+      "type": "node",
+      "label": "Career Paths",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Typical ladder: analyst/coordinator → planner or logistics specialist → manager (planning, transportation, warehouse) → director of supply chain → VP/CSCO. Procurement and consulting are strong lateral tracks.",
+        "why": "Supply chain leadership is increasingly a board-visible career. Knowing the ladder shapes which certification and which first job to target.",
+        "learn": [
+          "Scan 20 postings in your market and cluster the titles",
+          "Choose a first anchor: planning, logistics, or procurement",
+          "Map which certification each track values most",
+          "Draft a 5-year goal and the two roles bridging to it"
+        ],
+        "skills": [
+          "Career planning",
+          "Job market analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Logisticians",
+            "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Transportation, Storage, and Distribution Managers",
+            "url": "https://www.onetonline.org/link/summary/11-3071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3071.00",
+          "13-1081.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-cpim",
+      "type": "node",
+      "label": "CPIM (ASCM)",
+      "variant": "accent",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Certified in Planning and Inventory Management credential (ASCM, formerly APICS) is the standard for production planning, forecasting, and inventory roles — two exam modules covering the planning body of knowledge.",
+        "why": "CPIM is the most requested certification for planner and production-control jobs; it directly teaches the daily math of the role.",
+        "learn": [
+          "Review CPIM exam structure and topic weights",
+          "Study through ASCM's official learning system",
+          "Practice MRP, safety stock, and EOQ problems until fluent",
+          "Check your local job postings: how often is CPIM listed?"
+        ],
+        "skills": [
+          "Materials planning",
+          "Inventory management"
+        ],
+        "certs": [
+          {
+            "name": "CPIM",
+            "issuer": "ASCM (Association for Supply Chain Management)",
+            "note": "Pass the two-part CPIM exam (learning modules plus exam preparation); credential requires ongoing maintenance points."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ASCM — CPIM certification",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-cscp",
+      "type": "node",
+      "label": "CSCP (ASCM)",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Certified Supply Chain Professional (ASCM) covers the full end-to-end chain — supplier relationships through customer delivery — at a broader, more strategic level than CPIM.",
+        "why": "CSCP suits people targeting network-level roles, consulting, or management; it signals whole-chain literacy.",
+        "learn": [
+          "Compare CSCP scope with CPIM scope",
+          "Review eligibility: degree and/or experience requirements",
+          "Study the technology and integration sections carefully (heavily tested)",
+          "Decide CPIM-first vs CSCP-first based on your anchor role"
+        ],
+        "skills": [
+          "End-to-end supply chain knowledge",
+          "Strategic planning"
+        ],
+        "certs": [
+          {
+            "name": "CSCP",
+            "issuer": "ASCM (Association for Supply Chain Management)",
+            "note": "Meet the eligibility rule (degree and/or years of professional experience), pass the exam; maintenance points required."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ASCM — CSCP certification",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-cltd",
+      "type": "node",
+      "label": "CLTD (ASCM)",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Certified in Logistics, Transportation and Distribution (ASCM) credential specializes in warehouse, freight, and distribution knowledge — the operational side of the chain.",
+        "why": "CLTD is the recognized credential for DC management and transportation careers, complementing planning-focused CPIM.",
+        "learn": [
+          "Review CLTD domains: logistics strategy, warehouse, transport, distribution",
+          "Pair study with DC floor exposure if possible",
+          "Compare CLTD vs CPIM for your target track",
+          "Check exam logistics and maintenance requirements"
+        ],
+        "skills": [
+          "Logistics management",
+          "Transportation management"
+        ],
+        "certs": [
+          {
+            "name": "CLTD",
+            "issuer": "ASCM (Association for Supply Chain Management)",
+            "note": "Pass the CLTD exam covering logistics, transportation, and distribution; maintenance points required."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ASCM — CLTD certification",
+            "url": "https://www.ascm.org/ascm-insights/certifications",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "11-3071.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-sixsigma",
+      "type": "node",
+      "label": "Six Sigma (ASQ)",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "ASQ's Certified Six Sigma Green Belt (and Yellow/Black Belt) credentials validate the DMAIC improvement method, statistics, and process control — widely respected in operations and quality roles.",
+        "why": "A Green Belt with a real project story is one of the strongest differentiators for early-career operations and continuous-improvement roles.",
+        "learn": [
+          "Take ASQ's free Yellow Belt body-of-knowledge overview",
+          "Complete one small DMAIC project at work or on simulated data",
+          "Learn the core statistics: variation, capability, sampling",
+          "Decide Green Belt vs Black Belt timing"
+        ],
+        "skills": [
+          "Process improvement",
+          "Statistical literacy"
+        ],
+        "certs": [
+          {
+            "name": "Six Sigma Green Belt",
+            "issuer": "American Society for Quality (ASQ)",
+            "note": "Pass the exam; Green Belt certification expects familiarity with DMAIC projects (ASQ requires work experience for several quality credentials — check current rules)."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ASQ — Six Sigma certifications",
+            "url": "https://asq.org/cert/six-sigma-green-belt",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sc-analyst",
+      "type": "node",
+      "label": "First Job Playbook",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Entry doors include demand planner, inventory analyst, logistics coordinator, buyer assistant, and production scheduler. They reward Excel, reliability, and calm communication under expediting pressure.",
+        "why": "Breaking in is about proof: a portfolio of small analyses (stockout post-mortem, freight comparison, forecast accuracy tracker) beats generic resumes.",
+        "learn": [
+          "Build 3 portfolio artifacts: forecast tracker, freight cost comparison, KPI one-pager",
+          "Practice the classic interview case: 'demand doubled, what do you do?'",
+          "Learn to talk expediting without panic in interviews",
+          "Target distributors, 3PLs, and mid-size manufacturers — highest entry volume"
+        ],
+        "skills": [
+          "Portfolio building",
+          "Interview preparation",
+          "Excel modeling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Logisticians",
+            "url": "https://www.onetonline.org/link/summary/13-1081.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Logisticians",
+            "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1081.00",
+          "43-5061.00"
+        ]
+      }
+    },
+    {
+      "id": "sc-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sc-g-plan",
+      "type": "group",
+      "label": "PLAN & SOURCE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sc-g-make",
+      "type": "group",
+      "label": "MAKE & DELIVER",
+      "x": 36,
+      "y": 490,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sc-g-systems",
+      "type": "group",
+      "label": "TRADE, SYSTEMS & KPI",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sc-g-resilience",
+      "type": "group",
+      "label": "RISK & SUSTAINABILITY",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sc-g-career",
+      "type": "group",
+      "label": "CAREERS & CERTIFICATIONS",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "sc-overview",
+      "to": "sc-flow"
+    },
+    {
+      "from": "sc-flow",
+      "to": "sc-excel",
+      "dashed": true
+    },
+    {
+      "from": "sc-overview",
+      "to": "sc-domains",
+      "dashed": true
+    },
+    {
+      "from": "sc-flow",
+      "to": "sc-forecast"
+    },
+    {
+      "from": "sc-forecast",
+      "to": "sc-sop"
+    },
+    {
+      "from": "sc-sop",
+      "to": "sc-capacity"
+    },
+    {
+      "from": "sc-flow",
+      "to": "sc-procure"
+    },
+    {
+      "from": "sc-procure",
+      "to": "sc-supplier"
+    },
+    {
+      "from": "sc-supplier",
+      "to": "sc-contracts"
+    },
+    {
+      "from": "sc-capacity",
+      "to": "sc-production"
+    },
+    {
+      "from": "sc-contracts",
+      "to": "sc-production",
+      "dashed": true
+    },
+    {
+      "from": "sc-production",
+      "to": "sc-lean"
+    },
+    {
+      "from": "sc-production",
+      "to": "sc-quality"
+    },
+    {
+      "from": "sc-production",
+      "to": "sc-inventory"
+    },
+    {
+      "from": "sc-inventory",
+      "to": "sc-safetystock"
+    },
+    {
+      "from": "sc-production",
+      "to": "sc-warehouse"
+    },
+    {
+      "from": "sc-warehouse",
+      "to": "sc-transport"
+    },
+    {
+      "from": "sc-transport",
+      "to": "sc-incoterms"
+    },
+    {
+      "from": "sc-warehouse",
+      "to": "sc-systems",
+      "dashed": true
+    },
+    {
+      "from": "sc-transport",
+      "to": "sc-kpis"
+    },
+    {
+      "from": "sc-kpis",
+      "to": "sc-risk"
+    },
+    {
+      "from": "sc-transport",
+      "to": "sc-green",
+      "dashed": true
+    },
+    {
+      "from": "sc-inventory",
+      "to": "sc-omnichannel",
+      "dashed": true
+    },
+    {
+      "from": "sc-kpis",
+      "to": "sc-career"
+    },
+    {
+      "from": "sc-risk",
+      "to": "sc-career",
+      "dashed": true
+    },
+    {
+      "from": "sc-career",
+      "to": "sc-cpim"
+    },
+    {
+      "from": "sc-career",
+      "to": "sc-cscp",
+      "dashed": true
+    },
+    {
+      "from": "sc-career",
+      "to": "sc-cltd",
+      "dashed": true
+    },
+    {
+      "from": "sc-quality",
+      "to": "sc-sixsigma"
+    },
+    {
+      "from": "sc-career",
+      "to": "sc-analyst"
+    }
+  ]
+}

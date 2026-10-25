@@ -1,0 +1,1361 @@
+{
+  "slug": "marketing",
+  "title": "Digital Marketing",
+  "tagline": "From marketing fundamentals to SEO, paid media, lifecycle email, and analytics — grow demand for a living.",
+  "summary": "Digital marketing turns attention into revenue. This roadmap covers the fundamentals (positioning, consumer behavior, copywriting), the acquisition channels (SEO, paid search and social, email lifecycle), the measurement layer (GA4, funnel metrics, experimentation), and the certifications employers recognize.",
+  "category": "Marketing & Communications",
+  "color": "#f472b6",
+  "icon": "megaphone",
+  "onetRoles": [
+    "11-2021.00",
+    "13-1161.00",
+    "27-3031.00"
+  ],
+  "jelCodes": [
+    "M31",
+    "M37"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Marketing Managers (11-2021.00)",
+      "url": "https://www.onetonline.org/link/summary/11-2021.00"
+    },
+    {
+      "label": "BLS OOH — Advertising, Promotions, and Marketing Managers",
+      "url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm"
+    },
+    {
+      "label": "Google Skillshop",
+      "url": "https://skillshop.withgoogle.com/"
+    },
+    {
+      "label": "HubSpot Academy",
+      "url": "https://academy.hubspot.com/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mkt-foundations",
+      "type": "node",
+      "label": "Marketing Foundations",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Marketing creates and captures demand: understanding a market, choosing which customers to serve (segmentation, targeting, positioning), and building the offer (product, price, place, promotion).",
+        "why": "Every tactical channel on this map only works when aimed at the right audience with the right message. Fundamentals are what separate marketers from tool operators.",
+        "learn": [
+          "Explain STP: segmentation, targeting, positioning",
+          "Map the 4Ps for a product you use daily",
+          "Write a one-sentence value proposition for that product",
+          "Read the BLS profile of marketing managers to see the career shape"
+        ],
+        "skills": [
+          "Marketing strategy",
+          "Market analysis",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Advertising, Promotions, and Marketing Managers",
+            "url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Marketing Managers",
+            "url": "https://www.onetonline.org/link/summary/11-2021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2021.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-consumer",
+      "type": "node",
+      "label": "Consumer Behavior",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Consumer behavior studies how people decide what to buy: needs recognition, information search, alternatives, purchase, and post-purchase evaluation — filtered by psychology and context.",
+        "why": "Messaging that ignores how people actually decide gets ignored. Behavior insight drives copy, offers, and channel choice.",
+        "learn": [
+          "Outline the five-stage consumer decision process",
+          "Explain three cognitive biases that affect buying (anchoring, social proof, loss aversion)",
+          "Interview 5 people about their last purchase in your category",
+          "Turn one insight into a message hypothesis"
+        ],
+        "skills": [
+          "Consumer insight",
+          "Research",
+          "Psychology of persuasion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Marketing",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-1161.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-brand",
+      "type": "node",
+      "label": "Branding Basics",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A brand is the sum of expectations attached to a name: promise, personality, voice, and visual identity. Branding makes choices consistent across touchpoints.",
+        "why": "Performance channels rent attention; brand compounds it. Even performance marketers need brand literacy to write on-voice ads.",
+        "learn": [
+          "Draft a mini brand guide: promise, tone, do/don't words",
+          "Audit two competitors' visual and verbal identity",
+          "Explain brand equity in plain language",
+          "Rewrite one ad twice: once on-brand, once off"
+        ],
+        "skills": [
+          "Brand management",
+          "Communication",
+          "Design literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Content Marketing (includes brand basics)",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-copy",
+      "type": "node",
+      "label": "Copywriting",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Copywriting is persuasive writing with a job to do: headlines that earn attention, body copy that builds desire, and calls to action that convert.",
+        "why": "Copy is the last mile of every channel — ads, landing pages, emails, posts. Strong writers are promoted fastest in marketing teams.",
+        "learn": [
+          "Write 10 headline variants for one offer (benefit, question, how-to, proof)",
+          "Practice the PAS structure: problem, agitate, solve",
+          "Rewrite a landing page hero section in half the words",
+          "Collect swipe-file examples you admire and annotate why they work"
+        ],
+        "skills": [
+          "Copywriting",
+          "Editing",
+          "Persuasion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — free marketing courses",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-content",
+      "type": "node",
+      "label": "Content Strategy",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Content strategy plans what to publish, for whom, in which format, and to what end: audience needs mapped to business goals, organized in a calendar with owners and KPIs.",
+        "why": "Content compounds — it is the cheapest durable acquisition channel when aimed at real questions your audience asks.",
+        "learn": [
+          "List 20 questions your target audience actually asks",
+          "Map content types to funnel stages (awareness → decision)",
+          "Build a 4-week content calendar with owners and KPIs",
+          "Define what 'working' means: organic traffic, leads, or shares"
+        ],
+        "skills": [
+          "Content strategy",
+          "Editorial planning",
+          "Audience research"
+        ],
+        "certs": [
+          {
+            "name": "HubSpot Content Marketing Certification",
+            "issuer": "HubSpot Academy",
+            "note": "Free online course and exam covering content strategy, creation, and repurposing."
+          }
+        ],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Content Marketing Certification",
+            "url": "https://academy.hubspot.com/courses/content-marketing",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-seo",
+      "type": "node",
+      "label": "SEO Fundamentals",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Search engine optimization earns organic traffic by making pages the best answer for searched questions: relevance, depth, site quality, and authority all matter.",
+        "why": "SEO is the highest-ROI durable channel for most businesses, and it teaches how search engines and users both read content.",
+        "learn": [
+          "Read Google Search Central's SEO starter guide",
+          "Explain the difference between paid and organic results",
+          "Audit a page: title, headings, internal links, intent match",
+          "Track rankings and impressions for 5 queries over 30 days"
+        ],
+        "skills": [
+          "Search engine optimization",
+          "Content optimization"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Search Central — SEO Starter Guide",
+            "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-keyword",
+      "type": "node",
+      "label": "Keyword Research",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Keyword research finds what your audience searches and how hard it is to rank: volume, difficulty, intent, and topical clusters — turning search demand into a content plan.",
+        "why": "Keywords align content with real demand. Without them, content calendars are guesses.",
+        "learn": [
+          "Build a seed list of 30 queries from customer language",
+          "Use a free keyword tool to add volume and difficulty data",
+          "Cluster keywords by intent: informational, commercial, transactional",
+          "Pick one cluster and outline a pillar page plus 3 supporting articles"
+        ],
+        "skills": [
+          "Keyword research",
+          "Search intent analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Ads — Keyword Planner (free with an account)",
+            "url": "https://ads.google.com/home/tools/keyword-planner/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-onpage",
+      "type": "node",
+      "label": "On-Page Optimization",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "On-page SEO aligns a page's title, headings, content, internal links, and metadata with the searcher's intent while keeping the writing genuinely useful.",
+        "why": "On-page work is the fastest SEO win available to beginners and the core deliverable in most entry-level SEO roles.",
+        "learn": [
+          "Rewrite a title tag and meta description for CTR",
+          "Structure an article with H2/H3s that mirror search intent",
+          "Add 5 sensible internal links with descriptive anchors",
+          "Explain why keyword stuffing backfires"
+        ],
+        "skills": [
+          "On-page SEO",
+          "Copywriting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Search Central — SEO Starter Guide",
+            "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-technical",
+      "type": "node",
+      "label": "Technical SEO",
+      "variant": "muted",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Technical SEO covers crawlability and indexation: site structure, sitemaps, canonical tags, redirects, page speed, and structured data.",
+        "why": "Technically broken sites can't rank regardless of content quality. Enough technical literacy to diagnose issues makes you the most useful person in the room.",
+        "learn": [
+          "Check indexation with site: and URL inspection tools",
+          "Interpret a crawl report: errors, redirects, orphan pages",
+          "Understand canonical tags and duplicate content",
+          "Run a Core Web Vitals check and list two fixes"
+        ],
+        "skills": [
+          "Technical SEO",
+          "Web analytics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Search Central — Documentation",
+            "url": "https://developers.google.com/search",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-linkbuilding",
+      "type": "node",
+      "label": "Links & Authority",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Links from other sites act as votes of confidence and remain a core ranking input. Ethical link earning comes from genuinely citable assets: original data, tools, and strong guides.",
+        "why": "Authority gaps explain why better-written pages sometimes lose. Knowing how earning works keeps you out of spam tactics that get sites penalized.",
+        "learn": [
+          "Explain why links influence rankings (and Google's stance on schemes)",
+          "List 5 link-earnable asset ideas for one niche",
+          "Analyze which pages earn links in your niche and why",
+          "Practice a digital-PR pitch email"
+        ],
+        "skills": [
+          "Outreach",
+          "Content promotion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Search Central — Spam policies",
+            "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-production",
+      "type": "node",
+      "label": "Content Production",
+      "x": 620,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Production turns plans into published assets: briefing writers, editing for accuracy and voice, formatting for scanability, adding visuals, and repurposing one piece into many.",
+        "why": "Strategy without reliable production is a deck. Editors and content producers are the operational backbone of content teams.",
+        "learn": [
+          "Write a one-page content brief (audience, angle, outline, CTA)",
+          "Edit a 1,000-word draft to half length without losing meaning",
+          "Repurpose one article into 3 social posts and 1 email",
+          "Build a simple QA checklist: facts, links, voice, CTA"
+        ],
+        "skills": [
+          "Editing",
+          "Content production",
+          "Project coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Content Marketing Certification",
+            "url": "https://academy.hubspot.com/courses/content-marketing",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-ppc",
+      "type": "node",
+      "label": "Search Ads (PPC)",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Paid search places ads against queries: campaign structure, keyword match types, bids and budgets, ad copy, and quality-driven optimization in Google Ads or Microsoft Ads.",
+        "why": "PPC delivers demand immediately and is the most measurable channel — the standard first paid channel for learners and a job family of its own.",
+        "learn": [
+          "Explain how the ad auction and Quality Score work",
+          "Structure a campaign: account → campaigns → ad groups → keywords",
+          "Write 3 RSA assets matched to search intent",
+          "Set a budget and interpret CPC, CTR, and CPA after a test"
+        ],
+        "skills": [
+          "Paid search",
+          "Campaign management",
+          "Bid management"
+        ],
+        "certs": [
+          {
+            "name": "Google Ads Search Certification",
+            "issuer": "Google (Skillshop)",
+            "note": "Free online assessment in Google Skillshop covering search campaign setup, bidding, and measurement."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Google Skillshop — Google Ads",
+            "url": "https://skillshop.withgoogle.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-social",
+      "type": "node",
+      "label": "Organic Social",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Organic social builds audience and brand on platforms people actually use: platform-native formats, posting cadence, community interaction, and social listening.",
+        "why": "Social is where brands get discovered and where personality shows. Community management skills transfer into brand, content, and community careers.",
+        "learn": [
+          "Pick 2 platforms and study their top native formats",
+          "Write a 2-week posting calendar mixing value, proof, and personality",
+          "Draft community-reply guidelines (voice, escalation, SLAs)",
+          "Run a 30-day experiment and report engagement by format"
+        ],
+        "skills": [
+          "Social media marketing",
+          "Community management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Social Media Marketing Certification",
+            "url": "https://academy.hubspot.com/courses/social-media",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "27-3031.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-paid-social",
+      "type": "node",
+      "label": "Paid Social Ads",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Paid social uses platform targeting and creative testing on Meta, LinkedIn, TikTok and peers: audiences, placements, budgets, and creative iteration against CPM/CTR/CAC.",
+        "why": "Paid social is often the largest line in acquisition budgets; creative testing discipline is the difference between burning money and scaling.",
+        "learn": [
+          "Explain how platform ad auctions and audience signals work",
+          "Build a campaign with 3 creative variants and one variable at a time",
+          "Read the key metrics: CPM, CTR, hook rate, CPA",
+          "Write a test-and-iterate plan for the next 4 weeks"
+        ],
+        "skills": [
+          "Paid social",
+          "Creative testing",
+          "Media buying"
+        ],
+        "certs": [
+          {
+            "name": "Meta Certified Digital Marketing Associate",
+            "issuer": "Meta Blueprint",
+            "note": "Paid proctored exam covering campaign setup, creative, and reporting in Meta's ad tools; prep materials are free."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Meta Blueprint — Learn marketing with Meta",
+            "url": "https://www.facebook.com/business/learn",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-display",
+      "type": "node",
+      "label": "Display & Programmatic",
+      "variant": "muted",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Display and programmatic buying place banner and video ads across the web through automated auctions, typically used for reach and retargeting.",
+        "why": "Understanding programmatic vocabulary (impressions, viewability, frequency, CPM) matters for brand and retargeting work — even if specialists run the trades.",
+        "learn": [
+          "Explain the programmatic supply chain in plain words",
+          "Compare CPM vs CPC vs CPA pricing",
+          "Design a retargeting sequence with frequency caps",
+          "Assess viewability and brand-safety basics"
+        ],
+        "skills": [
+          "Programmatic advertising",
+          "Media planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Skillshop — Display and video",
+            "url": "https://skillshop.withgoogle.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-email",
+      "type": "node",
+      "label": "Email Marketing",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Email is owned media: campaigns and automated flows (welcome, nurture, transactional) built on list growth, segmentation, deliverability, and permission-based consent.",
+        "why": "Email routinely produces the highest ROI in marketing because you own the audience — no algorithm changes the rules mid-quarter.",
+        "learn": [
+          "Design a welcome flow: 3 emails over 7 days",
+          "Segment a list by behavior, not just demographics",
+          "Learn deliverability basics: SPF/DKIM exist, why they matter, avoid spam traps",
+          "A/B test a subject line and report open/click results honestly"
+        ],
+        "skills": [
+          "Email marketing",
+          "Marketing automation",
+          "Copywriting"
+        ],
+        "certs": [
+          {
+            "name": "HubSpot Email Marketing Certification",
+            "issuer": "HubSpot Academy",
+            "note": "Free course and exam on email strategy, segmentation, deliverability, and automation."
+          }
+        ],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Email Marketing Certification",
+            "url": "https://academy.hubspot.com/courses/email-marketing",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-crm",
+      "type": "node",
+      "label": "CRM & Lifecycle",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Lifecycle marketing maps messages to the customer journey — activation, engagement, retention, winback — orchestrated through a CRM (HubSpot, Salesforce, Mailchimp-class tools).",
+        "why": "Retention economics beat acquisition economics in most mature businesses; lifecycle skills turn a database into recurring revenue.",
+        "learn": [
+          "Define lifecycle stages and one goal per stage",
+          "Map 5 automated flows to stages (welcome, abandon, renewal, winback, upsell)",
+          "Understand CRM objects: contacts, deals, companies",
+          "Compute email revenue per send and LTV trend"
+        ],
+        "skills": [
+          "Lifecycle marketing",
+          "CRM software",
+          "Customer retention"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — free CRM courses",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-influencer",
+      "type": "node",
+      "label": "Influencer & Affiliate",
+      "variant": "muted",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Partner marketing pays people or publishers for influence: creator collaborations, affiliate commissions, and the tracking, contracts, and fraud checks behind them.",
+        "why": "Creator channels increasingly outperform ads among younger audiences; affiliate programs are a standard growth lever for e-commerce.",
+        "learn": [
+          "Compare paid posts vs affiliate commission vs gifting",
+          "Vet a creator: audience overlap, engagement authenticity, brand fit",
+          "Draft a one-page collaboration brief with deliverables",
+          "Understand attribution links, promo codes, and tracking pitfalls"
+        ],
+        "skills": [
+          "Partnership management",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Meta Blueprint — Learn marketing with Meta",
+            "url": "https://www.facebook.com/business/learn",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-ga4",
+      "type": "node",
+      "label": "Analytics (GA4)",
+      "x": 60,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Google Analytics 4 measures events across web and app: properties, events and parameters, reports, explorations, and the basics of consent and privacy compliance.",
+        "why": "Analytics literacy underpins every channel decision, and GA4 certification is a common entry-level hiring screen.",
+        "learn": [
+          "Understand the event-based data model (events, parameters, users)",
+          "Navigate standard reports: acquisition, engagement, retention",
+          "Build one Exploration report (funnel or path)",
+          "Check your site's consent and tagging setup"
+        ],
+        "skills": [
+          "Web analytics",
+          "Data interpretation"
+        ],
+        "certs": [
+          {
+            "name": "Google Analytics 4 Certification",
+            "issuer": "Google (Skillshop)",
+            "note": "Free assessment covering GA4 setup, reports, and measurement planning."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Google Analytics — product and training",
+            "url": "https://analytics.google.com/",
+            "kind": "tool"
+          },
+          {
+            "title": "Google Skillshop — Analytics",
+            "url": "https://skillshop.withgoogle.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-metrics",
+      "type": "node",
+      "label": "Metrics & Funnels",
+      "x": 340,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Marketing lives on a small set of numbers: CAC, LTV, ROAS, conversion rate, and the funnel from impression → click → lead → customer. Choosing metrics that match decisions is the skill.",
+        "why": "Vanity metrics get budgets cut. Marketers who connect spend to revenue become the people who control budgets.",
+        "learn": [
+          "Define CAC, LTV, ROAS, MQL/SQL and compute each from sample data",
+          "Build a full-funnel spreadsheet model with realistic conversion rates",
+          "Explain LTV:CAC and a healthy target ratio",
+          "Diagnose a funnel: where do most users drop, and what would you test?"
+        ],
+        "skills": [
+          "Marketing analytics",
+          "Funnel analysis",
+          "Business acumen"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Think with Google — marketing research and insights",
+            "url": "https://www.thinkwithgoogle.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1161.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-ab",
+      "type": "node",
+      "label": "A/B Testing",
+      "x": 620,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A/B testing compares variants under controlled conditions: hypothesis, minimum sample size, one change at a time, and reading statistical significance honestly.",
+        "why": "Experimentation replaces opinion with evidence and compounds wins across pages, emails, and ads — it is the scientific core of growth marketing.",
+        "learn": [
+          "Write a test hypothesis: change, expected effect, metric",
+          "Estimate required sample size before launching",
+          "Interpret significance and confidence intervals correctly",
+          "Document 3 test results including the losers"
+        ],
+        "skills": [
+          "Experimentation",
+          "Statistical literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Think with Google — marketing research and insights",
+            "url": "https://www.thinkwithgoogle.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-cro",
+      "type": "node",
+      "label": "Conversion Optimization",
+      "x": 900,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "CRO raises the share of visitors who act: friction analysis, page structure, social proof, forms, and page-speed — prioritized by expected impact.",
+        "why": "Doubling conversion is often cheaper than doubling traffic; CRO multiplies the value of every channel on this map.",
+        "learn": [
+          "Audit a landing page against a 15-point friction checklist",
+          "Prioritize tests with ICE (impact, confidence, ease) scoring",
+          "Reduce a form from 7 fields to 3 and predict the effect",
+          "Pair every CRO change with an analytics check"
+        ],
+        "skills": [
+          "Conversion rate optimization",
+          "UX awareness",
+          "Copywriting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Skillshop — Analytics",
+            "url": "https://skillshop.withgoogle.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-attribution",
+      "type": "node",
+      "label": "Attribution Basics",
+      "variant": "muted",
+      "x": 1180,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Attribution decides which touchpoints get credit for conversions: last-click, first-click, linear, time-decay, and data-driven models — each shaping budget differently.",
+        "why": "Budget fights are attribution fights. Understanding model bias makes you the calmest person in the room.",
+        "learn": [
+          "Compare last-click vs multi-touch on a sample journey",
+          "Explain why iOS privacy changes broke third-party tracking assumptions",
+          "Model one journey manually and assign credit three ways",
+          "Know what incrementality testing tries to solve"
+        ],
+        "skills": [
+          "Attribution analysis",
+          "Marketing analytics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Analytics — product and training",
+            "url": "https://analytics.google.com/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-positioning",
+      "type": "node",
+      "label": "Positioning & GTM",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Go-to-market strategy decides who the offer is for, why it wins, and how it launches: positioning statements, channel mix, launch plans, and pricing communication.",
+        "why": "GTM is where juniors become strategists. Product marketers — the GTM owners — are among the best-paid marketing ICs.",
+        "learn": [
+          "Write a positioning statement: for [who] who [need], [product] that [benefit], unlike [alternative]",
+          "Choose a channel mix with rationale and rough budget split",
+          "Plan a 6-week launch: assets, channels, owners, metrics",
+          "Run a post-mortem on a real product launch you observed"
+        ],
+        "skills": [
+          "Positioning",
+          "Go-to-market strategy",
+          "Cross-functional coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HBR — Marketing topic",
+            "url": "https://hbr.org/topic/subject/marketing",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2021.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-budget",
+      "type": "node",
+      "label": "Budget & Mix Planning",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Budget planning allocates spend across channels against targets: scenario modeling, pacing, efficiency thresholds, and the quarterly re-forecast conversation.",
+        "why": "Marketing managers are measured on efficient growth. Budget fluency is the line between executing campaigns and owning outcomes.",
+        "learn": [
+          "Build a 12-month channel budget with pacing",
+          "Model two scenarios: aggressive growth vs efficiency",
+          "Set kill/scale rules per channel in advance",
+          "Present a reallocation recommendation with projected CAC impact"
+        ],
+        "skills": [
+          "Budget management",
+          "Media planning",
+          "Forecasting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Advertising, Promotions, and Marketing Managers",
+            "url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2021.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-martech",
+      "type": "node",
+      "label": "Martech Stack",
+      "variant": "muted",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The marketing technology stack connects analytics, CRM, email, ads, and content tools; ops-minded marketers integrate them so data flows cleanly between systems.",
+        "why": "Marketing ops is a high-demand, well-paid specialization, and every modern marketing team needs someone who owns the plumbing.",
+        "learn": [
+          "Diagram a simple stack: site + analytics + CRM + email + ads",
+          "Explain how tracking (UTMs, pixels, server-side) connects systems",
+          "Map one integration and what breaks when it fails",
+          "Draft naming conventions for campaigns and assets"
+        ],
+        "skills": [
+          "Marketing technology",
+          "Systems integration"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — free courses",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-career",
+      "type": "node",
+      "label": "Marketing Careers",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Typical ladder: marketing coordinator/associate → specialist (SEO, paid, email, content) → manager → director/VP. Product marketing and marketing ops are common senior IC tracks; agencies offer faster breadth.",
+        "why": "Knowing the ladder and its pay-informing roles helps you choose a spike deliberately instead of drifting between channels.",
+        "learn": [
+          "Scan 20 real postings in your market and tally required skills",
+          "Pick a primary channel specialization and a secondary",
+          "Build a portfolio outline: 2 case studies with numbers",
+          "Set a 90-day learning plan for your chosen spike"
+        ],
+        "skills": [
+          "Career planning",
+          "Portfolio building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Advertising, Promotions, and Marketing Managers",
+            "url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Market Research Analysts and Marketing Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1161.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2021.00",
+          "13-1161.00"
+        ]
+      }
+    },
+    {
+      "id": "mkt-gcert",
+      "type": "node",
+      "label": "Google Ads & GA4 Certs",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Google's free Skillshop certifications cover Search, Display, Video, and Analytics 4. They are the most commonly requested credentials in digital marketing job posts.",
+        "why": "Certificates don't replace proof of work, but they clear HR screens and force you to learn the platforms end-to-end.",
+        "learn": [
+          "Complete the Google Ads Search certification",
+          "Complete the GA4 certification",
+          "Add certifications to LinkedIn with links",
+          "Pair each cert with a small real or practice campaign"
+        ],
+        "skills": [
+          "Paid search",
+          "Web analytics"
+        ],
+        "certs": [
+          {
+            "name": "Google Ads & GA4 Certifications",
+            "issuer": "Google Skillshop",
+            "note": "Free online assessments; retake allowed; valid for one year."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Google Skillshop",
+            "url": "https://skillshop.withgoogle.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-hubspot",
+      "type": "node",
+      "label": "HubSpot Certifications",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HubSpot Academy's free certifications (Inbound Marketing, Content Marketing, Email Marketing, Social Media) are well-recognized fundamentals courses with real exams.",
+        "why": "They teach a coherent methodology rather than tool trivia and are free — ideal early signals on a resume.",
+        "learn": [
+          "Complete the Inbound Marketing certification",
+          "Add one channel cert matching your spike (content, email, social)",
+          "Apply one framework from the course to a live project",
+          "Keep certificates current and linked on your profile"
+        ],
+        "skills": [
+          "Inbound marketing",
+          "Methodology"
+        ],
+        "certs": [
+          {
+            "name": "HubSpot Inbound Marketing Certification",
+            "issuer": "HubSpot Academy",
+            "note": "Free course and exam on attracting, engaging, and delighting customers; renewable annually."
+          }
+        ],
+        "resources": [
+          {
+            "title": "HubSpot Academy",
+            "url": "https://academy.hubspot.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-meta",
+      "type": "node",
+      "label": "Meta Blueprint",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Meta's Blueprint learning path covers Facebook and Instagram advertising, with a paid proctored exam (Meta Certified Digital Marketing Associate) validating hands-on platform skill.",
+        "why": "For paid-social-heavy roles in e-commerce and DTC, the Meta cert is the recognized platform credential.",
+        "learn": [
+          "Work through Blueprint's free e-learning modules",
+          "Practice in Meta Ads Manager with a test campaign",
+          "Take the associate exam when consistently comfortable in-platform",
+          "Check current exam pricing and format before booking"
+        ],
+        "skills": [
+          "Paid social",
+          "Media buying"
+        ],
+        "certs": [
+          {
+            "name": "Meta Certified Digital Marketing Associate",
+            "issuer": "Meta Blueprint",
+            "note": "Paid proctored exam; free prep courses available through Blueprint."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Meta Blueprint — Learn marketing with Meta",
+            "url": "https://www.facebook.com/business/learn",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-portfolio",
+      "type": "node",
+      "label": "Portfolio & Proof",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Marketing hiring rewards evidence: case studies with numbers (before/after), live assets, experiments documented including failures, and work samples matched to the target role.",
+        "why": "A portfolio with two honest case studies outperforms any certificate list — it shows judgment, not just coursework.",
+        "learn": [
+          "Write 2 case studies: situation, action, measurable result",
+          "Ship one real asset (site, campaign, or content series) end-to-end",
+          "Document one failed experiment and its lesson",
+          "Assemble a simple personal site or portfolio deck"
+        ],
+        "skills": [
+          "Case study writing",
+          "Self-promotion with evidence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — free courses",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-specialize",
+      "type": "node",
+      "label": "Specializations",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Senior marketing careers concentrate: SEO lead, paid media manager, lifecycle/CRM manager, product marketing manager, marketing analyst, brand manager, or marketing ops.",
+        "why": "Specialists compound faster than generalists; pick using your analytics from earlier stages — which channel did you enjoy enough to go deep on?",
+        "learn": [
+          "Interview one specialist in two different channels",
+          "Compare role demand and expectations in your market",
+          "Take on one specialist-shaped project this quarter",
+          "Revisit your 90-day plan and adjust"
+        ],
+        "skills": [
+          "Channel expertise",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Public Relations Specialists",
+            "url": "https://www.onetonline.org/link/summary/27-3031.00",
+            "kind": "guide"
+          },
+          {
+            "title": "Semrush Academy — free SEO/marketing courses",
+            "url": "https://www.semrush.com/academy/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "mkt-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "mkt-g-content",
+      "type": "group",
+      "label": "CONTENT & SEO",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "mkt-g-channels",
+      "type": "group",
+      "label": "PAID, SOCIAL & LIFECYCLE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "mkt-g-analytics",
+      "type": "group",
+      "label": "MEASURE & OPTIMIZE",
+      "x": 36,
+      "y": 700,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "mkt-g-strategy",
+      "type": "group",
+      "label": "STRATEGY",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "mkt-g-career",
+      "type": "group",
+      "label": "CAREERS & CERTIFICATIONS",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "mkt-foundations",
+      "to": "mkt-consumer"
+    },
+    {
+      "from": "mkt-foundations",
+      "to": "mkt-brand",
+      "dashed": true
+    },
+    {
+      "from": "mkt-foundations",
+      "to": "mkt-copy"
+    },
+    {
+      "from": "mkt-foundations",
+      "to": "mkt-content"
+    },
+    {
+      "from": "mkt-content",
+      "to": "mkt-seo"
+    },
+    {
+      "from": "mkt-seo",
+      "to": "mkt-keyword"
+    },
+    {
+      "from": "mkt-keyword",
+      "to": "mkt-onpage"
+    },
+    {
+      "from": "mkt-seo",
+      "to": "mkt-technical",
+      "dashed": true
+    },
+    {
+      "from": "mkt-keyword",
+      "to": "mkt-linkbuilding",
+      "dashed": true
+    },
+    {
+      "from": "mkt-content",
+      "to": "mkt-production"
+    },
+    {
+      "from": "mkt-keyword",
+      "to": "mkt-ppc"
+    },
+    {
+      "from": "mkt-production",
+      "to": "mkt-social"
+    },
+    {
+      "from": "mkt-social",
+      "to": "mkt-paid-social"
+    },
+    {
+      "from": "mkt-ppc",
+      "to": "mkt-display",
+      "dashed": true
+    },
+    {
+      "from": "mkt-content",
+      "to": "mkt-email"
+    },
+    {
+      "from": "mkt-email",
+      "to": "mkt-crm"
+    },
+    {
+      "from": "mkt-social",
+      "to": "mkt-influencer",
+      "dashed": true
+    },
+    {
+      "from": "mkt-ppc",
+      "to": "mkt-ga4"
+    },
+    {
+      "from": "mkt-email",
+      "to": "mkt-ga4",
+      "dashed": true
+    },
+    {
+      "from": "mkt-ga4",
+      "to": "mkt-metrics"
+    },
+    {
+      "from": "mkt-metrics",
+      "to": "mkt-ab"
+    },
+    {
+      "from": "mkt-ab",
+      "to": "mkt-cro"
+    },
+    {
+      "from": "mkt-metrics",
+      "to": "mkt-attribution",
+      "dashed": true
+    },
+    {
+      "from": "mkt-metrics",
+      "to": "mkt-positioning"
+    },
+    {
+      "from": "mkt-positioning",
+      "to": "mkt-budget"
+    },
+    {
+      "from": "mkt-budget",
+      "to": "mkt-martech",
+      "dashed": true
+    },
+    {
+      "from": "mkt-positioning",
+      "to": "mkt-career"
+    },
+    {
+      "from": "mkt-career",
+      "to": "mkt-gcert"
+    },
+    {
+      "from": "mkt-career",
+      "to": "mkt-hubspot",
+      "dashed": true
+    },
+    {
+      "from": "mkt-career",
+      "to": "mkt-meta",
+      "dashed": true
+    },
+    {
+      "from": "mkt-career",
+      "to": "mkt-portfolio"
+    },
+    {
+      "from": "mkt-career",
+      "to": "mkt-specialize",
+      "dashed": true
+    }
+  ]
+}

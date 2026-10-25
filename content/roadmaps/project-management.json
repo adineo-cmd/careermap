@@ -1,0 +1,1594 @@
+{
+  "slug": "project-management",
+  "title": "Project Management",
+  "tagline": "Plan, execute, and close projects in any industry — from first coordinator role to the PMO.",
+  "summary": "Project managers turn ideas into delivered outcomes: they define scope, build plans, lead cross-functional teams, and keep sponsors informed from kickoff to handover. This roadmap follows the full delivery lifecycle, predictive and agile, through the skills, tools, and certifications employers ask for. It ends with a career ladder from project coordinator to project manager, program manager, and PMO leadership.",
+  "category": "Business & Finance",
+  "color": "#60a5fa",
+  "icon": "clipboard",
+  "onetRoles": [
+    "13-1082.00",
+    "11-1021.00",
+    "13-1111.00"
+  ],
+  "jelCodes": [
+    "O22",
+    "M11"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Project Management Specialists (13-1082.00)",
+      "url": "https://www.onetonline.org/link/summary/13-1082.00"
+    },
+    {
+      "label": "O*NET — General and Operations Managers (11-1021.00)",
+      "url": "https://www.onetonline.org/link/summary/11-1021.00"
+    },
+    {
+      "label": "O*NET — Management Analysts (13-1111.00)",
+      "url": "https://www.onetonline.org/link/summary/13-1111.00"
+    },
+    {
+      "label": "BLS Occupational Outlook Handbook — Project Management Specialists",
+      "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm"
+    },
+    {
+      "label": "Project Management Institute (PMI)",
+      "url": "https://www.pmi.org"
+    },
+    {
+      "label": "The Scrum Guide",
+      "url": "https://scrumguides.org"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "pm-what-is",
+      "type": "node",
+      "label": "What Is a Project?",
+      "variant": "accent",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A project is temporary work with a defined start, end, and deliverable — unlike ongoing operations that repeat indefinitely. Project management applies knowledge, skills, tools, and techniques to deliver that work within constraints of scope, time, cost, and quality. Project roles exist in every industry: construction, healthcare, finance, government, events, and technology.",
+        "why": "Almost every organization runs initiatives that need someone to define, coordinate, and land them, which makes project work one of the most portable business careers.",
+        "learn": [
+          "Explain the difference between a project and ongoing operations using two examples from a workplace you know",
+          "Name the five process groups — initiating, planning, executing, monitoring and controlling, closing — and what happens in each",
+          "Identify three industries near you that hire project staff and one entry title used in each"
+        ],
+        "skills": [
+          "Active Listening",
+          "Critical Thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Project Management Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-lifecycle",
+      "type": "node",
+      "label": "Project Lifecycle",
+      "x": 620,
+      "y": 210,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Projects move through predictable phases: initiating, planning, executing, monitoring and controlling, and closing. The lifecycle tells you which decisions happen when — what gets approved at the start, what gets tracked mid-flight, and what gets handed over at the end. Formal methods add phase gates where sponsors decide whether to continue.",
+        "why": "Placing any task, document, or meeting in its lifecycle phase lets you anticipate what comes next instead of reacting to it.",
+        "learn": [
+          "Diagram a lifecycle for a project type you know, labeling the key deliverable produced in each phase",
+          "Explain what a phase gate reviews and who signs off on it",
+          "Map a real project currently underway to its lifecycle phase and name its next milestone"
+        ],
+        "skills": [
+          "Coordination",
+          "Monitoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          },
+          {
+            "title": "MIT OpenCourseWare — 1.040 Project Management",
+            "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-waterfall",
+      "type": "node",
+      "label": "Waterfall Model",
+      "x": 340,
+      "y": 310,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Waterfall (predictive) delivery fixes scope, schedule, and budget up front and runs phases in sequence, each completing before the next begins. It suits work with stable, well-understood requirements — construction, regulated implementations, hardware rollouts — where late change is expensive. Baselines, milestones, and stage gates are its core vocabulary.",
+        "why": "Organizations still run most capital and compliance work predictively, and predictive vocabulary remains the lingua franca of formal project management.",
+        "learn": [
+          "Sketch a waterfall plan for a small project with at least five sequential phases and milestone dates",
+          "Explain two conditions under which predictive delivery outperforms iterative delivery",
+          "Define baseline, milestone, and phase gate in one sentence each"
+        ],
+        "skills": [
+          "Monitoring",
+          "Time Management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "MIT OpenCourseWare — 1.040 Project Management",
+            "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/",
+            "kind": "course"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-agile-way",
+      "type": "node",
+      "label": "Agile Mindset",
+      "x": 900,
+      "y": 310,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Agile delivery assumes requirements will evolve: work proceeds in short iterations that produce usable increments, inspected and adapted frequently with customers. It began in software but now shapes marketing, HR, operations, and product work. The Agile Manifesto's four values anchor every agile method.",
+        "why": "Employers increasingly expect hybrid fluency — predictive rigor plus the ability to iterate when requirements are uncertain.",
+        "learn": [
+          "Summarize the four values of the Agile Manifesto and what each means for day-to-day project work",
+          "Explain iteration, increment, and backlog in plain language",
+          "Describe one situation where you would choose agile over waterfall, and why"
+        ],
+        "skills": [
+          "Complex Problem Solving",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "The Scrum Guide",
+            "url": "https://scrumguides.org",
+            "kind": "guide"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-charter",
+      "type": "node",
+      "label": "Project Charter",
+      "x": 620,
+      "y": 460,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The project charter formally authorizes a project. It states the objective, high-level scope, key milestones, main stakeholders, constraints, and the project manager's authority — usually in one or two pages signed by the sponsor. Writing it forces the sponsor to commit to what success means before money is spent.",
+        "why": "A clear charter prevents the most common failure mode: a team building the wrong thing competently. It is typically a project manager's first deliverable.",
+        "learn": [
+          "Draft a one-page charter for a real or realistic project, including objective, scope boundaries, sponsor, and success criteria",
+          "Distinguish the sponsor's role from the project manager's role in approving scope and funding",
+          "List three questions a charter must answer before detailed planning begins"
+        ],
+        "skills": [
+          "Writing",
+          "Judgment and Decision Making"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-stakeholders",
+      "type": "node",
+      "label": "Stakeholders & Comms",
+      "x": 340,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Stakeholder management identifies everyone who affects or is affected by the project, rates their influence and interest, and plans engagement for each. The communications plan then specifies which audience gets what information, in what format, and how often. Both are living documents, not kickoff paperwork.",
+        "why": "Projects fail politically as often as technically; unmanaged expectations resurface late as resistance, rework, or stalled decisions.",
+        "learn": [
+          "Build a stakeholder register with influence and interest ratings plus an engagement approach for each",
+          "Write a one-page communications plan specifying channel, cadence, and audience",
+          "Tailor the same status message for an executive sponsor and for a delivery team"
+        ],
+        "skills": [
+          "Active Listening",
+          "Speaking",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Communicate with key stakeholders to determine project requirements and objectives."
+        ]
+      }
+    },
+    {
+      "id": "pm-scope",
+      "type": "node",
+      "label": "Scope & WBS",
+      "x": 620,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Scope definition turns the charter into a boundary: what is included, what is explicitly excluded, and what done means. The work breakdown structure (WBS) decomposes that scope into a hierarchy of deliverables and work packages on which estimates, assignments, and change requests hang. A scope statement plus a WBS is the backbone of every plan that follows.",
+        "why": "Scope creep is the most cited cause of project overrun; a written boundary and WBS give every later decision a stable reference point.",
+        "learn": [
+          "Decompose a mid-size project into a three-level WBS with at least 15 work packages",
+          "Write inclusion and exclusion statements tight enough to prevent a real past scope dispute",
+          "Explain how a WBS differs from a task list and from a schedule"
+        ],
+        "skills": [
+          "Critical Thinking",
+          "Complex Problem Solving"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Identify project needs such as resources, staff, or finances by reviewing project objectives and schedules."
+        ]
+      }
+    },
+    {
+      "id": "pm-schedule",
+      "type": "node",
+      "label": "Scheduling",
+      "x": 620,
+      "y": 660,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Scheduling sequences WBS work into a timeline: estimating durations, mapping dependencies between tasks, finding the critical path, and setting milestones. The output is a Gantt chart or network diagram that shows which activities drive the end date and where float exists.",
+        "why": "Schedules turn intent into commitments; a project manager who can build and defend one earns credibility with both teams and sponsors.",
+        "learn": [
+          "Build a Gantt-style schedule for a ten-task project with dependencies and milestones",
+          "Identify the critical path in a small network diagram and explain its effect on the end date",
+          "Apply the 8/80 rule to check that work packages are sized sensibly"
+        ],
+        "skills": [
+          "Time Management",
+          "Critical Thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "MIT OpenCourseWare — 1.040 Project Management",
+            "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/",
+            "kind": "course"
+          },
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Plan, schedule, or coordinate project activities to meet deadlines."
+        ]
+      }
+    },
+    {
+      "id": "pm-budget",
+      "type": "node",
+      "label": "Budgeting & Cost",
+      "x": 900,
+      "y": 660,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Budgeting converts the WBS into cost estimates, adds contingency for identified risks, and sets a cost baseline approved by the sponsor. During delivery the project manager tracks actuals against baseline, forecasts variances early, and manages spend to the plan. Estimating techniques range from analogous (based on past projects) to bottom-up.",
+        "why": "Cost is the constraint sponsors watch most closely; disciplined estimating and variance tracking separate project managers from task trackers.",
+        "learn": [
+          "Produce a bottom-up estimate for a small project, separating labor, materials, and contingency",
+          "Explain the difference between estimate, budget, and actual, and calculate a simple cost variance",
+          "Apply two estimating techniques (analogous, parametric, or three-point) when little historical data exists"
+        ],
+        "skills": [
+          "Monitoring",
+          "Mathematics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — General and Operations Managers",
+            "url": "https://www.onetonline.org/link/summary/11-1021.00",
+            "kind": "guide"
+          },
+          {
+            "title": "MIT OpenCourseWare — 1.040 Project Management",
+            "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-1082.00",
+          "11-1021.00"
+        ],
+        "tasks": [
+          "Direct or coordinate financial or budget activities to fund operations, maximize investments, or increase efficiency."
+        ]
+      }
+    },
+    {
+      "id": "pm-risk",
+      "type": "node",
+      "label": "Risk Management",
+      "x": 620,
+      "y": 760,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Risk management surfaces uncertain events before they happen, rates each by probability and impact, and plans a response: avoid, transfer, mitigate, or accept. Every risk gets an owner and a trigger, and the register is reviewed on a cadence rather than written once and filed. Issues, risks, and assumptions are tracked separately.",
+        "why": "Every plan is a prediction; project managers who surface uncertainty early convert surprises into decisions, and sponsors notice.",
+        "learn": [
+          "Run a risk identification session and capture at least ten risks with probability and impact ratings",
+          "Write response plans for the top three risks, each with a named owner and a trigger",
+          "Distinguish issue, risk, and assumption in project documentation"
+        ],
+        "skills": [
+          "Complex Problem Solving",
+          "Judgment and Decision Making"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-team",
+      "type": "node",
+      "label": "Leading Teams",
+      "x": 620,
+      "y": 920,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Project managers lead contributors who usually do not report to them: assigning work, running effective meetings, resolving conflict, and keeping accountability and morale intact without formal authority. A strong kickoff, a team working agreement, and steady one-to-ones do more for delivery than any tool.",
+        "why": "Influence without authority is the defining project management skill; technically sound plans still fail when the people executing them are misaligned.",
+        "learn": [
+          "Run a 30-minute kickoff meeting with a written agenda, a decisions log, and action items",
+          "Apply a skill-and-will approach to delegate work across a four-person team",
+          "Draft a team working agreement covering meeting norms, decision rules, and escalation paths"
+        ],
+        "skills": [
+          "Management of Personnel Resources",
+          "Active Listening",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — General and Operations Managers",
+            "url": "https://www.onetonline.org/link/summary/11-1021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00",
+          "11-1021.00"
+        ],
+        "tasks": [
+          "Confer with project personnel to identify and resolve problems.",
+          "Prepare staff work schedules and assign specific duties."
+        ]
+      }
+    },
+    {
+      "id": "pm-reporting",
+      "type": "node",
+      "label": "Status Reporting",
+      "x": 340,
+      "y": 1020,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Status reporting communicates progress honestly and efficiently: schedule, cost, scope, and risk posture against baseline, plus the decisions you need from sponsors. Strong reports are short, exception-based, and surface problems early rather than managing optics.",
+        "why": "Sponsors fund certainty; a project manager who raises problems early keeps trust and gets help while options still exist.",
+        "learn": [
+          "Design a one-page status template covering RAG status, accomplishments, risks, and asks",
+          "Write a status update for a project that is two weeks late without hiding the cause",
+          "Escalate a blocker to a sponsor with a recommendation attached, not just the problem"
+        ],
+        "skills": [
+          "Writing",
+          "Speaking",
+          "Monitoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Management Analysts",
+            "url": "https://www.onetonline.org/link/summary/13-1111.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00",
+          "13-1111.00"
+        ],
+        "tasks": [
+          "Request and review project updates to ensure deadlines are met."
+        ]
+      }
+    },
+    {
+      "id": "pm-change",
+      "type": "node",
+      "label": "Change Control",
+      "x": 620,
+      "y": 1020,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Change control ensures that changes to scope, schedule, or cost are evaluated for impact, approved by the right authority, and reflected in the baseline. A lightweight change log and request form keep trade-offs explicit while still allowing justified change. Without it, projects drift one small yes at a time.",
+        "why": "Uncontrolled change is how projects die slowly; a visible process keeps every yes or no a deliberate sponsor decision.",
+        "learn": [
+          "Draft a change request form capturing description, impact analysis, and approval signature",
+          "Evaluate a scope change request by quantifying its schedule and cost impact before responding",
+          "Explain the difference between a change request, a defect, and an assumption that changed"
+        ],
+        "skills": [
+          "Judgment and Decision Making",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Confer with personnel concerned to ensure successful functioning of newly implemented systems or procedures."
+        ]
+      }
+    },
+    {
+      "id": "pm-quality",
+      "type": "node",
+      "label": "Quality Management",
+      "x": 900,
+      "y": 1020,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Quality management defines what acceptable means for each deliverable, then verifies results against those acceptance criteria before handover. In predictive projects this means reviews, inspections, and phase gates; in agile it is built in through a definition of done. The distinction matters: quality assurance manages process, quality control inspects product.",
+        "why": "Delivered on time but defective is still failure; explicit acceptance criteria prevent end-of-project surprises and rework.",
+        "learn": [
+          "Write measurable acceptance criteria for three deliverables on a sample project",
+          "Explain the difference between quality assurance (process) and quality control (product)",
+          "Run a structured peer review of a deliverable against its acceptance criteria"
+        ],
+        "skills": [
+          "Monitoring",
+          "Critical Thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Submit project deliverables to clients, ensuring adherence to quality standards."
+        ]
+      }
+    },
+    {
+      "id": "pm-agile-principles",
+      "type": "node",
+      "label": "Agile Principles",
+      "x": 620,
+      "y": 1180,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond the four values, the Agile Manifesto's twelve principles describe how agile teams actually work: deliver value early and often, welcome changing requirements, build motivated cross-functional teams, and reflect on process at regular intervals. Frameworks like Scrum and kanban are concrete interpretations of these principles.",
+        "why": "Frameworks come and go; understanding the principles lets you adapt any method to your organization instead of applying it ritually.",
+        "learn": [
+          "Explain how three of the twelve principles show up in a team's daily practice",
+          "Contrast responding to change over following a plan with disciplined change control, and say when each applies",
+          "Assess whether a team you know works in an agile way or merely uses agile vocabulary"
+        ],
+        "skills": [
+          "Complex Problem Solving",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Agile Manifesto",
+            "url": "https://agilemanifesto.org",
+            "kind": "guide"
+          },
+          {
+            "title": "The Scrum Guide",
+            "url": "https://scrumguides.org",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-scrum",
+      "type": "node",
+      "label": "Scrum Framework",
+      "x": 340,
+      "y": 1280,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Scrum is the most widely used agile framework: fixed-length sprints, a prioritized product backlog, three accountabilities (product owner, scrum master, developers), and events — sprint planning, daily scrum, sprint review, and retrospective. Each element has a purpose and a timebox defined in the Scrum Guide.",
+        "why": "Scrum literacy is a standing requirement in project job postings, and the scrum master path is itself a common career entry point.",
+        "learn": [
+          "Explain the purpose and timebox of each Scrum event",
+          "Describe what the product owner, scrum master, and developers are each accountable for",
+          "Facilitate or observe one sprint retrospective using a format such as start, stop, continue"
+        ],
+        "skills": [
+          "Coordination",
+          "Management of Personnel Resources"
+        ],
+        "certs": [
+          {
+            "name": "PSM I",
+            "issuer": "Scrum.org",
+            "note": "Pass the online PSM I assessment at 85 percent or higher; no course or experience prerequisites, no renewal."
+          }
+        ],
+        "resources": [
+          {
+            "title": "The Scrum Guide",
+            "url": "https://scrumguides.org",
+            "kind": "guide"
+          },
+          {
+            "title": "Scrum.org — Professional Scrum certifications",
+            "url": "https://www.scrum.org/professional-scrum-certifications",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-kanban",
+      "type": "node",
+      "label": "Kanban Method",
+      "x": 620,
+      "y": 1280,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Kanban visualizes work on a board with explicit columns and limits work in progress (WIP) to expose bottlenecks. Unlike Scrum it uses no fixed iterations, which fits continuous-flow work such as support, operations, and maintenance. Cycle time and throughput are its core measures.",
+        "why": "Kanban is the lightest method to adopt and pairs well with any project role; most real teams end up running some version of it.",
+        "learn": [
+          "Set up a kanban board with explicit WIP limits for a personal or team workflow",
+          "Explain how WIP limits shorten cycle time and surface blockers",
+          "Track cycle time for one week and identify the slowest stage in the flow"
+        ],
+        "skills": [
+          "Monitoring",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          },
+          {
+            "title": "Scrum.org — Professional Scrum certifications (incl. Kanban)",
+            "url": "https://www.scrum.org/professional-scrum-certifications",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-hybrid",
+      "type": "node",
+      "label": "Hybrid Approaches",
+      "variant": "muted",
+      "x": 900,
+      "y": 1280,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most organizations run hybrids: a predictive shell of stage gates, baselines, and executive reporting wrapped around iterative delivery inside phases. Hybrid project managers translate between agile teams and sponsors — converting backlog flow into milestone forecasts and gate decisions back into priorities.",
+        "why": "Pure waterfall and pure agile are both rare in practice; tailoring the approach to the work is what senior sponsors actually buy.",
+        "learn": [
+          "Map which parts of a real program should be predictive and which iterative, with reasons",
+          "Explain how stage gates and sprints coexist in a hybrid governance model",
+          "Draft a decision checklist for choosing a delivery approach per workstream"
+        ],
+        "skills": [
+          "Judgment and Decision Making",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          },
+          {
+            "title": "The Scrum Guide",
+            "url": "https://scrumguides.org",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-closing",
+      "type": "node",
+      "label": "Closing & Handover",
+      "x": 620,
+      "y": 1440,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Closing verifies that all deliverables are formally accepted, then transitions outputs to the teams who will run them: documentation, training, support arrangements, and contract and financial closeout. Records are archived and resources released. A project is done when it is accepted and handed over, not when the work stops.",
+        "why": "Rushed closings leak value — unwon lessons, unresolved defects, and sponsors who never formally accept the outcome.",
+        "learn": [
+          "Build a closing checklist covering acceptance, handover, contracts, finances, and archives",
+          "Draft a handover package outline for transitioning a project output to an operations team",
+          "Write a closure report that compares delivered outcomes against the original baseline"
+        ],
+        "skills": [
+          "Coordination",
+          "Monitoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-retro",
+      "type": "node",
+      "label": "Retrospectives",
+      "x": 340,
+      "y": 1540,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Retrospectives are structured reflections held at the end of an iteration or project: what worked, what did not, and what the team will change. For whole projects, a lessons-learned review feeds the organization's knowledge base, templates, and future estimates. Good retrospectives are blameless and end with owned actions.",
+        "why": "The improvement loop is what separates teams that get better every project from teams that repeat the same mistakes.",
+        "learn": [
+          "Facilitate a 45-minute retrospective with a clear format and two or three committed improvement actions",
+          "Write lessons-learned entries specific enough to change a future estimate or plan",
+          "Explain how to keep a retrospective blameless and action-oriented"
+        ],
+        "skills": [
+          "Active Listening",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "The Scrum Guide",
+            "url": "https://scrumguides.org",
+            "kind": "guide"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-tools",
+      "type": "node",
+      "label": "PM Software & Docs",
+      "x": 620,
+      "y": 1540,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Project tools span work trackers (Asana, Trello, Jira, Monday.com), schedulers (Microsoft Project and Gantt tools), and collaboration suites for documents and dashboards. The tool matters less than the discipline behind it: one source of truth, current status, visible dependencies, and a clean template set.",
+        "why": "Job postings assume tool fluency, and maintaining a live board on a real project teaches more than any demo.",
+        "learn": [
+          "Build and maintain a live project board with tasks, owners, dates, and status in a free tool tier",
+          "Create a reusable template set: charter, risk register, status report, and change log",
+          "Explain when a spreadsheet beats a full project management tool for a small project"
+        ],
+        "skills": [
+          "Coordination",
+          "Active Learning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Coursera — Google Project Management Professional Certificate (audit)",
+            "url": "https://www.coursera.org/professional-certificates/google-project-management",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-metrics",
+      "type": "node",
+      "label": "KPIs & Dashboards",
+      "variant": "muted",
+      "x": 900,
+      "y": 1540,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Project metrics quantify health: schedule variance, cost variance, burn rate, velocity, and cycle time, plus benefit measures after handover. Dashboards package them for different audiences — teams need detail and blockers, executives need trend, risk, and the decisions required.",
+        "why": "Project managers who speak in measured variances instead of adjectives move conversations from opinion to decision.",
+        "learn": [
+          "Calculate schedule and cost variance for a sample project and interpret the signs",
+          "Choose three to five KPIs for a program dashboard and justify each against its audience",
+          "Define one post-launch benefit metric for a completed project and a plan to measure it"
+        ],
+        "skills": [
+          "Monitoring",
+          "Mathematics",
+          "Critical Thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Management Analysts",
+            "url": "https://www.onetonline.org/link/summary/13-1111.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Project Management Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00",
+          "13-1111.00"
+        ],
+        "tasks": [
+          "Analyze data gathered and develop solutions or alternative methods of proceeding."
+        ]
+      }
+    },
+    {
+      "id": "pm-cert-capm",
+      "type": "node",
+      "label": "CAPM (PMI)",
+      "x": 340,
+      "y": 1700,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Certified Associate in Project Management (CAPM) is PMI's entry credential. Eligibility takes a secondary degree, being at least 18 years old, and completing 23 hours of project management education before the exam — no project experience required. The exam covers PM fundamentals plus predictive, agile, and business analysis domains.",
+        "why": "It signals commitment and shared vocabulary to employers while your experience section is still thin, and it seeds the PMP pathway.",
+        "learn": [
+          "Review CAPM eligibility on PMI's site and map your education against the 23-hour requirement",
+          "Study the CAPM exam content outline and note its predictive and agile domains",
+          "Set an eight-to-ten-week study plan using PMI's official preparation resources"
+        ],
+        "skills": [
+          "Critical Thinking",
+          "Active Learning"
+        ],
+        "certs": [
+          {
+            "name": "CAPM",
+            "issuer": "PMI",
+            "note": "Secondary degree, age 18 or older, and 23 contact hours of PM education before the exam; no project experience required."
+          }
+        ],
+        "resources": [
+          {
+            "title": "PMI — CAPM certification",
+            "url": "https://www.pmi.org/certifications/certified-associate-capm",
+            "kind": "certification"
+          },
+          {
+            "title": "PMI — ProjectManagement.com resources",
+            "url": "https://www.pmi.org",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-cert-prince2",
+      "type": "node",
+      "label": "PRINCE2 Foundation",
+      "x": 900,
+      "y": 1700,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "PRINCE2 is a process-based project method governed by Axelos, with exams delivered through PeopleCert. It is the default standard in UK government work and common across Europe, Australia, and international contractors. Foundation is its entry level — a closed-book exam on the method's principles, themes, and processes, with no prerequisites.",
+        "why": "For work with UK, EU, or Commonwealth employers and clients, PRINCE2 vocabulary carries as much weight as PMI's does.",
+        "learn": [
+          "Read the PRINCE2 method overview: its seven principles, seven themes, and seven processes",
+          "Compare PRINCE2's stage-based structure with PMI's process groups",
+          "Book the Foundation exam through PeopleCert if you are targeting international employers"
+        ],
+        "skills": [
+          "Critical Thinking",
+          "Reading Comprehension"
+        ],
+        "certs": [
+          {
+            "name": "PRINCE2 Foundation",
+            "issuer": "Axelos / PeopleCert",
+            "note": "Entry-level closed-book exam on the PRINCE2 method; no prerequisites. Practitioner requires passing Foundation first."
+          }
+        ],
+        "resources": [
+          {
+            "title": "AXELOS — PRINCE2 certifications",
+            "url": "https://www.axelos.com/certifications/prince2",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-cert-acp",
+      "type": "node",
+      "label": "PMI-ACP (PMI)",
+      "x": 340,
+      "y": 1800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The PMI Agile Certified Practitioner (PMI-ACP) certifies agile knowledge and experience across frameworks, including Scrum, kanban, and Lean. Eligibility requires a high school diploma, 21 contact hours of formal agile training, and documented agile experience — typically two years within the last five, or one year for holders of a GAC-accredited degree, a third-party agile certification, or the PMP.",
+        "why": "It suits project managers already working in agile settings who want a recognized credential without moving to a pure scrum master track.",
+        "learn": [
+          "Confirm your agile hours and training meet the current PMI-ACP eligibility rules",
+          "Compare PMI-ACP and PSM I to decide which credential fits your target roles",
+          "Review the PMI-ACP content outline, including value-driven delivery and adaptive planning"
+        ],
+        "skills": [
+          "Complex Problem Solving",
+          "Active Learning"
+        ],
+        "certs": [
+          {
+            "name": "PMI-ACP",
+            "issuer": "PMI",
+            "note": "Secondary degree, 21 contact hours of agile training, plus documented agile experience (2 years, or 1 year with a GAC degree, third-party agile certification, or PMP)."
+          }
+        ],
+        "resources": [
+          {
+            "title": "PMI — PMI-ACP certification",
+            "url": "https://www.pmi.org/certifications/agile-acp",
+            "kind": "certification"
+          },
+          {
+            "title": "PMI — all certifications",
+            "url": "https://www.pmi.org",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-cert-pmp",
+      "type": "node",
+      "label": "PMP (PMI)",
+      "x": 620,
+      "y": 1800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Project Management Professional (PMP) is the most widely recognized certification for experienced project managers. Eligibility requires documented project leadership experience — three years with a four-year degree, four with an associate degree, five with a high school diploma, or two with a PMI GAC-accredited degree — plus 35 hours of project education or an active CAPM. The exam spans people, process, and business environment domains.",
+        "why": "Many mid-level and senior postings list PMP as preferred; it works as a screening filter as much as a credential.",
+        "learn": [
+          "Check the current PMP eligibility paths on PMI's site and start logging your project leadership hours",
+          "Complete the 35 contact hours through a PMI-authorized training partner or qualifying course",
+          "Study the PMP exam content outline across its people, process, and business environment domains"
+        ],
+        "skills": [
+          "Judgment and Decision Making",
+          "Coordination"
+        ],
+        "certs": [
+          {
+            "name": "PMP",
+            "issuer": "PMI",
+            "note": "Documented project leadership experience (3 years with a bachelor's degree; 4-5 years otherwise; 2 with a PMI GAC-accredited degree) plus 35 contact hours of PM education or an active CAPM."
+          }
+        ],
+        "resources": [
+          {
+            "title": "PMI — PMP certification",
+            "url": "https://www.pmi.org/certifications/project-management-pmp",
+            "kind": "certification"
+          },
+          {
+            "title": "PMI — all certifications",
+            "url": "https://www.pmi.org",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-cert-psm",
+      "type": "node",
+      "label": "PSM I (Scrum.org)",
+      "x": 900,
+      "y": 1800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Professional Scrum Master I (PSM I) is Scrum.org's entry assessment on the Scrum Guide. There are no course or experience prerequisites — anyone can attempt the online exam, and passing at 85 percent or higher earns a lifetime certification with no renewal. Free open assessments let you practice before paying for the exam.",
+        "why": "It is the fastest verifiable way to prove Scrum fluency, especially for project managers moving toward agile team facilitation.",
+        "learn": [
+          "Read the Scrum Guide end to end and outline its events, accountabilities, and artifacts",
+          "Take Scrum.org's free open assessment until you consistently score above 85 percent",
+          "Review the PSM I subject areas, then book the online exam"
+        ],
+        "skills": [
+          "Active Learning",
+          "Reading Comprehension"
+        ],
+        "certs": [
+          {
+            "name": "PSM I",
+            "issuer": "Scrum.org",
+            "note": "Pass the online PSM I assessment at 85 percent or higher; no course or experience prerequisites, no renewal required."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Scrum.org — Professional Scrum certifications",
+            "url": "https://www.scrum.org/professional-scrum-certifications",
+            "kind": "certification"
+          },
+          {
+            "title": "The Scrum Guide",
+            "url": "https://scrumguides.org",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-coordinator",
+      "type": "node",
+      "label": "Project Coordinator",
+      "x": 340,
+      "y": 1940,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Project coordinators support a project or a project manager: tracking actions and decisions, maintaining schedules and logs, assembling status reports, and keeping meetings moving. It is the most common entry point for people without a PM title, and a certification such as CAPM strengthens applications.",
+        "why": "The role builds every core project management muscle — tracking, documentation, communication — with a safety net before you own delivery.",
+        "learn": [
+          "Volunteer to coordinate a small initiative at work or in a community organization",
+          "Maintain an action and risk log for one month and summarize it in a weekly note",
+          "Sit in on a running status meeting and draft the status report from it"
+        ],
+        "skills": [
+          "Coordination",
+          "Monitoring",
+          "Time Management"
+        ],
+        "certs": [
+          {
+            "name": "CAPM",
+            "issuer": "PMI",
+            "note": "Optional entry credential at this stage: secondary degree plus 23 contact hours of PM education; no project experience required."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Project Management Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Gather and organize information on problems or procedures."
+        ]
+      }
+    },
+    {
+      "id": "pm-pm-role",
+      "type": "node",
+      "label": "Project Manager",
+      "x": 620,
+      "y": 2040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Project managers own delivery end to end: charter through closure, baseline through variance, team through sponsor. General and operations managers often carry the same accountability for whole operations, while management analysts supply the analysis behind scope and process decisions. The skills transfer across industries; only the subject matter changes.",
+        "why": "This is the anchor role of the roadmap and the reference point for every certification and skill on this map.",
+        "learn": [
+          "Lead one small project end to end with a charter, baseline, status cadence, and closure report",
+          "Run a monthly variance review and present corrective options to a sponsor",
+          "Interview two working project managers about how their week splits between planning, meetings, and reporting"
+        ],
+        "skills": [
+          "Management of Personnel Resources",
+          "Judgment and Decision Making",
+          "Coordination"
+        ],
+        "certs": [
+          {
+            "name": "PMP",
+            "issuer": "PMI",
+            "note": "Commonly preferred at this level: documented project leadership experience plus 35 contact hours of PM education or an active CAPM."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Project Management Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Project Management Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1082.00",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — General and Operations Managers",
+            "url": "https://www.onetonline.org/link/summary/11-1021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1082.00",
+          "11-1021.00",
+          "13-1111.00"
+        ],
+        "tasks": [
+          "Communicate with key stakeholders to determine project requirements and objectives.",
+          "Plan, schedule, or coordinate project activities to meet deadlines.",
+          "Confer with project personnel to identify and resolve problems."
+        ]
+      }
+    },
+    {
+      "id": "pm-program",
+      "type": "node",
+      "label": "Program Manager",
+      "x": 620,
+      "y": 2140,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Program managers coordinate multiple related projects to deliver benefits no single project could: sequencing shared dependencies, arbitrating resources, and holding the strategic through-line. The horizon shifts from deliverables to outcomes, and most of the work becomes negotiation and prioritization.",
+        "why": "It is the standard step beyond single-project delivery and the proving ground for organizational influence.",
+        "learn": [
+          "Map a program: its projects, shared dependencies, and the benefit each contributes",
+          "Write a one-page program brief linking three projects to one strategic outcome",
+          "Practice trade-off analysis: decide which project slips when two compete for the same specialist"
+        ],
+        "skills": [
+          "Coordination",
+          "Judgment and Decision Making",
+          "Management of Personnel Resources"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — General and Operations Managers",
+            "url": "https://www.onetonline.org/link/summary/11-1021.00",
+            "kind": "guide"
+          },
+          {
+            "title": "HBR — Project Management topic",
+            "url": "https://hbr.org/topic/subject/project-management",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-1021.00",
+          "13-1082.00"
+        ],
+        "tasks": [
+          "Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.",
+          "Plan or direct activities, such as sales promotions, that require coordination with other department managers."
+        ]
+      }
+    },
+    {
+      "id": "pm-pmo",
+      "type": "node",
+      "label": "PMO & Portfolio",
+      "x": 620,
+      "y": 2240,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A project or portfolio management office (PMO) standardizes how the organization runs projects: methods, templates, governance, coaching, and portfolio prioritization. Roles range from PMO analyst to director, and the work shapes delivery capability across the enterprise rather than on one project.",
+        "why": "PMO work compounds — improving every project instead of one — and leads toward portfolio and strategy roles.",
+        "learn": [
+          "Draft a governance calendar for a small PMO: gate reviews, reporting cycles, and audits",
+          "Propose three standardized templates and the specific problem each solves",
+          "Explain how portfolio prioritization differs from project scheduling"
+        ],
+        "skills": [
+          "Coordination",
+          "Systems Analysis",
+          "Monitoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — General and Operations Managers",
+            "url": "https://www.onetonline.org/link/summary/11-1021.00",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Management Analysts",
+            "url": "https://www.onetonline.org/link/summary/13-1111.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-1021.00",
+          "13-1111.00"
+        ],
+        "tasks": []
+      }
+    },
+    {
+      "id": "pm-g-foundations",
+      "type": "group",
+      "label": "FOUNDATIONS",
+      "x": 312,
+      "y": 40,
+      "w": 836,
+      "h": 342
+    },
+    {
+      "id": "pm-g-planning",
+      "type": "group",
+      "label": "PLANNING",
+      "x": 312,
+      "y": 394,
+      "w": 836,
+      "h": 438
+    },
+    {
+      "id": "pm-g-execution",
+      "type": "group",
+      "label": "EXECUTION & CONTROL",
+      "x": 312,
+      "y": 854,
+      "w": 836,
+      "h": 238
+    },
+    {
+      "id": "pm-g-agile",
+      "type": "group",
+      "label": "AGILE & ADAPTIVE",
+      "x": 312,
+      "y": 1114,
+      "w": 836,
+      "h": 238
+    },
+    {
+      "id": "pm-g-closing",
+      "type": "group",
+      "label": "CLOSING & TOOLKIT",
+      "x": 312,
+      "y": 1374,
+      "w": 836,
+      "h": 238
+    },
+    {
+      "id": "pm-g-credentials",
+      "type": "group",
+      "label": "CREDENTIALS & CAREER",
+      "x": 312,
+      "y": 1634,
+      "w": 836,
+      "h": 678
+    },
+    {
+      "id": "pm-l-start",
+      "type": "label",
+      "label": "Start here — no prior title or experience required to begin.",
+      "x": 60,
+      "y": 115,
+      "w": 200
+    },
+    {
+      "id": "pm-l-intl",
+      "type": "label",
+      "label": "Outside the U.S.: PRINCE2 (UK) and IPMA certifications are widely recognized alternatives to PMI credentials.",
+      "x": 1180,
+      "y": 1620,
+      "w": 200
+    },
+    {
+      "id": "pm-l-career",
+      "type": "label",
+      "label": "Titles vary by organization; many PMs begin in coordinator, analyst, or operations roles.",
+      "x": 60,
+      "y": 2040,
+      "w": 200
+    }
+  ],
+  "edges": [
+    {
+      "from": "pm-what-is",
+      "to": "pm-lifecycle"
+    },
+    {
+      "from": "pm-lifecycle",
+      "to": "pm-waterfall"
+    },
+    {
+      "from": "pm-lifecycle",
+      "to": "pm-agile-way"
+    },
+    {
+      "from": "pm-waterfall",
+      "to": "pm-charter"
+    },
+    {
+      "from": "pm-agile-way",
+      "to": "pm-charter",
+      "dashed": true
+    },
+    {
+      "from": "pm-charter",
+      "to": "pm-stakeholders"
+    },
+    {
+      "from": "pm-charter",
+      "to": "pm-scope"
+    },
+    {
+      "from": "pm-scope",
+      "to": "pm-schedule"
+    },
+    {
+      "from": "pm-schedule",
+      "to": "pm-budget"
+    },
+    {
+      "from": "pm-budget",
+      "to": "pm-risk"
+    },
+    {
+      "from": "pm-stakeholders",
+      "to": "pm-reporting",
+      "dashed": true
+    },
+    {
+      "from": "pm-stakeholders",
+      "to": "pm-team",
+      "dashed": true
+    },
+    {
+      "from": "pm-risk",
+      "to": "pm-team"
+    },
+    {
+      "from": "pm-team",
+      "to": "pm-reporting"
+    },
+    {
+      "from": "pm-team",
+      "to": "pm-change"
+    },
+    {
+      "from": "pm-team",
+      "to": "pm-quality"
+    },
+    {
+      "from": "pm-reporting",
+      "to": "pm-change",
+      "dashed": true
+    },
+    {
+      "from": "pm-change",
+      "to": "pm-agile-principles"
+    },
+    {
+      "from": "pm-quality",
+      "to": "pm-agile-principles",
+      "dashed": true
+    },
+    {
+      "from": "pm-agile-principles",
+      "to": "pm-scrum"
+    },
+    {
+      "from": "pm-agile-principles",
+      "to": "pm-kanban",
+      "dashed": true
+    },
+    {
+      "from": "pm-agile-principles",
+      "to": "pm-hybrid",
+      "dashed": true
+    },
+    {
+      "from": "pm-scrum",
+      "to": "pm-closing"
+    },
+    {
+      "from": "pm-kanban",
+      "to": "pm-closing",
+      "dashed": true
+    },
+    {
+      "from": "pm-hybrid",
+      "to": "pm-closing",
+      "dashed": true
+    },
+    {
+      "from": "pm-closing",
+      "to": "pm-retro"
+    },
+    {
+      "from": "pm-closing",
+      "to": "pm-tools"
+    },
+    {
+      "from": "pm-tools",
+      "to": "pm-metrics"
+    },
+    {
+      "from": "pm-tools",
+      "to": "pm-cert-capm"
+    },
+    {
+      "from": "pm-tools",
+      "to": "pm-cert-prince2",
+      "dashed": true
+    },
+    {
+      "from": "pm-cert-capm",
+      "to": "pm-cert-acp"
+    },
+    {
+      "from": "pm-cert-capm",
+      "to": "pm-cert-pmp"
+    },
+    {
+      "from": "pm-cert-capm",
+      "to": "pm-cert-psm",
+      "dashed": true
+    },
+    {
+      "from": "pm-cert-acp",
+      "to": "pm-coordinator"
+    },
+    {
+      "from": "pm-cert-pmp",
+      "to": "pm-pm-role",
+      "dashed": true
+    },
+    {
+      "from": "pm-coordinator",
+      "to": "pm-pm-role"
+    },
+    {
+      "from": "pm-pm-role",
+      "to": "pm-program"
+    },
+    {
+      "from": "pm-program",
+      "to": "pm-pmo"
+    }
+  ]
+}

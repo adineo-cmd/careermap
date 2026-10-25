@@ -1,0 +1,873 @@
+{
+  "slug": "military-defense",
+  "title": "Military & Defense",
+  "tagline": "Enlisted and officer paths, technical training, and the transition to civilian careers.",
+  "summary": "Military service is a structured career with paid training, clear ranks, and benefits that extend into civilian life — across dozens of occupational fields from aviation to medicine to logistics. This roadmap covers joining (ASVAB, MEPS, branches), serving (training, promotion, education), and transitioning out deliberately.",
+  "category": "Health & Public Service",
+  "color": "#8a9b6e",
+  "icon": "shield",
+  "onetRoles": [
+    "55-1019.00",
+    "55-3011.00"
+  ],
+  "jelCodes": [
+    "H56"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Military Officer Special and Tactical Operations Leaders (55-1011.00)",
+      "url": "https://www.onetonline.org/link/summary/55-1011.00"
+    },
+    {
+      "label": "USAJOBS — federal hiring",
+      "url": "https://www.usajobs.gov/"
+    },
+    {
+      "label": "VA — education benefits",
+      "url": "https://www.va.gov/education/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ml-explore",
+      "type": "node",
+      "label": "Branches & Paths",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The US military has six branches (Army, Navy, Air Force, Marines, Space Force, Coast Guard), each with enlisted, warrant officer, and commissioned officer tracks across hundreds of job fields.",
+        "why": "Service offers paid training, housing, healthcare, education benefits, and a promotion ladder — with a commitment of years and real obligations to weigh honestly.",
+        "learn": [
+          "Compare the six branches' missions and cultures",
+          "Learn enlisted vs warrant vs officer tracks",
+          "Talk to veterans from two branches",
+          "List what you want the military to train you for"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Military Officer Leaders",
+            "url": "https://www.onetonline.org/link/summary/55-1011.00",
+            "kind": "guide"
+          },
+          {
+            "title": "USA.gov — military requirements",
+            "url": "https://www.usa.gov/join-military",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "55-1019.00",
+          "55-3011.00"
+        ]
+      }
+    },
+    {
+      "id": "ml-enlisted",
+      "type": "node",
+      "label": "Enlisted vs Officer",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Enlisted members perform and lead hands-on specialties; officers (requiring a bachelor's or academy path) lead and manage; warrant officers are technical experts between.",
+        "why": "The track choice shapes your entire service — education level, daily work, pay, and promotion speed all differ.",
+        "learn": [
+          "Compare duties, pay, and requirements per track",
+          "Check degree requirements for officer paths",
+          "Note the warrant-officer technical-expert lane",
+          "Decide which track fits your education and goals"
+        ],
+        "skills": [
+          "Career planning",
+          "Track comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USA.gov — join the military",
+            "url": "https://www.usa.gov/join-military",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-asvab",
+      "type": "node",
+      "label": "ASVAB",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Armed Services Vocational Aptitude Battery tests math, verbal, and technical aptitude — your scores determine which military jobs you qualify for.",
+        "why": "ASVAB scores open or close job fields; preparing seriously expands your options before you ever sign.",
+        "learn": [
+          "Take a full practice ASVAB for a baseline",
+          "Drill math and word knowledge daily for 4–8 weeks",
+          "Learn which line scores gate your target jobs",
+          "Retake to improve if needed (rules apply)"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Score strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "official ASVAB program",
+            "url": "https://www.asvabprogram.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-benefits",
+      "type": "node",
+      "label": "Commitment & Benefits",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Enlistment contracts run typically 4–6 years with obligations beyond; in exchange: salary, housing allowances, healthcare, the GI Bill, and pension systems for long service.",
+        "why": "Understanding the full contract — and the benefits earned — lets you use service as a deliberate life strategy.",
+        "learn": [
+          "Read a sample enlistment contract with a recruiter",
+          "Learn the GI Bill's education benefits",
+          "Understand housing allowance basics (BAH)",
+          "Note pension vesting for career service"
+        ],
+        "skills": [
+          "Contract literacy",
+          "Benefit stacking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "VA — education benefits",
+            "url": "https://www.va.gov/education/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-recruiter",
+      "type": "node",
+      "label": "Recruiters & Choosing",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Recruiters guide entry but represent their branch: talk to several branches, get job and bonus promises IN WRITING, and never sign for an unspecified 'open' contract without understanding it.",
+        "why": "Your first job field shapes your whole service — written guarantees are the only protection.",
+        "learn": [
+          "Meet recruiters from 3 branches",
+          "Get your target job in your contract in writing",
+          "Ask veterans about their recruiter experience",
+          "Negotiate for training, not just bonuses"
+        ],
+        "skills": [
+          "Negotiation",
+          "Skepticism"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USA.gov — join the military",
+            "url": "https://www.usa.gov/join-military",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-meps",
+      "type": "node",
+      "label": "MEPS & Medical",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Military Entrance Processing Station: medical examination, ASVAB verification, and contract oath — where medical history disclosure matters enormously.",
+        "why": "Nondisclosure of medical history is fraud and can end service early; full disclosure protects you.",
+        "learn": [
+          "Assemble complete medical records beforehand",
+          "Disclose everything — waivers exist for many conditions",
+          "Understand the oath and its legal weight",
+          "Prepare physically for the fitness baseline"
+        ],
+        "skills": [
+          "Documentation",
+          "Integrity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USA.gov — join the military",
+            "url": "https://www.usa.gov/join-military",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-jobs",
+      "type": "node",
+      "label": "Choosing a Job Field",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Military job fields mirror the civilian economy: aviation maintenance, medicine, logistics, IT, mechanical trades, intelligence, and combat arms — each with its own training pipeline.",
+        "why": "Choosing a field that teaches transferable civilian skills is the single best career decision in service.",
+        "learn": [
+          "List job fields matching civilian careers you'd want",
+          "Compare training length and certification outcomes",
+          "Ask veterans which fields transition best",
+          "Pick based on skills-earned, not bonuses alone"
+        ],
+        "skills": [
+          "Skills planning",
+          "Certification research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Military Enlisted Specialists",
+            "url": "https://www.onetonline.org/link/summary/55-3011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "55-3011.00"
+        ]
+      }
+    },
+    {
+      "id": "ml-basic",
+      "type": "node",
+      "label": "Basic Training",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Basic training (7–13 weeks by branch) builds fitness, discipline, teamwork, and standards under stress — the shared foundation every member earns.",
+        "why": "Arriving physically prepared and mentally ready turns boot camp from a shock into a starting gun.",
+        "learn": [
+          "Train to exceed your branch's fitness standards",
+          "Learn rank structure and customs beforehand",
+          "Practice the run times and push-up standards",
+          "Talk to recent graduates about the reality"
+        ],
+        "skills": [
+          "Physical fitness",
+          "Discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USA.gov — join the military",
+            "url": "https://www.usa.gov/join-military",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-tech",
+      "type": "node",
+      "label": "Technical Training",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "After basic, job schools teach your specialty — often with civilian-recognized certifications embedded (aviation maintenance, medical, IT credentials).",
+        "why": "Technical schools are where service starts paying career dividends: certifications and skills employers recognize.",
+        "learn": [
+          "Identify civilian certifications in your field's school",
+          "Take the certification exams while training",
+          "Keep copies of every transcript",
+          "Network with instructors — they know the industry"
+        ],
+        "skills": [
+          "Technical specialization",
+          "Certification capture"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DANTES — certification funding",
+            "url": "https://www.dantes.doded.mil/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-service",
+      "type": "node",
+      "label": "Serving Well",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service life: duty stations, deployments, exercises, and the rhythm of military schedules — excellence is reliability, fitness, and technical mastery over years.",
+        "why": "Promotion boards reward consistent performance records — every evaluation is permanent history.",
+        "learn": [
+          "Build your service record deliberately (awards, quals, courses)",
+          "Maintain fitness standards without drama",
+          "Find mentors at the next rank",
+          "Volunteer for schools and deployments that teach"
+        ],
+        "skills": [
+          "Reliability",
+          "Record building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Military Officer Leaders",
+            "url": "https://www.onetonline.org/link/summary/55-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-promotion",
+      "type": "node",
+      "label": "Promotion & Ranks",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Promotion is point-based: fitness scores, weapons quals, education, awards, and boards — officers advance through assignments and leadership evaluations.",
+        "why": "The system is transparent — studying it lets you control what's controllable instead of guessing.",
+        "learn": [
+          "Learn your branch's promotion-point system",
+          "Maximize the controllable categories early",
+          "Study for promotion boards proactively",
+          "Track your own record file's accuracy"
+        ],
+        "skills": [
+          "Systems navigation",
+          "Leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Military Enlisted Specialists",
+            "url": "https://www.onetonline.org/link/summary/55-3011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-education",
+      "type": "node",
+      "label": "Education While Serving",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Tuition Assistance funds degrees during service; CLEP/DSST exams grant credit free; and GI Bill benefits stack for after — education is a core military benefit.",
+        "why": "Members who graduate or certify while serving separate into far better civilian options.",
+        "learn": [
+          "Use Tuition Assistance — it's separate from the GI Bill",
+          "Take CLEP exams for free college credit",
+          "Keep transcripts from every school and school-house",
+          "Plan degrees with an education counselor"
+        ],
+        "skills": [
+          "Education planning",
+          "Counselor meetings"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DANTES — education programs",
+            "url": "https://www.dantes.doded.mil/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-aviation",
+      "type": "node",
+      "label": "Aviation & Aircrew",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Military aviation spans pilots (officer-heavy, rigorous flight training), aircrew, and the maintenance fields that keep aircraft flying — among the most transferable technical pipelines.",
+        "why": "Military aviation experience converts directly to airline and maintenance careers — a famous and proven pipeline.",
+        "learn": [
+          "Compare pilot vs aircrew vs maintenance paths",
+          "Note flight-school selection requirements",
+          "Log every flight hour and certification",
+          "Research civilian conversion for your aviation role"
+        ],
+        "skills": [
+          "Aviation knowledge",
+          "Logbook discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FAA — military competency certification",
+            "url": "https://www.faa.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-medical",
+      "type": "node",
+      "label": "Medical Fields",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Military medicine trains combat medics/corpsmen and technicians — experience that maps to EMT-paramedic, nursing, and clinical careers through documented equivalency paths.",
+        "why": "Medic experience is among the most respected medical training anywhere — with certification bridges to civilian licensure.",
+        "learn": [
+          "Compare medic/corpsman training to civilian EMS levels",
+          "Research state equivalency for military medical training",
+          "Plan NREMT bridging if targeting EMS",
+          "Keep patient-care documentation for licensing boards"
+        ],
+        "skills": [
+          "Combat medicine",
+          "Certification planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NREMT — military to civilian",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-transition",
+      "type": "node",
+      "label": "Transition Planning",
+      "variant": "accent",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Transition begins 12–24 months before separation: the mandatory transition program, resume translation, certification bridging, and job networking — planned transitions land far better jobs.",
+        "why": "The military-to-civilian jump is the field's defining challenge — those who start early, land well.",
+        "learn": [
+          "Attend the transition program early, not at the deadline",
+          "Translate your MOS into civilian job language",
+          "Get certifications before separation",
+          "Network with veterans in your target industry"
+        ],
+        "skills": [
+          "Career translation",
+          "Planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DoD Transition Assistance Program",
+            "url": "https://www.dodtap.mil/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-gibill",
+      "type": "node",
+      "label": "GI Bill Deployment",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Post-9/11 GI Bill pays tuition, housing, and books for degrees — and transfers to dependents in some cases — one of the most valuable benefits earned in service.",
+        "why": "Using the GI Bill deliberately (right degree, right school, housing strategy) can set up an entire second career.",
+        "learn": [
+          "Check your GI Bill eligibility and remaining months",
+          "Choose schools by outcome and Yellow Ribbon participation",
+          "Understand the housing stipend mechanics",
+          "Consider transfer-to-dependents rules if applicable"
+        ],
+        "skills": [
+          "Benefits planning",
+          "Degree strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "VA — GI Bill",
+            "url": "https://www.va.gov/education/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-veterans",
+      "type": "node",
+      "label": "Veterans' Preference",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Federal hiring gives eligible veterans preference points and special hiring authorities — plus the whole federal system values service-derived skills and clearance eligibility.",
+        "why": "Government careers are the natural first civilian landing — preference makes qualified veterans genuinely competitive.",
+        "learn": [
+          "Learn veterans' preference rules on USAJOBS",
+          "Translate your record into federal resume format",
+          "Note clearance eligibility as an asset",
+          "Explore the big federal employers for your field"
+        ],
+        "skills": [
+          "Federal hiring navigation",
+          "Federal resume skills"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — veterans' preference",
+            "url": "https://www.usajobs.gov/Help/working-in-government/veterans-preference/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-clearance",
+      "type": "node",
+      "label": "Security Clearance",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "An active or recently-held security clearance is a scarce, valuable credential — defense contractors and agencies pay premiums for cleared professionals.",
+        "why": "Clearances take time and money employers otherwise must sponsor — a serving member's clearance is real market value.",
+        "learn": [
+          "Keep your record clean — clearances check everything",
+          "Know your clearance level and expiry window",
+          "Target cleared-employer job boards during transition",
+          "Maintain reporting obligations even after service"
+        ],
+        "skills": [
+          "Compliance",
+          "Market awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DCSA — clearance process",
+            "url": "https://www.dcsa.mil/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service ladder: recruit → specialist → NCO/officer → senior leadership; civilian continuation: federal service, defense contracting, skilled trades, aviation, medicine, or entrepreneurship.",
+        "why": "The military career is a first career that funds and trains the second — planning both together is the professional move.",
+        "learn": [
+          "Sketch your 20-year plan including service years",
+          "Decide career-service vs one-enlistment strategy honestly",
+          "Build civilian skills during every assignment",
+          "Revisit the plan at each reenlistment point"
+        ],
+        "skills": [
+          "Long-term planning",
+          "Enlistment strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Military Officer Leaders",
+            "url": "https://www.onetonline.org/link/summary/55-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-resilience",
+      "type": "node",
+      "label": "Resilience & Family",
+      "variant": "muted",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service demands include deployments, family separation, and exposures that affect some members deeply — support systems exist and using them is strength, not weakness.",
+        "why": "The healthiest careers belong to members who use their support systems early — for themselves and their families.",
+        "learn": [
+          "Learn your branch's mental-health resources",
+          "Build family support plans before deployments",
+          "Normalize counseling — it's routine in modern service",
+          "Keep connections outside the military alive"
+        ],
+        "skills": [
+          "Resilience",
+          "Family planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Military OneSource",
+            "url": "https://www.militaryonesource.mil/",
+            "kind": "community"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-officer",
+      "type": "node",
+      "label": "Officer Paths Detail",
+      "variant": "muted",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Officer entry routes: service academies (highly competitive, free, service commitment), ROTC (degree + program), OCS (degree holders), and direct-commission for professionals (doctors, lawyers, chaplains).",
+        "why": "The officer path doubles leadership scope and pay — with four distinct doors depending on your stage of life.",
+        "learn": [
+          "Compare academy, ROTC, and OCS timelines",
+          "Note degree and age requirements per route",
+          "Meet an officer recruiter for route planning",
+          "Weigh leadership training vs technical depth"
+        ],
+        "skills": [
+          "Route planning",
+          "Route comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USA.gov — officer paths",
+            "url": "https://www.usa.gov/join-military",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ml-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ml-g-join",
+      "type": "group",
+      "label": "JOINING",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ml-g-serve",
+      "type": "group",
+      "label": "SERVING",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ml-g-specialize",
+      "type": "group",
+      "label": "SPECIALIZATIONS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ml-g-transition",
+      "type": "group",
+      "label": "TRANSITION & BENEFITS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ml-g-career",
+      "type": "group",
+      "label": "CAREER & SUPPORT",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "ml-explore",
+      "to": "ml-enlisted"
+    },
+    {
+      "from": "ml-explore",
+      "to": "ml-asvab"
+    },
+    {
+      "from": "ml-explore",
+      "to": "ml-benefits",
+      "dashed": true
+    },
+    {
+      "from": "ml-enlisted",
+      "to": "ml-recruiter"
+    },
+    {
+      "from": "ml-asvab",
+      "to": "ml-recruiter"
+    },
+    {
+      "from": "ml-recruiter",
+      "to": "ml-meps"
+    },
+    {
+      "from": "ml-meps",
+      "to": "ml-jobs"
+    },
+    {
+      "from": "ml-jobs",
+      "to": "ml-basic"
+    },
+    {
+      "from": "ml-basic",
+      "to": "ml-tech"
+    },
+    {
+      "from": "ml-tech",
+      "to": "ml-service"
+    },
+    {
+      "from": "ml-service",
+      "to": "ml-promotion"
+    },
+    {
+      "from": "ml-service",
+      "to": "ml-education",
+      "dashed": true
+    },
+    {
+      "from": "ml-service",
+      "to": "ml-aviation",
+      "dashed": true
+    },
+    {
+      "from": "ml-service",
+      "to": "ml-medical",
+      "dashed": true
+    },
+    {
+      "from": "ml-promotion",
+      "to": "ml-officer",
+      "dashed": true
+    },
+    {
+      "from": "ml-service",
+      "to": "ml-transition"
+    },
+    {
+      "from": "ml-transition",
+      "to": "ml-gibill",
+      "dashed": true
+    },
+    {
+      "from": "ml-transition",
+      "to": "ml-veterans",
+      "dashed": true
+    },
+    {
+      "from": "ml-transition",
+      "to": "ml-clearance",
+      "dashed": true
+    },
+    {
+      "from": "ml-career",
+      "to": "ml-resilience",
+      "dashed": true
+    },
+    {
+      "from": "ml-transition",
+      "to": "ml-career"
+    },
+    {
+      "from": "ml-benefits",
+      "to": "ml-gibill",
+      "dashed": true
+    }
+  ]
+}

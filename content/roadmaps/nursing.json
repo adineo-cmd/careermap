@@ -1,0 +1,1061 @@
+{
+  "slug": "nursing",
+  "title": "Nursing",
+  "tagline": "The dedicated RN path — prerequisites, NCLEX, first job, specialties, and advanced practice.",
+  "summary": "A deep-dive specialization of the Healthcare Careers roadmap: nursing from prerequisites and nursing school through NCLEX licensure, the med-surg first job, specialty certification, and the branch points into advanced practice, leadership, education, and travel nursing.",
+  "category": "Health & Public Service",
+  "color": "#17b3a6",
+  "icon": "heart",
+  "parent": "healthcare",
+  "onetRoles": [
+    "29-1141.00",
+    "29-2061.00",
+    "29-1171.00"
+  ],
+  "jelCodes": [
+    "I11",
+    "I18"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Registered Nurses (29-1141.00)",
+      "url": "https://www.onetonline.org/link/summary/29-1141.00"
+    },
+    {
+      "label": "BLS OOH — Registered Nurses",
+      "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm"
+    },
+    {
+      "label": "NCSBN — NCLEX Examinations",
+      "url": "https://www.ncsbn.org/exams"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "nu-roles",
+      "type": "node",
+      "label": "Nursing Roles Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nursing tiers: CNA (assistive), LPN/LVN (basic licensed care), RN (the professional core), and APRNs (nurse practitioners, CRNAs, midwives, educators) — each with its own license and scope.",
+        "why": "Mapping the ladder first lets you plan the cheapest, fastest route to the tier you actually want — many people over- or under-shoot.",
+        "learn": [
+          "Compare scope and education for CNA, LPN, RN, APRN",
+          "Read the BLS OOH registered-nurse profile",
+          "Interview or shadow one nurse per tier if possible",
+          "Pick a 5-year target tier and work backward"
+        ],
+        "skills": [
+          "Career planning",
+          "Clinical curiosity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Registered Nurses",
+            "url": "https://www.onetonline.org/link/summary/29-1141.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ]
+      }
+    },
+    {
+      "id": "nu-prereq",
+      "type": "node",
+      "label": "Prerequisites",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nursing programs screen hard on prerequisites — anatomy & physiology I/II, microbiology, chemistry, statistics, and developmental psychology — with competitive GPA cutoffs.",
+        "why": "Prereq GPA is the single biggest admissions lever; taking them deliberately (one science per term, with support) protects your options.",
+        "learn": [
+          "List your target programs' exact prereq courses and minimum grades",
+          "Schedule sciences one per term with lab sections",
+          "Use tutoring and office hours from day one",
+          "Track your science GPA separately"
+        ],
+        "skills": [
+          "Academic planning",
+          "Science literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Anatomy and Physiology",
+            "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-cna",
+      "type": "node",
+      "label": "CNA Foundation",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Working as a CNA during prereqs builds patient-contact fundamentals — vitals, mobility, hygiene, and being inside a facility — and strengthens nursing-school applications substantially.",
+        "why": "Programs admit CNAs at higher rates, and the floor experience tells you early whether the work's physical and emotional reality fits.",
+        "learn": [
+          "Complete a state CNA program (weeks-long) and get listed",
+          "Work part-time or per-diem during prereqs",
+          "Practice vitals, charting, and priority awareness",
+          "Collect a reference from your nurse supervisor"
+        ],
+        "skills": [
+          "Patient care",
+          "Vital signs"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Nursing Assistants and Orderlies",
+            "url": "https://www.bls.gov/ooh/healthcare/nursing-assistants-and-orderlies.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-decide",
+      "type": "node",
+      "label": "ADN vs BSN vs Direct",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Three RN entry routes: ADN (2-year, cheapest, fastest to license), BSN (4-year, preferred by Magnet hospitals and required by many), and direct-entry/accelerated programs for degree-holders.",
+        "why": "The route choice is a cost-speed-vs-options trade — and bridge programs (ADN→BSN) make starting cheaper without closing doors.",
+        "learn": [
+          "Compare total cost and timelines of each route locally",
+          "Check BSN preferences at hospitals you'd target",
+          "Verify NCLEX pass rates for programs you consider",
+          "Note accelerated BSN options if you hold any bachelor's"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-teas",
+      "type": "node",
+      "label": "TEAS & Applications",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Admissions combine the TEAS (Test of Essential Academic Skills) or similar entrance exams with GPA, essays, and references — spaces are limited and ranked.",
+        "why": "Applying widely and early, with a prepared TEAS score, is the difference between waiting a semester and starting on time.",
+        "learn": [
+          "Take a full TEAS practice test for a baseline",
+          "Study weak domains (often math and science) for 6–8 weeks",
+          "Apply to 3–5 programs including community colleges",
+          "Write essays from real clinical-adjacent experiences"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Application strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ATI — TEAS exam",
+            "url": "https://www.atitesting.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-program",
+      "type": "node",
+      "label": "Nursing School",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nursing school layers pharmacology, med-surg, fundamentals, and specialty rotations on escalating clinical hours — with NCLEX-style testing from semester one.",
+        "why": "Surviving school is a systems problem: study groups, question banks, and protecting sleep beat last-minute cramming.",
+        "learn": [
+          "Build a weekly study system around question banks",
+          "Master pharmacology cards (the classic filter course)",
+          "Form a clinical-prep routine the night before rotations",
+          "Use faculty office hours early, not after failing grades"
+        ],
+        "skills": [
+          "Study systems",
+          "Clinical reasoning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-clinicals",
+      "type": "node",
+      "label": "Clinical Rotations",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Rotations through med-surg, pediatrics, OB, psych, and community settings turn classroom knowledge into patient care under supervision — and quietly audition you for jobs.",
+        "why": "Units hire nurses they've met on clinicals; treat every rotation day as a working interview.",
+        "learn": [
+          "Prepare care plans the night before every clinical",
+          "Ask nurses on each unit what they wish they'd known",
+          "Note which populations energize you per rotation",
+          "Request references from clinical instructors you impress"
+        ],
+        "skills": [
+          "Clinical practice",
+          "Professional impression"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-nclex",
+      "type": "node",
+      "label": "NCLEX-RN",
+      "variant": "accent",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The NCLEX-RN (NCSBN) is the national licensure exam — adaptive testing across safe care, health promotion, psychosocial, and physiological integrity categories.",
+        "why": "It is the single gate to practice; a structured 6–8 week question-bank campaign after graduation is the proven approach.",
+        "learn": [
+          "Study the NCSBN test plan by category weights",
+          "Build a 75–100 questions-per-day habit near the exam",
+          "Review every wrong answer's rationale immediately",
+          "Schedule within months of graduation while fresh"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Clinical judgment"
+        ],
+        "certs": [
+          {
+            "name": "RN License",
+            "issuer": "State boards of nursing (NCLEX-RN via NCSBN)",
+            "note": "Graduate from an approved program and pass the NCLEX-RN; licensure is by state with compact options."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NCSBN — NCLEX examinations",
+            "url": "https://www.ncsbn.org/exams",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ]
+      }
+    },
+    {
+      "id": "nu-lpn",
+      "type": "node",
+      "label": "LPN Bridge Option",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The LPN-first route licenses faster (~12 months), earns immediately, and bridges to RN through LPN-to-RN programs — trading some mobility for early income and experience.",
+        "why": "For career changers and budget-constrained students, LPN-first is a viable, dignified route with a clear RN bridge.",
+        "learn": [
+          "Compare LPN wages/scope vs your RN timeline math",
+          "Find LPN-to-RN bridge programs in your state",
+          "Confirm bridge credit for LPN experience",
+          "Talk to an LPN who bridged about the reality"
+        ],
+        "skills": [
+          "Route planning",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — LPNs and LVNs",
+            "url": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2061.00"
+        ]
+      }
+    },
+    {
+      "id": "nu-cost",
+      "type": "node",
+      "label": "Paying for School",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Funding options stack: community-college ADN routes, employer tuition partnerships, hospital scholarship-for-service programs, federal aid, and loan-forgiveness programs tied to service.",
+        "why": "Nursing has unusually strong employer-funded pathways — graduating debt-light changes every later decision.",
+        "learn": [
+          "Ask local hospitals about sponsorships and work commitments",
+          "Research federal loan-forgiveness for public/clinical service",
+          "Compare community-college vs university ADN/BSN costs",
+          "Apply for nursing-specific scholarships each year"
+        ],
+        "skills": [
+          "Financial planning",
+          "Scholarship research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "U.S. Department of Education — aid",
+            "url": "https://studentaid.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-firstjob",
+      "type": "node",
+      "label": "First RN Job",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "First jobs: residency programs (structured new-grad onboarding) vs direct med-surg hire; applications go out during final semester with references from clinicals.",
+        "why": "A real residency (with preceptors and classes) dramatically improves first-year survival — choose the program, not just the unit.",
+        "learn": [
+          "Apply to new-grad residencies before graduation",
+          "Compare residency structures: length, preceptorship, classes",
+          "Polish a clinical-focused resume with your rotations",
+          "Practice the 'tell me about a patient' stories"
+        ],
+        "skills": [
+          "Job search strategy",
+          "Interviewing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ]
+      }
+    },
+    {
+      "id": "nu-medsurg",
+      "type": "node",
+      "label": "Med-Surg Foundation",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Medical-surgical nursing is the classic foundation: 4–7 patients, prioritization, time management, and the full breadth of adult conditions — where assessment instincts are forged.",
+        "why": "Even nurses destined for ICU or specialties benefit from a med-surg year; it teaches the prioritization muscle every unit assumes.",
+        "learn": [
+          "Master shift organization: assessments, meds, charting cycles",
+          "Learn delegation to CNAs/LPNs within scope",
+          "Study one patient condition deeply per week",
+          "Ask for graduated patient loads as you improve"
+        ],
+        "skills": [
+          "Prioritization",
+          "Time management",
+          "Adult health knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Registered Nurses",
+            "url": "https://www.onetonline.org/link/summary/29-1141.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ],
+        "tasks": [
+          "Assess patient health problems and needs, develop and implement nursing care plans, and maintain medical records."
+        ]
+      }
+    },
+    {
+      "id": "nu-assess",
+      "type": "node",
+      "label": "Nursing Assessment",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The nurse's core skill: systematic head-to-toe assessment, recognizing the deteriorating patient early, and escalating with SBAR communication that gets heard.",
+        "why": "Assessment instinct — noticing 'something is wrong' before numbers crash — is what separates safe nurses from great ones.",
+        "learn": [
+          "Practice head-to-toe assessments to a 10-minute standard",
+          "Learn early-warning signs (respiratory, neuro, sepsis patterns)",
+          "Use SBAR for every escalation call",
+          "Debrief near-misses with preceptors"
+        ],
+        "skills": [
+          "Patient assessment",
+          "SBAR communication",
+          "Escalation judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-doc",
+      "type": "node",
+      "label": "Documentation & EHR",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clinical documentation in Epic/Cerner-class EHRs: timely, objective, legally defensible charting, medication administration records, and care-plan updates.",
+        "why": "Charting is both a legal shield and the communication backbone of continuity — and it consumes real shift time to master.",
+        "learn": [
+          "Learn SOAP-style and flowsheet documentation standards",
+          "Chart in real time, never batch at shift end",
+          "Practice objective language (what you saw/heard/did)",
+          "Understand late-entry and amendment rules"
+        ],
+        "skills": [
+          "EHR documentation",
+          "Legal awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-specialties",
+      "type": "node",
+      "label": "Choosing a Specialty",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialty choice — ICU, ED, OR, L&D, oncology, psych, pediatrics — shapes acuity, schedules, certifications, and long-term trajectory; most units want 1–2 years of foundation first.",
+        "why": "Choosing deliberately (by pace, patient population, and intensity) prevents the common two-year drift and burnout cycle.",
+        "learn": [
+          "Shadow shifts on 2–3 units before transferring",
+          "Compare acuity, ratios, and schedules honestly",
+          "Identify which specialty certifications your targets require",
+          "Decide: depth (ICU/OR) vs breadth (ED, med-surg)"
+        ],
+        "skills": [
+          "Career planning",
+          "Self-assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-cert",
+      "type": "node",
+      "label": "Specialty Certifications",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Board certifications after practice hours — CCRN (critical care, AACN), OCN (oncology), CEN (emergency, ENA), RNC-OB (obstetrics) — mark expertise and often carry differential pay.",
+        "why": "Certifications are the profession's visible expertise layer; they open charge, educator, and transfer doors.",
+        "learn": [
+          "Identify your specialty's certifying body and hour requirements",
+          "Plan certification after the required practice window",
+          "Use review courses aligned to the exam blueprint",
+          "Check your employer's certification pay and reimbursement"
+        ],
+        "skills": [
+          "Credential planning",
+          "Exam preparation"
+        ],
+        "certs": [
+          {
+            "name": "CCRN",
+            "issuer": "AACN (American Association of Critical-Care Nurses)",
+            "note": "Critical-care RN certification after required practice hours; exemplar of specialty nursing board certifications."
+          }
+        ],
+        "resources": [
+          {
+            "title": "AACN — certifications",
+            "url": "https://www.aacn.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-charge",
+      "type": "node",
+      "label": "Charge & Preceptor",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "First leadership roles: charge nurse (shift coordination, bed flow, staffing) and preceptor (teaching new nurses) — informal leadership that precedes formal management.",
+        "why": "Charge and preceptor work is how leadership aptitude becomes visible — and it's how units choose who they want to keep.",
+        "learn": [
+          "Volunteer to precept nursing students and new grads",
+          "Learn bed-flow and staffing-phone rhythms as charge",
+          "Practice feedback conversations with juniors kindly",
+          "Document your teaching contributions for promotion files"
+        ],
+        "skills": [
+          "Precepting",
+          "Shift coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-bsn",
+      "type": "node",
+      "label": "RN-to-BSN / MSN",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advancement degrees: RN-to-BSN bridge (often online, employer-supported), then MSN tracks — education, leadership, informatics, or the APRN routes (NP, CRNA, CNM, CNS).",
+        "why": "Degrees unlock the ceiling: leadership tracks, educator roles, and every advanced-practice license sits on the MSN.",
+        "learn": [
+          "Check employer tuition assistance for BSN/MSN",
+          "Compare MSN tracks against your 10-year goal",
+          "Verify accreditation and APRN pathways for NP/CRNA",
+          "Consider part-time study while working per-diem"
+        ],
+        "skills": [
+          "Education planning",
+          "Employer funding research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Nurse Practitioners",
+            "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-np",
+      "type": "node",
+      "label": "NP & APRN Paths",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advanced practice registered nurses: nurse practitioners (family, acute, psych, peds), CRNAs (anesthesia), nurse-midwives, and clinical nurse specialists — graduate education plus national certification and state licensure.",
+        "why": "APRN roles are the profession's most autonomous and best-compensated — with direct-patient-impact careers in every setting.",
+        "learn": [
+          "Compare NP population foci and program formats",
+          "Note typical RN experience expectations per track",
+          "Research state practice-authority rules",
+          "Plan grad-program applications around experience hours"
+        ],
+        "skills": [
+          "Advanced practice planning",
+          "Program comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Nurse Practitioners",
+            "url": "https://www.onetonline.org/link/summary/29-1171.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Nurse Practitioners",
+            "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1171.00"
+        ]
+      }
+    },
+    {
+      "id": "nu-travel",
+      "type": "node",
+      "label": "Travel & Flex Roles",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Travel and per-diem nursing: contract assignments (typically 13 weeks) with housing stipends, premium pay, and location freedom — best after 1–2 years of solid acute-care foundation.",
+        "why": "Flex work lets nurses reset burnout, see the country, and test different health systems — with honest trade-offs in support and continuity.",
+        "learn": [
+          "Build 1–2 years of in-demand acute experience first",
+          "Learn how agencies, stipends, and taxes actually work",
+          "Compare travel vs staff total compensation carefully",
+          "Start with one close-to-home contract as a trial"
+        ],
+        "skills": [
+          "Adaptability",
+          "Contract literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-leadership",
+      "type": "node",
+      "label": "Leadership & Education",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Off-the-bedside branches: nurse manager and director tracks, clinical nurse educators, professional-development specialists, informatics, and quality/safety roles.",
+        "why": "Nursing's leadership ceiling is real and close — many CNOs started at the bedside, and education roles protect longevity.",
+        "learn": [
+          "Shadow a nurse manager for a day",
+          "Explore clinical-nurse-educator roles at your hospital",
+          "Consider informatics if you love systems and data",
+          "Note the MSN/MHA expectations per leadership track"
+        ],
+        "skills": [
+          "Leadership",
+          "Education design"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Medical and Health Services Managers",
+            "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-wellbeing",
+      "type": "node",
+      "label": "Sustainable Practice",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nursing longevity: shift-sleep systems, safe patient-handling technique, debriefing after hard losses, peer support, and choosing units whose pace fits your constitution.",
+        "why": "Burnout ends more nursing careers than skill does — sustainability habits are clinical skills, not luxuries.",
+        "learn": [
+          "Build a 3-shift sleep rotation system that works for you",
+          "Use lift teams and mechanical lifts without exception",
+          "Debrief difficult patient outcomes with your team",
+          "Keep one non-nursing identity actively alive"
+        ],
+        "skills": [
+          "Self-care",
+          "Resilience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-license",
+      "type": "node",
+      "label": "Licensure & Mobility",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nursing licenses are state-issued; the Nurse Licensure Compact (NLC) allows one multistate RN license across member states — renewals, CEUs, and discipline disclosure follow you.",
+        "why": "Compact status changes where you can work overnight — knowing your state's status matters for travel and relocation plans.",
+        "learn": [
+          "Check whether your state is in the Nurse Licensure Compact",
+          "Calendar renewal and CEU requirements",
+          "Understand license endorsement when moving states",
+          "Keep a clean, disclosable record from day one"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "CEU planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NCSBN — Nurse Licensure Compact",
+            "url": "https://www.ncsbn.org/nurse-licensure-compact",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-collab",
+      "type": "node",
+      "label": "Team Collaboration",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nursing is interprofessional: physicians, respiratory therapists, pharmacists, PT/OT, social work, and CNAs — clear role boundaries, closed-loop communication, and mutual respect are the operating system.",
+        "why": "Patient outcomes track team communication quality; nurses sit at the hub of every shift's coordination.",
+        "learn": [
+          "Practice closed-loop communication on every handoff",
+          "Learn each discipline's scope for fast, right referrals",
+          "Use structured huddles to start shifts aligned",
+          "Debrief conflict professionally, never on the floor"
+        ],
+        "skills": [
+          "Interprofessional communication",
+          "Coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-skills",
+      "type": "node",
+      "label": "Core Clinical Skills",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The hands-on toolkit: IV insertion and phlebotomy, medication administration (including IV pushes and titration rules), catheters, wounds, and safe medication math.",
+        "why": "Confidence in core skills is what turns a licensed nurse into a useful one — repetition plus verification builds it.",
+        "learn": [
+          "Practice med math until dose calculations are automatic",
+          "Get supervised IV-start reps beyond the minimum",
+          "Learn your facility's high-alert medication double-checks",
+          "Keep a skills log signed by preceptors"
+        ],
+        "skills": [
+          "IV therapy",
+          "Medication administration",
+          "Medication math"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "nu-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "nu-g-license",
+      "type": "group",
+      "label": "LICENSE PATH",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "nu-g-first",
+      "type": "group",
+      "label": "FIRST JOB & FOUNDATION",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "nu-g-adv",
+      "type": "group",
+      "label": "ADVANCE",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "nu-g-beyond",
+      "type": "group",
+      "label": "BEYOND THE UNIT",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "nu-g-sustain",
+      "type": "group",
+      "label": "SUSTAINABILITY",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "nu-roles",
+      "to": "nu-prereq"
+    },
+    {
+      "from": "nu-roles",
+      "to": "nu-cna",
+      "dashed": true
+    },
+    {
+      "from": "nu-roles",
+      "to": "nu-decide",
+      "dashed": true
+    },
+    {
+      "from": "nu-prereq",
+      "to": "nu-teas"
+    },
+    {
+      "from": "nu-cna",
+      "to": "nu-teas",
+      "dashed": true
+    },
+    {
+      "from": "nu-teas",
+      "to": "nu-program"
+    },
+    {
+      "from": "nu-program",
+      "to": "nu-clinicals"
+    },
+    {
+      "from": "nu-clinicals",
+      "to": "nu-nclex"
+    },
+    {
+      "from": "nu-decide",
+      "to": "nu-program",
+      "dashed": true
+    },
+    {
+      "from": "nu-decide",
+      "to": "nu-lpn",
+      "dashed": true
+    },
+    {
+      "from": "nu-cost",
+      "to": "nu-program",
+      "dashed": true
+    },
+    {
+      "from": "nu-nclex",
+      "to": "nu-firstjob"
+    },
+    {
+      "from": "nu-firstjob",
+      "to": "nu-medsurg"
+    },
+    {
+      "from": "nu-medsurg",
+      "to": "nu-assess"
+    },
+    {
+      "from": "nu-medsurg",
+      "to": "nu-doc"
+    },
+    {
+      "from": "nu-assess",
+      "to": "nu-skills",
+      "dashed": true
+    },
+    {
+      "from": "nu-medsurg",
+      "to": "nu-specialties"
+    },
+    {
+      "from": "nu-specialties",
+      "to": "nu-cert",
+      "dashed": true
+    },
+    {
+      "from": "nu-specialties",
+      "to": "nu-charge"
+    },
+    {
+      "from": "nu-charge",
+      "to": "nu-bsn"
+    },
+    {
+      "from": "nu-bsn",
+      "to": "nu-np",
+      "dashed": true
+    },
+    {
+      "from": "nu-bsn",
+      "to": "nu-leadership",
+      "dashed": true
+    },
+    {
+      "from": "nu-specialties",
+      "to": "nu-travel",
+      "dashed": true
+    },
+    {
+      "from": "nu-medsurg",
+      "to": "nu-collab",
+      "dashed": true
+    },
+    {
+      "from": "nu-nclex",
+      "to": "nu-license",
+      "dashed": true
+    },
+    {
+      "from": "nu-skills",
+      "to": "nu-wellbeing",
+      "dashed": true
+    },
+    {
+      "from": "nu-decide",
+      "to": "nu-cost",
+      "dashed": true
+    },
+    {
+      "from": "nu-specialties",
+      "to": "nu-wellbeing",
+      "dashed": true
+    }
+  ]
+}

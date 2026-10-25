@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CareerMap — Step-by-step career roadmaps for non-tech fields</title>
+  <meta name="description" content="Free, open career roadmaps for non-tech fields: accounting, HR, marketing, sales, project management, supply chain, healthcare, teaching, law, psychology and more.">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="chrome-full">
+  <button id="hamburger" class="hamburger" aria-label="Open menu">
+    <span></span><span></span><span></span>
+  </button>
+  <div id="sidebar-backdrop" class="sidebar-backdrop" hidden></div>
+  <aside id="sidebar" class="sidebar" aria-label="Site navigation">
+    <div class="sb-head">
+      <a class="logo" href="#/">
+        <svg class="logo-mark" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4 19 C 7 19, 7 5, 10.5 5 S 14 19, 17.5 19" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+          <circle cx="4" cy="19" r="2.4" fill="currentColor"/>
+          <circle cx="10.5" cy="5" r="2.4" fill="currentColor"/>
+          <circle cx="20" cy="19" r="2.4" fill="currentColor"/>
+        </svg>
+        <span>Career<em>Map</em></span>
+      </a>
+      <button id="sb-close" class="sb-close" aria-label="Close menu">✕</button>
+    </div>
+    <div class="search-wrap sb-search">
+      <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="sidebar-search" type="search" placeholder="Search topics, careers…" autocomplete="off" spellcheck="false">
+      <div id="sidebar-results" class="search-results" hidden></div>
+    </div>
+    <nav class="sb-nav">
+      <a href="#/" data-nav="home"><b>Home</b><span>All career roadmaps</span></a>
+      <a href="#/explorer" data-nav="explorer"><b>Explorer</b><span>Every field in one tree</span></a>
+      <a href="#/careers" data-nav="careers"><b>Careers</b><span>O*NET occupations library</span></a>
+      <a href="#/fields" data-nav="fields"><b>Fields</b><span>JEL fields of study</span></a>
+      <a href="#/about" data-nav="about"><b>About</b><span>Methodology &amp; sources</span></a>
+    </nav>
+    <div class="sb-foot">Free · No accounts · Progress saved in your browser</div>
+  </aside>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="logo" href="#/">
+        <svg class="logo-mark" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4 19 C 7 19, 7 5, 10.5 5 S 14 19, 17.5 19" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
+          <circle cx="4" cy="19" r="2.4" fill="currentColor"/>
+          <circle cx="10.5" cy="5" r="2.4" fill="currentColor"/>
+          <circle cx="20" cy="19" r="2.4" fill="currentColor"/>
+        </svg>
+        <span>Career<em>Map</em></span>
+      </a>
+      <nav class="main-nav">
+        <a href="#/" data-nav="home">Roadmaps</a>
+        <a href="#/explorer" data-nav="explorer">Explorer</a>
+        <a href="#/careers" data-nav="careers">Careers</a>
+        <a href="#/fields" data-nav="fields">Fields</a>
+        <a href="#/about" data-nav="about">About</a>
+      </nav>
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="global-search" type="search" placeholder="Search topics, careers…" autocomplete="off" spellcheck="false">
+        <div id="search-results" class="search-results" hidden></div>
+      </div>
+    </div>
+  </header>
+
+  <main id="app"></main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="logo-text">Career<em>Map</em></span>
+        <p>Free, open career roadmaps for non-tech fields. No account needed — your progress is saved in your browser.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Site</h4>
+        <a href="#/">All roadmaps</a>
+        <a href="#/careers">Careers library</a>
+        <a href="#/fields">Fields of study</a>
+        <a href="#/about">About &amp; methodology</a>
+      </div>
+      <div class="footer-col">
+        <h4>Data sources</h4>
+        <a href="https://www.onetonline.org/" target="_blank" rel="noopener">O*NET OnLine</a>
+        <a href="https://www.bls.gov/ooh/" target="_blank" rel="noopener">BLS Occupational Outlook</a>
+        <a href="https://www.aeaweb.org/econlit/jelCodes" target="_blank" rel="noopener">JEL Classification (AEA)</a>
+        <a href="https://github.com/maudgrol/Data_driven_skills_taxonomy" target="_blank" rel="noopener">Data-driven skills taxonomy</a>
+      </div>
+      <div class="footer-col">
+        <h4>Inspiration</h4>
+        <a href="https://roadmap.sh" target="_blank" rel="noopener">roadmap.sh</a>
+        <p class="footer-note">CareerMap borrows the roadmap-graph idea from roadmap.sh — applied to non-tech careers.</p>
+      </div>
+    </div>
+    <div class="footer-bottom">Built as an open, free resource. Content verified against O*NET 2019 taxonomy and issuing-body pages.</div>
+  </footer>
+
+  <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
+  <aside id="drawer" class="drawer" hidden aria-label="Topic details"></aside>
+
+  <script src="/vendor/d3.min.js"></script>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

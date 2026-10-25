@@ -1,0 +1,940 @@
+{
+  "slug": "culinary-hospitality",
+  "title": "Culinary & Hospitality",
+  "tagline": "From line cook to chef, from front desk to hotel leadership — the craft of feeding and hosting people.",
+  "summary": "Restaurants, hotels, and beverage programs form one of the world's largest employers. This roadmap covers both sides of the house — kitchen craft (knife skills, stations, food cost) and guest service (bar, service flow, recovery) — plus the management, certifications, and ownership paths.",
+  "category": "Service & Hospitality",
+  "color": "#f28582",
+  "icon": "utensils",
+  "onetRoles": [
+    "35-2011.00",
+    "35-1012.00",
+    "11-9081.00",
+    "39-6012.00",
+    "35-3011.00"
+  ],
+  "jelCodes": [
+    "L83"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Cooks, Restaurant (35-2011.00)",
+      "url": "https://www.onetonline.org/link/summary/35-2011.00"
+    },
+    {
+      "label": "BLS OOH — Chefs and Head Cooks",
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm"
+    },
+    {
+      "label": "ServSafe — Food safety training",
+      "url": "https://www.servsafe.com/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ch-explore",
+      "type": "node",
+      "label": "The Industry Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hospitality spans kitchens (restaurants, hotels, catering, institutional) and guest-facing roles (service, bar, front office). Careers start fast, teach fast, and reward stamina and craft.",
+        "why": "It is one of the few industries where you can start earning this week, learn a genuine craft, and reach management or ownership without a degree.",
+        "learn": [
+          "Read the BLS profile of chefs and head cooks",
+          "Tour two kitchens or hotels and note the role structure",
+          "Work one double shift as trial (many places allow stagiaire days)",
+          "Decide: back-of-house craft or front-of-house people work"
+        ],
+        "skills": [
+          "Stamina",
+          "Teamwork",
+          "Craft pride"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Cooks, Restaurant",
+            "url": "https://www.onetonline.org/link/summary/35-2011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "35-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "ch-roles",
+      "type": "node",
+      "label": "Kitchen & FOH Roles",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Kitchens run on a brigade (exec → sous → station chefs → prep/dish); front-of-house runs host → server/bartender → floor manager. Hotels add front desk, housekeeping leadership, and F&B management.",
+        "why": "Knowing the ladder helps you pick your entry point and see every promotion two steps ahead.",
+        "learn": [
+          "Diagram a brigade line for a 60-seat restaurant",
+          "Identify the entry role that hires constantly in your city",
+          "Note which roles get tips vs salary in your market",
+          "Pick a two-year target role"
+        ],
+        "skills": [
+          "Systems awareness",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Food and Serving Occupations",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-safety",
+      "type": "node",
+      "label": "Food Safety Basics",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Food safety is non-negotiable: temperature control, cross-contamination, allergens, handwashing, and sanitation cycles — codified in food-handler cards and ServSafe Manager certification.",
+        "why": "A food-handler card is a hiring requirement nearly everywhere; the manager-level ServSafe is required for anyone supervising a kitchen.",
+        "learn": [
+          "Earn a food-handler card (local health department or ServSafe)",
+          "Learn the temperature danger zone and cooling rules",
+          "Master allergen protocols (the big 9 in the US)",
+          "Practice proper sanitizing solution use and test strips"
+        ],
+        "skills": [
+          "Food safety",
+          "Sanitation"
+        ],
+        "certs": [
+          {
+            "name": "ServSafe Food Handler / Manager",
+            "issuer": "National Restaurant Association",
+            "note": "Food-handler card (entry) and manager certification (supervisory); widely required by health departments and employers."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ServSafe — training and certification",
+            "url": "https://www.servsafe.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-service",
+      "type": "node",
+      "label": "Service Fundamentals",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Great service is anticipatory: read the table, sequence the courses, know the menu cold, and recover failures gracefully. The mechanics are learnable; the warmth is a choice.",
+        "why": "Front-of-house earnings and promotion run on guest experience — and service instincts transfer to every people-facing career.",
+        "learn": [
+          "Memorize a full menu with ingredients and modifications",
+          "Practice the table-visit rhythm (arrival, check-back, dessert, farewell)",
+          "Learn the recovery script: acknowledge, fix, gesture",
+          "Shadow the best server on staff for a shift"
+        ],
+        "skills": [
+          "Guest service",
+          "Anticipation",
+          "Composure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Food and Serving Occupations",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-knife",
+      "type": "node",
+      "label": "Knife Skills & Mise",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Kitchen craft starts with the knife: grip and cuts (dice, julienne, chiffonade), sharpening, and mise en place — everything prepped, labeled, and within reach before service.",
+        "why": "Speed and consistency in any kitchen come from clean knife work and obsessive mise; it is the first thing chefs judge.",
+        "learn": [
+          "Practice the five mother cuts on 10 lbs of vegetables",
+          "Keep your knife sharp (learn whetstone sharpening)",
+          "Set up a full mise en place for a 3-dish prep list",
+          "Time yourself: consistency beats raw speed"
+        ],
+        "skills": [
+          "Knife skills",
+          "Organization"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-line",
+      "type": "node",
+      "label": "Working the Line",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Line cooking is executing a station under pressure: firing tickets in order, holding quality at the rush, communicating ticket calls, and resetting fast.",
+        "why": "Line experience teaches composure, timing, and teamwork faster than any classroom — and it is the universal entry to kitchen careers.",
+        "learn": [
+          "Master one station completely (sauté or grill)",
+          "Learn ticket reading and fire-order communication",
+          "Practice station breakdown and reset to standard",
+          "Work 20 services; note your error pattern and fix it"
+        ],
+        "skills": [
+          "Composure under pressure",
+          "Timing",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Cooks, Restaurant",
+            "url": "https://www.onetonline.org/link/summary/35-2011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "35-2011.00"
+        ],
+        "tasks": [
+          "Prepare and cook food in a restaurant, ensuring quality and presentation standards are met."
+        ]
+      }
+    },
+    {
+      "id": "ch-foundations",
+      "type": "node",
+      "label": "Cooking Foundations",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The canon: stocks, the five mother sauces, braising and roasting, seasoning layering, and butchery basics. Foundations are what make menus improvisable.",
+        "why": "Chefs promote cooks who understand why a sauce breaks or a braise toughens — foundations are the promotion currency.",
+        "learn": [
+          "Make chicken and vegetable stock from scratch, correctly",
+          "Prepare all five mother sauces and two derivatives",
+          "Braise a tough cut to tenderness and explain the science",
+          "Break down a whole chicken into eight pieces"
+        ],
+        "skills": [
+          "Cooking technique",
+          "Recipe scaling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-baking",
+      "type": "node",
+      "label": "Pastry & Baking Track",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The pastry branch: precision baking, laminated doughs, plated desserts, chocolate, and breads — a distinct craft with its own ladder (pastry cook → pastry chef).",
+        "why": "Pastry suits precision-lovers and offers specialty careers in hotels, bakeries, and standalone shops.",
+        "learn": [
+          "Learn baker's percentages and scale everything",
+          "Bake laminated dough (croissant) from scratch",
+          "Master one plated dessert with sauce work",
+          "Bake sandwich bread and lean hearth bread, compare crumb"
+        ],
+        "skills": [
+          "Baking precision",
+          "Recipe development"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-prep",
+      "type": "node",
+      "label": "Prep & Inventory",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Prep is production cooking at scale: par levels, rotation (FIFO), labeling, and the receiving discipline that keeps the walk-in organized and costs down.",
+        "why": "Every chef started in prep; understanding inventory and waste here is the seed of kitchen management.",
+        "learn": [
+          "Set par levels for one station for a week",
+          "Practice FIFO rotation and date labeling standards",
+          "Do a receiving check: quality, temperature, weights",
+          "Track one week of waste and propose two reductions"
+        ],
+        "skills": [
+          "Inventory management",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Food Preparation Workers",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-preparation-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-cost",
+      "type": "node",
+      "label": "Food Cost & Pricing",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Restaurants run on percentages: food cost (typically 28–35%), labor cost, and prime cost. Chefs who can cost a plate and engineer a menu become management immediately.",
+        "why": "Kitchen creativity survives only inside food-cost discipline — this is the skill that takes cooks to chef.",
+        "learn": [
+          "Cost one recipe per ingredient and compute plate cost",
+          "Calculate food cost percentage from a sample P&L",
+          "Engineer a menu: stars, plow-horses, puzzles, dogs",
+          "Propose one spec change that saves 2% food cost"
+        ],
+        "skills": [
+          "Cost control",
+          "Menu engineering"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — small business financials",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-bar",
+      "type": "node",
+      "label": "Bar & Beverage",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Bartending blends craft (classics, balance, garnish), speed (service well), and responsibility (alcohol laws, checking IDs, refusing service). Coffee programs add their own craft ladder.",
+        "why": "Beverage roles pay well with tips and lead to bar management, beverage direction, and cafe ownership.",
+        "learn": [
+          "Learn 10 classic cocktails cold (specs and technique)",
+          "Get your jurisdiction's alcohol-service certification (e.g., TIPS-style)",
+          "Practice free-pour accuracy and well organization",
+          "Learn espresso extraction basics if coffee-focused"
+        ],
+        "skills": [
+          "Beverage craft",
+          "Responsible service"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Bartenders",
+            "url": "https://www.onetonline.org/link/summary/35-3011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "35-3011.00"
+        ]
+      }
+    },
+    {
+      "id": "ch-ops",
+      "type": "node",
+      "label": "Reservations & POS",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The operational backbone: POS fluency, reservation and waitlist management, table math (server sections, turns), and the closing-out cash discipline.",
+        "why": "Whoever runs the book and the POS quietly runs the floor — these are the promotion tasks nobody notices.",
+        "learn": [
+          "Master your POS: voids, comps, splits, item 86-ing",
+          "Manage a Friday waitlist fairly and calmly",
+          "Learn server-banking cash reconciliation",
+          "Practice floor plans for three party-size mixes"
+        ],
+        "skills": [
+          "POS systems",
+          "Operations coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Food and Serving Occupations",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-recovery",
+      "type": "node",
+      "label": "Guest Recovery",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service failures are recoverable: acknowledge fast, fix without excuses, follow up with a gesture, and log patterns so the kitchen can prevent repeats.",
+        "why": "Recovered guests are often more loyal than never-disappointed ones — recovery skill is why managers get promoted from the floor.",
+        "learn": [
+          "Write the three-step recovery script for your venue",
+          "Handle one complaint end-to-end this week",
+          "Track complaint patterns for a month",
+          "Practice empowering language ('here's what I can do…')"
+        ],
+        "skills": [
+          "Problem solving",
+          "Empathy",
+          "Composure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Food and Serving Occupations",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-kitchenmgmt",
+      "type": "node",
+      "label": "Kitchen Management",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sous and head chef work: scheduling the brigade, ordering, expediting, training, and enforcing standards — leadership delivered at 400 degrees.",
+        "why": "Kitchen management converts craft credibility into team results; it is the chef's real job description.",
+        "learn": [
+          "Write a week's brigade schedule covering labor target",
+          "Run an expedite window calmly for full service",
+          "Train one cook on a station with a checklist",
+          "Run a prep list for a 200-cover night"
+        ],
+        "skills": [
+          "Kitchen leadership",
+          "Scheduling",
+          "Training"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-pl",
+      "type": "node",
+      "label": "Restaurant P&L",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Reading the restaurant P&L: prime cost (food + labor, target ≤ 60–65%), rent, and the flow-through to profit. Managers who speak P&L get general-manager roles.",
+        "why": "General managers are hired to protect profit, not just pass inspections — the numbers are the language.",
+        "learn": [
+          "Read a sample restaurant P&L line by line",
+          "Compute prime cost and flow-through on two months",
+          "Build a labor-scheduling target from forecast covers",
+          "Propose two profit actions with estimated impact"
+        ],
+        "skills": [
+          "Financial analysis",
+          "Labor management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — financial management",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-lodging",
+      "type": "node",
+      "label": "Hotel & Lodging Ops",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hotels run rooms division (front office, housekeeping) and F&B — with revenue management (rate and occupancy optimization) as the strategic brain. Lodging management is a distinct, global career.",
+        "why": "Hotel careers scale internationally with clear brand ladders — from front desk to rooms division to GM.",
+        "learn": [
+          "Learn the front-office cycle: arrival, in-house, departure",
+          "Understand occupancy, ADR, and RevPAR metrics",
+          "Shadow a housekeeping inspector's morning",
+          "Read how F&B anchors hotel guest experience"
+        ],
+        "skills": [
+          "Hotel operations",
+          "Revenue awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Lodging Managers",
+            "url": "https://www.onetonline.org/link/summary/11-9081.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Lodging Managers",
+            "url": "https://www.bls.gov/ooh/management/lodging-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9081.00"
+        ]
+      }
+    },
+    {
+      "id": "ch-chef",
+      "type": "node",
+      "label": "Chef de Cuisine Path",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The chef ladder: sous chef → chef de cuisine → executive chef/culinary director — combining menu authorship, cost leadership, and brigade development, often across properties.",
+        "why": "Chef roles reward both craft and leadership; the path is open through proved kitchens or culinary school plus apprenticeship.",
+        "learn": [
+          "Write a seasonal menu with costed recipes",
+          "Run kitchen interviews and try-outs",
+          "Develop two cooks deliberately (document their growth)",
+          "Stage at a kitchen you admire and take notes"
+        ],
+        "skills": [
+          "Menu development",
+          "Leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-ownership",
+      "type": "node",
+      "label": "Opening a Venue",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Opening a restaurant or cafe: concept and market fit, business plan, build-out and permits, menu engineering, staffing, and the survival math of the first year.",
+        "why": "Ownership is the dream and the hardest job in hospitality — going in with the numbers is the difference between dream and closure.",
+        "learn": [
+          "Write a one-page concept: audience, price band, capacity",
+          "Model break-even covers per night",
+          "Learn permits and licensing in your city (health, liquor)",
+          "Interview two owners about their first year"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-school",
+      "type": "node",
+      "label": "School vs Apprenticeship",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Culinary school (certificate to associate) buys structured foundations and network; apprenticeship/stagiaire paths buy paid experience. Most working chefs mix both.",
+        "why": "This is the field's biggest money decision — both routes work; debt without intent doesn't.",
+        "learn": [
+          "Compare total cost of local programs vs earning while learning",
+          "Ask 5 working chefs which they'd choose today",
+          "Check if your target employers sponsor certifications",
+          "Consider community-college culinary programs for value"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-certs",
+      "type": "node",
+      "label": "Certifications",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Stackable credentials: ServSafe Manager (near-universal), alcohol-service cards, hotel-side credentials (e.g., AHLEI's lodging certifications), and sommelier/wine study for beverage careers.",
+        "why": "Certifications are cheap signal boosters in hiring and are often required for supervisory roles.",
+        "learn": [
+          "Get ServSafe Manager if you supervise anything",
+          "Add your jurisdiction's alcohol-service card",
+          "Explore AHLEI lodging certifications for hotel tracks",
+          "Plan wine/beverage study only if beverage is your lane"
+        ],
+        "skills": [
+          "Credential planning",
+          "Credential planning"
+        ],
+        "certs": [
+          {
+            "name": "Certified Hotel Administrator (CHA)",
+            "issuer": "AHLEI (American Hotel & Lodging Educational Institute)",
+            "note": "Hospitality executive credential for general managers and senior lodging leaders."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ServSafe",
+            "url": "https://www.servsafe.com/",
+            "kind": "certification"
+          },
+          {
+            "title": "AHLEI — certifications",
+            "url": "https://www.ahlei.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-concierge",
+      "type": "node",
+      "label": "Guest Experience Careers",
+      "variant": "muted",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond restaurants: concierge and guest-relations roles, event and catering coordination, and destination-experience work — hospitality skills applied outside the dining room.",
+        "why": "Service craft is portable; these roles trade kitchen hours for business hours while keeping the people-first core.",
+        "learn": [
+          "Learn the concierge role from O*NET",
+          "Explore catering and event operations (high-volume service)",
+          "Note local tourism employers (hotels, attractions)",
+          "Practice vendor coordination for one mock event"
+        ],
+        "skills": [
+          "Guest experience",
+          "Event coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Concierges",
+            "url": "https://www.onetonline.org/link/summary/39-6012.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-6012.00"
+        ]
+      }
+    },
+    {
+      "id": "ch-reality",
+      "type": "node",
+      "label": "Hours & Body Reality",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry runs nights, weekends, holidays, on your feet, at pace. Sustainable careers plan for sleep, feet, hands, and honest pacing across a decade.",
+        "why": "Burnout, not skill, ends most hospitality careers — planning the physical reality is a professional skill like knife work.",
+        "learn": [
+          "Build a sleep strategy for late shifts",
+          "Invest in footwear and floor mats (seriously)",
+          "Learn the stretch-and-strengthen routine kitchen veterans swear by",
+          "Decide your decade plan: kitchen, floor, or management"
+        ],
+        "skills": [
+          "Self-care",
+          "Stamina management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Food and Serving Occupations",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ch-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ch-g-kitchen",
+      "type": "group",
+      "label": "KITCHEN CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ch-g-floor",
+      "type": "group",
+      "label": "SERVICE & BEVERAGE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ch-g-mgmt",
+      "type": "group",
+      "label": "MANAGEMENT",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ch-g-grow",
+      "type": "group",
+      "label": "LEADERSHIP & OWNERSHIP",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ch-g-career",
+      "type": "group",
+      "label": "PATHS & REALITIES",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "ch-explore",
+      "to": "ch-roles"
+    },
+    {
+      "from": "ch-explore",
+      "to": "ch-safety"
+    },
+    {
+      "from": "ch-explore",
+      "to": "ch-service",
+      "dashed": true
+    },
+    {
+      "from": "ch-roles",
+      "to": "ch-knife"
+    },
+    {
+      "from": "ch-roles",
+      "to": "ch-bar",
+      "dashed": true
+    },
+    {
+      "from": "ch-knife",
+      "to": "ch-line"
+    },
+    {
+      "from": "ch-line",
+      "to": "ch-foundations"
+    },
+    {
+      "from": "ch-foundations",
+      "to": "ch-baking",
+      "dashed": true
+    },
+    {
+      "from": "ch-line",
+      "to": "ch-prep"
+    },
+    {
+      "from": "ch-prep",
+      "to": "ch-cost"
+    },
+    {
+      "from": "ch-cost",
+      "to": "ch-kitchenmgmt"
+    },
+    {
+      "from": "ch-service",
+      "to": "ch-ops"
+    },
+    {
+      "from": "ch-ops",
+      "to": "ch-recovery"
+    },
+    {
+      "from": "ch-recovery",
+      "to": "ch-pl",
+      "dashed": true
+    },
+    {
+      "from": "ch-kitchenmgmt",
+      "to": "ch-pl"
+    },
+    {
+      "from": "ch-pl",
+      "to": "ch-lodging",
+      "dashed": true
+    },
+    {
+      "from": "ch-kitchenmgmt",
+      "to": "ch-chef"
+    },
+    {
+      "from": "ch-chef",
+      "to": "ch-ownership"
+    },
+    {
+      "from": "ch-lodging",
+      "to": "ch-concierge",
+      "dashed": true
+    },
+    {
+      "from": "ch-explore",
+      "to": "ch-school",
+      "dashed": true
+    },
+    {
+      "from": "ch-kitchenmgmt",
+      "to": "ch-certs",
+      "dashed": true
+    },
+    {
+      "from": "ch-concierge",
+      "to": "ch-reality",
+      "dashed": true
+    }
+  ]
+}

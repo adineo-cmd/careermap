@@ -1,0 +1,995 @@
+{
+  "slug": "public-safety",
+  "title": "Public Safety & Security",
+  "tagline": "Police, fire, corrections, EMS support, and security — careers protecting people and property.",
+  "summary": "Protective service careers are civil-service based, physically demanding, and profoundly public. This roadmap covers the entry requirements (academies, exams, fitness tests), the major paths (law enforcement, fire service, corrections, private security, emergency management), and the promotion and specialty ladders.",
+  "category": "Health & Public Service",
+  "color": "#5c7cfa",
+  "icon": "shield",
+  "onetRoles": [
+    "33-2011.00",
+    "33-3051.00",
+    "33-3012.00",
+    "33-3021.00",
+    "33-9032.00"
+  ],
+  "jelCodes": [
+    "K42"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Firefighters (33-2011.00)",
+      "url": "https://www.onetonline.org/link/summary/33-2011.00"
+    },
+    {
+      "label": "BLS OOH — Police and Detectives",
+      "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm"
+    },
+    {
+      "label": "BLS OOH — Firefighters",
+      "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ps-explore",
+      "type": "node",
+      "label": "The Protective Services Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Protective service spans municipal police, fire and rescue, corrections, court and security roles, plus private-sector security and corporate emergency management. Most public roles run through civil-service hiring.",
+        "why": "These careers offer pensions, strong benefits, and clear rank ladders — with demanding entry standards that reward preparation.",
+        "learn": [
+          "Read BLS profiles for police officers and firefighters",
+          "List the civil-service steps in your city (exam, academy, probation)",
+          "Assess physical readiness honestly against academy standards",
+          "Attend a community academy or ride-along if offered"
+        ],
+        "skills": [
+          "Physical fitness",
+          "Integrity",
+          "Composure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3051.00",
+          "33-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "ps-readiness",
+      "type": "node",
+      "label": "Physical & Mental Readiness",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Entry standards test strength, endurance, agility, vision, and psychological fitness — plus background checks and (for many roles) age windows and residency rules.",
+        "why": "Preparation is the differentiator: candidates who train for the specific test (CPAT, academy PT standards) succeed at far higher rates.",
+        "learn": [
+          "Find your target department's physical test and standards",
+          "Build a 12-week training plan toward that exact test",
+          "Complete a background self-audit (documents for your history)",
+          "Practice the psychological-style interviews with sample scenarios"
+        ],
+        "skills": [
+          "Physical fitness",
+          "Discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-civilservice",
+      "type": "node",
+      "label": "Civil Service Process",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public safety hiring runs on ranked lists: written exam → physical/agility test → oral board → background investigation → medical/psychological → academy. Patience and documentation win.",
+        "why": "Understanding the pipeline prevents the most common failures: missed deadlines, undisclosed history, and unprepared oral boards.",
+        "learn": [
+          "Map the full process for three target agencies",
+          "Start a background file: addresses, employers, references",
+          "Practice oral-board answers (why this job, scenario questions)",
+          "Apply broadly — lists can take months to a year"
+        ],
+        "skills": [
+          "Process navigation",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-ethics",
+      "type": "node",
+      "label": "Ethics & Public Trust",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Protective roles carry extraordinary authority and scrutiny: constitutional limits, use-of-force policy, impartiality, and community accountability define modern practice.",
+        "why": "Careers end on ethics failures far more often than skills failures — and communities judge institutions by individual conduct.",
+        "learn": [
+          "Learn your state's use-of-force standards conceptually",
+          "Study de-escalation principles and duty-to-intervene norms",
+          "Read your target agency's values and disciplinary matrix",
+          "Reflect on scenarios: bias, loyalty, reporting misconduct"
+        ],
+        "skills": [
+          "Ethics",
+          "Impartiality",
+          "Accountability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-police",
+      "type": "node",
+      "label": "Law Enforcement Path",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Patrol is the foundation: academy (6+ months), field training, then patrol work — answering calls, enforcing law, documenting, and community engagement. Detectives, K-9, traffic, and specialty units branch from experience.",
+        "why": "Law enforcement offers structured advancement, pensions, and unusual variety — no two shifts are the same.",
+        "learn": [
+          "Compare municipal, county, state, and federal employers",
+          "Learn your state's POST academy requirements",
+          "Build report-writing sample skills (clarity under policy)",
+          "Plan for the probationary year's learning curve"
+        ],
+        "skills": [
+          "Law knowledge",
+          "Report writing",
+          "Officer safety"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Police and Sheriff's Patrol Officers",
+            "url": "https://www.onetonline.org/link/summary/33-3051.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3051.00"
+        ],
+        "tasks": [
+          "Maintain order and protect life and property by enforcing laws and regulations; patrol assigned areas; respond to calls for service."
+        ]
+      }
+    },
+    {
+      "id": "ps-fire",
+      "type": "node",
+      "label": "Fire Service Path",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Firefighters respond to fires, medical calls, rescues, and hazards — through civil-service exams, the Candidate Physical Ability Test (CPAT), fire academy, and usually EMT certification as a base requirement.",
+        "why": "Fire service combines technical rescue craft, medical response, and team culture, with strong promotional ladders (engineer, captain, battalion).",
+        "learn": [
+          "Confirm whether your departments require EMT-B for hiring",
+          "Train specifically for the CPAT events",
+          "Learn fire academy basics: hose, ladders, SCBA, search",
+          "Volunteer or explorer programs count — join one"
+        ],
+        "skills": [
+          "Rescue techniques",
+          "Physical endurance",
+          "Teamwork"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Firefighters",
+            "url": "https://www.onetonline.org/link/summary/33-2011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-2011.00"
+        ],
+        "tasks": [
+          "Control and extinguish fires or respond to emergency situations where life, property, or the environment is at risk."
+        ]
+      }
+    },
+    {
+      "id": "ps-corr",
+      "type": "node",
+      "label": "Corrections Path",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Correctional officers supervise people in custody: security posts, counts, searches, documentation, and de-escalation inside facilities — often the fastest hiring in protective services.",
+        "why": "Corrections hires continuously, pays academy wages from day one, and builds experience valued across law enforcement.",
+        "learn": [
+          "Learn your state DOC's academy and post requirements",
+          "Practice verbal de-escalation scenarios",
+          "Understand the shift realities (nights, overtime culture)",
+          "Explore probation/parole officer paths as a branch"
+        ],
+        "skills": [
+          "De-escalation",
+          "Vigilance",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Correctional Officers and Jailers",
+            "url": "https://www.onetonline.org/link/summary/33-3012.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3012.00"
+        ]
+      }
+    },
+    {
+      "id": "ps-security",
+      "type": "node",
+      "label": "Private Security",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Private security spans guard posts, loss prevention, executive protection, and corporate campus safety — state guard cards required, with corporate and specialized roles paying well beyond entry.",
+        "why": "Security is the most accessible protective career (weeks to entry) and a proving ground for later public-service applications.",
+        "learn": [
+          "Get your state guard card (short course + exam)",
+          "Compare posts: retail LP, healthcare, events, corporate",
+          "Learn report writing and CCTV basics",
+          "Note armed vs unarmed endorsements and their training"
+        ],
+        "skills": [
+          "Observation",
+          "Report writing",
+          "Access control"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Security Guards",
+            "url": "https://www.onetonline.org/link/summary/33-9032.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-9032.00"
+        ]
+      }
+    },
+    {
+      "id": "ps-em",
+      "type": "node",
+      "label": "Emergency Management",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Emergency management plans for disasters: hazard mitigation, ICS-based response coordination, exercises, and recovery — in city, county, state, hospital, and university emergency-management offices.",
+        "why": "It is the planning-and-coordination side of public safety — great for organizers who want impact without patrol or overhaul duties.",
+        "learn": [
+          "Complete free FEMA ICS-100/200 courses online",
+          "Follow your county emergency management office",
+          "Volunteer in a community emergency response team (CERT)",
+          "Learn the mitigation plan cycle basics"
+        ],
+        "skills": [
+          "Coordination",
+          "Planning",
+          "ICS knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — Emergency Management Institute courses",
+            "url": "https://training.fema.gov/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-academy",
+      "type": "node",
+      "label": "Police Academy",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Academies blend law, tactics, fitness, driving, and scenario training, followed by field training with a veteran officer — the probationary year decides everything.",
+        "why": "Academy success is a trainable outcome: fitness, study discipline, and stress tolerance are all buildable before day one.",
+        "learn": [
+          "Train to exceed your academy's PT standards",
+          "Learn note systems for high-volume legal content",
+          "Practice scenario decision-making out loud",
+          "Understand the FTO phase structure and daily observation reports"
+        ],
+        "skills": [
+          "Learning under pressure",
+          "Legal knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-fireacademy",
+      "type": "node",
+      "label": "Fire Academy & CPAT",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fire academies drill hose evolutions, ladders, SCBA confidence, search, and pump operations; the CPAT (stair climb, hose drag, equipment carry, rescue drag, ceiling breach and more) gates entry.",
+        "why": "Departments hire prepared candidates — CPAT timing and academy readiness are the two controllable variables.",
+        "learn": [
+          "Schedule and pass a CPAT (validity windows apply)",
+          "Train with weighted stairs and dummy drags",
+          "Learn SCBA air-management discipline",
+          "Complete EMT-B in parallel — many departments require it"
+        ],
+        "skills": [
+          "Physical endurance",
+          "Fireground skills"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-reporting",
+      "type": "node",
+      "label": "Report Writing",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Reports are the legal record of protective work: factual, chronological, complete, and defensible in court. Every career branch (detective, fire marshal, security management) weighs it heavily.",
+        "why": "Poor reports lose cases and invite liability — strong writing is the fastest credibility builder for new officers.",
+        "learn": [
+          "Practice the chronological facts-only style on mock incidents",
+          "Learn to document use-of-force precisely",
+          "Get feedback from a veteran on five practice reports",
+          "Study what attorneys look for in discovery"
+        ],
+        "skills": [
+          "Report writing",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-deesc",
+      "type": "node",
+      "label": "De-escalation",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Verbal de-escalation — tone, distance, listening, and time — resolves most encounters before force becomes relevant; crisis-communication models are now standard academy content.",
+        "why": "De-escalation protects everyone: subjects, officers, and careers. It is the most scrutinized skill in modern policing and security.",
+        "learn": [
+          "Practice the L.E.P.S.-style frameworks (listen, empathize…)",
+          "Train crisis-communication scenarios for mental-health calls",
+          "Learn the role of time and distance in force decisions",
+          "Debrief real encounters with a mentor"
+        ],
+        "skills": [
+          "De-escalation",
+          "Crisis communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-community",
+      "type": "node",
+      "label": "Community Relations",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Protective work succeeds through relationships: knowing the beat's residents and business owners, transparent communication after incidents, and consistent presence.",
+        "why": "Community trust determines whether people call you, talk to you, and back you — it is operationally decisive, not PR.",
+        "learn": [
+          "Walk your beat and introduce yourself by name",
+          "Attend one community meeting per quarter",
+          "Learn your city's civilian-oversight structure",
+          "Build a business-owner contact list for your area"
+        ],
+        "skills": [
+          "Community engagement",
+          "Cultural competence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-resilience",
+      "type": "node",
+      "label": "Stress & Resilience",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Protective work carries cumulative trauma exposure, shift disruption, and hypervigilance — sustainable careers are built on peer support, sleep discipline, and normalizing help-seeking.",
+        "why": "Agencies now treat wellness as readiness. Building the habits early protects your career, family, and judgment.",
+        "learn": [
+          "Learn the signs of cumulative traumatic stress",
+          "Build a sleep strategy for shift work",
+          "Identify your agency's peer-support and EAP resources",
+          "Keep one identity and hobby fully outside the job"
+        ],
+        "skills": [
+          "Stress management",
+          "Peer support"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-detective",
+      "type": "node",
+      "label": "Investigations & Detective",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Detective work follows promotion or selection: case management, interviews and interrogations, warrant drafting, evidence coordination, and court testimony.",
+        "why": "Investigations suit analytical, patient caseworkers — and detective experience opens federal and private-sector doors.",
+        "learn": [
+          "Learn interview vs interrogation frameworks",
+          "Practice case-file organization on mock cases",
+          "Study warrant affidavit structure",
+          "Take a statement-analysis or interview course if offered"
+        ],
+        "skills": [
+          "Investigation",
+          "Interviewing",
+          "Case management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Detectives and Criminal Investigators",
+            "url": "https://www.onetonline.org/link/summary/33-3021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3021.00"
+        ]
+      }
+    },
+    {
+      "id": "ps-ranks",
+      "type": "node",
+      "label": "Rank Promotions",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Promotions run on civil-service exams and assessment centers: sergeant/lieutenant in police, engineer/captain/battalion in fire — combining test scores, experience, and interviews.",
+        "why": "Ranks bring supervisory pay and scope; the exam treadmill rewards years of steady preparation.",
+        "learn": [
+          "Get the promotional reading list for your next rank early",
+          "Study supervision and administration content deliberately",
+          "Practice assessment-center exercises (staffing scenarios)",
+          "Track eligibility windows and apply every cycle"
+        ],
+        "skills": [
+          "Supervision",
+          "Exam preparation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-federal",
+      "type": "node",
+      "label": "Federal & Specialty Units",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialization branches: federal agencies (with their own academies), swat/negotiations/K-9/arson/fire-investigation units, task forces, and marine/aviation/tactical EMS roles.",
+        "why": "Specialties keep long careers fresh and often pay premiums — most require a spotless record and proven basics first.",
+        "learn": [
+          "List the specialty units in your agencies and their requirements",
+          "Understand federal application cycles and age limits",
+          "Build the fitness and skills your target unit tests",
+          "Ask unit members what actually gets people selected"
+        ],
+        "skills": [
+          "Specialized skills",
+          "Selection readiness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Typical arcs: entry officer/firefighter → specialist or detective/engineer → supervisor (sergeant/captain) → command staff; or pivots into security management, emergency management, investigations, and training.",
+        "why": "Pensions reward tenure, but the richest careers plan branches early — specializations, education, and leadership credentials.",
+        "learn": [
+          "Map 20-year paths of three veterans you admire",
+          "Decide: specialist depth vs leadership breadth",
+          "Note education incentives (many agencies pay per credit)",
+          "Set a 5-year plan aligned to your agency's calendar"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Protective Service occupations",
+            "url": "https://www.bls.gov/ooh/protective-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-second",
+      "type": "node",
+      "label": "Second Careers",
+      "variant": "muted",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Protective skills transfer: corporate security leadership, private investigation, safety management, insurance investigation, emergency management, and protective-intelligence roles.",
+        "why": "Knowing the landing zones makes service careers safer bets — and helps you pick specializations with post-service value.",
+        "learn": [
+          "List post-retirement roles in your region",
+          "Note certifications private employers value (e.g., CPP-style)",
+          "Build a network outside your agency from year five",
+          "Keep a transferable-skills inventory updated"
+        ],
+        "skills": [
+          "Career planning",
+          "Skills inventory"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Protective Service occupations",
+            "url": "https://www.bls.gov/ooh/protective-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-benefits",
+      "type": "node",
+      "label": "Pensions & Benefits",
+      "variant": "muted",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public safety compensation runs through pension systems (often 20–25-year service formulas), overtime culture, and medical benefits — understanding them changes every financial decision.",
+        "why": "The pension is half the compensation; planning contributions, service credits, and deferred-compensation options is career literacy.",
+        "learn": [
+          "Read your target system's service-pension formula",
+          "Learn overtime and special-pay structures",
+          "Understand DROP-style options where they exist",
+          "Meet a pension counselor by year five"
+        ],
+        "skills": [
+          "Financial planning",
+          "Long-term planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Protective Service occupations",
+            "url": "https://www.bls.gov/ooh/protective-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-ems",
+      "type": "node",
+      "label": "EMS Connection",
+      "variant": "muted",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most fire services require EMT certification, and EMS is its own ladder (EMT → paramedic) — see the Healthcare Careers roadmap for the medical branch.",
+        "why": "EMT-B is both a fire-hiring asset and a standalone career; paramedic adds advanced life support responsibilities.",
+        "learn": [
+          "Complete an EMT-B course at a community college",
+          "Ride with a volunteer service to confirm fit",
+          "Compare EMT vs paramedic timelines and scope",
+          "Check how fire departments weight EMS in hiring"
+        ],
+        "skills": [
+          "Emergency care",
+          "Clinical skills"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-privacy",
+      "type": "node",
+      "label": "Off-Duty Conduct",
+      "variant": "muted",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Protective employees are held to off-duty standards: social media, associations, financial conduct, and public behavior are all reviewable — character and fitness continues after hiring.",
+        "why": "Most separations in protective services trace to off-duty conduct. Knowing the rules protects a career you spent years building.",
+        "learn": [
+          "Read your agency's conduct policy before, not after",
+          "Audit your social media like a background investigator would",
+          "Keep finances orderly — credit checks continue",
+          "When in doubt, disclose and ask"
+        ],
+        "skills": [
+          "Professional judgment",
+          "Self-audit"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ps-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ps-g-paths",
+      "type": "group",
+      "label": "CHOOSE YOUR SERVICE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ps-g-train",
+      "type": "group",
+      "label": "TRAINING & CORE SKILLS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ps-g-adv",
+      "type": "group",
+      "label": "SPECIALIZATION & RANK",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ps-g-grow",
+      "type": "group",
+      "label": "LEADERSHIP & WELLBEING",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ps-g-career",
+      "type": "group",
+      "label": "CAREER & REALITIES",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "ps-explore",
+      "to": "ps-readiness"
+    },
+    {
+      "from": "ps-explore",
+      "to": "ps-civilservice"
+    },
+    {
+      "from": "ps-explore",
+      "to": "ps-ethics"
+    },
+    {
+      "from": "ps-readiness",
+      "to": "ps-police"
+    },
+    {
+      "from": "ps-readiness",
+      "to": "ps-fire"
+    },
+    {
+      "from": "ps-civilservice",
+      "to": "ps-police",
+      "dashed": true
+    },
+    {
+      "from": "ps-civilservice",
+      "to": "ps-corr",
+      "dashed": true
+    },
+    {
+      "from": "ps-explore",
+      "to": "ps-security",
+      "dashed": true
+    },
+    {
+      "from": "ps-explore",
+      "to": "ps-em",
+      "dashed": true
+    },
+    {
+      "from": "ps-police",
+      "to": "ps-academy"
+    },
+    {
+      "from": "ps-fire",
+      "to": "ps-fireacademy"
+    },
+    {
+      "from": "ps-academy",
+      "to": "ps-reporting"
+    },
+    {
+      "from": "ps-reporting",
+      "to": "ps-deesc"
+    },
+    {
+      "from": "ps-fireacademy",
+      "to": "ps-reporting",
+      "dashed": true
+    },
+    {
+      "from": "ps-deesc",
+      "to": "ps-community"
+    },
+    {
+      "from": "ps-community",
+      "to": "ps-resilience"
+    },
+    {
+      "from": "ps-reporting",
+      "to": "ps-detective"
+    },
+    {
+      "from": "ps-resilience",
+      "to": "ps-detective",
+      "dashed": true
+    },
+    {
+      "from": "ps-detective",
+      "to": "ps-ranks"
+    },
+    {
+      "from": "ps-ranks",
+      "to": "ps-federal",
+      "dashed": true
+    },
+    {
+      "from": "ps-federal",
+      "to": "ps-career"
+    },
+    {
+      "from": "ps-security",
+      "to": "ps-career",
+      "dashed": true
+    },
+    {
+      "from": "ps-em",
+      "to": "ps-career",
+      "dashed": true
+    },
+    {
+      "from": "ps-career",
+      "to": "ps-second",
+      "dashed": true
+    },
+    {
+      "from": "ps-career",
+      "to": "ps-benefits"
+    },
+    {
+      "from": "ps-fire",
+      "to": "ps-ems",
+      "dashed": true
+    },
+    {
+      "from": "ps-career",
+      "to": "ps-privacy",
+      "dashed": true
+    }
+  ]
+}

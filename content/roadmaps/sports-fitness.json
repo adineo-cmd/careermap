@@ -1,0 +1,1033 @@
+{
+  "slug": "sports-fitness",
+  "title": "Sports & Fitness",
+  "tagline": "Personal training, coaching, strength and conditioning, and athletic training — helping people move and compete.",
+  "summary": "Fitness and sports careers turn exercise science into human performance: personal trainers and group instructors, school and team coaches, strength and conditioning specialists, athletic trainers, and the business of coaching. This roadmap covers certifications, program design, client building, and the honesty about income and longevity.",
+  "category": "People & Organizations",
+  "color": "#35a7c9",
+  "icon": "activity",
+  "onetRoles": [
+    "27-2022.00",
+    "39-9031.00",
+    "29-9091.00",
+    "29-1031.00"
+  ],
+  "jelCodes": [
+    "L83"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Coaches and Scouts (27-2022.00)",
+      "url": "https://www.onetonline.org/link/summary/27-2022.00"
+    },
+    {
+      "label": "BLS OOH — Coaches and Scouts",
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm"
+    },
+    {
+      "label": "BLS OOH — Fitness Trainers and Instructors",
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "sf-explore",
+      "type": "node",
+      "label": "The Fitness Industry",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry spans commercial gyms, boutique studios, team sports at every level, school athletics, corporate wellness, and online coaching — each with different entry points and economics.",
+        "why": "Demand for qualified movement professionals keeps growing, but the field is credential-light at entry — differentiation comes from education, results, and trust.",
+        "learn": [
+          "Read BLS profiles for fitness trainers and coaches",
+          "Tour a commercial gym, a boutique studio, and a school program",
+          "Note which roles require degrees vs certifications",
+          "Decide: general population, athletes, or clinical-adjacent"
+        ],
+        "skills": [
+          "Fitness literacy",
+          "People skills"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Coaches and Scouts",
+            "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-9031.00",
+          "27-2022.00"
+        ]
+      }
+    },
+    {
+      "id": "sf-roles",
+      "type": "node",
+      "label": "Trainer vs Coach vs Therapist",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Scope matters: personal trainers and instructors coach exercise for general health; coaches develop athletes in sports; athletic trainers (licensed allied-health professionals) handle injury prevention and rehab; dietitians handle medical nutrition.",
+        "why": "Knowing scope-of-practice protects clients — and your career — from drifting into treatment you're not licensed for.",
+        "learn": [
+          "Write one-line definitions with scope boundaries for each role",
+          "Learn when to refer out (pain, medical conditions, disordered eating)",
+          "Compare education paths: cert vs degree vs license",
+          "Note which path your target population needs"
+        ],
+        "skills": [
+          "Scope awareness",
+          "Referral judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Athletic Trainers",
+            "url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-science",
+      "type": "node",
+      "label": "Exercise Science Foundations",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The core science: muscle physiology, energy systems, cardiovascular adaptation, biomechanics, and progressive overload — the 'why' behind every program you'll write.",
+        "why": "Trainers who understand mechanisms adapt when clients don't fit templates — science is what separates coaching from counting reps.",
+        "learn": [
+          "Learn the three energy systems and when each dominates",
+          "Explain progressive overload and specificity simply",
+          "Master basic anatomy of the major muscle groups",
+          "Read one evidence-based training resource monthly"
+        ],
+        "skills": [
+          "Exercise physiology",
+          "Biomechanics basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Anatomy and Physiology",
+            "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-people",
+      "type": "node",
+      "label": "People-First Skills",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fitness careers are behavior-change careers: motivation, habit formation, meeting clients where they are, and keeping people consistent long after motivation fades.",
+        "why": "Clients don't lack information — they lack adherence. The best trainers are part scientist, part coach, part accountability partner.",
+        "learn": [
+          "Practice motivational interviewing basics (OARS)",
+          "Learn a habit-formation model and apply it to one client",
+          "Design realistic starting programs for deconditioned clients",
+          "Follow up with people who quit — kindly, once"
+        ],
+        "skills": [
+          "Behavior change",
+          "Empathy",
+          "Adherence design"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-cpt",
+      "type": "node",
+      "label": "Personal Training",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Personal trainers deliver one-on-one and small-group training: assessments, program design, instruction, and progression — usually starting in commercial gyms with a nationally accredited CPT.",
+        "why": "It's the field's main entry with the fastest feedback loop on coaching skill — and the gym floor is a paid classroom.",
+        "learn": [
+          "Earn a NCCA-accredited CPT (NASM, ACE, NSCA, ISSA among recognized bodies)",
+          "Learn movement assessment and regression options",
+          "Practice coaching cues until concise",
+          "Shadow 10 sessions of a respected trainer"
+        ],
+        "skills": [
+          "Program design",
+          "Instruction",
+          "Assessment"
+        ],
+        "certs": [
+          {
+            "name": "CPT (NCCA-accredited)",
+            "issuer": "NASM / ACE / NSCA / ISSA and peers",
+            "note": "Accredited personal-trainer certifications; the NCCA-accredited ones are the industry's recognized standard for employment."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-9031.00"
+        ]
+      }
+    },
+    {
+      "id": "sf-group",
+      "type": "node",
+      "label": "Group Fitness Instruction",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Group instructors lead classes — strength, HIIT, spin, yoga, Pilates — combining programming, music/timing, energy management, and cueing for rooms of mixed abilities.",
+        "why": "Group formats multiply your hourly impact and build the community-following that feeds personal-training books.",
+        "learn": [
+          "Get a group-instructor or format-specific certification",
+          "Practice cueing to a mirror camera for 20 classes",
+          "Learn class arc: warm-up, build, peak, cooldown",
+          "Substitute teach widely to build your name"
+        ],
+        "skills": [
+          "Class programming",
+          "Public energy",
+          "Cueing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-strength",
+      "type": "node",
+      "label": "Strength & Conditioning",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "S&C coaches prepare athletes: periodized strength programs, speed and power development, testing, and return-to-play support — in schools, colleges, teams, and private performance gyms.",
+        "why": "The NSCA's CSCS is the field's flagship credential; team settings offer the clearest full-time employment ladder.",
+        "learn": [
+          "Study periodization and annual planning",
+          "Learn testing batteries (strength, speed, jump, conditioning)",
+          "Coach the barbell lifts to competence and safety",
+          "Consider the CSCS path (degree requirement applies)"
+        ],
+        "skills": [
+          "Athletic programming",
+          "Testing",
+          "Lift coaching"
+        ],
+        "certs": [
+          {
+            "name": "CSCS",
+            "issuer": "National Strength and Conditioning Association (NSCA)",
+            "note": "Certified Strength and Conditioning Specialist; requires a bachelor's degree; the standard credential for working with athletes."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NSCA — certifications",
+            "url": "https://www.nsca.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-youth",
+      "type": "node",
+      "label": "Youth & School Coaching",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "School and club coaching develops young athletes: skill progressions, long-term development over winning-now, safety, and the communication triangle with parents and schools.",
+        "why": "Youth coaching is where most coaching careers start — and where poor practice does the most harm; good fundamentals matter most here.",
+        "learn": [
+          "Learn long-term athlete development principles",
+          "Complete safeguarding/background requirements for minors",
+          "Plan practices with skill progressions, not just scrimmages",
+          "Practice the parent conversation early and often"
+        ],
+        "skills": [
+          "Youth development",
+          "Communication with parents"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Coaches and Scouts",
+            "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-nutrition",
+      "type": "node",
+      "label": "Nutrition Basics & Scope",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Trainers can teach general healthy-eating principles but must not prescribe diets for medical conditions — that's the licensed dietitian's lane. Knowing the line is professional competence.",
+        "why": "Nutrition is half of every result; staying in scope while adding real value is a competitive edge.",
+        "learn": [
+          "Learn macronutrients and energy balance fundamentals",
+          "Study your credential's nutrition scope rules",
+          "Practice general guidance: portions, protein, hydration",
+          "Build a referral list (RDs, doctors, PTs)"
+        ],
+        "skills": [
+          "Nutrition literacy",
+          "Scope discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Dietitians and Nutritionists",
+            "url": "https://www.onetonline.org/link/summary/29-1031.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1031.00"
+        ]
+      }
+    },
+    {
+      "id": "sf-behavior",
+      "type": "node",
+      "label": "Behavior Change Coaching",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advanced coaching skill: goal-setting frameworks, self-monitoring, environment design, and relapse handling — the difference between clients who last months and clients who transform.",
+        "why": "Results come from adherence; adherence comes from psychology. This is the highest-leverage advanced skill in fitness.",
+        "learn": [
+          "Practice SMART-adjacent goal setting with process goals",
+          "Design environment nudges for one client's obstacles",
+          "Build a relapse plan before it's needed",
+          "Review adherence data monthly and adjust"
+        ],
+        "skills": [
+          "Behavior design",
+          "Motivational interviewing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-cpr",
+      "type": "node",
+      "label": "First Aid & CPR",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "CPR/AED and first-aid certification (typically American Heart Association or Red Cross) is a universal employment requirement for every role on this map — renew every two years.",
+        "why": "It's a hiring gate and a genuine safety duty: you are the responder on the floor or the field.",
+        "learn": [
+          "Complete CPR/AED + first aid through AHA or Red Cross",
+          "Learn your facility's emergency action plan",
+          "Practice scenario drills with colleagues",
+          "Calendar the renewal before it lapses"
+        ],
+        "skills": [
+          "Emergency response",
+          "Safety readiness"
+        ],
+        "certs": [
+          {
+            "name": "CPR/AED & First Aid",
+            "issuer": "American Heart Association / American Red Cross",
+            "note": "Standard safety certification required by gyms, teams, and schools; renews every two years."
+          }
+        ],
+        "resources": [
+          {
+            "title": "American Heart Association — CPR",
+            "url": "https://cpr.heart.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-at",
+      "type": "node",
+      "label": "Athletic Trainer Path",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Athletic trainers are licensed healthcare professionals (bachelor's or master's + BOC certification) who prevent, evaluate, and rehabilitate injuries — in schools, colleges, pro teams, clinics, and industry.",
+        "why": "AT is the clinical lane of this field: medical scope, stable salaries, and roles at every level of sport.",
+        "learn": [
+          "Check the degree requirement (master's now standard for new roles)",
+          "Research BOC exam structure and CAATE-accredited programs",
+          "Log observation hours with a practicing AT",
+          "Compare school vs clinic vs team employment"
+        ],
+        "skills": [
+          "Injury evaluation",
+          "Rehabilitation",
+          "Emergency care"
+        ],
+        "certs": [
+          {
+            "name": "BOC Certification",
+            "issuer": "Board of Certification for the Athletic Trainer",
+            "note": "The national credential for athletic trainers; requires graduation from a CAATE-accredited program and passing the BOC exam, plus state licensure."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Athletic Trainers",
+            "url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Athletic Trainers",
+            "url": "https://www.onetonline.org/link/summary/29-1124.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-9091.00"
+        ]
+      }
+    },
+    {
+      "id": "sf-gymbusiness",
+      "type": "node",
+      "label": "Gym vs Independent",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Commercial gyms provide clients and equipment for a split; independent trainers keep more but handle rent/marketing; studios and online coaching scale differently again.",
+        "why": "This economic choice shapes income more than any certification — model it before switching.",
+        "learn": [
+          "Model take-home pay in each setting at realistic client loads",
+          "Learn gym-floor client-acquisition ethics and tactics",
+          "Understand independent insurance and business setup",
+          "Ask 3 trainers at different stages what they'd redo"
+        ],
+        "skills": [
+          "Business literacy",
+          "Client acquisition"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-clients",
+      "type": "node",
+      "label": "Building a Client Base",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Client books grow through results and relationships: retention first, referrals second, content third — tracked honestly, with a niche that makes you the obvious choice for someone.",
+        "why": "Trainers don't have jobs; they have books. Book math (retention × referrals) is the whole business.",
+        "learn": [
+          "Pick a niche population to become known for",
+          "Track retention and ask leaving clients why",
+          "Ask for referrals after every milestone win",
+          "Publish 2 useful posts per week for your niche"
+        ],
+        "skills": [
+          "Retention",
+          "Niche positioning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-online",
+      "type": "node",
+      "label": "Online Coaching",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Online coaching delivers programming and accountability remotely: app-based check-ins, video form review, and structured communication — scalable but dependent on trust and systems.",
+        "why": "Online formats break the geography ceiling — the coaches who succeed run tight systems, not just good workouts.",
+        "learn": [
+          "Start with 3 online clients alongside in-person work",
+          "Build a delivery system: onboarding, check-ins, adjustments",
+          "Learn video form-review technique",
+          "Set boundaries: response times, scope, billing"
+        ],
+        "skills": [
+          "Remote coaching",
+          "Systems building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-program",
+      "type": "node",
+      "label": "Program Design Mastery",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advanced programming: needs analysis, movement selection, volume/intensity management across weeks, and honest revision when the client's life interferes.",
+        "why": "Programming is the trainer's craft product — mastery here is why clients get results other trainers can't deliver.",
+        "learn": [
+          "Write 12-week programs for 3 different populations",
+          "Track objective progress and revise with reasoning",
+          "Learn to regress and progress every main lift",
+          "Peer-review one program with a stronger coach"
+        ],
+        "skills": [
+          "Program design",
+          "Progression management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NSCA — education resources",
+            "url": "https://www.nsca.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-teams",
+      "type": "node",
+      "label": "Team & Performance Roles",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Team settings — school, college, professional — combine S&C with sport coaching support, scouting, and operations; roles are competitive but full-time with benefits.",
+        "why": "Team employment is the field's most stable track; it rewards patience, networking, and graduate-assistant style entry points.",
+        "learn": [
+          "Volunteer or intern with a team's performance staff",
+          "Learn sport-specific demands for one sport deeply",
+          "Build relationships at coaching clinics and combines",
+          "Note graduate assistantship paths into college S&C"
+        ],
+        "skills": [
+          "Team operations",
+          "Sport knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Coaches and Scouts",
+            "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-2022.00"
+        ]
+      }
+    },
+    {
+      "id": "sf-education",
+      "type": "node",
+      "label": "Degrees That Matter",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Kinesiology, exercise science, and athletic-training degrees open team, clinical, and research-adjacent doors — and the CSCS credential requires a bachelor's. Degrees are optional for training careers but define the ceiling.",
+        "why": "Deciding degree-or-not early prevents both expensive regret and missed doors later.",
+        "learn": [
+          "Check degree requirements for your target roles (AT = yes; PT = no)",
+          "Compare kinesiology program outcomes where you'd enroll",
+          "Consider exercise-science minor/certificate routes",
+          "Keep accumulating accredited certs either way"
+        ],
+        "skills": [
+          "Education planning",
+          "Degree planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Athletic Trainers",
+            "url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Paths: trainer → head coach of group formats → studio manager/owner; or strength coach → director of performance; or AT → clinic/school leadership; or coach → head coach → program director.",
+        "why": "Every path compounds on client/athlete outcomes plus reputation — map the rung you want and reverse-engineer it.",
+        "learn": [
+          "Map 3 career arcs of professionals you admire",
+          "Choose your ladder: commercial, team, or clinical",
+          "Identify the credential each rung expects",
+          "Set a 5-year target with annual checkpoints"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Coaches and Scouts",
+            "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-special",
+      "type": "node",
+      "label": "Special Populations",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialty training for older adults, prenatal/postpartum clients, youth, and chronic-condition populations adds credentials (e.g., senior-fitness, youth-specialty certs) and meaning.",
+        "why": "Special populations are underserved — certification plus empathy builds waiting lists.",
+        "learn": [
+          "Pick one population and certify in its specialty",
+          "Learn the medical clearance questions that matter",
+          "Adapt programming with evidence, not fear",
+          "Partner with local clinicians for referrals"
+        ],
+        "skills": [
+          "Adapted programming",
+          "Clinical collaboration"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NSCA — specialty certifications",
+            "url": "https://www.nsca.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-income",
+      "type": "node",
+      "label": "Income & Hours Reality",
+      "variant": "muted",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fitness work concentrates early mornings and evenings, income varies with book size, and turnover in commercial gyms is high. Sustainable careers plan the schedule and diversify income.",
+        "why": "Trainers who last design their schedule deliberately — group classes, semi-private formats, and online income smooth the curves.",
+        "learn": [
+          "Map your realistic working hours and energy arc",
+          "Model income at 15 vs 25 weekly sessions",
+          "Add one non-hours income stream (small group, digital)",
+          "Protect one full day off — non-negotiable"
+        ],
+        "skills": [
+          "Schedule design",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-career2",
+      "type": "node",
+      "label": "Keep Learning",
+      "variant": "muted",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The field evolves: continuing-education requirements keep certifications current, and the best coaches read research, attend summits, and mentor with more experienced coaches.",
+        "why": "CEUs are mandatory — choosing them strategically turns a renewal chore into your specialization engine.",
+        "learn": [
+          "Pick CEUs that build one coherent specialty",
+          "Read one research review per month",
+          "Find a mentor coach and trade observation time",
+          "Teach what you learn (clients or peers) — it locks it in"
+        ],
+        "skills": [
+          "Lifelong learning",
+          "Specialization planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NSCA — CEU resources",
+            "url": "https://www.nsca.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-burnout",
+      "type": "node",
+      "label": "Energy & Longevity",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Coaching is emotional labor on your feet: the trainers who last 20 years protect sleep, train themselves, and treat their own fitness as a professional asset, not an afterthought.",
+        "why": "Clients buy your energy. Longevity in this career is an energy-management practice.",
+        "learn": [
+          "Keep your own training non-negotiable",
+          "Learn the burnout signs specific to helping professions",
+          "Build peer-coach support relationships",
+          "Take real vacations; plan coverage without guilt"
+        ],
+        "skills": [
+          "Self-care",
+          "Energy management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fitness Trainers and Instructors",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-scope2",
+      "type": "node",
+      "label": "Ethics & Boundaries",
+      "variant": "muted",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Professional ethics: staying in scope, confidentiality about clients' bodies and health, professional boundaries, and honest marketing (results shown honestly, never faked).",
+        "why": "Trust is the entire product in coaching — ethical practice is both the right thing and the durable business advantage.",
+        "learn": [
+          "Read your certification body's code of ethics",
+          "Write your confidentiality practices for clients and social media",
+          "Practice declining out-of-scope requests kindly",
+          "Market with real, verifiable results only"
+        ],
+        "skills": [
+          "Ethics",
+          "Boundaries"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NSCA — code of ethics",
+            "url": "https://www.nsca.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sf-g",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sf-g2",
+      "type": "group",
+      "label": "COACHING PATHS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sf-g3",
+      "type": "group",
+      "label": "CREDENTIALS & BUSINESS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sf-g4",
+      "type": "group",
+      "label": "MASTERY & TEAMS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sf-g5",
+      "type": "group",
+      "label": "GROW YOUR LADDER",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sf-g6",
+      "type": "group",
+      "label": "LONGEVITY & ETHICS",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "sf-explore",
+      "to": "sf-roles"
+    },
+    {
+      "from": "sf-explore",
+      "to": "sf-science"
+    },
+    {
+      "from": "sf-explore",
+      "to": "sf-people"
+    },
+    {
+      "from": "sf-roles",
+      "to": "sf-cpt"
+    },
+    {
+      "from": "sf-roles",
+      "to": "sf-group",
+      "dashed": true
+    },
+    {
+      "from": "sf-roles",
+      "to": "sf-strength",
+      "dashed": true
+    },
+    {
+      "from": "sf-roles",
+      "to": "sf-youth",
+      "dashed": true
+    },
+    {
+      "from": "sf-roles",
+      "to": "sf-at",
+      "dashed": true
+    },
+    {
+      "from": "sf-science",
+      "to": "sf-nutrition"
+    },
+    {
+      "from": "sf-science",
+      "to": "sf-program",
+      "dashed": true
+    },
+    {
+      "from": "sf-people",
+      "to": "sf-behavior"
+    },
+    {
+      "from": "sf-cpt",
+      "to": "sf-cpr"
+    },
+    {
+      "from": "sf-group",
+      "to": "sf-cpr",
+      "dashed": true
+    },
+    {
+      "from": "sf-cpr",
+      "to": "sf-gymbusiness"
+    },
+    {
+      "from": "sf-gymbusiness",
+      "to": "sf-clients"
+    },
+    {
+      "from": "sf-clients",
+      "to": "sf-online",
+      "dashed": true
+    },
+    {
+      "from": "sf-program",
+      "to": "sf-teams",
+      "dashed": true
+    },
+    {
+      "from": "sf-behavior",
+      "to": "sf-program"
+    },
+    {
+      "from": "sf-at",
+      "to": "sf-education",
+      "dashed": true
+    },
+    {
+      "from": "sf-teams",
+      "to": "sf-education",
+      "dashed": true
+    },
+    {
+      "from": "sf-clients",
+      "to": "sf-career"
+    },
+    {
+      "from": "sf-career",
+      "to": "sf-special",
+      "dashed": true
+    },
+    {
+      "from": "sf-career",
+      "to": "sf-income",
+      "dashed": true
+    },
+    {
+      "from": "sf-career",
+      "to": "sf-career2",
+      "dashed": true
+    },
+    {
+      "from": "sf-career",
+      "to": "sf-burnout",
+      "dashed": true
+    },
+    {
+      "from": "sf-career",
+      "to": "sf-scope2",
+      "dashed": true
+    }
+  ]
+}

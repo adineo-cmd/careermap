@@ -1,0 +1,1418 @@
+{
+  "slug": "healthcare",
+  "title": "Healthcare Careers",
+  "tagline": "From first patient contact to nursing, advanced practice, health administration, and public health.",
+  "summary": "Healthcare is one of the largest and fastest-growing employment sectors. This roadmap lays out the real pathways: entry clinical roles (CNA, medical assistant, phlebotomy, EMT), the nursing ladder (LPN → RN → NP), the administration and health-information track, and public health — with the certifications and licenses that mark each step.",
+  "category": "Health & Public Service",
+  "color": "#2dd4bf",
+  "icon": "heart",
+  "onetRoles": [
+    "29-1141.00",
+    "31-9092.00",
+    "11-9111.00",
+    "29-1171.00",
+    "31-1131.00"
+  ],
+  "jelCodes": [
+    "I11",
+    "I18"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Registered Nurses (29-1141.00)",
+      "url": "https://www.onetonline.org/link/summary/29-1141.00"
+    },
+    {
+      "label": "BLS OOH — Registered Nurses",
+      "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm"
+    },
+    {
+      "label": "NCSBN — NCLEX Examinations",
+      "url": "https://www.ncsbn.org/exams"
+    },
+    {
+      "label": "HHS — HIPAA for Professionals",
+      "url": "https://www.hhs.gov/hipaa/for-professionals"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "hc-explore",
+      "type": "node",
+      "label": "Explore Healthcare",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Healthcare careers split into three big lanes: hands-on clinical care (nursing, therapy, medicine), the support layer around it (assistants, technicians, health information), and the system layer (administration, billing, public health).",
+        "why": "Each lane has different education cost, timelines, and physical/emotional demands. Exploring before committing saves years — many people start as assistants before choosing nursing or administration.",
+        "learn": [
+          "Read the BLS OOH healthcare section and list the 5 fastest-growing occupations",
+          "Shadow or volunteer in one clinical and one non-clinical setting",
+          "Note the education difference: certificate vs associate vs bachelor's vs master's entry points",
+          "Write down your constraints: budget, timeline, physical demands, patient contact preference"
+        ],
+        "skills": [
+          "Career exploration",
+          "Empathy",
+          "Systems awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Healthcare occupations",
+            "url": "https://www.bls.gov/ooh/healthcare/home.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Browse Healthcare Practitioners",
+            "url": "https://www.onetonline.org/find/family?f=29",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-terminology",
+      "type": "node",
+      "label": "Medical Terminology",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Medical language is built from roots, prefixes, and suffixes (cardi-, -itis, hyper-) plus common abbreviations. Fluency is assumed in every clinical and health-information role.",
+        "why": "Terminology is the cheapest credibility boost available: it appears on entry certificates, job tests, and every conversation with clinicians.",
+        "learn": [
+          "Learn the 50 most common roots, prefixes, and suffixes",
+          "Decode 20 real terms by parts (gastroenteritis, hypoglycemia)",
+          "Master common abbreviations (PRN, NPO, BID) and know which are unsafe",
+          "Take a free terminology course and finish it"
+        ],
+        "skills": [
+          "Medical terminology",
+          "Vocabulary building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Health and medicine",
+            "url": "https://www.khanacademy.org/science/health-and-medicine",
+            "kind": "course"
+          },
+          {
+            "title": "OpenStax — Anatomy and Physiology",
+            "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-hipaa",
+      "type": "node",
+      "label": "HIPAA & Privacy",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HIPAA (US) governs protected health information: who may see it, minimum necessary use, patient rights, and the penalties for violations. Every healthcare employee trains on it, often annually.",
+        "why": "Privacy violations are career-ending and legally serious. Understanding HIPAA before your first job is a genuine differentiator.",
+        "learn": [
+          "Read HHS's HIPAA basics for professionals",
+          "Explain PHI and the minimum-necessary standard",
+          "Practice a privacy-safe conversation in a public space scenario",
+          "Know what a breach is and when it must be reported"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Information confidentiality"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HHS — HIPAA for Professionals",
+            "url": "https://www.hhs.gov/hipaa/for-professionals",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-cpr",
+      "type": "node",
+      "label": "BLS / CPR Certification",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Basic Life Support (American Heart Association) certification covers high-quality CPR, AED use, and team resuscitation basics. Most clinical employers require it before day one.",
+        "why": "It is a hiring prerequisite across clinical roles, inexpensive, and completed in a day — do it early.",
+        "learn": [
+          "Complete an AHA BLS provider course (in-person skills test)",
+          "Learn the CAB sequence and AED steps",
+          "Check renewal cycle (typically every two years)",
+          "Compare AHA vs Red Cross acceptance in your target employers"
+        ],
+        "skills": [
+          "Emergency response",
+          "CPR"
+        ],
+        "certs": [
+          {
+            "name": "BLS Provider",
+            "issuer": "American Heart Association",
+            "note": "Short course with hands-on skills testing; standard prerequisite for clinical hiring; renews every two years."
+          }
+        ],
+        "resources": [
+          {
+            "title": "American Heart Association — CPR & ECC",
+            "url": "https://cpr.heart.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-cna",
+      "type": "node",
+      "label": "CNA Path",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Certified Nursing Assistants provide direct daily care — bathing, feeding, mobility, vitals — under nurse supervision. Entry requires a state-approved training program (weeks, not years) plus the state competency exam and registry listing.",
+        "why": "CNA is the fastest paid entry into patient care, and nursing schools strongly prefer applicants with CNA experience.",
+        "learn": [
+          "Find your state's approved nurse aide training programs",
+          "Compare program length, cost, and exam format",
+          "Learn the 25 core CNA clinical skills",
+          "Understand registry listing and reciprocity between states"
+        ],
+        "skills": [
+          "Patient care",
+          "Vital signs",
+          "Empathy"
+        ],
+        "certs": [
+          {
+            "name": "CNA (Certified Nursing Assistant)",
+            "issuer": "State nurse aide registries (US)",
+            "note": "State-approved training program plus a competency exam (written and skills); listed on the state registry."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Nursing Assistants and Orderlies",
+            "url": "https://www.bls.gov/ooh/healthcare/nursing-assistants-and-orderlies.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Nursing Assistants",
+            "url": "https://www.onetonline.org/link/summary/31-1131.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "31-1131.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-ma",
+      "type": "node",
+      "label": "Medical Assistant",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Medical assistants are the clinical-and-administrative backbone of outpatient clinics: rooming patients, vitals, EKGs, injections, charting, and front-office coordination. Programs run several months to a year; certification (CMA or CCMA) is the recognized credential.",
+        "why": "MA is among the fastest-growing occupations, offers clinic (not shift-work) schedules, and is a common pre-nursing or pre-PA stepping stone.",
+        "learn": [
+          "Compare MA program types: certificate, diploma, associate",
+          "Check whether your target employers require CMA (AAMA) or accept CCMA (NHA)",
+          "Learn core skills: vitals, EKG, venipuncture basics, charting",
+          "Practice front-back office workflow in a mock clinic day"
+        ],
+        "skills": [
+          "Clinical assistance",
+          "Vital signs",
+          "Scheduling"
+        ],
+        "certs": [
+          {
+            "name": "CMA (AAMA)",
+            "issuer": "American Association of Medical Assistants",
+            "note": "Graduate from a CAAHEP- or ABHES-accredited medical assisting program, then pass the CMA exam."
+          },
+          {
+            "name": "CCMA",
+            "issuer": "National Healthcareer Association (NHA)",
+            "note": "Certified Clinical Medical Assistant; exam-based credential widely accepted by employers."
+          }
+        ],
+        "resources": [
+          {
+            "title": "AAMA — CMA certification",
+            "url": "https://www.aama-ntl.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "O*NET — Medical Assistants",
+            "url": "https://www.onetonline.org/link/summary/31-9092.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "31-9092.00"
+        ],
+        "tasks": [
+          "Perform administrative and certain clinical duties under the direction of a physician, including taking medical histories and recording vital signs."
+        ]
+      }
+    },
+    {
+      "id": "hc-phleb",
+      "type": "node",
+      "label": "Phlebotomy",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Phlebotomists draw blood for tests, transfusions, and donations — a focused clinical skill learned through short programs with a required number of supervised draws.",
+        "why": "It is one of the quickest routes to hands-on patient contact, works well alongside other study, and labs/hospitals hire continuously.",
+        "learn": [
+          "Find state requirements (some states certify, others don't)",
+          "Complete a program with 30+ supervised draws (typical)",
+          "Practice order-of-draw and tube color knowledge",
+          "Learn difficult-draw and patient-anxiety techniques"
+        ],
+        "skills": [
+          "Phlebotomy",
+          "Patient communication",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Phlebotomists",
+            "url": "https://www.bls.gov/ooh/healthcare/phlebotomists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-emt",
+      "type": "node",
+      "label": "EMT Path",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Emergency Medical Technicians provide pre-hospital emergency care: assessment, airway support, bleeding control, and transport. Entry-level EMT training runs a few months; paramedic (advanced) requires 1–2+ years.",
+        "why": "EMT experience is the classic pre-med, pre-nursing, and pre-PA differentiator — high acuity, real decisions, team medicine.",
+        "learn": [
+          "Find your state's EMT course and national registry pathway (NREMT)",
+          "Understand the EMT scope of practice",
+          "Compare EMT-B vs paramedic timelines and commitment",
+          "Ride along with a service or join a volunteer ambulance corps if available"
+        ],
+        "skills": [
+          "Emergency assessment",
+          "Composure under pressure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Emergency Medical Technicians and Paramedics",
+            "url": "https://www.onetonline.org/link/summary/29-2041.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2042.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-volunteer",
+      "type": "node",
+      "label": "Volunteer & Shadow",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Before investing in programs, verify the fit: hospital volunteer programs, hospice volunteering, shadowing clinicians, and health-related community service all count as experience.",
+        "why": "Admissions committees for nursing, PA, and medical programs explicitly look for patient-contact hours — and you find out whether you actually like the work.",
+        "learn": [
+          "Apply to a hospital volunteer program (they screen and train)",
+          "Shadow one clinician per lane you're considering",
+          "Log your hours and reflect in a simple journal",
+          "Collect 2 references for later applications"
+        ],
+        "skills": [
+          "Empathy",
+          "Professionalism"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Healthcare occupations",
+            "url": "https://www.bls.gov/ooh/healthcare/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-lpn",
+      "type": "node",
+      "label": "LPN / LVN",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Licensed Practical/Vocational Nurses complete a ~12-month state-approved program, pass NCLEX-PN, and provide basic nursing care under RN or physician direction — often in long-term care, clinics, and home health.",
+        "why": "LPN is a fast, licensable nursing entry point; many LPNs complete bridge programs (LPN-to-RN) while working.",
+        "learn": [
+          "Compare LPN program costs and lengths in your state",
+          "Understand LPN vs RN scope of practice",
+          "Plan the NCLEX-PN application steps with your state board",
+          "Map local LPN-to-RN bridge options"
+        ],
+        "skills": [
+          "Basic nursing care",
+          "Medication administration",
+          "Documentation"
+        ],
+        "certs": [
+          {
+            "name": "LPN/LVN License",
+            "issuer": "State boards of nursing",
+            "note": "Complete a state-approved practical nursing program and pass the NCLEX-PN exam."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NCSBN — NCLEX-PN",
+            "url": "https://www.ncsbn.org/exams",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-rn",
+      "type": "node",
+      "label": "RN: ADN vs BSN",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Registered nurses complete either an associate degree in nursing (ADN, ~2 years) or a bachelor of science in nursing (BSN, ~4 years), then pass NCLEX-RN. Many employers — especially Magnet hospitals — prefer or require BSN; ADN-to-BSN bridge programs are common.",
+        "why": "RN is the anchor license of healthcare employment. The ADN/BSN choice is a cost-speed-vs-options trade-off you should make deliberately.",
+        "learn": [
+          "Compare ADN and BSN on cost, time, and hiring preferences",
+          "Check BSN-preference policies at hospitals you'd want to work at",
+          "Understand prerequisites: anatomy, physiology, microbiology, statistics",
+          "Explore accelerated BSN options if you already hold a degree"
+        ],
+        "skills": [
+          "Clinical judgment",
+          "Patient assessment",
+          "Care planning"
+        ],
+        "certs": [
+          {
+            "name": "RN License",
+            "issuer": "State boards of nursing",
+            "note": "Graduate from an approved nursing program (ADN or BSN) and pass the NCLEX-RN; licensure is by state."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Registered Nurses",
+            "url": "https://www.onetonline.org/link/summary/29-1141.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ],
+        "tasks": [
+          "Assess patient health problems and needs, develop and implement nursing care plans, and maintain medical records."
+        ]
+      }
+    },
+    {
+      "id": "hc-nclex",
+      "type": "node",
+      "label": "NCLEX-RN Prep",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The NCLEX-RN (NCSBN) is the national licensure exam using computerized adaptive testing across safe care, health promotion, psychosocial integrity, and physiological integrity.",
+        "why": "The exam is the single gate between nursing school and practice; structured question-bank practice is how virtually everyone passes.",
+        "learn": [
+          "Understand the CAT format and current exam structure",
+          "Build a question-bank habit (75–100 questions/day near the exam)",
+          "Review the NCSBN test plan by category weights",
+          "Schedule and take the exam within months of graduation"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Clinical reasoning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NCSBN — NCLEX examinations",
+            "url": "https://www.ncsbn.org/exams",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-specialties",
+      "type": "node",
+      "label": "Nursing Specialties",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "After licensure, nurses specialize: emergency, ICU, operating room, labor and delivery, oncology, pediatrics, psychiatric, and more — many with certification boards (e.g., CCRN for critical care) after required practice hours.",
+        "why": "Specialty choice drives schedule, intensity, and long-term earnings; certifications open charge, educator, and advanced practice doors.",
+        "learn": [
+          "List 6 specialties and their typical acuity and schedules",
+          "Identify which require prior med-surg experience",
+          "Learn what specialty certification requires (hours + exam)",
+          "Pick a first-unit target and a second choice"
+        ],
+        "skills": [
+          "Specialized clinical skills",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Nurses Association — certification",
+            "url": "https://www.nursingworld.org/our-certifications/",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-1141.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-clinical-exp",
+      "type": "node",
+      "label": "Clinical Experience",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advanced practice and PA programs require documented direct patient-care hours — commonly 1,000–4,000+ — from roles like CNA, MA, EMT, phlebotomist, or RN.",
+        "why": "Hours are a hard admissions filter. Planning the earning of hours as a deliberate phase prevents the most common application delay.",
+        "learn": [
+          "Check hour requirements for 3 target programs",
+          "Choose the highest-yield role you can hold while studying",
+          "Log hours with dates and settings from day one",
+          "Ask supervisors for letters during, not after, the role"
+        ],
+        "skills": [
+          "Patient care",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-np",
+      "type": "node",
+      "label": "Nurse Practitioner",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nurse practitioners are APRNs with graduate education (MSN or DNP) who diagnose, treat, and prescribe (state-dependent practice authority). Programs require RN licensure and usually 1–2 years of RN practice; national board certification follows graduation.",
+        "why": "NP is the most common advanced practice destination and consistently among the fastest-growing occupations.",
+        "learn": [
+          "Compare MSN vs DNP entry routes",
+          "Choose a population focus (family, psych, acute care…)",
+          "Understand national certification (e.g., through certifying boards) after graduation",
+          "Check your state's practice-authority rules"
+        ],
+        "skills": [
+          "Advanced assessment",
+          "Diagnosis and treatment",
+          "Prescribing"
+        ],
+        "certs": [
+          {
+            "name": "NP Board Certification",
+            "issuer": "National nursing certification boards",
+            "note": "Graduate NP education (MSN/DNP) plus passing a national certification exam in the chosen population focus; state APRN licensure also required."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Nurse Practitioners",
+            "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Nurse Practitioners",
+            "url": "https://www.onetonline.org/link/summary/29-1171.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1171.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-pa",
+      "type": "node",
+      "label": "Physician Assistant",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "PAs complete a competitive master's program (~2–3 years) after a bachelor's degree and substantial patient-care hours, then pass a national certification exam and maintain certification through continuing assessment.",
+        "why": "PA blends medicine with work-life flexibility and lateral mobility across specialties without residency training.",
+        "learn": [
+          "Review typical PA school prerequisites (chemistry, anatomy, statistics, hours)",
+          "Compare PA vs NP paths honestly (education model, practice authority)",
+          "Build an application timeline around CASPA-style cycles",
+          "Shadow a PA before committing"
+        ],
+        "skills": [
+          "Clinical medicine",
+          "Patient assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Physician Assistants",
+            "url": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-billing",
+      "type": "node",
+      "label": "Billing & Coding",
+      "x": 60,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Medical billing and coding translate clinical documentation into standardized codes (ICD-10, CPT) for insurance claims — the financial plumbing of healthcare.",
+        "why": "It is a large, certification-friendly field with remote-work options and steady demand in every provider organization and payer.",
+        "learn": [
+          "Learn the code set basics: ICD-10-CM diagnosis, CPT procedures",
+          "Understand the claim lifecycle: encounter → code → claim → payment/denial",
+          "Study one coder career track: outpatient vs inpatient vs specialty",
+          "Take an introductory anatomy + terminology refresh if needed"
+        ],
+        "skills": [
+          "Medical coding",
+          "Attention to Detail",
+          "Regulatory compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Medical Records Specialists",
+            "url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Medical Records Specialists",
+            "url": "https://www.onetonline.org/link/summary/29-2072.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2072.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-codingcert",
+      "type": "node",
+      "label": "CPC / CCS Certs",
+      "x": 340,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The recognized coding credentials are CPC (AAPC — professional outpatient coding) and CCS/CCA (AHIMA — hospital and health-information coding). Employers list them on most coding job posts.",
+        "why": "A coding certification converts a career changer into a hireable candidate in months, often with remote work.",
+        "learn": [
+          "Compare CPC (AAPC) vs CCA/CCS (AHIMA) scope",
+          "Choose an accredited preparation course",
+          "Sit the exam; expect a codebook-based, timed test",
+          "Plan a first job via internships or entry coder roles"
+        ],
+        "skills": [
+          "Medical coding",
+          "Exam preparation"
+        ],
+        "certs": [
+          {
+            "name": "CPC",
+            "issuer": "AAPC",
+            "note": "Pass the CPC exam on professional (outpatient) coding; AAPC membership and preparation course typical."
+          },
+          {
+            "name": "CCS / CCA",
+            "issuer": "AHIMA",
+            "note": "AHIMA coding credentials — CCA is entry level, CCS is mastery-level hospital coding."
+          }
+        ],
+        "resources": [
+          {
+            "title": "AAPC — CPC certification",
+            "url": "https://www.aapc.com/certifications/cpc/",
+            "kind": "certification"
+          },
+          {
+            "title": "AHIMA — Certifications",
+            "url": "https://www.ahima.org/certification-careers/certification-exams/",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-2072.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-him",
+      "type": "node",
+      "label": "Health Information",
+      "x": 620,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Health information management owns the integrity, privacy, and lifecycle of patient records: release of information, data quality, registries, and compliance. AHIMA's RHIT and RHIA credentials mark associate- and bachelor-level practice.",
+        "why": "HIM is the data-governance backbone of healthcare — stable, structured, and increasingly central as records go digital.",
+        "learn": [
+          "Compare RHIT (associate) and RHIA (bachelor's) eligibility",
+          "Learn record lifecycle: creation, amendment, retention, disclosure",
+          "Understand release-of-information rules and audits",
+          "Explore informatics-adjacent growth paths from HIM"
+        ],
+        "skills": [
+          "Health information governance",
+          "Regulatory compliance",
+          "Data quality"
+        ],
+        "certs": [
+          {
+            "name": "RHIT / RHIA",
+            "issuer": "AHIMA",
+            "note": "RHIT requires an associate-level CAHIIM-accredited program; RHIA requires bachelor's level; both pass a national exam."
+          }
+        ],
+        "resources": [
+          {
+            "title": "AHIMA — Certifications",
+            "url": "https://www.ahima.org/certification-careers/certification-exams/",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-2072.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-admin",
+      "type": "node",
+      "label": "Healthcare Administration",
+      "x": 900,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Healthcare administrators run the business of care: operations, finance, staffing, compliance, and quality in hospitals, clinics, nursing homes, and health systems. Degrees range from bachelor's (health admin) to MHA/MBA.",
+        "why": "Medical and health services management is among the fastest-growing management occupations — and it does not require clinical licensure.",
+        "learn": [
+          "Read the BLS profile of medical and health services managers",
+          "Understand reimbursement basics: fee-for-service vs value-based care",
+          "Map an org chart of a mid-size hospital",
+          "Identify your entry: department coordinator, practice manager, analyst"
+        ],
+        "skills": [
+          "Operations management",
+          "Healthcare finance",
+          "Leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Medical and Health Services Managers",
+            "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Medical and Health Services Managers",
+            "url": "https://www.onetonline.org/link/summary/11-9111.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9111.00"
+        ],
+        "tasks": [
+          "Plan, direct, or coordinate medical and health services in hospitals, clinics, managed care organizations, public health agencies, or similar organizations."
+        ]
+      }
+    },
+    {
+      "id": "hc-practice",
+      "type": "node",
+      "label": "Practice Management",
+      "variant": "muted",
+      "x": 60,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Practice managers run outpatient clinics and physician groups: scheduling, revenue cycle, staffing, payer contracting, and regulatory compliance — small enough to touch everything.",
+        "why": "It's the most accessible admin entry point and teaches the full business of care in one seat.",
+        "learn": [
+          "Learn the revenue cycle end-to-end in an outpatient setting",
+          "Understand payer mix and prior authorization basics",
+          "Practice a staffing-model spreadsheet for a 4-provider clinic",
+          "Study OSHA and CLIA basics that practices must maintain"
+        ],
+        "skills": [
+          "Operations management",
+          "Revenue cycle"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Medical and Health Services Managers",
+            "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9111.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-mha",
+      "type": "node",
+      "label": "MHA & Leadership",
+      "x": 340,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Master of Health Administration (or MBA in healthcare) is the standard graduate credential for hospital and health-system leadership, usually paired with administrative fellowships and 2–5 years of progressive experience.",
+        "why": "Executive tracks (director → VP → COO) increasingly run through MHA programs and fellowships; planning early multiplies options.",
+        "learn": [
+          "Compare MHA vs MBA-with-health-focus",
+          "Research administrative fellowships at health systems",
+          "Build the experience profile programs want (ops, analytics, quality)",
+          "Network through ACHE-style professional chapters"
+        ],
+        "skills": [
+          "Strategic planning",
+          "Healthcare finance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Medical and Health Services Managers",
+            "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9111.00"
+        ]
+      }
+    },
+    {
+      "id": "hc-publichealth",
+      "type": "node",
+      "label": "Public Health & MPH",
+      "x": 60,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public health protects and improves community health: epidemiology, health education, policy, and environmental health. The MPH is the field's standard graduate degree with concentrations like biostatistics, epi, and health policy.",
+        "why": "Public health careers span government, hospitals, NGOs, and research — and pandemic-era investment raised both funding and visibility.",
+        "learn": [
+          "Explore the five core MPH disciplines",
+          "Take a free intro public health course",
+          "Follow your health department's public communications",
+          "Note that epidemiology roles often expect biostatistics fluency"
+        ],
+        "skills": [
+          "Population health",
+          "Policy analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CDC — Public health basics",
+            "url": "https://www.cdc.gov/",
+            "kind": "guide"
+          },
+          {
+            "title": "Khan Academy — Health and medicine",
+            "url": "https://www.khanacademy.org/science/health-and-medicine",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-epi",
+      "type": "node",
+      "label": "Epidemiology",
+      "x": 340,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Epidemiologists investigate disease patterns and causes: outbreak investigation, study design, surveillance data, and biostatistics — the detective work of population health.",
+        "why": "A well-defined, well-compensated specialty with government, academic, and industry employers (pharma, insurance, tech).",
+        "learn": [
+          "Learn core measures: incidence, prevalence, risk ratios",
+          "Walk through an outbreak investigation steps framework",
+          "Take a free biostatistics course (a real prerequisite)",
+          "Follow a state epi department's published reports"
+        ],
+        "skills": [
+          "Biostatistics",
+          "Study design",
+          "Data analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CDC — Public health basics",
+            "url": "https://www.cdc.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-ches",
+      "type": "node",
+      "label": "Health Education (CHES)",
+      "x": 620,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Health education specialists design and deliver programs that help people adopt healthy behaviors — in communities, workplaces, clinics, and public agencies. CHES/MCHES is the field's national credential.",
+        "why": "A people-facing health career that doesn't require clinical licensure, with employer demand across public agencies and health systems.",
+        "learn": [
+          "Review the CHES competencies (assessment, planning, implementation, evaluation)",
+          "Design a small community health intervention",
+          "Learn program-evaluation basics (logic models)",
+          "Check CHES exam eligibility (degree in health education or related)"
+        ],
+        "skills": [
+          "Health education",
+          "Program planning"
+        ],
+        "certs": [
+          {
+            "name": "CHES",
+            "issuer": "National Commission for Health Education Credentialing (NCHEC)",
+            "note": "Pass the CHES exam; eligibility requires a degree with health-education coursework."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NCHEC — CHES certification",
+            "url": "https://www.nchec.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-comms",
+      "type": "node",
+      "label": "Patient Communication",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clinical communication — plain-language explanations, teach-back, empathy under time pressure, de-escalation — determines patient outcomes and your own safety at work.",
+        "why": "Every role on this map is judged on it, from CNA interviews to NP practice. It is learnable and interviewers probe it directly.",
+        "learn": [
+          "Practice teach-back: explain a medication plan, then check understanding",
+          "Learn de-escalation basics for anxious or agitated patients",
+          "Use plain language to explain 5 common procedures",
+          "Role-play delivering bad news with a partner (SPIKES-style)"
+        ],
+        "skills": [
+          "Active Listening",
+          "Empathy",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CDC — Public health basics",
+            "url": "https://www.cdc.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-documentation",
+      "type": "node",
+      "label": "Documentation & EHR",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clinical documentation is a legal record and a care tool: accurate, timely, objective charting in electronic health records (Epic, Cerner and peers), with structured and free-text elements.",
+        "why": "\"If it wasn't documented, it wasn't done.\" Documentation quality is tested in every clinical interview and audit.",
+        "learn": [
+          "Learn SOAP note structure and practice 5 notes",
+          "Understand objective vs subjective charting language",
+          "Watch an EHR demo (training sandboxes exist) and navigate one patient chart",
+          "Know what makes an entry a legal document (timeliness, attribution, amendments)"
+        ],
+        "skills": [
+          "Medical documentation",
+          "EHR software"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Medical Records Specialists",
+            "url": "https://www.onetonline.org/link/summary/29-2072.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-teamwork",
+      "type": "node",
+      "label": "Teamwork & Handoffs",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Care is delivered by teams under pressure: structured handoffs (SBAR), closed-loop communication, role clarity in emergencies, and respectful escalation when something feels unsafe.",
+        "why": "Most serious errors are communication failures. Structured communication habits are among the first things clinical employers assess.",
+        "learn": [
+          "Practice SBAR for 5 scenarios (situation, background, assessment, recommendation)",
+          "Learn closed-loop communication (repeat-backs)",
+          "Understand chain-of-command escalation basics",
+          "Debrief a mock emergency: who said what, what was missed?"
+        ],
+        "skills": [
+          "Team coordination",
+          "SBAR communication",
+          "Escalation judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Registered Nurses",
+            "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-career",
+      "type": "node",
+      "label": "Career Map",
+      "variant": "accent",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Combine the lanes into a plan: clinical (CNA → LPN → RN → NP), support-technical (MA/coding → HIM → informatics), or administrative (coordinator → practice manager → MHA → executive), plus public-health exits at any point.",
+        "why": "Healthcare rewards staged progression — each rung pays while you study for the next. Mapping your next two rungs prevents expensive detours.",
+        "learn": [
+          "Pick your lane and write the next two rungs explicitly",
+          "Budget tuition, exam, and time for rung one",
+          "Find one mentor one rung ahead of you",
+          "Set a 12-month checkpoint to reassess"
+        ],
+        "skills": [
+          "Career planning",
+          "Healthcare systems knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Healthcare occupations",
+            "url": "https://www.bls.gov/ooh/healthcare/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-licensure",
+      "type": "node",
+      "label": "Licensure Reality",
+      "variant": "muted",
+      "x": 60,
+      "y": 1290,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clinical licenses are state-issued and state-specific: education approval, exams, fees, renewals, CEUs, and (for many roles) background checks and discipline disclosure. Moving states requires license transfer or endorsement.",
+        "why": "Licensure rules change move plans, application timelines, and eligibility. Checking your state board early is non-negotiable.",
+        "learn": [
+          "Bookmark your state board pages for each target license",
+          "Understand license endorsement for interstate moves",
+          "Note compact-license options where they exist (e.g., nursing compact states)",
+          "Calendar renewal and CEU requirements into your plan"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NCSBN — NCLEX examinations",
+            "url": "https://www.ncsbn.org/exams",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-wellbeing",
+      "type": "node",
+      "label": "Wellbeing & Burnout",
+      "variant": "muted",
+      "x": 340,
+      "y": 1290,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Healthcare work is physically and emotionally demanding: shift work, exposure to illness and loss, and high acuity. Sustainable careers are built on boundaries, peer support, and realistic unit choice.",
+        "why": "Burnout drives turnover across every healthcare role. Choosing units and schedules that fit your temperament is a career skill, not a soft one.",
+        "learn": [
+          "Research schedule realities: 3×12s, nights, on-call by role",
+          "Learn early burnout signs and evidence-based counters",
+          "Identify peer-support structures (debriefs, EAPs)",
+          "Choose an acuity level honestly — high acuity is not the only honorable path"
+        ],
+        "skills": [
+          "Stress management",
+          "Self-awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Healthcare occupations",
+            "url": "https://www.bls.gov/ooh/healthcare/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hc-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "hc-g-entry",
+      "type": "group",
+      "label": "ENTRY CLINICAL ROLES",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hc-g-nursing",
+      "type": "group",
+      "label": "NURSING & ADVANCED PRACTICE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hc-g-admin",
+      "type": "group",
+      "label": "ADMINISTRATION & HEALTH INFORMATION",
+      "x": 36,
+      "y": 700,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hc-g-public",
+      "type": "group",
+      "label": "PUBLIC HEALTH",
+      "x": 36,
+      "y": 970,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "hc-g-skills",
+      "type": "group",
+      "label": "CORE SKILLS & CAREER",
+      "x": 36,
+      "y": 1130,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "hc-explore",
+      "to": "hc-terminology"
+    },
+    {
+      "from": "hc-explore",
+      "to": "hc-hipaa"
+    },
+    {
+      "from": "hc-explore",
+      "to": "hc-cpr"
+    },
+    {
+      "from": "hc-terminology",
+      "to": "hc-cna"
+    },
+    {
+      "from": "hc-cna",
+      "to": "hc-ma",
+      "dashed": true
+    },
+    {
+      "from": "hc-ma",
+      "to": "hc-phleb",
+      "dashed": true
+    },
+    {
+      "from": "hc-emt",
+      "to": "hc-cna",
+      "dashed": true
+    },
+    {
+      "from": "hc-cpr",
+      "to": "hc-emt"
+    },
+    {
+      "from": "hc-volunteer",
+      "to": "hc-cna",
+      "dashed": true
+    },
+    {
+      "from": "hc-cna",
+      "to": "hc-lpn"
+    },
+    {
+      "from": "hc-cna",
+      "to": "hc-rn",
+      "dashed": true
+    },
+    {
+      "from": "hc-lpn",
+      "to": "hc-rn"
+    },
+    {
+      "from": "hc-rn",
+      "to": "hc-nclex"
+    },
+    {
+      "from": "hc-rn",
+      "to": "hc-specialties"
+    },
+    {
+      "from": "hc-clinical-exp",
+      "to": "hc-np"
+    },
+    {
+      "from": "hc-clinical-exp",
+      "to": "hc-pa"
+    },
+    {
+      "from": "hc-specialties",
+      "to": "hc-clinical-exp",
+      "dashed": true
+    },
+    {
+      "from": "hc-nclex",
+      "to": "hc-np",
+      "dashed": true
+    },
+    {
+      "from": "hc-terminology",
+      "to": "hc-billing"
+    },
+    {
+      "from": "hc-billing",
+      "to": "hc-codingcert"
+    },
+    {
+      "from": "hc-codingcert",
+      "to": "hc-him"
+    },
+    {
+      "from": "hc-hipaa",
+      "to": "hc-billing",
+      "dashed": true
+    },
+    {
+      "from": "hc-hipaa",
+      "to": "hc-admin"
+    },
+    {
+      "from": "hc-admin",
+      "to": "hc-practice",
+      "dashed": true
+    },
+    {
+      "from": "hc-admin",
+      "to": "hc-mha"
+    },
+    {
+      "from": "hc-explore",
+      "to": "hc-publichealth",
+      "dashed": true
+    },
+    {
+      "from": "hc-publichealth",
+      "to": "hc-epi"
+    },
+    {
+      "from": "hc-publichealth",
+      "to": "hc-ches",
+      "dashed": true
+    },
+    {
+      "from": "hc-cna",
+      "to": "hc-comms"
+    },
+    {
+      "from": "hc-comms",
+      "to": "hc-documentation"
+    },
+    {
+      "from": "hc-documentation",
+      "to": "hc-teamwork"
+    },
+    {
+      "from": "hc-specialties",
+      "to": "hc-career"
+    },
+    {
+      "from": "hc-him",
+      "to": "hc-career",
+      "dashed": true
+    },
+    {
+      "from": "hc-mha",
+      "to": "hc-career",
+      "dashed": true
+    },
+    {
+      "from": "hc-career",
+      "to": "hc-licensure"
+    },
+    {
+      "from": "hc-career",
+      "to": "hc-wellbeing",
+      "dashed": true
+    }
+  ]
+}

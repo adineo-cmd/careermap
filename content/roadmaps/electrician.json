@@ -1,0 +1,978 @@
+{
+  "slug": "electrician",
+  "title": "Electrician",
+  "tagline": "The dedicated electrical path — apprenticeship, journeyman, master, solar, controls, and contracting.",
+  "summary": "A deep-dive specialization of the Skilled Trades roadmap: the electrician career from electrical theory and safety through apprenticeship hours, the journeyman exam, service and construction specialties (solar, industrial controls, low voltage), and the master/contractor business ladder.",
+  "category": "Skilled Trades & Services",
+  "color": "#f5a25d",
+  "icon": "wrench",
+  "parent": "skilled-trades",
+  "onetRoles": [
+    "47-2111.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Electricians (47-2111.00)",
+      "url": "https://www.onetonline.org/link/summary/47-2111.00"
+    },
+    {
+      "label": "BLS OOH — Electricians",
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm"
+    },
+    {
+      "label": "NFPA — National Electrical Code",
+      "url": "https://www.nfpa.org/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "el-explore",
+      "type": "node",
+      "label": "The Electrical Trade",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Electricians install and maintain the power and control systems everything else depends on — residential, commercial, and industrial — through a licensed apprentice-to-master ladder.",
+        "why": "Electrification (EVs, solar, heat pumps, data centers) is expanding demand faster than the trade can train people — and the license can never be offshored.",
+        "learn": [
+          "Read the BLS OOH electrician profile and O*NET task list",
+          "Visit a supply house and a job site to see the work",
+          "Compare residential, commercial, and industrial niches",
+          "Talk to one apprentice and one master about their path"
+        ],
+        "skills": [
+          "Mechanical aptitude",
+          "Safety orientation",
+          "Math readiness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Electricians",
+            "url": "https://www.onetonline.org/link/summary/47-2111.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "47-2111.00"
+        ],
+        "tasks": [
+          "Install, maintain, and repair electrical wiring, equipment, and fixtures, ensuring that work is in accordance with relevant codes."
+        ]
+      }
+    },
+    {
+      "id": "el-theory",
+      "type": "node",
+      "label": "Electrical Theory",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The fundamentals: voltage, current, resistance and Ohm's law, series and parallel circuits, AC vs DC, and how power factor and loads behave in real systems.",
+        "why": "Theory is what turns parts-changers into electricians — it's also the core of every licensing exam.",
+        "learn": [
+          "Solve Ohm's-law and power problems until automatic",
+          "Build and measure simple series/parallel circuits",
+          "Explain AC sine waves, frequency, and phases simply",
+          "Work through a beginning electrical-theory book"
+        ],
+        "skills": [
+          "Electrical theory",
+          "Circuit analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — physics/electricity basics",
+            "url": "https://www.khanacademy.org/science/physics",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-safety",
+      "type": "node",
+      "label": "Safety & OSHA",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Electrical safety is the first trade skill: lockout/tagout, arc-flash awareness, proper PPE, ladder and trench discipline, and the OSHA 10/30-hour construction standards.",
+        "why": "Electricity is unforgiving — safe habits learned in month one are what make a 40-year career possible.",
+        "learn": [
+          "Complete OSHA 10 (30 for future supervisors)",
+          "Learn lockout/tagout and verify-dead procedures",
+          "Understand arc-flash boundaries and PPE categories",
+          "Build the test-before-touch habit permanently"
+        ],
+        "skills": [
+          "Lockout/tagout",
+          "Hazard recognition"
+        ],
+        "certs": [
+          {
+            "name": "OSHA 10 / OSHA 30",
+            "issuer": "OSHA-authorized training providers",
+            "note": "Standard construction-safety cards required on most US job sites; 30-hour for supervisory roles."
+          }
+        ],
+        "resources": [
+          {
+            "title": "OSHA — electrical safety",
+            "url": "https://www.osha.gov/electrical",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-math",
+      "type": "node",
+      "label": "Electrician Math",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Trade math: Ohm's-law triangles, power formulas, conduit bending offsets, load calculations, and the fractions/geometry of layout work.",
+        "why": "Apprenticeship entrance tests and journeyman exams lean heavily on applied math — fluency here is the fastest confidence builder.",
+        "learn": [
+          "Drill percentage, fraction, and ratio problems daily for 2 weeks",
+          "Learn conduit-bending math (offsets, saddles) on paper first",
+          "Practice basic load calculations (VA, watts, amps)",
+          "Use a Construction Master-style calculator fluently"
+        ],
+        "skills": [
+          "Applied math",
+          "Load calculation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — math basics",
+            "url": "https://www.khanacademy.org/math",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-program",
+      "type": "node",
+      "label": "Apprenticeship Programs",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Registered electrical apprenticeships (union JATCs or open-shop) combine ~4 years of paid on-the-job hours with classroom instruction, ending in journeyman eligibility.",
+        "why": "Earn-while-you-learn with structured training is the trade's superpower — selection is competitive, so apply to several.",
+        "learn": [
+          "Apply to union JATC and non-union programs alike",
+          "Prepare for aptitude tests (algebra, reading) and interviews",
+          "Compare wage progressions and classroom expectations",
+          "Have a backup: helper jobs count as experience"
+        ],
+        "skills": [
+          "Persistence",
+          "Selection strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov — electrician programs",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-ojt",
+      "type": "node",
+      "label": "OJT Hours & Records",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The apprenticeship currency is documented hours across categories (residential, commercial, industrial) — typically ~8,000 hours signed off by licensed supervisors.",
+        "why": "Missing or uncategorized hours delay licensure by months — meticulous records from day one are non-negotiable.",
+        "learn": [
+          "Log hours weekly with category codes and supervisor signatures",
+          "Balance your experience across required categories",
+          "Keep digital and paper copies of everything",
+          "Check your state's exact hour requirements by license"
+        ],
+        "skills": [
+          "Record discipline",
+          "Category balancing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-classroom",
+      "type": "node",
+      "label": "Classroom & Code",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Related classroom instruction covers theory, code (the National Electrical Code), blueprint reading, and motor controls — usually one or two evenings a week for four years.",
+        "why": "Code fluency is what exams test and what inspectors judge; studying it steadily beats cramming in year four.",
+        "learn": [
+          "Read one NEC article per week with your current work in mind",
+          "Learn to navigate the code book by structure, not memory",
+          "Keep a personal code-notebook of lessons from the field",
+          "Form a study group that survives all four years"
+        ],
+        "skills": [
+          "NEC knowledge",
+          "Blueprint reading"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NFPA — NEC resources",
+            "url": "https://www.nfpa.org/",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-residential",
+      "type": "node",
+      "label": "Residential Wiring",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Homes: service panels, branch circuits, receptacles and lighting, AFCI/GFCI protection, low-voltage, and remodel diagnostics — fast-paced, customer-facing work.",
+        "why": "Residential is the classic apprenticeship classroom and the natural base for eventual service-truck businesses.",
+        "learn": [
+          "Wire common circuits (kitchen, bath, lighting) to code",
+          "Learn panel scheduling and breaker discipline",
+          "Practice neat workmanship standards (it's judged)",
+          "Diagnose dead circuits methodically, not by guessing"
+        ],
+        "skills": [
+          "Branch circuit wiring",
+          "Panel work"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-commercial",
+      "type": "node",
+      "label": "Commercial & Conduit",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Commercial work adds pipe and conduit bending (EMT, rigid), blueprints and specs, feeder systems, and coordination with other trades on larger schedules.",
+        "why": "Commercial/industrial hours open the higher-pay segments and are required categories on many licenses.",
+        "learn": [
+          "Learn hand and mechanical conduit bending math and feel",
+          "Read commercial blueprints and one-line diagrams",
+          "Practice cable tray, feeder, and panel-board work",
+          "Coordinate around other trades without rework"
+        ],
+        "skills": [
+          "Conduit bending",
+          "Commercial systems"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-tools",
+      "type": "node",
+      "label": "Tools & Testing",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The instrument set: multimeters, clamp meters, continuity and insulation testers, plus hand and power tools — and the discipline of testing before touching, always.",
+        "why": "Diagnosis is measurement; electricians who trust their meters over assumptions fix things faster and safer.",
+        "learn": [
+          "Learn multimeter functions beyond voltage (continuity, cap test)",
+          "Calibrate your expectations: verify the meter on known sources",
+          "Build a starter tool kit gradually (quality over quantity)",
+          "Practice meter safety: category ratings, leads, one-hand rule"
+        ],
+        "skills": [
+          "Instrument use",
+          "Diagnostic method"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — electrical safety",
+            "url": "https://www.osha.gov/electrical",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-exam",
+      "type": "node",
+      "label": "Journeyman Exam",
+      "variant": "accent",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The journeyman license exam tests code knowledge, calculations, and practical application — open-book in most jurisdictions, timed, and passed with structured preparation.",
+        "why": "The journeyman card is the trade's degree: unsupervised work, higher pay, and the door to master and contractor tiers.",
+        "learn": [
+          "Take a code-prep course or structured study plan",
+          "Do timed practice exams weekly for 8 weeks",
+          "Learn your state's exam format and passing standard",
+          "Verify your application/hours paperwork early"
+        ],
+        "skills": [
+          "Exam preparation",
+          "NEC fluency"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NFPA — NEC resources",
+            "url": "https://www.nfpa.org/",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-license",
+      "type": "node",
+      "label": "State License",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Journeyman licensing is state (and sometimes municipal): application with verified hours, exam, fee, renewal, and continuing education — with reciprocity between some states.",
+        "why": "Your license is portable capital: knowing renewal cycles and reciprocity protects mobility and income.",
+        "learn": [
+          "Read your licensing board's renewal and CE rules",
+          "Understand reciprocity before planning a move",
+          "Keep your license status and insurance records current",
+          "Note city/county add-on requirements where they exist"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Mobility planning"
+        ],
+        "certs": [
+          {
+            "name": "Journeyman Electrician License",
+            "issuer": "State licensing boards (US)",
+            "note": "Issued after documented apprenticeship hours and passing the state journeyman examination; requirements vary by state."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-service",
+      "type": "node",
+      "label": "Service & Troubleshooting",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service electrical work diagnoses live problems in occupied buildings: dead circuits, flickers, tripping breakers, panel upgrades — part detective, part diplomat.",
+        "why": "Service pays the best hourly rates in the trade and is the natural base for an independent business.",
+        "learn": [
+          "Learn a systematic diagnostic sequence (verify, isolate, test)",
+          "Practice explaining problems and options to homeowners",
+          "Master common repairs: outlets, panels, fixtures, fans",
+          "Price work with truck-stock awareness"
+        ],
+        "skills": [
+          "Troubleshooting",
+          "Customer communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-blueprint",
+      "type": "node",
+      "label": "Blueprints & Planning",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Construction electricians work from drawings: floor plans, one-lines, panel schedules, and specs — translating design into rough-in, trim-out, and as-built reality.",
+        "why": "Reading prints fluently is the promotion gate from helper tasks to running your own portions of projects.",
+        "learn": [
+          "Read a full commercial drawing set including one-lines",
+          "Walk a project from plans to installed rough-in",
+          "Learn symbol and specification conventions",
+          "Coordinate openings and chases with other trades"
+        ],
+        "skills": [
+          "Print reading",
+          "Layout planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-solar",
+      "type": "node",
+      "label": "Solar & Storage",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "PV and battery systems are the trade's fastest-growing segment: DC/AC coupling, rapid shutdown rules, interconnection, and NABCEP-style certification paths.",
+        "why": "Solar-plus-storage skills command premiums and future-proof your license against the energy transition.",
+        "learn": [
+          "Learn PV system anatomy: modules, inverters, racking",
+          "Study rapid-shutdown and interconnection code requirements",
+          "Train on roof safety and DC hazards specifically",
+          "Consider NABCEP certification once experienced"
+        ],
+        "skills": [
+          "PV systems",
+          "Code compliance (solar)"
+        ],
+        "certs": [
+          {
+            "name": "NABCEP PV Certification",
+            "issuer": "North American Board of Certified Energy Practitioners",
+            "note": "The recognized credential for solar PV installation professionals; experience prerequisites apply."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NABCEP",
+            "url": "https://nabcep.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-controls",
+      "type": "node",
+      "label": "Industrial Controls",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Industrial work: motor controls, PLCs, VFDs, three-phase power, and panel building — the highest-complexity, highest-pay corner of the trade.",
+        "why": "Controls electricians are scarce everywhere; the skill compounds toward controls tech and automation-adjacent careers.",
+        "learn": [
+          "Learn motor starters, overloads, and control circuits",
+          "Read ladder logic and basic PLC programs",
+          "Understand three-phase systems and VFD basics",
+          "Practice on a trainer board or plant shadowing"
+        ],
+        "skills": [
+          "Motor controls",
+          "PLC basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-lowvoltage",
+      "type": "node",
+      "label": "Low Voltage & Data",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Low-voltage specialties: structured cabling, fire alarm, access control, CCTV, and audio-visual — often separately licensed but naturally adjacent to electrical work.",
+        "why": "Low-voltage adds steady service work and diversifies a future business's revenue.",
+        "learn": [
+          "Check your state's low-voltage license categories",
+          "Learn Cat6/cabling termination and testing standards",
+          "Study fire-alarm basics (NFPA-aligned) if interested",
+          "Practice clean cable dressing — it's judged instantly"
+        ],
+        "skills": [
+          "Structured cabling",
+          "Fire alarm basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NFPA — fire alarm resources",
+            "url": "https://www.nfpa.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-master",
+      "type": "node",
+      "label": "Master License",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The master electrician exam covers design, load calculations, and supervision — qualifying you to plan systems, pull permits in most jurisdictions, and sign off work.",
+        "why": "Master status is the profession's senior license: it unlocks contractor ownership, estimating authority, and inspector roles.",
+        "learn": [
+          "Confirm your jurisdiction's master requirements and timeline",
+          "Study design-level calculations (services, feeders, loads)",
+          "Take a master prep course after a few journeyman years",
+          "Log supervisory and planning experience deliberately"
+        ],
+        "skills": [
+          "Systems design",
+          "Supervision"
+        ],
+        "certs": [
+          {
+            "name": "Master Electrician License",
+            "issuer": "State/municipal licensing boards",
+            "note": "Senior electrical license after additional experience and a design-focused examination; prerequisite for contracting in many jurisdictions."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NFPA — NEC resources",
+            "url": "https://www.nfpa.org/",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-contractor",
+      "type": "node",
+      "label": "Contractor Path",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Electrical contracting: business license, bonding and insurance, estimating and bidding, employees, permits, and the profit discipline of running service trucks and crews.",
+        "why": "Ownership is the wealth path — and it runs on the same trade credibility plus real business systems.",
+        "learn": [
+          "Study your state's electrical contractor licensing",
+          "Learn job costing: labor hours, materials, overhead, margin",
+          "Set up permitting workflows and inspection relationships",
+          "Hire and train helpers before you're drowning"
+        ],
+        "skills": [
+          "Business management",
+          "Estimating"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-inspector",
+      "type": "node",
+      "label": "Inspector (AHJ)",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Electrical inspectors work for authorities having jurisdiction (cities, counties, states): reviewing plans and inspecting installations against the NEC — steady work built on master-level knowledge.",
+        "why": "Inspection is a respected second act with regular hours, using exactly the code fluency the trade taught you.",
+        "learn": [
+          "Check your AHJ's inspector hiring requirements",
+          "Consider ICC-style inspector certification paths",
+          "Shadow an inspector for a day if possible",
+          "Keep meticulous installation-quality habits — you'll judge them"
+        ],
+        "skills": [
+          "Code enforcement",
+          "Plans review"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ICC — inspector certifications",
+            "url": "https://www.iccsafe.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-ev",
+      "type": "node",
+      "label": "EV & Electrification",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The demand wave: EV charger installations, panel upgrades, heat-pump circuits, and grid-interactive homes — the growth segments every service electrician is being asked about.",
+        "why": "Electricians who lead in electrification ride a decade-long demand curve — and define the trade's next standard practices.",
+        "learn": [
+          "Learn EVSE installation requirements and load management",
+          "Study panel-capacity assessments and service upgrades",
+          "Follow utility rebate and interconnection programs locally",
+          "Train with manufacturers' installer programs"
+        ],
+        "skills": [
+          "EVSE installation",
+          "Load management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-body",
+      "type": "node",
+      "label": "Body & Longevity",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Attics, crawls, ladders, and repetitive bending add up — knee pads, technique, strength work, and honest transitions toward design, supervision, inspection, or ownership keep careers long.",
+        "why": "The best electricians plan their body's second act at year five, not after the first injury.",
+        "learn": [
+          "Invest in knee/back protection and use it without exception",
+          "Keep a simple strength and mobility routine",
+          "Learn proper lifting and ladder technique permanently",
+          "Plan your field-to-desk transition timeline honestly"
+        ],
+        "skills": [
+          "Self-care",
+          "Technique discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — PPE",
+            "url": "https://www.osha.gov/personal-protective-equipment",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-customer",
+      "type": "node",
+      "label": "Customer & Crew Skills",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The soft craft: explaining electrical problems in plain language, clean job-site etiquette, mentoring helpers, and the crew communication that keeps schedules honest.",
+        "why": "Reputation drives residential and service success — and crew leadership is where future foremen are made.",
+        "learn": [
+          "Practice plain-language explanations with options and prices",
+          "Keep job sites cleaner than you found them, every day",
+          "Teach one helper one skill per week deliberately",
+          "Learn to run a small crew's daily plan and material list"
+        ],
+        "skills": [
+          "Customer communication",
+          "Mentoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — small business basics",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "el-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "el-g-apprentice",
+      "type": "group",
+      "label": "APPRENTICESHIP",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "el-g-journey",
+      "type": "group",
+      "label": "JOURNEYMAN & WORK",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "el-g-special",
+      "type": "group",
+      "label": "SPECIALIZE",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "el-g-master",
+      "type": "group",
+      "label": "MASTER & BUSINESS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "el-g-beyond",
+      "type": "group",
+      "label": "BEYOND & LONGEVITY",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "el-explore",
+      "to": "el-theory"
+    },
+    {
+      "from": "el-explore",
+      "to": "el-safety"
+    },
+    {
+      "from": "el-explore",
+      "to": "el-math",
+      "dashed": true
+    },
+    {
+      "from": "el-theory",
+      "to": "el-program"
+    },
+    {
+      "from": "el-safety",
+      "to": "el-program",
+      "dashed": true
+    },
+    {
+      "from": "el-math",
+      "to": "el-program",
+      "dashed": true
+    },
+    {
+      "from": "el-program",
+      "to": "el-ojt"
+    },
+    {
+      "from": "el-ojt",
+      "to": "el-classroom"
+    },
+    {
+      "from": "el-classroom",
+      "to": "el-residential"
+    },
+    {
+      "from": "el-classroom",
+      "to": "el-commercial",
+      "dashed": true
+    },
+    {
+      "from": "el-tools",
+      "to": "el-residential",
+      "dashed": true
+    },
+    {
+      "from": "el-residential",
+      "to": "el-exam"
+    },
+    {
+      "from": "el-commercial",
+      "to": "el-exam",
+      "dashed": true
+    },
+    {
+      "from": "el-exam",
+      "to": "el-license"
+    },
+    {
+      "from": "el-license",
+      "to": "el-service"
+    },
+    {
+      "from": "el-license",
+      "to": "el-blueprint",
+      "dashed": true
+    },
+    {
+      "from": "el-service",
+      "to": "el-solar",
+      "dashed": true
+    },
+    {
+      "from": "el-license",
+      "to": "el-controls",
+      "dashed": true
+    },
+    {
+      "from": "el-service",
+      "to": "el-lowvoltage",
+      "dashed": true
+    },
+    {
+      "from": "el-service",
+      "to": "el-master",
+      "dashed": true
+    },
+    {
+      "from": "el-master",
+      "to": "el-contractor"
+    },
+    {
+      "from": "el-contractor",
+      "to": "el-inspector",
+      "dashed": true
+    },
+    {
+      "from": "el-service",
+      "to": "el-ev",
+      "dashed": true
+    },
+    {
+      "from": "el-contractor",
+      "to": "el-body",
+      "dashed": true
+    },
+    {
+      "from": "el-service",
+      "to": "el-customer"
+    },
+    {
+      "from": "el-customer",
+      "to": "el-contractor",
+      "dashed": true
+    }
+  ]
+}

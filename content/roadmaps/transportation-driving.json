@@ -1,0 +1,977 @@
+{
+  "slug": "transportation-driving",
+  "title": "Transportation & Driving",
+  "tagline": "Trucking, delivery, transit, and aviation — the careers that keep people and goods moving.",
+  "summary": "Transportation careers range from CDL trucking and last-mile delivery to transit operations, dispatch, and commercial aviation — licensed, safety-critical work with real demand and clear advancement from driver to owner-operator, dispatcher, or fleet leadership. This roadmap covers licenses, the lifestyle reality, and the branch points.",
+  "category": "Business & Finance",
+  "color": "#8f9bb3",
+  "icon": "truck",
+  "onetRoles": [
+    "53-3032.00",
+    "53-3033.00",
+    "53-2011.00",
+    "53-1031.00"
+  ],
+  "jelCodes": [
+    "R41"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Heavy and Tractor-Trailer Truck Drivers (53-3032.00)",
+      "url": "https://www.onetonline.org/link/summary/53-3032.00"
+    },
+    {
+      "label": "BLS OOH — Heavy and Tractor-Trailer Truck Drivers",
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm"
+    },
+    {
+      "label": "FMCSA — commercial driver regulations",
+      "url": "https://www.fmcsa.dot.gov/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "tp-explore",
+      "type": "node",
+      "label": "The Transportation Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Moving people and goods spans trucking (long-haul, regional, local), delivery and last mile, transit and passenger service, warehousing crossover, and aviation — most entry roles license-based rather than degree-based.",
+        "why": "Transportation is one of the economy's largest employers with persistent driver demand — and one of the few careers where a license obtained in weeks becomes a lifetime skill.",
+        "learn": [
+          "Read the BLS profile of heavy truck drivers",
+          "Compare local delivery vs regional vs long-haul lifestyles",
+          "Check which licenses your target roles require",
+          "Ride along or shadow one operation if possible"
+        ],
+        "skills": [
+          "Safety orientation",
+          "Independence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Heavy and Tractor-Trailer Truck Drivers",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Heavy and Tractor-Trailer Truck Drivers",
+            "url": "https://www.onetonline.org/link/summary/53-3032.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "53-3032.00"
+        ]
+      }
+    },
+    {
+      "id": "tp-licenses",
+      "type": "node",
+      "label": "License Classes",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Driving licenses tier by vehicle: standard license, CDL Class B (heavier straight trucks, buses), CDL Class A (tractor-trailers) — each with knowledge tests, skills tests, medical certification, and endorsements.",
+        "why": "Understanding the license ladder tells you exactly what each career step requires — no guessing.",
+        "learn": [
+          "Learn your state's CDL classes and what each allows",
+          "Understand the medical certificate (DOT physical) requirement",
+          "Note entry-level driver training (ELDT) requirements",
+          "Check endorsement options: HazMat, tanker, passenger, school bus"
+        ],
+        "skills": [
+          "Regulatory knowledge",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — commercial driver's license",
+            "url": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-lifestyle",
+      "type": "node",
+      "label": "Lifestyle Reality",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The honest picture: long-haul means days or weeks away; regional means weekends home; local means daily home with city intensity. Sleep, meals, and health require deliberate management.",
+        "why": "Lifestyle fit predicts who thrives — choosing the segment that matches your life is the most important early decision.",
+        "learn": [
+          "Compare time-away patterns across segments",
+          "Talk to 3 drivers: local, regional, OTR",
+          "Plan sleep and meal strategies for your target segment",
+          "Discuss the schedule honestly with your household"
+        ],
+        "skills": [
+          "Self-management",
+          "Decision analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Heavy and Tractor-Trailer Truck Drivers",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-safety",
+      "type": "node",
+      "label": "Safety Culture",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Transportation is safety-regulated end to end: vehicle inspections, hours-of-service rules, drug and alcohol testing programs, and CSA-style safety scores that follow drivers and carriers.",
+        "why": "Your safety record is your résumé in this industry — it determines employability, insurance, and advancement.",
+        "learn": [
+          "Learn the vehicle inspection routine (pre/post-trip)",
+          "Understand hours-of-service basics before your first job",
+          "Know the drug-and-alcohol clearinghouse reality (US)",
+          "Keep your record clean from day one"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Vigilance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — safety regulations",
+            "url": "https://www.fmcsa.dot.gov/regulations",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-cdl",
+      "type": "node",
+      "label": "Getting Your CDL",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "CDL paths: private trucking schools (weeks, paid upfront), company-sponsored training (contract commitments), and community-college programs — all ending in knowledge and skills tests.",
+        "why": "The CDL is the field's foundational credential; choosing the funding path wisely (beware of expensive contracts) is your first business decision.",
+        "learn": [
+          "Compare school costs vs sponsored-training contracts",
+          "Get the DOT medical certificate early",
+          "Practice the pre-trip inspection until automatic",
+          "Check ELDT-compliant training providers"
+        ],
+        "skills": [
+          "Vehicle operation",
+          "Test preparation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — entry-level driver training",
+            "url": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/training",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-entry",
+      "type": "node",
+      "label": "Entry Driving Jobs",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "First jobs: over-the-road team or solo with training carriers, regional hauls, or local routes if experience allows — the first year is about clean records and learning the logistics network.",
+        "why": "Year one builds the verified experience every better job requires; choosing decent first carriers matters more than chasing top cents-per-mile.",
+        "learn": [
+          "Research carrier reputations with current drivers",
+          "Understand pay structures (CPM, percentage, hourly)",
+          "Track your record: inspections, on-time, fuel",
+          "Set a 12-month plan to your preferred segment"
+        ],
+        "skills": [
+          "Time management",
+          "Route planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Heavy and Tractor-Trailer Truck Drivers",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "53-3032.00"
+        ],
+        "tasks": [
+          "Drive a tractor-trailer combination or a truck with a capacity of at least 26,000 GVW to transport and deliver goods or materials over land."
+        ]
+      }
+    },
+    {
+      "id": "tp-lastmile",
+      "type": "node",
+      "label": "Delivery & Last Mile",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Last-mile delivery (parcels, furniture, food supply) runs on routes and stops per day — physically intense, home nightly, with courier, gig, and company-employee models.",
+        "why": "Last-mile is the fastest-growing segment and the most local — ideal for drivers who want every night at home.",
+        "learn": [
+          "Compare employee courier vs gig vs contracted routes",
+          "Learn safe delivery practices for residential stops",
+          "Understand package-handling standards for damage claims",
+          "Track a realistic stops-per-day pace"
+        ],
+        "skills": [
+          "Route efficiency",
+          "Customer service"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Light Truck Drivers",
+            "url": "https://www.onetonline.org/link/summary/53-3033.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "53-3033.00"
+        ]
+      }
+    },
+    {
+      "id": "tp-passenger",
+      "type": "node",
+      "label": "Passenger & Transit",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Passenger roles include transit bus, school bus (passenger + school-bus endorsements), motorcoach, paratransit, and rideshare — people-first driving with fixed routes or scheduled service.",
+        "why": "Transit systems offer public-sector stability and pensions; school buses offer daytime hours that fit parenting schedules.",
+        "learn": [
+          "Check your transit authority's hiring and training program",
+          "Get passenger and school-bus endorsements if targeting them",
+          "Learn customer-conflict de-escalation for the road",
+          "Note the different background checks for school transport"
+        ],
+        "skills": [
+          "Passenger safety",
+          "Calm under pressure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — endorsements",
+            "url": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/endorsements-and-restrictions",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-endors",
+      "type": "node",
+      "label": "Endorsements (HazMat…)",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "CDL endorsements expand what you can haul: HazMat (with TSA background check), Tanker, Doubles/Triples, and Passenger — each is a test (and for HazMat, a security threat assessment).",
+        "why": "Endorsements are wage multipliers — tankers and HazMat pay premiums because they demand more responsibility.",
+        "learn": [
+          "Prioritize Tanker + HazMat for pay premiums",
+          "Budget for the TSA HazMat background check",
+          "Study each endorsement's test content",
+          "Recertify/track expiration dates carefully"
+        ],
+        "skills": [
+          "Credential planning",
+          "Wage strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "TSA — HazMat endorsement",
+            "url": "https://www.tsa.gov/for-industry/hazmat-endorsement",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-owner",
+      "type": "node",
+      "label": "Owner-Operator Path",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Owner-operators own or lease their truck and run a business: authority, insurance, fuel and maintenance economics, load boards or contracts, and the discipline of saving for repairs.",
+        "why": "Ownership is the classic wealth path in trucking — but it runs on business skill as much as driving skill.",
+        "learn": [
+          "Model cost-per-mile before leasing anything",
+          "Learn authority, insurance, and ELD requirements",
+          "Compare load boards vs contract freight",
+          "Keep a repair reserve fund from the first paycheck"
+        ],
+        "skills": [
+          "Small business management",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          },
+          {
+            "title": "FMCSA — operating authority",
+            "url": "https://www.fmcsa.dot.gov/registration",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-dispatch",
+      "type": "node",
+      "label": "Dispatch & Fleet Ops",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dispatchers and fleet coordinators plan loads, routes, and driver schedules — solving problems by phone all day; fleet managers add maintenance, compliance, and budget responsibility.",
+        "why": "Dispatch is the natural desk-side promotion for drivers who know the road — and a standalone career for organizers.",
+        "learn": [
+          "Learn load planning and HOS-aware scheduling",
+          "Practice driver communication under pressure",
+          "Understand ELD data and compliance reports",
+          "Shadow a dispatcher for a day"
+        ],
+        "skills": [
+          "Logistics coordination",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Material Recording Clerks and related",
+            "url": "https://www.bls.gov/ooh/office-and-administrative-support/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-maintenance",
+      "type": "node",
+      "label": "Vehicle Maintenance",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Drivers who understand their equipment — daily inspections, fluids, tires, brakes, DEF systems — break down less and earn trust with mechanics and carriers; some transition into diesel-tech careers.",
+        "why": "Mechanical literacy saves money for owners and prevents the career-killing roadside failure.",
+        "learn": [
+          "Master the pre-trip inspection system (not just the test)",
+          "Learn basic fluids, belts, and tire care",
+          "Understand ELD and diagnostics readouts",
+          "Consider diesel-technician training as a branch"
+        ],
+        "skills": [
+          "Preventive maintenance",
+          "Diagnostics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Diesel Service Technicians and Mechanics",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-supply",
+      "type": "node",
+      "label": "Logistics Crossover",
+      "variant": "muted",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Driving experience is valued in supply-chain roles — logistics coordinator, broker support, warehouse operations — see the Supply Chain & Logistics roadmap for the fuller network view.",
+        "why": "The road-to-desk crossover is well-trodden: drivers make excellent logistics professionals because they know reality.",
+        "learn": [
+          "Learn shipper/carrier/receiver relationships from your seat",
+          "Take a logistics fundamentals course if interested",
+          "Note which desk roles value driving years",
+          "Keep a network of dispatchers and brokers"
+        ],
+        "skills": [
+          "Supply chain literacy",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Logisticians",
+            "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-inspection",
+      "type": "node",
+      "label": "Inspection & Compliance",
+      "variant": "muted",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Experienced drivers branch into safety and compliance roles: driver-manager, safety officer, DOT compliance specialist, and state/federal inspector paths.",
+        "why": "Safety careers value exactly what veteran drivers have: records, credibility, and regulatory fluency.",
+        "learn": [
+          "Study FMCSA audit and compliance basics",
+          "Learn CSA score mechanics",
+          "Explore safety-officer postings at carriers",
+          "Note inspector roles in your state's enforcement agency"
+        ],
+        "skills": [
+          "Compliance knowledge",
+          "Mentoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — safety programs",
+            "url": "https://www.fmcsa.dot.gov/safety",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-aviation",
+      "type": "node",
+      "label": "Aviation Paths",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Aviation careers: pilots (private → instrument → commercial → ATP through flight schools or airline academies), flight attendants, dispatchers, and airport operations — medical certificates and hour-building define the pilot path.",
+        "why": "Pilot demand is strong and the path is fully mapped — but expensive; financing strategy (academy vs part-61 vs military) is decision one.",
+        "learn": [
+          "Take a discovery flight before committing",
+          "Compare Part 61 vs Part 141 training costs and timelines",
+          "Get the FAA medical certificate early (class 1/2)",
+          "Research airline cadet and tuition programs"
+        ],
+        "skills": [
+          "Airmanship",
+          "Systems knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FAA — become a pilot",
+            "url": "https://www.faa.gov/pilots/become",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Airline and Commercial Pilots",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/airline-and-commercial-pilots.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "53-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "tp-flightatt",
+      "type": "node",
+      "label": "Cabin & Airport Ops",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Airline careers beyond the cockpit: flight attendants (safety-certified, schedule-built seniority), ramp and ground operations, gate agents, and airport management — seniority systems shape everything.",
+        "why": "These roles offer aviation careers without flight-school debt — and internal movement is real at most airlines.",
+        "learn": [
+          "Learn the hiring cycles at major and regional carriers",
+          "Understand seniority-based bidding and schedules",
+          "Practice customer-recovery scenarios",
+          "Note physical requirements and training timelines"
+        ],
+        "skills": [
+          "Service under pressure",
+          "Safety procedures"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Flight Attendants",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/flight-attendants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-rail",
+      "type": "node",
+      "label": "Rail Careers",
+      "variant": "muted",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Railroading hires conductors (trained on the job, then certified) and engineers, plus maintenance-of-way and mechanical crafts — unionized, seniority-based, with demanding on-call culture.",
+        "why": "Rail pays strongly without degree requirements; the trade-off is unpredictable schedules, especially early.",
+        "learn": [
+          "Learn conductor-trainee program structure at Class I railroads",
+          "Understand the on-call lifestyle before applying",
+          "Note the promotion path: conductor → engineer",
+          "Compare shortline vs Class I employers"
+        ],
+        "skills": [
+          "Rules compliance",
+          "Endurance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Railroad occupations",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-hos",
+      "type": "node",
+      "label": "HOS & Trip Planning",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hours-of-service rules govern drive time, breaks, and resets (ELDs enforce them electronically); planning trips around HOS is the core professional skill of long-haul driving.",
+        "why": "Drivers who plan HOS well deliver on time and earn more; those who don't burn hours sitting at shippers.",
+        "learn": [
+          "Learn the 11-hour/14-hour/70-hour US rule structure",
+          "Plan a multi-day trip on paper around HOS",
+          "Practice split-sleeper strategies legally",
+          "Read ELD logs like a pro (yours and mentors')"
+        ],
+        "skills": [
+          "Regulatory fluency",
+          "Route planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — hours of service",
+            "url": "https://www.fmcsa.dot.gov/regulations/hours-of-service",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-health",
+      "type": "node",
+      "label": "Health on the Road",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sitting for hours, truck-stop food, and irregular sleep are the industry's occupational hazards — the drivers who last build exercise, food, and sleep systems into their routes.",
+        "why": "Your medical certificate and energy depend on health; healthy drivers have longer, better-paying careers.",
+        "learn": [
+          "Pack a cooler system; plan food like fuel",
+          "Keep resistance bands or a folding routine in the cab",
+          "Protect sleep with blackout and noise strategies",
+          "Keep the DOT physical easy: manage the metrics"
+        ],
+        "skills": [
+          "Self-care",
+          "Routine discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — driver wellness",
+            "url": "https://www.fmcsa.dot.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: driver → trainer → driver-manager/dispatcher → fleet or safety manager → operations leadership; or driver → owner-operator → small fleet owner; aviation: regional → major captain by seniority.",
+        "why": "Transportation careers advance through records, licenses, and trust — the ladder is unusually visible and merit-based.",
+        "learn": [
+          "Map the ladder at your target employer",
+          "Identify which record elements gate each rung",
+          "Set a 5-year target (desk, owner, or specialist)",
+          "Find a mentor one rung ahead"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Transportation and Material Moving",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/home.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — First-Line Supervisors of Transportation Operators",
+            "url": "https://www.onetonline.org/link/summary/53-1031.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "53-1031.00"
+        ]
+      }
+    },
+    {
+      "id": "tp-training",
+      "type": "node",
+      "label": "Trainer & Recruiting",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Experienced drivers become driver-trainers (teaching CDL skills and company standards), recruiting/safety staff, and CDL-school instructors — respected roles with home time.",
+        "why": "Teaching pays with home time and multiplies your standards across the next driver generation.",
+        "learn": [
+          "Volunteer as a ride-along trainer when eligible",
+          "Learn adult-learning basics for the cab classroom",
+          "Consider CDL-school instruction as a second career",
+          "Document your training wins for promotion files"
+        ],
+        "skills": [
+          "Instruction",
+          "Patience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Heavy and Tractor-Trailer Truck Drivers",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-automation",
+      "type": "node",
+      "label": "Automation Outlook",
+      "variant": "muted",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Automation is reshaping long-haul highway legs first; local delivery, passenger transit, inspection, dispatch, and maintenance roles remain human-centered for the foreseeable future.",
+        "why": "Career-proofing means favoring segments where human judgment (city driving, customer contact, oversight) stays essential.",
+        "learn": [
+          "Follow autonomous-trucking deployments honestly",
+          "Favor local/last-mile and oversight skills in your plan",
+          "Keep endorsements that automation can't replace soon",
+          "Retrain toward fleet/safety roles as tech matures"
+        ],
+        "skills": [
+          "Adaptability",
+          "Technology awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Transportation and Material Moving",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-union",
+      "type": "node",
+      "label": "Unions & Carriers",
+      "variant": "muted",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Union carriers (teamster-style freight, transit, parcel) offer scale wages, pensions, and seniority systems; non-union offers faster advancement and ownership flexibility. Transit and school bus are often public.",
+        "why": "The union-vs-nonunion choice shapes pay curve, benefits, and work rules for a whole career — worth comparing with real numbers.",
+        "learn": [
+          "Compare union vs nonunion pay at your target segment",
+          "Understand seniority systems before joining",
+          "Note pension and health-plan differences",
+          "Talk to drivers with 10+ years on each side"
+        ],
+        "skills": [
+          "Market awareness",
+          "Long-term planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Transportation and Material Moving",
+            "url": "https://www.bls.gov/ooh/transportation-and-material-moving/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tp-g",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tp-g2",
+      "type": "group",
+      "label": "DRIVING CAREERS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "tp-g3",
+      "type": "group",
+      "label": "BEYOND THE CAB",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "tp-g4",
+      "type": "group",
+      "label": "AVIATION & RAIL",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tp-g5",
+      "type": "group",
+      "label": "THE ROAD CRAFT",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tp-g6",
+      "type": "group",
+      "label": "CAREERS & OUTLOOK",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "tp-explore",
+      "to": "tp-licenses"
+    },
+    {
+      "from": "tp-explore",
+      "to": "tp-lifestyle"
+    },
+    {
+      "from": "tp-explore",
+      "to": "tp-safety"
+    },
+    {
+      "from": "tp-licenses",
+      "to": "tp-cdl"
+    },
+    {
+      "from": "tp-cdl",
+      "to": "tp-entry"
+    },
+    {
+      "from": "tp-entry",
+      "to": "tp-lastmile",
+      "dashed": true
+    },
+    {
+      "from": "tp-entry",
+      "to": "tp-passenger",
+      "dashed": true
+    },
+    {
+      "from": "tp-licenses",
+      "to": "tp-endors"
+    },
+    {
+      "from": "tp-endors",
+      "to": "tp-entry",
+      "dashed": true
+    },
+    {
+      "from": "tp-entry",
+      "to": "tp-owner",
+      "dashed": true
+    },
+    {
+      "from": "tp-entry",
+      "to": "tp-dispatch"
+    },
+    {
+      "from": "tp-safety",
+      "to": "tp-maintenance",
+      "dashed": true
+    },
+    {
+      "from": "tp-dispatch",
+      "to": "tp-supply",
+      "dashed": true
+    },
+    {
+      "from": "tp-dispatch",
+      "to": "tp-inspection",
+      "dashed": true
+    },
+    {
+      "from": "tp-explore",
+      "to": "tp-aviation",
+      "dashed": true
+    },
+    {
+      "from": "tp-explore",
+      "to": "tp-flightatt",
+      "dashed": true
+    },
+    {
+      "from": "tp-explore",
+      "to": "tp-rail",
+      "dashed": true
+    },
+    {
+      "from": "tp-entry",
+      "to": "tp-hos"
+    },
+    {
+      "from": "tp-hos",
+      "to": "tp-health",
+      "dashed": true
+    },
+    {
+      "from": "tp-dispatch",
+      "to": "tp-career"
+    },
+    {
+      "from": "tp-owner",
+      "to": "tp-career",
+      "dashed": true
+    },
+    {
+      "from": "tp-career",
+      "to": "tp-training",
+      "dashed": true
+    },
+    {
+      "from": "tp-career",
+      "to": "tp-automation",
+      "dashed": true
+    },
+    {
+      "from": "tp-career",
+      "to": "tp-union",
+      "dashed": true
+    }
+  ]
+}

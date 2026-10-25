@@ -1,0 +1,950 @@
+{
+  "slug": "fire-service",
+  "title": "Fire Service",
+  "tagline": "Volunteer to academy to engine company — the dedicated firefighter career path.",
+  "summary": "A deep-dive specialization of the Public Safety roadmap: the firefighter career from volunteer experience and CPAT preparation through the fire academy, EMT certification, the civil-service hiring gauntlet, the probationary year, and the ranks from firefighter to battalion chief.",
+  "category": "Health & Public Service",
+  "color": "#e2574c",
+  "icon": "shield",
+  "parent": "public-safety",
+  "onetRoles": [
+    "33-2011.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Firefighters (33-2011.00)",
+      "url": "https://www.onetonline.org/link/summary/33-2011.00"
+    },
+    {
+      "label": "BLS OOH — Firefighters",
+      "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm"
+    },
+    {
+      "label": "FEMA — US Fire Administration",
+      "url": "https://www.usfa.fema.gov/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "fs-explore",
+      "type": "node",
+      "label": "The Fire Service",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fire service careers combine fire suppression, emergency medical response, technical rescue, and public service under a paramilitary rank structure. Most departments run 24-hour shifts with strong camaraderie and pension systems.",
+        "why": "It is one of the few careers where physical mastery, mechanical aptitude, and medicine all matter daily — and where preparation genuinely determines who gets hired.",
+        "learn": [
+          "Read the BLS OOH firefighter profile and O*NET task list",
+          "Visit a fire station during an open house and ask about hiring",
+          "Compare career vs volunteer vs combination departments in your area",
+          "Understand the basic rank ladder: firefighter, engineer, lieutenant, captain, battalion"
+        ],
+        "skills": [
+          "Physical fitness",
+          "Teamwork",
+          "Mechanical aptitude"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Firefighters",
+            "url": "https://www.onetonline.org/link/summary/33-2011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-2011.00"
+        ],
+        "tasks": [
+          "Control and extinguish fires or respond to emergency situations where life, property, or the environment is at risk."
+        ]
+      }
+    },
+    {
+      "id": "fs-volunteer",
+      "type": "node",
+      "label": "Volunteer & Explorer",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Volunteer departments, explorer posts, and cadet programs let you train alongside real crews before applying — many career firefighters start this way, and departments value the experience heavily.",
+        "why": "It answers the two biggest hiring questions at once: can you handle the work, and do you understand the commitment?",
+        "learn": [
+          "Apply to a volunteer department or explorer post (16+ typically)",
+          "Complete the orientation training they provide",
+          "Log every drill and call you respond to",
+          "Ask your advisor to review your career plan honestly"
+        ],
+        "skills": [
+          "Initiative",
+          "Team discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-fitness",
+      "type": "node",
+      "label": "Fitness & CPAT Prep",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The job is an athletic event performed in 50+ lbs of gear: stair climbs, hose drags, equipment carries, ceiling breaches, and victim drags under time pressure.",
+        "why": "Candidates fail hiring more often for fitness than knowledge — training for the CPAT's exact events is the highest-ROI preparation there is.",
+        "learn": [
+          "Build a 12-week program around the CPAT's eight events",
+          "Train weighted stair climbing and dummy drags specifically",
+          "Add interval conditioning for air-management under load",
+          "Practice the full sequence on time before test day"
+        ],
+        "skills": [
+          "Physical conditioning",
+          "Endurance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-emt",
+      "type": "node",
+      "label": "EMT-B First",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Roughly two-thirds to three-quarters of fire calls are medical; most career departments require EMT-Basic certification at hiring, and many require paramedic for advancement.",
+        "why": "EMT-B is both a hiring prerequisite and a preview of what the job actually is — get it before applying, not after.",
+        "learn": [
+          "Complete an EMT-B course (community college or academy)",
+          "Pass the NREMT cognitive and psychomotor exams",
+          "Ride with a volunteer service to build patient contacts",
+          "Compare your state's EMT scope and renewal rules"
+        ],
+        "skills": [
+          "Emergency medical care",
+          "Patient assessment"
+        ],
+        "certs": [
+          {
+            "name": "EMT-B (NREMT)",
+            "issuer": "National Registry of EMTs / state EMS offices",
+            "note": "Cognitive and psychomotor exams after an approved course; state licensure follows; standard fire-department hiring requirement."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NREMT — certification",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-academy",
+      "type": "node",
+      "label": "Fire Academy",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The fire academy (recruit school) covers firefighting skills to NFPA-style standards: hose lines, ladders, SCBA, search, ventilation, forcible entry, ropes, and live-fire evolutions, plus fire behavior and building construction.",
+        "why": "Academy performance sets the tone of your entire career — recruits who arrive already competent in fitness and EMT stand out immediately.",
+        "learn": [
+          "Train SCBA confidence until air management is instinct",
+          "Master hose-line advancement and nozzle technique",
+          "Learn ladder raises and carries to standard",
+          "Study building-construction burn patterns and risks"
+        ],
+        "skills": [
+          "Fireground skills",
+          "SCBA discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-cpat",
+      "type": "node",
+      "label": "CPAT Test",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Candidate Physical Ability Test (CPAT) is the standardized entry fitness exam: eight sequential events on a 10-minute-20-second course, commonly required before hiring lists are formed.",
+        "why": "A valid CPAT card is a gate on most municipal hiring processes — schedule it early and arrive overtrained.",
+        "learn": [
+          "Find licensed CPAT testing centers near you",
+          "Understand each of the eight events and timing",
+          "Do at least two full timed practice runs",
+          "Track your CPAT card's validity window for applications"
+        ],
+        "skills": [
+          "Test preparation",
+          "Physical conditioning"
+        ],
+        "certs": [
+          {
+            "name": "CPAT",
+            "issuer": "Licensed CPAT testing centers (IAFC/IAFF program)",
+            "note": "The standardized firefighter candidate physical ability examination; a pass card is commonly required by hiring departments."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-scba",
+      "type": "node",
+      "label": "SCBA & Search",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Self-contained breathing apparatus work in zero visibility is the core craft: air management, reduced-profile movement, oriented search, and team integrity under stress.",
+        "why": "Fireground survival — yours and victims' — runs on disciplined air math and calm search technique.",
+        "learn": [
+          "Practice donning/doffing SCBA to time standards",
+          "Learn the rule-of-thumb air management checkpoints",
+          "Drill oriented search and team search patterns blindfolded",
+          "Practice Mayday procedures until automatic"
+        ],
+        "skills": [
+          "Air management",
+          "Search technique"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-pumps",
+      "type": "node",
+      "label": "Pumps & Hydraulics",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Engine work is water delivery: pump panel operations, friction-loss math, relay pumping, and supply-line management — the engineer's craft that every firefighter learns the basics of.",
+        "why": "Hydraulic fluency is the gate to the engineer/promotion track and the difference between a line that works and one that starves.",
+        "learn": [
+          "Learn friction-loss calculation rules of thumb",
+          "Practice pump panel operations (charge, throttle, relief)",
+          "Master tender/shuttle and relay concepts",
+          "Study your department's standard hose lays"
+        ],
+        "skills": [
+          "Hydraulics",
+          "Pump operations"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-hazmat",
+      "type": "node",
+      "label": "HazMat Operations",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hazardous-materials response tiers (awareness → operations → technician) cover recognition, isolation zones, and defensive actions — operations level is standard for firefighters.",
+        "why": "HazMat ops certification is commonly required post-academy and is legally grounded in federal training standards.",
+        "learn": [
+          "Complete HazMat Awareness then Operations courses",
+          "Learn the ERG (Emergency Response Guidebook) workflow",
+          "Practice识别 placards, container shapes, and isolation distances",
+          "Understand your defensive role versus technician teams"
+        ],
+        "skills": [
+          "HazMat recognition",
+          "Defensive operations"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — Emergency Management Institute",
+            "url": "https://training.fema.gov/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-extrication",
+      "type": "node",
+      "label": "Vehicle Extrication",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Rescue toolcraft: stabilization, glass management, door and roof removals with hydraulic rescue tools, and patient-centered disentanglement sequencing.",
+        "why": "Extrication discipline (stabilize first, patient always) is a signature fire-service skill and a common mutual-aid scene.",
+        "learn": [
+          "Learn vehicle stabilization with cribbing and struts",
+          "Practice tool operation: cutters, spreaders, rams",
+          "Master glass management and patient protection",
+          "Study new-vehicle hazards (high-strength steel, airbags, EV)"
+        ],
+        "skills": [
+          "Rescue toolcraft",
+          "Scene stabilization"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-ems",
+      "type": "node",
+      "label": "EMS: Most Calls",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The majority of fire-department responses are emergency medical: BLS care, CPR, AED, patient packaging, and (for paramedics) advanced interventions.",
+        "why": "Your EMS skill level drives both daily usefulness and promotion prospects — many chiefs came up through EMS leadership.",
+        "learn": [
+          "Keep EMT skills current with frequent scenario drills",
+          "Learn your system's protocols and documentation standard",
+          "Consider the paramedic path (1–2 years) for advancement",
+          "Debrief difficult calls with your crew regularly"
+        ],
+        "skills": [
+          "BLS care",
+          "Protocol fluency"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NREMT — certification",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-publiced",
+      "type": "node",
+      "label": "Prevention & Inspections",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fire prevention work: public education (school visits, CPR fairs), pre-incident planning of commercial buildings, and company-level inspections that stop fires before they start.",
+        "why": "Prevention is the mission's quiet half — and pre-planning buildings you'll later fight fires in is a survival skill.",
+        "learn": [
+          "Participate in pre-incident planning for target hazards",
+          "Learn basic occupancy inspection points (exits, extinguishers)",
+          "Give one public-education presentation per quarter",
+          "Keep pre-plan sketches updated for your first-due area"
+        ],
+        "skills": [
+          "Pre-incident planning",
+          "Public education"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-riding",
+      "type": "node",
+      "label": "Riding Assignments",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Every seat on the apparatus has a job: tip (nozzle), hydrant, officer's side, tiller, ambulance — knowing your riding assignment's tools, tasks, and order of operations is company proficiency.",
+        "why": "Crews win on choreography; the firefighter who knows every position becomes the one who gets promoted to any of them.",
+        "learn": [
+          "Learn every riding position on your first-out engine",
+          "Practice cross-staffing drills (engine to truck responsibilities)",
+          "Know your assignment's tool cache location by touch",
+          "Run 'no-notice' scenario drills with your crew"
+        ],
+        "skills": [
+          "Position mastery",
+          "Crew coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-wildland",
+      "type": "node",
+      "label": "Wildland Basics",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Wildland-urban interface response adds its own craft: fire behavior in fuels, hand-line construction, deployable shelters, and the NWCG certification system (S-130/S-190-style courses).",
+        "why": "Wildland incidents now reach most regions every summer — NWCG-qualified firefighters are in national demand.",
+        "learn": [
+          "Complete NWCG-style intro courses (S-130/S-190 equivalents)",
+          "Learn the 10 standard firefighting orders and 18 watch-outs",
+          "Practice hand-line construction and tool discipline",
+          "Understand LCES (lookouts, communications, escape routes, safety zones)"
+        ],
+        "skills": [
+          "Wildland fire behavior",
+          "Line construction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NWCG — training",
+            "url": "https://www.nwcg.gov/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-civil",
+      "type": "node",
+      "label": "Civil Service & Lists",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Career hiring runs through civil-service processes: written exams, CPAT cards, candidate physicals, and ranked eligibility lists that can take months to a year to cycle.",
+        "why": "Understanding the list mechanics (rank, banding, deadlines) lets you apply broadly and patiently instead of staking everything on one department.",
+        "learn": [
+          "Track announcements across 5+ departments in your region",
+          "Prepare for written exams (reading, math, mechanical)",
+          "Keep documents assembled: certs, transcripts, licenses",
+          "Apply every cycle; hire lists move unpredictably"
+        ],
+        "skills": [
+          "Process navigation",
+          "Persistence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-oral",
+      "type": "node",
+      "label": "Oral Boards",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Oral boards and chief's interviews test judgment: why this career, scenario decisions, integrity questions, and how you talk about crews and the public.",
+        "why": "Chiefs hire people they trust in living rooms at 3 a.m. — interview skill is a trainable, decisive factor.",
+        "learn": [
+          "Draft and rehearse your 'why fire service' answer honestly",
+          "Practice scenario questions out loud (morale, integrity, safety)",
+          "Do 3 mock oral boards with firefighters",
+          "Learn your region's fire-service current events"
+        ],
+        "skills": [
+          "Interviewing",
+          "Judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-background",
+      "type": "node",
+      "label": "Background & Medical",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Final gates: comprehensive background investigation, medical exam (including pulmonary function and stress tests), drug screening, and driver's-license verification.",
+        "why": "Offers die here more often than at any skills test — disclosure and preparation protect years of work.",
+        "learn": [
+          "Disclose everything relevant early, with documentation",
+          "Keep driving record and finances clean",
+          "Prepare medically: blood pressure, lungs, fitness markers",
+          "Stay reachable and responsive during long processing gaps"
+        ],
+        "skills": [
+          "Documentation",
+          "Discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-probation",
+      "type": "node",
+      "label": "Probationary Year",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Your first year on shift is a documented evaluation: skill sheets, drill attendance, station duties, and how you fit the crew. Books are signed off by senior firefighters and officers.",
+        "why": "Probation shapes your reputation permanently — humility, drill hunger, and reliability are what get signed off fast.",
+        "learn": [
+          "Complete every task book item early, not at deadline",
+          "Volunteer for drills, chores, and preplans visibly",
+          "Find a probationary mentor on your shift",
+          "Ask for honest feedback monthly from your officer"
+        ],
+        "skills": [
+          "Coachability",
+          "Reliability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-driver",
+      "type": "node",
+      "label": "Driver / Engineer",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The first rank step: apparatus driver-engineer — qualifying on each apparatus, pump operations, water supply, and the responsibility of positioning the rig correctly every single time.",
+        "why": "Engineer is where mechanical mastery and calm under pressure pay off, and the gate to lieutenant.",
+        "learn": [
+          "Learn your state's apparatus licensure requirements",
+          "Complete your department's driver/engineer qualification book",
+          "Practice positioning for common building types",
+          "Master pump discharge and water-supply operations"
+        ],
+        "skills": [
+          "Apparatus operations",
+          "Water supply"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-rescue",
+      "type": "node",
+      "label": "Rescue & Special Ops",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialty branches: technical rescue (rope, confined space, trench, swiftwater), marine and dive units, airport (ARFF), and USAR task forces — each adds certification chains and team selection.",
+        "why": "Specialties keep 20-year careers fresh, add pay in many departments, and put you on regional and national teams.",
+        "learn": [
+          "Identify your department's specialty teams and their selection bars",
+          "Pick one discipline and start its certification chain",
+          "Maintain base fitness for rescue-specific demands",
+          "Talk to team members about the real time commitment"
+        ],
+        "skills": [
+          "Technical rescue",
+          "Specialization planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-investigator",
+      "type": "node",
+      "label": "Inspector & Investigator",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Prevention-side branches: fire inspector (plans review and occupancy inspections) and fire investigator (origin-and-cause determination, often toward CFI-style certification).",
+        "why": "These roles extend careers past full-duty field years while using deep fire knowledge — a classic second act.",
+        "learn": [
+          "Take fire-inspection courses (NFPA-aligned standards)",
+          "Learn origin-and-cause fundamentals if investigating appeals",
+          "Follow your state's investigator certification path",
+          "Ride with your fire-prevention bureau for a day"
+        ],
+        "skills": [
+          "Fire investigation",
+          "Code knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-rank",
+      "type": "node",
+      "label": "Lieutenant → Battalion",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The officer ladder runs lieutenant (company command) → captain → battalion chief (multiple stations, incident command) → division/deputy/cheif, through promotional exams, assessment centers, and Fire-Officer-style certifications.",
+        "why": "Officers multiply the department: the best combine command presence, mentoring, and administrative discipline.",
+        "learn": [
+          "Study incident command (ICS) beyond basics",
+          "Prepare for promotional exams years early",
+          "Learn Fire Officer I/II-style certification requirements",
+          "Practice writing cohesive crew evaluations and budgets"
+        ],
+        "skills": [
+          "Incident command",
+          "Crew leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — Emergency Management Institute (ICS)",
+            "url": "https://training.fema.gov/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-wellness",
+      "type": "node",
+      "label": "Cancer & Wellness",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Firefighters face elevated occupational cancer and cardiac risk: diesel exhaust, combustion carcinogens, and heat stress. Modern practice: post-fire decontamination, second hood sets, and annual medicals.",
+        "why": "The job's biggest long-term threats are chemical, not flames — contamination discipline is now taught as core survival skill.",
+        "learn": [
+          "Follow gross decon and gear-laundering standards every fire",
+          "Keep SCBA on through overhaul, not just knockdown",
+          "Get annual medicals and know your numbers",
+          "Support your crew's mental-health check-ins"
+        ],
+        "skills": [
+          "Contamination discipline",
+          "Long-term health management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — US Fire Administration",
+            "url": "https://www.usfa.fema.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fs-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "fs-g-academy",
+      "type": "group",
+      "label": "ACADEMY & CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "fs-g-service",
+      "type": "group",
+      "label": "ON THE JOB",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "fs-g-hire",
+      "type": "group",
+      "label": "GETTING HIRED",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "fs-g-probation",
+      "type": "group",
+      "label": "PROBATION & FIRST RANK",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "fs-g-rank",
+      "type": "group",
+      "label": "SPECIALIZE & RANK",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "fs-explore",
+      "to": "fs-volunteer"
+    },
+    {
+      "from": "fs-explore",
+      "to": "fs-fitness"
+    },
+    {
+      "from": "fs-explore",
+      "to": "fs-emt"
+    },
+    {
+      "from": "fs-volunteer",
+      "to": "fs-academy",
+      "dashed": true
+    },
+    {
+      "from": "fs-fitness",
+      "to": "fs-cpat"
+    },
+    {
+      "from": "fs-emt",
+      "to": "fs-academy"
+    },
+    {
+      "from": "fs-academy",
+      "to": "fs-scba"
+    },
+    {
+      "from": "fs-academy",
+      "to": "fs-pumps"
+    },
+    {
+      "from": "fs-academy",
+      "to": "fs-hazmat",
+      "dashed": true
+    },
+    {
+      "from": "fs-academy",
+      "to": "fs-extrication",
+      "dashed": true
+    },
+    {
+      "from": "fs-scba",
+      "to": "fs-ems"
+    },
+    {
+      "from": "fs-ems",
+      "to": "fs-publiced",
+      "dashed": true
+    },
+    {
+      "from": "fs-ems",
+      "to": "fs-riding"
+    },
+    {
+      "from": "fs-riding",
+      "to": "fs-wildland",
+      "dashed": true
+    },
+    {
+      "from": "fs-cpat",
+      "to": "fs-civil"
+    },
+    {
+      "from": "fs-civil",
+      "to": "fs-oral"
+    },
+    {
+      "from": "fs-oral",
+      "to": "fs-background"
+    },
+    {
+      "from": "fs-background",
+      "to": "fs-probation"
+    },
+    {
+      "from": "fs-riding",
+      "to": "fs-probation"
+    },
+    {
+      "from": "fs-probation",
+      "to": "fs-driver"
+    },
+    {
+      "from": "fs-driver",
+      "to": "fs-rescue",
+      "dashed": true
+    },
+    {
+      "from": "fs-driver",
+      "to": "fs-investigator",
+      "dashed": true
+    },
+    {
+      "from": "fs-driver",
+      "to": "fs-rank"
+    },
+    {
+      "from": "fs-rank",
+      "to": "fs-wellness",
+      "dashed": true
+    }
+  ]
+}

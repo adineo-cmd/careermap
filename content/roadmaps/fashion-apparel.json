@@ -1,0 +1,843 @@
+{
+  "slug": "fashion-apparel",
+  "title": "Fashion & Apparel",
+  "tagline": "Design, tailoring, merchandising, and styling — the craft and commerce of clothing.",
+  "summary": "Fashion careers span design studios, ateliers, retail merchandising, and production: sketching and patternmaking, tailoring and alterations, buying and visual merchandising. This roadmap covers the craft skills, the industry paths, and building a label or alteration business.",
+  "category": "Marketing & Communications",
+  "color": "#c96f9a",
+  "icon": "scissors",
+  "onetRoles": [
+    "27-1022.00",
+    "51-6052.00",
+    "27-1026.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Fashion Designers (27-1022.00)",
+      "url": "https://www.onetonline.org/link/summary/27-1022.00"
+    },
+    {
+      "label": "BLS OOH — Fashion Designers",
+      "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "fa-explore",
+      "type": "node",
+      "label": "The Industry Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fashion spans design houses, fast-fashion production, tailoring and alterations, retail merchandising, styling, and media — a portfolio-driven industry where craft plus network decides outcomes.",
+        "why": "Clothing is a massive global industry with room for makers, sellers, and stylists alike — and it rewards self-taught skill as much as degrees.",
+        "learn": [
+          "Read the BLS OOH fashion designers profile",
+          "Identify your pull: making, selling, or styling",
+          "Study 10 brands' journeys from idea to shelf",
+          "Start a lookbook of work and inspiration"
+        ],
+        "skills": [
+          "Design sensibility",
+          "Craft",
+          "Trend literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Fashion Designers",
+            "url": "https://www.onetonline.org/link/summary/27-1022.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-1022.00"
+        ]
+      }
+    },
+    {
+      "id": "fa-paths",
+      "type": "node",
+      "label": "Maker vs Merchant",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Makers design and construct (designers, tailors, patternmakers); merchants move and present it (buyers, merchandisers, visual display); stylists bridge both for clients and media.",
+        "why": "Knowing your side of the industry focuses everything: tools, portfolio, and first job.",
+        "learn": [
+          "Compare daily work: designer vs buyer vs tailor",
+          "Assess your hands (making) vs eye (selecting) strength",
+          "Interview one professional per side",
+          "Choose a primary path"
+        ],
+        "skills": [
+          "Career planning",
+          "Skill assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-basics",
+      "type": "node",
+      "label": "Sewing & Construction",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The foundational craft: machine operation, seam types, hems, closures, and finishing — quality construction is what separates wearable from wearable-once.",
+        "why": "Even designers who don't sew daily must speak construction fluently to spec, fit, and fix garments.",
+        "learn": [
+          "Complete 5 projects progressing in difficulty",
+          "Master seam finishes and hems by fabric type",
+          "Learn to read and adjust a commercial pattern",
+          "Build a garment you'd actually wear"
+        ],
+        "skills": [
+          "Sewing",
+          "Garment construction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-textiles",
+      "type": "node",
+      "label": "Textiles & Fabrics",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fabric knowledge: fibers (natural vs synthetic), weaves and knits, drape, weight, and how each behaves in cutting, sewing, and wearing.",
+        "why": "Fabric choice makes or breaks designs — textile fluency is the designer's and buyer's shared language.",
+        "learn": [
+          "Build a swatch library of 30 fabrics",
+          "Learn fiber contents and their care/behavior",
+          "Drape-test fabrics on a form or body",
+          "Specify fabric for one original design"
+        ],
+        "skills": [
+          "Textile knowledge",
+          "Drape judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-design",
+      "type": "node",
+      "label": "Design Craft",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Design work: sketching (hand and digital), flats and tech packs, mood boards, and designing within constraints of fabric, cost, and the person who'll wear it.",
+        "why": "Design is communication to a factory: a clean tech pack turns vision into production.",
+        "learn": [
+          "Sketch 20 garment ideas; develop 3 fully",
+          "Write a tech pack: measurements, materials, construction notes",
+          "Build mood boards per collection",
+          "Redesign one garment for a different price point"
+        ],
+        "skills": [
+          "Sketching",
+          "Tech packs",
+          "Design thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Fashion Designers",
+            "url": "https://www.onetonline.org/link/summary/27-1022.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-1022.00"
+        ],
+        "tasks": [
+          "Design clothing and accessories, create original garments or design follow-up lines, and study fashion trends."
+        ]
+      }
+    },
+    {
+      "id": "fa-pattern",
+      "type": "node",
+      "label": "Patternmaking & Fit",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The engineering half: drafting and draping patterns, grading sizes, and fitting on real bodies — where design ideas become repeatable garments.",
+        "why": "Patternmakers are scarce and essential; fit is the number-one reason clients keep or return clothing.",
+        "learn": [
+          "Draft a basic bodice and skirt block",
+          "Drape and adjust on a dress form",
+          "Grade one pattern across 3 sizes",
+          "Fit-test on real bodies and take notes"
+        ],
+        "skills": [
+          "Patternmaking",
+          "Fitting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-tailor",
+      "type": "node",
+      "label": "Tailoring & Alterations",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The alteration trade: hems, take-ins, zippers, and wedding-dress work — a steady, referral-driven business with low startup costs and instant local demand.",
+        "why": "Alterations is the most accessible fashion business: everyone owns clothes that don't fit.",
+        "learn": [
+          "Master the 10 most-requested alterations",
+          "Price services against local competitors",
+          "Set up a fitting space and intake process",
+          "Collect before/after photos per job"
+        ],
+        "skills": [
+          "Alteration technique",
+          "Client fitting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Tailors, Dressmakers, and Custom Sewers",
+            "url": "https://www.onetonline.org/link/summary/51-6052.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "51-6052.00"
+        ]
+      }
+    },
+    {
+      "id": "fa-merch",
+      "type": "node",
+      "label": "Merchandising & Buying",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Merchants decide what stores sell: buying ranges, assortment planning, pricing, markdowns, and reading sales data — retail's analytical side with taste requirements.",
+        "why": "Merchandising and buying are salaried fashion careers with real math — ideal for tasteful analysts.",
+        "learn": [
+          "Learn open-to-buy and assortment planning basics",
+          "Analyze a store's assortment strengths/gaps",
+          "Practice margin and markdown math",
+          "Follow one retailer's buying strategy quarterly"
+        ],
+        "skills": [
+          "Retail math",
+          "Assortment planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-visual",
+      "type": "node",
+      "label": "Visual Merchandising",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Windows and floors sell: display design, mannequin styling, lighting, and the store layouts that move customers — part theater, part retail science.",
+        "why": "Visual merchandising is a hands-on fashion-adjacent career present in every mall and boutique.",
+        "learn": [
+          "Style 3 window or table displays",
+          "Learn sightline and traffic-flow basics",
+          "Study one great retailer's visual strategy",
+          "Document your displays in a portfolio"
+        ],
+        "skills": [
+          "Display design",
+          "Styling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Merchandise Displayers and Window Trimmers",
+            "url": "https://www.onetonline.org/link/summary/27-1026.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-1026.00"
+        ]
+      }
+    },
+    {
+      "id": "fa-styling",
+      "type": "node",
+      "label": "Styling & Image",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Stylists assemble looks for clients, shoots, and brands: body-aware selection, pulling from showrooms, and art-directing the final image with photographers.",
+        "why": "Styling is the media-facing branch — portfolio-driven, network-powered, and adjacent to photography and content careers.",
+        "learn": [
+          "Style 5 looks from a thrift budget",
+          "Assist a stylist on a real shoot",
+          "Learn pull-letter and showroom etiquette",
+          "Build a styling portfolio site"
+        ],
+        "skills": [
+          "Styling",
+          "Shoot production"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-production",
+      "type": "node",
+      "label": "Production & Sourcing",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Production turns designs into inventory: sourcing fabrics and factories, sampling, quality control, and ethical-supply-chain decisions.",
+        "why": "Brands live or die on production execution — production managers are the industry's quiet necessity.",
+        "learn": [
+          "Learn the sample-to-production timeline",
+          "Understand MOQs and cost sheets",
+          "Study ethical-sourcing certifications conceptually",
+          "Build a tech-pack-to-sample checklist"
+        ],
+        "skills": [
+          "Sourcing",
+          "Quality control"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-label",
+      "type": "node",
+      "label": "Launching a Label",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Starting a brand: niche and identity, small capsule collections, made-to-order vs inventory decisions, pricing with real margins, and direct-to-customer channels.",
+        "why": "Small labels are viable now in a way they never were — but only with margin math and a defined customer.",
+        "learn": [
+          "Define your customer and price point precisely",
+          "Cost one garment fully: materials, labor, overhead",
+          "Launch a 3-piece capsule made-to-order",
+          "Learn cottage-industry/selling regulations locally"
+        ],
+        "skills": [
+          "Brand building",
+          "Costing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-portfolio",
+      "type": "node",
+      "label": "Portfolio & Network",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry runs on portfolios and relationships: a tight lookbook, trade shows and markets, internships, and the community of makers who refer each other work.",
+        "why": "Fashion hiring is portfolio-first and referral-driven — visibility compounds faster than credentials.",
+        "learn": [
+          "Build a 10-look portfolio, physical or digital",
+          "Attend one trade show or market week",
+          "Assist on 3 shoots or shows for contacts",
+          "Follow up every connection monthly"
+        ],
+        "skills": [
+          "Portfolio building",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-sustain",
+      "type": "node",
+      "label": "Sustainable Fashion",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry's reckoning: deadstock fabrics, repair and upcycling, transparent sourcing, and slow-fashion economics — where small makers often lead big brands.",
+        "why": "Sustainability is the consumer trend reshaping fashion — small labels win trust here faster than giants.",
+        "learn": [
+          "Learn the fashion waste problem in numbers",
+          "Practice one upcycling project",
+          "Understand certification claims vs reality",
+          "Design a zero-waste pattern"
+        ],
+        "skills": [
+          "Sustainable practice",
+          "Certification claims literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: design assistant → designer → head designer; tailor → atelier owner; sales associate → buyer → merchandising manager; stylist → creative director.",
+        "why": "Fashion has many ladders but shared rules: portfolio, references, and reputation decide every rung.",
+        "learn": [
+          "Map the ladder for your path with real postings",
+          "Identify the credit (show, brand, client) that unlocks the next rung",
+          "Find a mentor in your lane",
+          "Set a 3-year portfolio goal"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-income",
+      "type": "node",
+      "label": "Income Reality",
+      "variant": "muted",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fashion pay varies wildly: design salaries concentrate in fashion cities; tailoring and alterations earn locally and steadily; labels take years to pay their founders.",
+        "why": "Planning income honestly — day rates, margins, reserves — keeps talented people in the industry.",
+        "learn": [
+          "Research salaries for your path in your region",
+          "Model alteration or label economics before quitting a job",
+          "Keep a stable income stream during label years",
+          "Price your craft with confidence and data"
+        ],
+        "skills": [
+          "Financial planning",
+          "Reserve planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-education",
+      "type": "node",
+      "label": "School or Self-Taught",
+      "variant": "muted",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Design degrees help at big houses but the industry also runs on self-taught makers, trade skills, and short courses — portfolio and skill beat pedigree in most rooms.",
+        "why": "Choosing education by outcome (not prestige) saves years of debt — especially in tailoring and alterations where skill shows instantly.",
+        "learn": [
+          "Compare program costs vs target salaries",
+          "Build skills through community courses and practice",
+          "Note which employers in your path require degrees",
+          "Invest in a sewing machine before a degree"
+        ],
+        "skills": [
+          "Education planning",
+          "Debt awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-trends",
+      "type": "node",
+      "label": "Trend Literacy",
+      "variant": "muted",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Trend awareness — runways, street style, retail data, and cultural moments — informs buyers' purchases and designers' lines without dictating a signature voice.",
+        "why": "Merchants and designers are paid to see around corners — trend literacy is a trained skill, not talent.",
+        "learn": [
+          "Follow 2 runway seasons per year with notes",
+          "Track what actually sells in local retail",
+          "Distinguish fads from macro trends",
+          "Write one trend forecast per season"
+        ],
+        "skills": [
+          "Trend analysis",
+          "Data tracking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-tech",
+      "type": "node",
+      "label": "Fashion Tech",
+      "variant": "muted",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Modern tools: digital pattern software, 3D garment visualization, e-commerce platforms, and social-first brand building — small makers now access what only big houses had.",
+        "why": "Tech fluency lets a two-person label operate like a fifty-person one — the great equalizer for independent makers.",
+        "learn": [
+          "Try digital pattern or 3D garment tools",
+          "Set up an e-commerce shop for a capsule",
+          "Learn social-first brand photography",
+          "Automate order and inventory tracking"
+        ],
+        "skills": [
+          "Fashion tech",
+          "E-commerce"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — e-commerce",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-fit",
+      "type": "node",
+      "label": "Fit & Inclusion",
+      "variant": "muted",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry's inclusion shift: extended sizing, adaptive clothing, and fit across real bodies — both an ethical expectation and a massive underserved market.",
+        "why": "Makers and brands who fit real bodies well win loyalty that trend-chasers never touch.",
+        "learn": [
+          "Learn grading beyond the standard size run",
+          "Study adaptive-clothing design principles",
+          "Fit-test across diverse bodies respectfully",
+          "Design one piece for an underserved market"
+        ],
+        "skills": [
+          "Inclusive design",
+          "Advanced grading"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Fashion Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "fa-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "fa-g-craft",
+      "type": "group",
+      "label": "CRAFT & COMMERCE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "fa-g-paths",
+      "type": "group",
+      "label": "INDUSTRY PATHS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "fa-g-build",
+      "type": "group",
+      "label": "BUILD & SHOW",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "fa-g-ladder",
+      "type": "group",
+      "label": "LADDER & REALITIES",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    }
+  ],
+  "edges": [
+    {
+      "from": "fa-explore",
+      "to": "fa-paths"
+    },
+    {
+      "from": "fa-explore",
+      "to": "fa-basics",
+      "dashed": true
+    },
+    {
+      "from": "fa-explore",
+      "to": "fa-textiles",
+      "dashed": true
+    },
+    {
+      "from": "fa-paths",
+      "to": "fa-design"
+    },
+    {
+      "from": "fa-paths",
+      "to": "fa-tailor",
+      "dashed": true
+    },
+    {
+      "from": "fa-paths",
+      "to": "fa-merch",
+      "dashed": true
+    },
+    {
+      "from": "fa-basics",
+      "to": "fa-pattern"
+    },
+    {
+      "from": "fa-textiles",
+      "to": "fa-design",
+      "dashed": true
+    },
+    {
+      "from": "fa-pattern",
+      "to": "fa-design",
+      "dashed": true
+    },
+    {
+      "from": "fa-design",
+      "to": "fa-portfolio"
+    },
+    {
+      "from": "fa-tailor",
+      "to": "fa-portfolio"
+    },
+    {
+      "from": "fa-merch",
+      "to": "fa-visual",
+      "dashed": true
+    },
+    {
+      "from": "fa-merch",
+      "to": "fa-trends",
+      "dashed": true
+    },
+    {
+      "from": "fa-portfolio",
+      "to": "fa-styling",
+      "dashed": true
+    },
+    {
+      "from": "fa-portfolio",
+      "to": "fa-production",
+      "dashed": true
+    },
+    {
+      "from": "fa-portfolio",
+      "to": "fa-label",
+      "dashed": true
+    },
+    {
+      "from": "fa-portfolio",
+      "to": "fa-career"
+    },
+    {
+      "from": "fa-sustain",
+      "to": "fa-label",
+      "dashed": true
+    },
+    {
+      "from": "fa-tech",
+      "to": "fa-label",
+      "dashed": true
+    },
+    {
+      "from": "fa-career",
+      "to": "fa-income",
+      "dashed": true
+    },
+    {
+      "from": "fa-career",
+      "to": "fa-education",
+      "dashed": true
+    },
+    {
+      "from": "fa-fit",
+      "to": "fa-career",
+      "dashed": true
+    }
+  ]
+}

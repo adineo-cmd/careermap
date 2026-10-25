@@ -1,0 +1,937 @@
+{
+  "slug": "skincare-esthetics",
+  "title": "Skincare & Esthetics",
+  "tagline": "The dedicated esthetics path — license, treatments, advanced devices, and clinical skincare careers.",
+  "summary": "A deep-dive specialization of the Beauty & Personal Care roadmap: the esthetics career from skin anatomy and state licensure through core treatment mastery, advanced devices and chemistry, client practice, and the spa-to-med-spa-to-solo-studio career ladder.",
+  "category": "People & Organizations",
+  "color": "#d477a8",
+  "icon": "sparkles",
+  "parent": "beauty-personal-care",
+  "onetRoles": [
+    "39-5094.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Skincare Specialists (39-5094.00)",
+      "url": "https://www.onetonline.org/link/summary/39-5094.00"
+    },
+    {
+      "label": "BLS OOH — Skincare Specialists",
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "sk-explore",
+      "type": "node",
+      "label": "Skin Careers",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Estheticians are licensed skin-care specialists: facials, peels, hair removal, and home-care guidance in spas, med-spas, dermatology-adjacent clinics, and solo studios.",
+        "why": "Skincare is one of the fastest-growing personal-care lanes, blending touch craft, product science, and long-term client relationships.",
+        "learn": [
+          "Read the BLS OOH skincare specialists profile",
+          "Compare esthetics vs cosmetology vs medical-adjacent roles",
+          "Visit a spa, a med-spa, and a solo studio",
+          "Check your state's esthetics hour requirements"
+        ],
+        "skills": [
+          "Skin science curiosity",
+          "Client rapport"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Skincare Specialists",
+            "url": "https://www.onetonline.org/link/summary/39-5094.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-5094.00"
+        ],
+        "tasks": [
+          "Provide skincare treatments to face and body to improve an individual's appearance or health."
+        ]
+      }
+    },
+    {
+      "id": "sk-license",
+      "type": "node",
+      "label": "Esthetics License",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Estheticians are licensed by state boards: an approved program (typically 600 state-hours, varying widely), theory and practical exams, and renewals with continuing education.",
+        "why": "The license is the legal foundation of every treatment you'll perform — checking your state's exact requirements comes before choosing a school.",
+        "learn": [
+          "Read your state board's esthetics hour count and exam format",
+          "Compare accredited schools on clinic-floor volume",
+          "Understand scope: what estheticians may and may not do",
+          "Calendar renewal and CE requirements now"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "School selection"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-anatomy",
+      "type": "node",
+      "label": "Skin Anatomy",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The epidermis and dermis layers, barrier function, melanin, sebum, collagen and elastin — plus how aging, acne, rosacea, pigmentation, and sensitivity present visually.",
+        "why": "Every treatment decision (peel depth, product choice, referral) rests on reading skin structure and function correctly.",
+        "learn": [
+          "Learn the epidermal layers and the barrier's job",
+          "Study how each skin type and condition presents",
+          "Understand the wound-healing and cell-turnover cycle",
+          "Explain SPF and photoaging to a friend simply"
+        ],
+        "skills": [
+          "Skin anatomy",
+          "Condition recognition"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-settings",
+      "type": "node",
+      "label": "Where Estheticians Work",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Settings span day spas, resort spas, med-spas under medical supervision, dermatology and plastic-surgery offices, waxing studios, and independent suite studios — each with different pace, pay structure, and scope.",
+        "why": "Your setting choice shapes treatment style, income model, and how far into advanced practice you can go.",
+        "learn": [
+          "Observe one day in each of three settings if possible",
+          "Compare commission vs rental vs salary models",
+          "Note which settings require extra certifications",
+          "Pick a target setting for your first job"
+        ],
+        "skills": [
+          "Market awareness",
+          "Income modeling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-facial",
+      "type": "node",
+      "label": "The Classic Facial",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The foundational treatment sequence: cleanse, analyze, exfoliate, extract as needed, massage, mask, tone, and protect — adapted to each skin type with consistent timing.",
+        "why": "Mastery of the classic facial is the test of a trained esthetician; every advanced treatment builds on its rhythm.",
+        "learn": [
+          "Perform the full sequence to a 60-minute standard",
+          "Adapt products for oily, dry, sensitive, and combo skin",
+          "Practice bed-side draping, positioning, and flow",
+          "Give and receive 10 practice facials"
+        ],
+        "skills": [
+          "Treatment technique",
+          "Sequence discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-analysis",
+      "type": "node",
+      "label": "Skin Analysis",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Reading skin under light and magnification: type (oil, dry, combo, sensitive), conditions (acne grades, pigmentation, texture), Fitzpatrick typing, and contraindication screening.",
+        "why": "Analysis is the thinking half of the treatment — wrong reads lead to wrong peels, which is how clients get hurt.",
+        "learn": [
+          "Practice Fitzpatrick typing on 20 faces",
+          "Grade acne presentations on a standard scale",
+          "Build a contraindication checklist you use every intake",
+          "Write a treatment plan for 5 mock clients"
+        ],
+        "skills": [
+          "Skin analysis",
+          "Contraindication screening"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-extract",
+      "type": "node",
+      "label": "Extractions",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Safe comedone extraction: softening the skin, gentle technique, knowing what not to touch (inflamed, cystic, deep lesions), and post-extraction calming.",
+        "why": "Extractions are where technique and judgment meet — aggressive extraction causes scarring and lost trust.",
+        "learn": [
+          "Learn softening methods (steam, enzymes) and timing",
+          "Practice fingertip and tool technique on safe lesions only",
+          "Know the 'leave it' list: cysts, nodules, inflamed papules",
+          "Master post-extraction cooling and disinfection"
+        ],
+        "skills": [
+          "Extraction technique",
+          "Clinical judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-exfoliation",
+      "type": "node",
+      "label": "Exfoliation & Peels",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Exfoliation families: physical (scrubs, microderm-style) and chemical (AHA, BHA, enzymes), with depth, pH, and strength logic — staying strictly within esthetics scope.",
+        "why": "Peels are the highest-skill, highest-result, highest-risk service in the esthetics menu — depth judgment is everything.",
+        "learn": [
+          "Learn AHA vs BHA mechanisms and use cases",
+          "Practice timed, layered enzyme exfoliation first",
+          "Understand neutralization and endpoint signs",
+          "Never exceed your state's allowed peel depth — know it"
+        ],
+        "skills": [
+          "Chemical exfoliation",
+          "Depth judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-hairremoval",
+      "type": "node",
+      "label": "Hair Removal",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Waxing craft (hard and soft wax, direction and tension, post-care) plus threading basics — with sanitation and skin-integrity checks at every step.",
+        "why": "Waxing is a high-frequency service that anchors many books — clean technique keeps clients coming and skin intact.",
+        "learn": [
+          "Practice hard-wax application and removal angles",
+          "Master brow shaping by face structure",
+          "Learn no-wax conditions (retinoids, sunburn, certain meds)",
+          "Follow bloodborne-pathogen sanitation standards strictly"
+        ],
+        "skills": [
+          "Waxing technique",
+          "Brow shaping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-lashbrow",
+      "type": "node",
+      "label": "Lashes & Brows",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Lash and brow services — tinting, lamination, lifting, and (with additional certification in many states) lash extensions — are the industry's fastest-growing add-ons.",
+        "why": "Adding lashes and brows roughly doubles treatment-menu value and smooths booking calendars.",
+        "learn": [
+          "Check your state's rules for each lash service",
+          "Train tinting and lamination with patch-test discipline",
+          "Learn isolation and adhesive safety for extensions",
+          "Price services against local demand"
+        ],
+        "skills": [
+          "Lash services",
+          "Patch-test discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-devices",
+      "type": "node",
+      "label": "Devices & Technology",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Esthetic devices: steamers and magnifying lamps, microdermabrasion, LED therapy, high frequency, and ultrasonic skin scrubbers — each with indications, contraindications, and training.",
+        "why": "Device fluency raises treatment value and is often the line between a spa job and a med-spa job.",
+        "learn": [
+          "Learn each device's mechanism in one sentence",
+          "Practice LED protocols for acne vs anti-aging claims",
+          "Know contraindications per device (pregnancy, implants, meds)",
+          "Get manufacturer training before touching clients"
+        ],
+        "skills": [
+          "Device operation",
+          "Safety protocols"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-chemistry",
+      "type": "node",
+      "label": "Product Chemistry",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Reading INCI lists: actives (retinoids, vitamins C/B, acids), formulation roles (humectants, occlusives), and why layering and pH matter for results and safety.",
+        "why": "Product fluency is your authority — clients trust estheticians who can explain why a routine works.",
+        "learn": [
+          "Decode an INCI list top to bottom",
+          "Explain retinoid vs acid scheduling conflicts",
+          "Build home-care routines for 4 skin types",
+          "Compare professional-line vs retail products honestly"
+        ],
+        "skills": [
+          "Ingredient knowledge",
+          "Routine design"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-contraind",
+      "type": "node",
+      "label": "Contraindications",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "When not to treat: active infections, certain medications (isotretinoin, blood thinners), recent procedures, pregnancy considerations, and dermatology conditions that require physician care.",
+        "why": "Contraindication discipline is what separates licensed professionals from influencers with products — it protects clients and your license.",
+        "learn": [
+          "Memorize the universal avoid-treatment list",
+          "Learn medication red flags and referral language",
+          "Practice the 'I care about your safety' referral script",
+          "Document every decline politely and clearly"
+        ],
+        "skills": [
+          "Contraindication knowledge",
+          "Referral judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-onco",
+      "type": "node",
+      "label": "Oncology-Aware Care",
+      "variant": "muted",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Oncology-aware esthetics adapts treatments for clients in cancer treatment — compromised skin, lymphedema considerations, and physician clearance — through dedicated training programs.",
+        "why": "It is one of the most meaningful specialties, growing in hospitals and wellness centers, and built on formal training rather than improvisation.",
+        "learn": [
+          "Research oncology-esthetics training programs",
+          "Learn treatment-contraindication basics for chemo/radiation skin",
+          "Practice gentler-touch protocol adaptations",
+          "Connect with local cancer-support centers"
+        ],
+        "skills": [
+          "Adapted protocols",
+          "Compassionate care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-men",
+      "type": "node",
+      "label": "Men's & Teen Skin",
+      "variant": "muted",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Two growing niches: men's grooming (beard-area skin, shaving irritation, simpler routines) and teen acne education (early habits, gentle protocols, parent communication).",
+        "why": "Both niches are underserved and sticky — clients who start young or get results where barbershops didn't stay for years.",
+        "learn": [
+          "Adapt treatments for shaving-related irritation and pseudofolliculitis",
+          "Build a teen-acne education-first consultation",
+          "Design simple 3-step home routines for each niche",
+          "Market to each niche with distinct messaging"
+        ],
+        "skills": [
+          "Niche adaptation",
+          "Education-first consultation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-consult",
+      "type": "node",
+      "label": "Consultations",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The consultation is diagnosis plus contract: intake forms, lifestyle and medication history, visual analysis, expectation-setting, and a written plan with realistic timelines.",
+        "why": "Skin results take weeks; clients who understand the timeline stay the course — consultation quality drives retention.",
+        "learn": [
+          "Build a thorough intake form (meds, products, sun, history)",
+          "Practice photo documentation standards (lighting, angles)",
+          "Write plans with phases: calm, correct, maintain",
+          "Reassess at 4 and 8 weeks with clients"
+        ],
+        "skills": [
+          "Consultation",
+          "Expectation management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-homecare",
+      "type": "node",
+      "label": "Home-Care Plans",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Prescribing (within scope) home-care routines: cleanser, active, moisturizer, SPF — sequenced simply enough that clients actually follow them.",
+        "why": "80% of results happen between visits; home-care adherence is the real outcome metric of your treatments.",
+        "learn": [
+          "Design 3-step starter routines clients can sustain",
+          "Introduce one active at a time with usage instructions",
+          "Track adherence at follow-ups honestly",
+          "Prescribe only what your license and training allow"
+        ],
+        "skills": [
+          "Routine prescribing",
+          "Adherence coaching"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-retention",
+      "type": "node",
+      "label": "Retention & Rebooking",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Skin is a series, not a service: treatment series packages, 4–6 week rebooking rhythms, progress photography, and honest communication about what treatments can and can't do.",
+        "why": "Series-based care is both better medicine and better business — retention math decides your income.",
+        "learn": [
+          "Design a 3-treatment series with progressive goals",
+          "Take standardized progress photos with consent",
+          "Prebook every client before they leave",
+          "Track retention monthly; call quiet clients kindly"
+        ],
+        "skills": [
+          "Series design",
+          "Retention management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-medspa",
+      "type": "node",
+      "label": "Med-Spa & Clinical",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Medical-adjacent practice: working alongside dermatology and plastic-surgery teams, pre/post-operative skin prep, and deeper chemical exfoliation where state rules and supervision allow.",
+        "why": "Med-spa roles pay the field's top wages and teach clinical rigor — most require experience plus extra training.",
+        "learn": [
+          "Learn your state's rules on medical direction and supervision",
+          "Build 1–2 years of spa experience before applying",
+          "Train on the devices your target clinic uses",
+          "Learn clinical documentation standards"
+        ],
+        "skills": [
+          "Clinical practice",
+          "Supervision compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-studio",
+      "type": "node",
+      "label": "Solo Studio Path",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Suite-studio independence: fixed rent, your own product lines and booking system, niche positioning (acne, aging, sensitive), and the tax/business basics of self-employment.",
+        "why": "Solo studios are where esthetics income ceilings break — built on a niche, a book, and clean business systems.",
+        "learn": [
+          "Model rent + product + tax costs against realistic bookings",
+          "Pick one niche to be known for in your area",
+          "Set up booking, payments, and retail systems simply",
+          "Learn self-employment tax basics before going solo"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Niche positioning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-certs",
+      "type": "node",
+      "label": "Advanced Certifications",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond the license: advanced-peel and device certifications, lymphatic and massage technique courses, and brand academies — each expanding scope-of-practice edges and pricing power.",
+        "why": "Advanced certifications are how estheticians double rates without leaving the field.",
+        "learn": [
+          "Choose one advanced certification per year deliberately",
+          "Verify the training is recognized in your state",
+          "Price new skills against local market ceilings",
+          "Track certificates for insurers and employers"
+        ],
+        "skills": [
+          "Credential planning",
+          "Rate strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-educator",
+      "type": "node",
+      "label": "Content & Education",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Senior estheticians teach at schools, train for brands, and educate publicly (honest, scope-respecting content) — multiplying reputation and filling books without discounting.",
+        "why": "Education is the highest-leverage marketing in skincare: teaching builds the authority that discounting never can.",
+        "learn": [
+          "Publish one myth-busting or routine-building post weekly",
+          "Assist at a school's clinic floor quarterly",
+          "Build a signature workshop for local audiences",
+          "Keep claims within scope and evidence"
+        ],
+        "skills": [
+          "Public education",
+          "Authority building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Skincare Specialists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-safety",
+      "type": "node",
+      "label": "Sanitation Mastery",
+      "x": 1180,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Infection control is the license's backbone: tool disinfection, single-use items, bloodborne-pathogen handling, linens, and standards that survive a surprise board inspection.",
+        "why": "Sanitation failures cause infections, closures, and revoked licenses — and excellence here is invisible marketing to educated clients.",
+        "learn": [
+          "Master disinfectant contact times and tool protocols",
+          "Maintain a blood-spill kit and procedure",
+          "Practice the open-for-inspection standard daily",
+          "Follow bloodborne-pathogen training refreshers"
+        ],
+        "skills": [
+          "Infection control",
+          "Standards discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — bloodborne pathogens",
+            "url": "https://www.osha.gov/bloodborne-pathogens",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sk-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sk-g-core",
+      "type": "group",
+      "label": "CORE TREATMENTS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sk-g-adv",
+      "type": "group",
+      "label": "ADVANCED PRACTICE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sk-g-client",
+      "type": "group",
+      "label": "CLIENT PRACTICE",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sk-g-settings",
+      "type": "group",
+      "label": "SETTINGS & INCOME",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sk-g-grow",
+      "type": "group",
+      "label": "GROWTH & STANDARDS",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "sk-explore",
+      "to": "sk-license"
+    },
+    {
+      "from": "sk-explore",
+      "to": "sk-anatomy"
+    },
+    {
+      "from": "sk-explore",
+      "to": "sk-settings",
+      "dashed": true
+    },
+    {
+      "from": "sk-license",
+      "to": "sk-facial"
+    },
+    {
+      "from": "sk-anatomy",
+      "to": "sk-analysis"
+    },
+    {
+      "from": "sk-facial",
+      "to": "sk-analysis"
+    },
+    {
+      "from": "sk-analysis",
+      "to": "sk-extract"
+    },
+    {
+      "from": "sk-analysis",
+      "to": "sk-exfoliation"
+    },
+    {
+      "from": "sk-facial",
+      "to": "sk-hairremoval",
+      "dashed": true
+    },
+    {
+      "from": "sk-hairremoval",
+      "to": "sk-lashbrow",
+      "dashed": true
+    },
+    {
+      "from": "sk-exfoliation",
+      "to": "sk-devices"
+    },
+    {
+      "from": "sk-devices",
+      "to": "sk-chemistry"
+    },
+    {
+      "from": "sk-chemistry",
+      "to": "sk-contraind"
+    },
+    {
+      "from": "sk-contraind",
+      "to": "sk-onco",
+      "dashed": true
+    },
+    {
+      "from": "sk-contraind",
+      "to": "sk-men",
+      "dashed": true
+    },
+    {
+      "from": "sk-consult",
+      "to": "sk-homecare"
+    },
+    {
+      "from": "sk-analysis",
+      "to": "sk-consult"
+    },
+    {
+      "from": "sk-homecare",
+      "to": "sk-retention"
+    },
+    {
+      "from": "sk-retention",
+      "to": "sk-medspa",
+      "dashed": true
+    },
+    {
+      "from": "sk-retention",
+      "to": "sk-studio",
+      "dashed": true
+    },
+    {
+      "from": "sk-retention",
+      "to": "sk-certs",
+      "dashed": true
+    },
+    {
+      "from": "sk-certs",
+      "to": "sk-educator",
+      "dashed": true
+    },
+    {
+      "from": "sk-license",
+      "to": "sk-safety"
+    },
+    {
+      "from": "sk-safety",
+      "to": "sk-facial",
+      "dashed": true
+    }
+  ]
+}

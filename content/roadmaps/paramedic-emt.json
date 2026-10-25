@@ -1,0 +1,637 @@
+{
+  "slug": "paramedic-emt",
+  "title": "Paramedic & EMT",
+  "tagline": "Emergency medical services — from EMT basics to advanced paramedic practice.",
+  "summary": "A deep-dive specialization of the Healthcare Careers roadmap: the EMS ladder from EMT-B through AEMT to paramedic — training, registry exams, field practice, and the advanced-career corners.",
+  "category": "Health & Public Service",
+  "color": "#e08a3c",
+  "icon": "heart",
+  "parent": "healthcare",
+  "onetRoles": [
+    "29-2042.00",
+    "29-2043.00"
+  ],
+  "jelCodes": [
+    "I18"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Emergency Medical Technicians (29-2042.00)",
+      "url": "https://www.onetonline.org/link/summary/29-2042.00"
+    },
+    {
+      "label": "BLS OOH — EMTs and Paramedics",
+      "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "em-map",
+      "type": "node",
+      "label": "The EMS System",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "EMS tiers: EMR (first responder), EMT-Basic (core emergency care), AEMT (limited advanced), and Paramedic (advanced life support) — delivered by fire departments, private services, and hospital systems.",
+        "why": "EMS is one of the fastest entry points into real medicine — a license earned in months, not years.",
+        "learn": [
+          "Learn the EMS tier differences and scopes",
+          "Compare fire-based vs private vs hospital EMS employers",
+          "Do ride-alongs with a local service",
+          "Assess your tolerance for unpredictable crisis work"
+        ],
+        "skills": [
+          "Crisis composure",
+          "Emergency care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Emergency Medical Technicians",
+            "url": "https://www.onetonline.org/link/summary/29-2042.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2042.00"
+        ]
+      }
+    },
+    {
+      "id": "em-emtb",
+      "type": "node",
+      "label": "EMT-B Course",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The EMT-B course (months, at community colleges and academies) covers assessment, airway, bleeding control, CPR/AED, splinting, and medication administration basics — ending in NREMT exams.",
+        "why": "EMT-B is the field's foundation and a hiring requirement for most fire departments — the fastest route to real patient care.",
+        "learn": [
+          "Complete a state-approved EMT course",
+          "Pass the NREMT cognitive and psychomotor exams",
+          "Ride with a volunteer service for patient contacts",
+          "Learn your state's scope and protocols"
+        ],
+        "skills": [
+          "Patient assessment",
+          "BLS care"
+        ],
+        "certs": [
+          {
+            "name": "EMT-B (NREMT)",
+            "issuer": "National Registry of EMTs / state EMS offices",
+            "note": "National registry certification after an approved course; state licensure follows."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NREMT — certification",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-2042.00"
+        ]
+      }
+    },
+    {
+      "id": "em-ambulance",
+      "type": "node",
+      "label": "Ambulance Basics",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Working the ambulance: equipment checks, documentation (ePCRs), radio communication, safe moving/lifting, and crew dynamics on 12/24-hour shifts.",
+        "why": "The ambulance is the classroom for the first years — habits built here define your field reputation.",
+        "learn": [
+          "Master daily equipment checks completely",
+          "Practice accurate, timely ePCR documentation",
+          "Learn stretcher and lifting safety technique",
+          "Debrief every significant call with your partner"
+        ],
+        "skills": [
+          "Documentation",
+          "Lifting safety"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-aemt",
+      "type": "node",
+      "label": "AEMT Step",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The AEMT bridge adds IV therapy, advanced airway adjuncts, and additional medications — a shorter step between EMT and paramedic that some services use as a distinct role.",
+        "why": "AEMT expands scope and employability while you decide about paramedic school.",
+        "learn": [
+          "Check whether AEMT exists and is used in your state",
+          "Complete the bridge course and registry exam",
+          "Practice IV access under supervision",
+          "Use the role to test advanced-care appetite"
+        ],
+        "skills": [
+          "IV therapy basics",
+          "Scope expansion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NREMT — certification levels",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-paramedic",
+      "type": "node",
+      "label": "Paramedic School",
+      "variant": "accent",
+      "x": 1180,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Paramedic programs (1–2 years, college-based) cover advanced assessment, cardiology, pharmacology, intubation, and field internships — the profession's advanced license.",
+        "why": "Paramedic is the field's clinical peak: autonomous advanced life support decisions, better pay, and career breadth.",
+        "learn": [
+          "Choose an accredited paramedic program",
+          "Build cardiology rhythm-recognition fluency",
+          "Complete hospital and field internships seriously",
+          "Pass the NREMT-P cognitive and psychomotor exams"
+        ],
+        "skills": [
+          "Advanced life support",
+          "Cardiology",
+          "Pharmacology"
+        ],
+        "certs": [
+          {
+            "name": "Paramedic (NREMT)",
+            "issuer": "National Registry of EMTs / state EMS offices",
+            "note": "Advanced national certification after an accredited program; state paramedic licensure follows."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NREMT — paramedic certification",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "29-2043.00"
+        ]
+      }
+    },
+    {
+      "id": "em-field",
+      "type": "node",
+      "label": "Field Preceptorship",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "New paramedics ride with preceptors during a field-evaluation phase: running calls under supervision until trusted to run them alone.",
+        "why": "The preceptorship is the real exam — humility, preparation, and honest self-review decide it.",
+        "learn": [
+          "Prepare for calls the night before",
+          "Accept feedback in real time without defensiveness",
+          "Track your weak presentations and drill them",
+          "Ask for extra rotations in weak areas"
+        ],
+        "skills": [
+          "Coachability",
+          "Independent practice"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-protocols",
+      "type": "node",
+      "label": "Protocols & Med Direction",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Paramedics practice under medical direction: written protocols plus online medical control for exceptional cases — knowing when to call is as important as any drug.",
+        "why": "Protocol fluency and judgment under medical direction define safe advanced practice.",
+        "learn": [
+          "Read your system's full protocol set",
+          "Practice protocol-lookup speed until instant",
+          "Learn the exceptional-case call format",
+          "Debrief protocol deviations with leadership"
+        ],
+        "skills": [
+          "Protocol fluency",
+          "Medical direction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-driving",
+      "type": "node",
+      "label": "Driving Operations",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Emergency vehicle operations: lights-and-siren judgment, intersection discipline, backing safety, and the sobering reality that EMS collisions are a leading line-of-duty risk.",
+        "why": "Driving is the most dangerous thing EMS does — professional driving habits protect everyone.",
+        "learn": [
+          "Complete an EVOC-style emergency driving course",
+          "Learn your unit's braking and handling empty vs loaded",
+          "Practice intersection discipline permanently",
+          "Treat backing incidents as fully preventable"
+        ],
+        "skills": [
+          "Emergency driving",
+          "Safety discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-critical",
+      "type": "node",
+      "label": "Critical Care Transport",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Critical-care paramedics move ICU-level patients between facilities — ventilators, pumps, and drips — with additional certification (CCEMT-style) and hospital-based training.",
+        "why": "CCT is the clinical peak for field paramedics — complex patients, better pay, hospital partnership.",
+        "learn": [
+          "Gain 2+ years of 911 paramedic experience first",
+          "Complete a critical-care transport course",
+          "Learn ventilator and infusion-pump management",
+          "Join a CCT team if your region has one"
+        ],
+        "skills": [
+          "Critical care transport",
+          "Certification planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2043.00"
+        ]
+      }
+    },
+    {
+      "id": "em-flight",
+      "type": "node",
+      "label": "Flight Medic",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Air-medical crews fly critical patients: flight-paramedic roles require years of critical-care experience, flight-physiology training, and often FP-C-style certification.",
+        "why": "Flight medicine is the field's most selective and best-compensated clinical corner.",
+        "learn": [
+          "Build 3–5 years of critical-care experience",
+          "Learn flight physiology: hypoxia, G-forces, altitude",
+          "Pursue flight-crew certification (e.g., FP-C)",
+          "Train for landing-zone and aircraft-safety roles"
+        ],
+        "skills": [
+          "Flight physiology",
+          "Advanced practice"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-community",
+      "type": "node",
+      "label": "Community Paramedicine",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Community paramedicine sends paramedics into homes for follow-up care, chronic-disease checks, and readmission prevention — healthcare, not just emergencies.",
+        "why": "It's EMS's growth frontier — using paramedic skills for prevention, with steadier hours.",
+        "learn": [
+          "Learn your state's community-paramedicine rules",
+          "Practice chronic-disease assessment in homes",
+          "Coordinate with hospitals and clinics",
+          "Track readmission-prevention outcomes"
+        ],
+        "skills": [
+          "Chronic care",
+          "Community health"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-fire",
+      "type": "node",
+      "label": "Fire-EMS Crossover",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most fire departments require paramedic licensure — the fire-paramedic combination is the classic dual-role career (see the Fire Service roadmap).",
+        "why": "Dual certification doubles employability and pay potential — the sector's most common combo.",
+        "learn": [
+          "Compare fire-based vs third-service EMS careers",
+          "Plan fire academy timing around paramedic school",
+          "Understand cross-training expectations",
+          "Talk to dual-role firefighter-paramedics"
+        ],
+        "skills": [
+          "Dual-role planning",
+          "Dual-role strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Firefighters",
+            "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-wellness",
+      "type": "node",
+      "label": "Cumulative Stress",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "EMS carries heavy cumulative exposure — pediatric calls, violence, loss — plus shift disruption. Peer support, counseling, and sleep discipline are professional equipment.",
+        "why": "EMS has elevated burnout and PTSD rates; the medics who last treat their mental health like their medical bags — checked and maintained.",
+        "learn": [
+          "Learn PTSD and burnout warning signs",
+          "Use peer-support and CISM debriefs",
+          "Build a sleep system for shifts",
+          "Normalize counseling among your crew"
+        ],
+        "skills": [
+          "Resilience",
+          "Peer support"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladder: EMT → AEMT → paramedic → preceptor/FTO → supervisor or educator; clinical corners: CCT, flight, community; crossover: fire, nursing bridge, physician-adjacent roles.",
+        "why": "EMS skills stack into nursing, PA, and medical school admissions too — it's a launching pad as much as a destination.",
+        "learn": [
+          "Map the ladder in your region's services",
+          "Identify the certification your next rung needs",
+          "Track your patient contacts and skills",
+          "Set a 5-year plan with recheck dates"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — EMTs and Paramedics",
+            "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-recert",
+      "type": "node",
+      "label": "Recertification",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "NREMT certifications recertify on two-year cycles with continuing education (national, state, local components) or re-examination — lapses mean retesting.",
+        "why": "Recert lapses suspend your ability to practice — tracking CE from day one is professional hygiene.",
+        "learn": [
+          "Learn your recertification CE breakdown",
+          "Log CE certificates as you earn them",
+          "Check state vs NREMT differences",
+          "Set calendar reminders a year ahead"
+        ],
+        "skills": [
+          "CE planning",
+          "CE tracking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NREMT — recertification",
+            "url": "https://www.nremt.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "em-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "em-g-licensure",
+      "type": "group",
+      "label": "LICENSE & FIELD",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "em-g-advanced",
+      "type": "group",
+      "label": "ADVANCED PRACTICE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 134
+    }
+  ],
+  "edges": [
+    {
+      "from": "em-map",
+      "to": "em-emtb"
+    },
+    {
+      "from": "em-emtb",
+      "to": "em-ambulance"
+    },
+    {
+      "from": "em-ambulance",
+      "to": "em-aemt",
+      "dashed": true
+    },
+    {
+      "from": "em-aemt",
+      "to": "em-paramedic",
+      "dashed": true
+    },
+    {
+      "from": "em-emtb",
+      "to": "em-paramedic"
+    },
+    {
+      "from": "em-paramedic",
+      "to": "em-field"
+    },
+    {
+      "from": "em-field",
+      "to": "em-protocols"
+    },
+    {
+      "from": "em-protocols",
+      "to": "em-driving",
+      "dashed": true
+    },
+    {
+      "from": "em-protocols",
+      "to": "em-critical",
+      "dashed": true
+    },
+    {
+      "from": "em-critical",
+      "to": "em-flight",
+      "dashed": true
+    },
+    {
+      "from": "em-protocols",
+      "to": "em-community",
+      "dashed": true
+    },
+    {
+      "from": "em-field",
+      "to": "em-fire",
+      "dashed": true
+    },
+    {
+      "from": "em-career",
+      "to": "em-wellness",
+      "dashed": true
+    },
+    {
+      "from": "em-ambulance",
+      "to": "em-career",
+      "dashed": true
+    },
+    {
+      "from": "em-career",
+      "to": "em-recert",
+      "dashed": true
+    }
+  ]
+}

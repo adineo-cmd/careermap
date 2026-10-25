@@ -1,0 +1,1030 @@
+{
+  "slug": "real-estate",
+  "title": "Real Estate",
+  "tagline": "Agents, brokers, property managers, and appraisers — the business of property.",
+  "summary": "Real estate careers run on licensure, local knowledge, and relationships: residential and commercial sales, property management, and appraisal. This roadmap covers getting licensed, building a book of clients, transactions end-to-end, and the broker/ownership ladder.",
+  "category": "Business & Finance",
+  "color": "#4da3a0",
+  "icon": "home",
+  "onetRoles": [
+    "41-9022.00",
+    "13-2023.00",
+    "11-9141.00"
+  ],
+  "jelCodes": [
+    "R31"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Real Estate Brokers (41-9022.00)",
+      "url": "https://www.onetonline.org/link/summary/41-9022.00"
+    },
+    {
+      "label": "BLS OOH — Real Estate Brokers and Sales Agents",
+      "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "re-explore",
+      "type": "node",
+      "label": "How Real Estate Works",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Real estate careers center on transactions: agents represent buyers and sellers, brokers run offices, property managers operate rentals, and appraisers value property — all licensed at the state level.",
+        "why": "Property is most families' largest asset, so demand persists in every market — and commission-based income rewards hustle directly.",
+        "learn": [
+          "Read the BLS OOH profile of brokers and sales agents",
+          "Compare residential sales, commercial, property management, and appraisal lanes",
+          "Shadow an agent for a day or attend an open house",
+          "Note your state's licensing authority and requirements"
+        ],
+        "skills": [
+          "Market knowledge",
+          "Sales",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Real Estate Brokers",
+            "url": "https://www.onetonline.org/link/summary/41-9022.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-9022.00"
+        ],
+        "tasks": [
+          "Rent, buy, or sell property for clients; perform duties such as study property listings, interview prospective clients, accompany clients to property sites, and discuss conditions of sale."
+        ]
+      }
+    },
+    {
+      "id": "re-lanes",
+      "type": "node",
+      "label": "Pick Your Lane",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The lanes differ in rhythm and pay: residential sales (fast, personal), commercial (larger deals, longer cycles), property management (recurring income), appraisal (analytical, fee-based).",
+        "why": "Your lane determines your license endorsements, daily schedule, and income model — choosing deliberately shapes everything after.",
+        "learn": [
+          "Compare income models: commission vs salary vs fees",
+          "Shadow one professional in two different lanes",
+          "Check local demand: which lane is short of licensees?",
+          "Rank lanes by schedule, risk, and people-contact fit"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Market awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-licensing",
+      "type": "node",
+      "label": "Licensing Overview",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "States license real estate professionals: pre-licensing education (hours vary), a state exam, background check, and sponsorship under a broker — with renewals and continuing education.",
+        "why": "Everything starts with the license; knowing your state's exact hours, exam, and broker-sponsorship rules prevents wasted months.",
+        "learn": [
+          "Read your state real estate commission's requirements",
+          "Compare approved pre-licensing schools and formats",
+          "Understand the broker-sponsorship requirement for agents",
+          "Note renewal cycles and CE hour rules"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "School comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-market",
+      "type": "node",
+      "label": "Market Literacy",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Agents read their market daily: inventory, days-on-market, price-per-square-foot trends, interest-rate effects, and neighborhood-level comparables.",
+        "why": "Clients pay for interpretation, not data — the agent who can explain the market wins the listing.",
+        "learn": [
+          "Track one zip code's inventory and median price monthly",
+          "Learn to pull comparable sales from public records",
+          "Explain rate changes' effect on buyers in plain words",
+          "Follow your local market news weekly"
+        ],
+        "skills": [
+          "Market analysis",
+          "Data interpretation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-prelicense",
+      "type": "node",
+      "label": "Pre-Licensing Course",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "State-required coursework covering property law, contracts, finance, and ethics — online or classroom, ending in a course completion certificate for the exam.",
+        "why": "The course is your legal foundation; choosing a strong provider with exam pass support makes the exam far easier.",
+        "learn": [
+          "Complete the required hours with a reputable provider",
+          "Focus on contracts and agency law — most-tested areas",
+          "Take practice exams until consistently passing",
+          "Get your completion certificate filed for the exam"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Contract law basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-exam",
+      "type": "node",
+      "label": "State Exam",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The licensing exam has national and state-law portions — multiple choice, timed, with a scaling/passing standard set by the state.",
+        "why": "Pass rates hover around half on first attempts; structured practice testing separates passers from re-takers.",
+        "learn": [
+          "Do 3+ full timed practice exams",
+          "Drill state-specific law portions separately",
+          "Review every wrong answer against the statute",
+          "Schedule promptly after the course while fresh"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Statute drilling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-brokerage",
+      "type": "node",
+      "label": "Choosing a Brokerage",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "New agents hang their license under a sponsoring brokerage: commission splits, fees, training, leads, and culture differ enormously between franchises, independents, and teams.",
+        "why": "Your first brokerage determines your training quality and take-home math — compare offers like a business decision.",
+        "learn": [
+          "Compare splits, desk fees, and caps at 5 brokerages",
+          "Ask about training, mentorship, and lead sources",
+          "Interview agents who left each firm",
+          "Negotiate your start — new-agent packages vary"
+        ],
+        "skills": [
+          "Offer evaluation",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-mls",
+      "type": "node",
+      "label": "MLS & Tools",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The trade's toolset: MLS access, lockbox systems, e-signature and transaction platforms, CRM, and showing services — plus the data rules that govern them.",
+        "why": "Tool fluency lets a new agent operate transactions professionally from week one.",
+        "learn": [
+          "Complete your MLS orientation and rules training",
+          "Set up e-sign and transaction-management workflows",
+          "Build a simple CRM for contacts and follow-ups",
+          "Learn showing-service etiquette and scheduling"
+        ],
+        "skills": [
+          "MLS systems",
+          "Transaction tooling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-ce",
+      "type": "node",
+      "label": "Continuing Education",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Licenses renew every 1–2 years with CE hours, often including mandatory ethics or fair-housing modules — plus optional designations that sharpen specialties.",
+        "why": "CE is both a legal requirement and the cheapest way to specialize; plan it instead of scrambling at renewal.",
+        "learn": [
+          "Calendar your renewal date and CE hours",
+          "Pick CE that builds a specialty, not filler",
+          "Track certificates for the board",
+          "Explore designation coursework (e.g., Realtor-family designations)"
+        ],
+        "skills": [
+          "Credential planning",
+          "Designation planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-prospecting",
+      "type": "node",
+      "label": "Prospecting & Farming",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Business development is the job: geographic farming, sphere-of-influence outreach, open houses, and consistent follow-up that turns contacts into listings and buyers.",
+        "why": "Agents live on pipeline — the ones with a system eat in slow markets; the ones without don't.",
+        "learn": [
+          "Choose a farm area and know it street by street",
+          "Build a weekly outreach rhythm you can hold for a year",
+          "Host open houses for other agents to meet buyers",
+          "Track every contact in a CRM with next steps"
+        ],
+        "skills": [
+          "Prospecting",
+          "Consistency",
+          "Relationship building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing basics",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-9021.00"
+        ]
+      }
+    },
+    {
+      "id": "re-listings",
+      "type": "node",
+      "label": "Listings & CMAs",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Listing appointments require a comparative market analysis (CMA): comparable sales, adjustments, pricing strategy, and a marketing plan for the property.",
+        "why": "Pricing credibility wins listings; overpromising prices lose money and trust.",
+        "learn": [
+          "Build a CMA from 6 comps with adjustments",
+          "Present pricing strategy with evidence, not hope",
+          "Draft a marketing plan: photos, copy, channels, timeline",
+          "Practice a listing presentation to a friend"
+        ],
+        "skills": [
+          "CMA analysis",
+          "Listing presentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-buyers",
+      "type": "node",
+      "label": "Buyers & Showings",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Buyer work: needs consultation, curated showings, offer strategy, and shepherding inspection, appraisal, and financing to closing.",
+        "why": "Buyer-side mastery is where new agents earn their first commissions — organization is the differentiator.",
+        "learn": [
+          "Run a structured buyer consultation",
+          "Write clean, competitive offers with your broker's guidance",
+          "Track contingency deadlines religiously",
+          "Explain inspection and appraisal outcomes calmly"
+        ],
+        "skills": [
+          "Client management",
+          "Transaction coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-negotiation",
+      "type": "node",
+      "label": "Negotiation & Closing",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Deals are negotiated twice — contract terms and repair credits — then closed through title, escrow, and final walkthrough discipline.",
+        "why": "Negotiation skill is the client's visible value; closing discipline is what actually gets paid.",
+        "learn": [
+          "Practice counter-offer strategy with your broker",
+          "Build a closing checklist per transaction",
+          "Learn common deal-killers and their preventions",
+          "Debrief every closed deal for lessons"
+        ],
+        "skills": [
+          "Negotiation",
+          "Deal management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-commercial",
+      "type": "node",
+      "label": "Commercial Path",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Commercial real estate (office, retail, industrial, multifamily) trades longer cycles and analytical depth for larger commissions — often entered through mentorship at specialist firms.",
+        "why": "CRC-class analysis skills (cap rates, leases, NOI) make commercial agents advisors rather than door-openers.",
+        "learn": [
+          "Learn cap rates, NOI, and lease structures (NNN, gross)",
+          "Build a simple investment analysis for a small property",
+          "Approach commercial firms about junior/analyst roles",
+          "Follow one commercial market segment monthly"
+        ],
+        "skills": [
+          "Investment analysis",
+          "Lease knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-pm",
+      "type": "node",
+      "label": "Property Management",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Property managers operate rentals for owners: tenant screening, leases, maintenance coordination, rent collection, and — where required — a separate property-management license or endorsement.",
+        "why": "Management builds recurring monthly income that smooths commission feasts and famines.",
+        "learn": [
+          "Check your state's PM licensing rules",
+          "Learn landlord-tenant law basics in your state",
+          "Practice tenant screening within fair-housing rules",
+          "Build a maintenance-vendor list for your area"
+        ],
+        "skills": [
+          "Tenant management",
+          "Landlord-tenant law"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Property, Real Estate, and Community Association Managers",
+            "url": "https://www.onetonline.org/link/summary/11-9141.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9141.00"
+        ]
+      }
+    },
+    {
+      "id": "re-appraisal",
+      "type": "node",
+      "label": "Appraisal Path",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Appraisers value property for lenders and courts through a tiered license (trainee → certified residential → certified general) with supervised experience hours and rigorous exams.",
+        "why": "Appraisal is analytical, fee-based, and shortage-prone — a strong lane for detail-driven professionals.",
+        "learn": [
+          "Review your state's appraiser tier requirements",
+          "Find a supervisory appraiser willing to train",
+          "Study valuation methods: sales comparison, cost, income",
+          "Note qualifying education (courses + degree rules)"
+        ],
+        "skills": [
+          "Valuation methods",
+          "Report writing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Appraisers and Assessors of Real Estate",
+            "url": "https://www.onetonline.org/link/summary/13-2023.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Appraisers and Assessors of Real Estate",
+            "url": "https://www.bls.gov/ooh/business-and-financial/appraisers-and-assessors-of-real-estate.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2023.00"
+        ]
+      }
+    },
+    {
+      "id": "re-sphere",
+      "type": "node",
+      "label": "Sphere & Referrals",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most volume comes from people who already know you: a maintained database, consistent value-add touches, past-client check-ins, and referral asks done gracefully.",
+        "why": "Referral businesses compound — every closed client is worth years of future business if nurtured.",
+        "learn": [
+          "Import every contact you know into a database",
+          "Send a monthly value message (market update, tip)",
+          "Call past clients on their purchase anniversaries",
+          "Ask for referrals after every positive milestone"
+        ],
+        "skills": [
+          "Database discipline",
+          "Referral building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing basics",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-brand",
+      "type": "node",
+      "label": "Personal Brand",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Local visibility compounds: consistent signage, reviews, community presence, and honest content about your market — reputation is the product.",
+        "why": "In a crowded field, being locally famous for competence and integrity beats being generic.",
+        "learn": [
+          "Claim and optimize your Google Business profile",
+          "Collect reviews after every closing",
+          "Post 2 local-market insights per week",
+          "Sponsor or show up at one community event monthly"
+        ],
+        "skills": [
+          "Personal branding",
+          "Content creation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-teams",
+      "type": "node",
+      "label": "Teams & Leverage",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "High producers build leverage: buyer agents, transaction coordinators, and marketing help — trading split percentage for volume and time.",
+        "why": "Leverage decides your ceiling: solo agents trade hours for money; team leaders multiply through others.",
+        "learn": [
+          "Track your hours per transaction to find bottlenecks",
+          "Compare team splits vs solo economics honestly",
+          "Hire a transaction coordinator before a second agent",
+          "Write your team's standards and lead-response rules"
+        ],
+        "skills": [
+          "Delegation",
+          "Team building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — hiring",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-broker",
+      "type": "node",
+      "label": "Broker License",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The broker license requires experience (commonly 2–3 years active), additional coursework, and a deeper exam — qualifying you to own a brokerage and supervise agents.",
+        "why": "Broker is the profession's senior license: ownership, supervisory authority, and a share of others' production.",
+        "learn": [
+          "Confirm your state's broker experience and education rules",
+          "Take broker pre-licensing coursework",
+          "Study trust-account and supervision responsibilities",
+          "Decide broker-as-owner vs broker-as-credential"
+        ],
+        "skills": [
+          "Supervision",
+          "Advanced exam preparation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-9022.00"
+        ]
+      }
+    },
+    {
+      "id": "re-income",
+      "type": "node",
+      "label": "Commission Reality",
+      "variant": "muted",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Honest math: commissions split with the brokerage and cooperating sides, minus marketing, MLS, and tax self-employment costs — and deals can fall through after weeks of work.",
+        "why": "Agents who survive model their pipeline and expenses like a business from day one, keeping a cushion for slow quarters.",
+        "learn": [
+          "Model a year: deals needed × average commission − costs",
+          "Keep 3–6 months of expenses reserved",
+          "Set aside taxes quarterly as a self-employed person",
+          "Track cost-per-deal and adjust your marketing"
+        ],
+        "skills": [
+          "Financial planning",
+          "Pipeline modeling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-fairhousing",
+      "type": "node",
+      "label": "Fair Housing & Ethics",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fair-housing law governs every conversation: steering, advertising language, screening, and equal treatment are legally enforced — plus license-law duties like disclosure and agency clarity.",
+        "why": "Violations end careers and draw federal liability; ethical clarity is both compliance and reputation.",
+        "learn": [
+          "Complete fair-housing training (many states require it)",
+          "Audit your advertising language for prohibited terms",
+          "Learn agency disclosure rules in your state",
+          "Keep documentation of every client interaction"
+        ],
+        "skills": [
+          "Fair housing compliance",
+          "Ethics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HUD — Fair Housing",
+            "url": "https://www.hud.gov/program_offices/fair_housing_equal_opp",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The ladder: licensed agent → top producer → team leader → broker-owner; lateral branches into property management, appraisal, investing, and adjacent services like title or mortgage.",
+        "why": "Real estate rewards system-builders — knowing the rungs helps you choose which business to build first.",
+        "learn": [
+          "Map the ladder with realistic timelines in your market",
+          "Choose year-one focus: transactions vs systems",
+          "Identify one mentor a rung ahead",
+          "Set a 3-year production goal with quarterly checkpoints"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Real Estate Brokers and Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-9022.00",
+          "41-9021.00"
+        ]
+      }
+    },
+    {
+      "id": "re-investing",
+      "type": "node",
+      "label": "Investing Corner",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Many agents build wealth through their own deals: house hacking, small rentals, and flips — market knowledge is an unfair advantage when used with discipline.",
+        "why": "Your license gives you first sight of deals — used prudently, it compounds into financial independence.",
+        "learn": [
+          "Learn rental math: cash flow, cap rate, 1% rule-of-thumb",
+          "Understand financing options for small investors",
+          "Study your market's rent vs price dynamics",
+          "Start with disciplined, conservative first deals"
+        ],
+        "skills": [
+          "Investment analysis",
+          "Risk discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — business finance",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-mortgage",
+      "type": "node",
+      "label": "Mortgage Crossover",
+      "variant": "muted",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The mortgage side (loan officer, NMLS-licensed) partners with agents daily — some agents cross over or add lending knowledge to serve clients better.",
+        "why": "Financing fluency makes agents more valuable and opens a licensed adjacent career — see the Banking & Financial Services roadmap.",
+        "learn": [
+          "Learn loan types and pre-approval basics",
+          "Understand what underwriters need from buyers",
+          "Build relationships with 3 local lenders",
+          "Explore the NMLS licensing path if curious"
+        ],
+        "skills": [
+          "Financing literacy",
+          "Lender networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NMLS — licensing",
+            "url": "https://mortgage.nationwidelicensingsystem.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "re-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "re-g-license",
+      "type": "group",
+      "label": "GET LICENSED",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "re-g-practice",
+      "type": "group",
+      "label": "PRACTICE & TRANSACTIONS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "re-g-grow",
+      "type": "group",
+      "label": "GROW YOUR BUSINESS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "re-g-broker",
+      "type": "group",
+      "label": "BROKER & OWNERSHIP",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "re-g-career",
+      "type": "group",
+      "label": "CAREER & COMPLIANCE",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "re-explore",
+      "to": "re-lanes"
+    },
+    {
+      "from": "re-explore",
+      "to": "re-licensing"
+    },
+    {
+      "from": "re-explore",
+      "to": "re-market",
+      "dashed": true
+    },
+    {
+      "from": "re-lanes",
+      "to": "re-prelicense"
+    },
+    {
+      "from": "re-licensing",
+      "to": "re-prelicense"
+    },
+    {
+      "from": "re-prelicense",
+      "to": "re-exam"
+    },
+    {
+      "from": "re-exam",
+      "to": "re-brokerage"
+    },
+    {
+      "from": "re-brokerage",
+      "to": "re-mls"
+    },
+    {
+      "from": "re-mls",
+      "to": "re-ce",
+      "dashed": true
+    },
+    {
+      "from": "re-brokerage",
+      "to": "re-prospecting"
+    },
+    {
+      "from": "re-prospecting",
+      "to": "re-listings"
+    },
+    {
+      "from": "re-prospecting",
+      "to": "re-buyers"
+    },
+    {
+      "from": "re-listings",
+      "to": "re-negotiation"
+    },
+    {
+      "from": "re-buyers",
+      "to": "re-negotiation"
+    },
+    {
+      "from": "re-negotiation",
+      "to": "re-commercial",
+      "dashed": true
+    },
+    {
+      "from": "re-negotiation",
+      "to": "re-pm",
+      "dashed": true
+    },
+    {
+      "from": "re-negotiation",
+      "to": "re-appraisal",
+      "dashed": true
+    },
+    {
+      "from": "re-negotiation",
+      "to": "re-sphere"
+    },
+    {
+      "from": "re-sphere",
+      "to": "re-brand"
+    },
+    {
+      "from": "re-brand",
+      "to": "re-teams"
+    },
+    {
+      "from": "re-teams",
+      "to": "re-broker"
+    },
+    {
+      "from": "re-broker",
+      "to": "re-career"
+    },
+    {
+      "from": "re-career",
+      "to": "re-income",
+      "dashed": true
+    },
+    {
+      "from": "re-career",
+      "to": "re-fairhousing"
+    },
+    {
+      "from": "re-career",
+      "to": "re-investing",
+      "dashed": true
+    },
+    {
+      "from": "re-market",
+      "to": "re-mortgage",
+      "dashed": true
+    }
+  ]
+}

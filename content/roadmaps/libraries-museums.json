@@ -1,0 +1,890 @@
+{
+  "slug": "libraries-museums",
+  "title": "Libraries, Museums & Archives",
+  "tagline": "Librarians, archivists, and curators — the keepers and connectors of knowledge and culture.",
+  "summary": "The GLAM sector (galleries, libraries, archives, museums) preserves and shares knowledge: librarians connect people to information, archivists preserve records, curators interpret collections. This roadmap covers the MLIS path, the archives and museum tracks, and the craft of public service in cultural institutions.",
+  "category": "Health & Public Service",
+  "color": "#a1824a",
+  "icon": "book-open",
+  "onetRoles": [
+    "25-1012.00",
+    "25-4011.00",
+    "25-4012.00",
+    "25-4013.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Librarians and Media Collections Specialists (25-1012.00)",
+      "url": "https://www.onetonline.org/link/summary/25-1012.00"
+    },
+    {
+      "label": "BLS OOH — Librarians",
+      "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "lm-explore",
+      "type": "node",
+      "label": "The GLAM Sector",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Galleries, libraries, archives, and museums (GLAM) share a mission — collecting, preserving, and connecting people to knowledge and culture — with distinct roles and credentials per institution type.",
+        "why": "These are public-service careers for the curious: quieter than most, deeply mission-driven, and surprisingly varied between public, academic, and museum settings.",
+        "learn": [
+          "Read the BLS OOH librarian profile",
+          "Compare public, academic, school, and special libraries",
+          "Visit one library, one archive, and one museum this month",
+          "Note which function pulls you: people, collections, or systems"
+        ],
+        "skills": [
+          "Service orientation",
+          "Curiosity",
+          "Organization"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Librarians and Media Collections Specialists",
+            "url": "https://www.onetonline.org/link/summary/25-1012.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-1012.00"
+        ]
+      }
+    },
+    {
+      "id": "lm-types",
+      "type": "node",
+      "label": "Institution Types",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public libraries serve everyone; academic libraries serve campuses; school libraries serve students; special libraries (law, medical, corporate) serve organizations; museums and archives hold collections.",
+        "why": "Your institution type shapes pace, patrons, credentials, and job availability — pick with your temperament.",
+        "learn": [
+          "List the institution types in your region and visit two",
+          "Compare patron interactions per type",
+          "Note degree expectations per type",
+          "Pick a primary and backup target"
+        ],
+        "skills": [
+          "Career planning",
+          "Regional visits"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-roles",
+      "type": "node",
+      "label": "Roles Overview",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The role families: library assistants/technicians (entry), librarians (MLIS-credentialed), archivists, curators, museum technicians, and conservators — plus programming and administration layers.",
+        "why": "Knowing which role matches your education stage tells you exactly what to do next — assistant now, MLIS later is a classic path.",
+        "learn": [
+          "Map roles vs required degrees",
+          "Check local job postings for each role",
+          "Note O*NET tasks for librarian and archivist roles",
+          "Choose your entry point"
+        ],
+        "skills": [
+          "Career planning",
+          "Posting research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Archivists",
+            "url": "https://www.onetonline.org/link/summary/25-4011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-4011.00",
+          "25-4012.00"
+        ]
+      }
+    },
+    {
+      "id": "lm-service",
+      "type": "node",
+      "label": "Service Philosophy",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The sector's core values: intellectual freedom, equitable access, privacy of patrons, and service to the whole community — not just the visitors who look like staff.",
+        "why": "These values define the profession's identity and show up in daily decisions, hiring interviews, and community trust.",
+        "learn": [
+          "Read the American Library Association's Code of Ethics",
+          "Observe how libraries serve unhoused patrons",
+          "Reflect on privacy vs safety tensions",
+          "Note inclusive-service examples you admire"
+        ],
+        "skills": [
+          "Ethics",
+          "Inclusive service"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Library Association — ethics",
+            "url": "https://www.ala.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-assistant",
+      "type": "node",
+      "label": "Library Assistant",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Assistants and technicians run daily operations: circulation, shelving, patron accounts, basic reference, and program support — the field's practical entry without a master's.",
+        "why": "It pays to learn the floor first: assistant experience strengthens MLIS applications and confirms fit.",
+        "learn": [
+          "Apply for assistant/technician openings locally",
+          "Learn the ILS (library system) basics fast",
+          "Practice warm reference conversations",
+          "Volunteer for programs and events"
+        ],
+        "skills": [
+          "Circulation systems",
+          "Patron service"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Library Technicians and Assistants",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/library-assistants-and-clerks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-mlis",
+      "type": "node",
+      "label": "The MLIS Degree",
+      "variant": "accent",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Librarian roles require the Master of Library and Information Science (ALA-accredited), usually 1.5–3 years, often online, covering reference, cataloging, management, and technology.",
+        "why": "The MLIS is the profession's license-equivalent — choosing an accredited, affordable program with the right specialization matters enormously.",
+        "learn": [
+          "Verify ALA accreditation for any program",
+          "Compare specializations: youth, archives, data, UX",
+          "Check part-time/online feasibility while working",
+          "Research scholarships and assistantships"
+        ],
+        "skills": [
+          "Graduate planning",
+          "Cost comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ALA — accredited programs",
+            "url": "https://www.ala.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-librarian",
+      "type": "node",
+      "label": "Librarian Roles",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Librarians specialize: reference and adult services, children's and teen services, technical services (cataloging/acquisitions), digital services, and outreach — each a different daily rhythm.",
+        "why": "Specialization is how librarians find their niche — from toddler story time to legal research support.",
+        "learn": [
+          "Sample one specialization's daily tasks via informational interviews",
+          "Practice reference interviews (the patron's real question)",
+          "Build one program proposal end-to-end",
+          "Learn your community's demographics and needs"
+        ],
+        "skills": [
+          "Reference craft",
+          "Programming"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-1012.00"
+        ],
+        "tasks": [
+          "Administer libraries and perform related library services; work in a variety of settings including public libraries, schools, and government agencies."
+        ]
+      }
+    },
+    {
+      "id": "lm-metadata",
+      "type": "node",
+      "label": "Cataloging & Metadata",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The systems craft: cataloging standards (MARC-style records), classification, subject headings, and modern metadata for digital collections — making things findable.",
+        "why": "Technical-services and digital-collection careers are built on metadata fluency — the field's systems track.",
+        "learn": [
+          "Understand what a catalog record contains and why",
+          "Practice basic metadata description for a photo collection",
+          "Learn controlled vocabularies conceptually",
+          "Explore digital-collection platforms in demo mode"
+        ],
+        "skills": [
+          "Metadata",
+          "Systems thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Library of Congress — standards",
+            "url": "https://www.loc.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-archivist",
+      "type": "node",
+      "label": "Archives Path",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Archivists appraise, arrange, describe, and preserve permanent records — institutional histories, manuscripts, photographs — guided by archival standards and finding aids.",
+        "why": "Archives suit meticulous, history-loving organizers; employers span universities, governments, corporations, and historical societies.",
+        "learn": [
+          "Read about archival appraisal and arrangement basics",
+          "Volunteer to process a small collection",
+          "Learn what a finding aid looks like",
+          "Note the archives credential expectations (MLIS/history MA)"
+        ],
+        "skills": [
+          "Archival appraisal",
+          "Description standards"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Society of American Archivists",
+            "url": "https://www2.archivists.org/",
+            "kind": "community"
+          },
+          {
+            "title": "O*NET — Archivists",
+            "url": "https://www.onetonline.org/link/summary/25-4011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-4011.00"
+        ]
+      }
+    },
+    {
+      "id": "lm-curator",
+      "type": "node",
+      "label": "Museum & Curator Path",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Curators and museum technicians acquire, research, care for, and interpret collections — registrars track objects, conservators preserve them, educators bring them to the public.",
+        "why": "Museums need both scholarly depth and hands-on care — the field rewards people who start volunteering in collections departments.",
+        "learn": [
+          "Volunteer at a local museum in collections or education",
+          "Learn object-handling and condition-reporting basics",
+          "Note the graduate degree norms for curatorial tracks",
+          "Write one mock exhibit label"
+        ],
+        "skills": [
+          "Collections care",
+          "Interpretation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Curators",
+            "url": "https://www.onetonline.org/link/summary/25-4012.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Archivists, Curators, and Museum Workers",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/archivists-curators-and-museum-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-4012.00",
+          "25-4013.00"
+        ]
+      }
+    },
+    {
+      "id": "lm-programs",
+      "type": "node",
+      "label": "Programming & Outreach",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Libraries live through their programs: story times, classes, book clubs, job-help, and community partnerships — planned, promoted, and measured like small events.",
+        "why": "Programming is how libraries prove their value to funders — strong programmers get promoted.",
+        "learn": [
+          "Design a 4-week program series with goals",
+          "Practice running one program end-to-end",
+          "Promote via partners, not just flyers",
+          "Measure attendance and outcomes honestly"
+        ],
+        "skills": [
+          "Program design",
+          "Community outreach"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-research",
+      "type": "node",
+      "label": "Research & Reference",
+      "x": 620,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The reference craft: the reference interview, search strategy, database fluency, source evaluation, and teaching patrons to fish rather than just handing answers.",
+        "why": "Research skill is the librarian's core product — and it transfers to any knowledge role.",
+        "learn": [
+          "Practice the reference interview on friends' real questions",
+          "Master 3 research databases deeply",
+          "Build search strategies: keywords, filters, citation chasing",
+          "Evaluate sources with a repeatable rubric"
+        ],
+        "skills": [
+          "Reference interview",
+          "Search strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-digital",
+      "type": "node",
+      "label": "Digital Collections",
+      "x": 900,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Digitization and digital preservation: scanning standards, rights clearance, metadata, and long-term digital preservation — the sector's growth frontier.",
+        "why": "Institutions are racing to digitize and preserve digital-born material — digital-curation skills are the most future-proof in the sector.",
+        "learn": [
+          "Volunteer on a digitization project",
+          "Learn scanning standards and quality checks",
+          "Understand rights clearance basics",
+          "Explore preservation formats and metadata schemas"
+        ],
+        "skills": [
+          "Digitization",
+          "Digital preservation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Library of Congress — digital preservation",
+            "url": "https://www.loc.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-admin",
+      "type": "node",
+      "label": "Administration",
+      "x": 1180,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Directors and department heads manage budgets, staff, boards, buildings, and community politics — leadership that protects the institution's mission.",
+        "why": "Administrators decide what's possible; the sector needs leaders who came up through service.",
+        "learn": [
+          "Learn public-library funding basics (millages, budgets)",
+          "Practice board-meeting communication",
+          "Manage one small budget or grant",
+          "Shadow a library or museum director"
+        ],
+        "skills": [
+          "Budget management",
+          "Community leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-grants",
+      "type": "node",
+      "label": "Grants & Fundraising",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Cultural institutions survive on grants, friends-groups, and donors: writing applications, reporting outcomes, and building funder relationships.",
+        "why": "Grant-writing ability makes you indispensable — institutions compete hard for people who bring money in.",
+        "learn": [
+          "Write one mock grant application to a real funder",
+          "Learn outcome reporting basics",
+          "Join the friends-group or development committee",
+          "Study one successful institutional grant"
+        ],
+        "skills": [
+          "Grant writing",
+          "Fundraising"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "IMLS — museum and library grants",
+            "url": "https://www.imls.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-advocacy",
+      "type": "node",
+      "label": "Advocacy",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Libraries and museums face funding fights and censorship challenges — advocacy means demonstrating value to boards, voters, and legislatures with stories and data.",
+        "why": "The sector's future is decided in budget hearings; staff who can advocate protect their own institutions.",
+        "learn": [
+          "Learn your library's funding structure",
+          "Collect impact stories with consent",
+          "Practice a 3-minute value pitch",
+          "Attend one budget or board meeting"
+        ],
+        "skills": [
+          "Advocacy",
+          "Public communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ALA — advocacy",
+            "url": "https://www.ala.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-conservation",
+      "type": "node",
+      "label": "Conservation Science",
+      "variant": "muted",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Conservators combine art history and chemistry to preserve objects — a specialized graduate-trained path within museums for the scientifically minded.",
+        "why": "Conservation is the sector's rarest, most scientific craft — a real option for lab-loving art people.",
+        "learn": [
+          "Research conservation graduate program prerequisites (chemistry required)",
+          "Volunteer in a objects lab if accessible",
+          "Learn preventive-care basics: light, humidity, pests",
+          "Note the portfolio expectations"
+        ],
+        "skills": [
+          "Preventive conservation",
+          "Scientific analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "AIC — conservation resources",
+            "url": "https://www.culturalheritage.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: assistant → librarian/curator → senior/department head → director; archives: processing archivist → collections manager → head of special collections.",
+        "why": "The sector moves slowly but stably — deliberate credentialing and public-service visibility drive advancement.",
+        "learn": [
+          "Map the ladder in your target institution type",
+          "Identify the degree/certificate your next rung needs",
+          "Join the professional association early (student rates)",
+          "Present at a conference or write a post"
+        ],
+        "skills": [
+          "Career planning",
+          "Association membership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-market",
+      "type": "node",
+      "label": "Job Market Reality",
+      "variant": "muted",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Honest market: librarian positions are competitive and often part-time first; archives and museums pay modestly; flexibility on location and institution type multiplies options.",
+        "why": "Going in clear-eyed — with a specialization the market wants (digital, youth, health) — is what turns the degree into a job.",
+        "learn": [
+          "Count real postings for your specialization over a month",
+          "Stay geographically flexible early in your career",
+          "Build a portfolio of programs/projects, not just a resume",
+          "Consider adjacent employers (schools, corporate archives)"
+        ],
+        "skills": [
+          "Market awareness",
+          "Portfolio building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Librarians",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-tech",
+      "type": "node",
+      "label": "Technology Fluency",
+      "variant": "muted",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Modern GLAM work is technical: ILS platforms, digital preservation systems, discovery layers, and helping patrons with everything from printers to privacy online.",
+        "why": "The stereotype-breaking truth: technology comfort is among the most requested skills in every posting.",
+        "learn": [
+          "Learn one ILS in demo mode",
+          "Practice patient tech-help conversations",
+          "Follow digital-preservation news monthly",
+          "Offer a tech-help program at your library"
+        ],
+        "skills": [
+          "Systems fluency",
+          "Tech instruction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Library of Congress — digital preservation",
+            "url": "https://www.loc.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-events",
+      "type": "node",
+      "label": "Exhibits & Events",
+      "variant": "muted",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Exhibits, author talks, and community events bring collections alive: concept, curation, loans, promotion, and accessibility — museum-adjacent craft inside libraries too.",
+        "why": "Event and exhibit experience demonstrates curation plus project management — a promotion-worthy combination.",
+        "learn": [
+          "Curate a small display from your collection",
+          "Run one author talk or community event",
+          "Learn accessibility standards for exhibits",
+          "Document attendance and feedback"
+        ],
+        "skills": [
+          "Curation",
+          "Event production"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Archivists, Curators, and Museum Workers",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/archivists-curators-and-museum-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lm-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "lm-g-credentials",
+      "type": "group",
+      "label": "ENTRY & CREDENTIALS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "lm-g-grow",
+      "type": "group",
+      "label": "GROWTH & MISSION",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "lm-g-ladder",
+      "type": "group",
+      "label": "LADDER & MARKET",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "lm-g-skills",
+      "type": "group",
+      "label": "MODERN SKILLS",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "lm-explore",
+      "to": "lm-types"
+    },
+    {
+      "from": "lm-explore",
+      "to": "lm-roles"
+    },
+    {
+      "from": "lm-explore",
+      "to": "lm-service"
+    },
+    {
+      "from": "lm-types",
+      "to": "lm-assistant"
+    },
+    {
+      "from": "lm-roles",
+      "to": "lm-assistant"
+    },
+    {
+      "from": "lm-assistant",
+      "to": "lm-mlis"
+    },
+    {
+      "from": "lm-mlis",
+      "to": "lm-librarian"
+    },
+    {
+      "from": "lm-librarian",
+      "to": "lm-metadata",
+      "dashed": true
+    },
+    {
+      "from": "lm-mlis",
+      "to": "lm-archivist",
+      "dashed": true
+    },
+    {
+      "from": "lm-mlis",
+      "to": "lm-curator",
+      "dashed": true
+    },
+    {
+      "from": "lm-assistant",
+      "to": "lm-programs"
+    },
+    {
+      "from": "lm-librarian",
+      "to": "lm-research"
+    },
+    {
+      "from": "lm-librarian",
+      "to": "lm-digital",
+      "dashed": true
+    },
+    {
+      "from": "lm-archivist",
+      "to": "lm-digital",
+      "dashed": true
+    },
+    {
+      "from": "lm-admin",
+      "to": "lm-grants",
+      "dashed": true
+    },
+    {
+      "from": "lm-librarian",
+      "to": "lm-admin",
+      "dashed": true
+    },
+    {
+      "from": "lm-programs",
+      "to": "lm-advocacy",
+      "dashed": true
+    },
+    {
+      "from": "lm-curator",
+      "to": "lm-conservation",
+      "dashed": true
+    },
+    {
+      "from": "lm-librarian",
+      "to": "lm-career"
+    },
+    {
+      "from": "lm-admin",
+      "to": "lm-career",
+      "dashed": true
+    },
+    {
+      "from": "lm-career",
+      "to": "lm-market",
+      "dashed": true
+    },
+    {
+      "from": "lm-career",
+      "to": "lm-tech",
+      "dashed": true
+    },
+    {
+      "from": "lm-career",
+      "to": "lm-events",
+      "dashed": true
+    }
+  ]
+}

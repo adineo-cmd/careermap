@@ -1,0 +1,1410 @@
+{
+  "slug": "accounting",
+  "title": "Accounting & Finance",
+  "tagline": "From bookkeeping basics to CPA-level practice — learn to record, report, and advise on money.",
+  "summary": "Accounting is the language of business, and it remains one of the most reliably in-demand professions. This roadmap takes you from the bookkeeping mechanics of debits and credits all the way to financial analysis, audit, tax, and the certifications (CPA, CMA, CFA) that unlock senior roles.",
+  "category": "Business & Finance",
+  "color": "#f7b955",
+  "icon": "briefcase",
+  "onetRoles": [
+    "13-2011.00",
+    "13-2051.00",
+    "11-3031.01",
+    "43-3031.00"
+  ],
+  "jelCodes": [
+    "M41",
+    "M42",
+    "G10"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Accountants and Auditors (13-2011.00)",
+      "url": "https://www.onetonline.org/link/summary/13-2011.00"
+    },
+    {
+      "label": "BLS Occupational Outlook Handbook — Accountants and Auditors",
+      "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm"
+    },
+    {
+      "label": "NASBA — Uniform CPA Examination",
+      "url": "https://nasba.org/exams/cpaexam/"
+    },
+    {
+      "label": "IMA — Certified Management Accountant (CMA)",
+      "url": "https://www.imanet.org/cma-certification"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "acc-path",
+      "type": "node",
+      "label": "Is Accounting for You?",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Accountants record, verify, and communicate financial information so organizations can make decisions. Roles range from bookkeeping and audit to tax advisory, corporate finance, and FP&A.",
+        "why": "Before investing months of study, it helps to know what the day-to-day actually looks like and which of the four broad tracks (public accounting, corporate, government, advisory) appeals to you.",
+        "learn": [
+          "Read the BLS Occupational Outlook profile for accountants and auditors",
+          "Browse O*NET task statements for accountants and auditors to see real daily work",
+          "Identify the four career tracks: public accounting, corporate accounting, government, and internal audit/advisory",
+          "Join r/Accounting or a local accounting society community to hear from practitioners"
+        ],
+        "skills": [
+          "Critical Thinking",
+          "Attention to Detail",
+          "Ethics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Accountants and Auditors",
+            "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Accountants and Auditors",
+            "url": "https://www.onetonline.org/link/summary/13-2011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ],
+        "tasks": [
+          "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to procedural standards."
+        ]
+      }
+    },
+    {
+      "id": "acc-bookkeeping",
+      "type": "node",
+      "label": "Bookkeeping Basics",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Bookkeeping is the systematic recording of every financial transaction — sales, purchases, receipts, payments — into a structured set of books. It is the foundation every accountant builds on.",
+        "why": "Even CPAs rely on clean underlying records. Understanding bookkeeping makes every later topic (statements, audits, tax) make sense.",
+        "learn": [
+          "Define assets, liabilities, and equity and the accounting equation Assets = Liabilities + Equity",
+          "Distinguish cash-basis from accrual-basis accounting",
+          "Practice classifying 20 everyday transactions into accounts",
+          "Explain the difference between a journal and a ledger"
+        ],
+        "skills": [
+          "Arithmetic",
+          "Attention to Detail",
+          "Recordkeeping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 1 (free textbook)",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          },
+          {
+            "title": "Investopedia — Accounting Equation",
+            "url": "https://www.investopedia.com/terms/a/accounting-equation.asp",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "43-3031.00"
+        ],
+        "tasks": [
+          "Compute, classify, and record numerical data to keep financial records complete."
+        ]
+      }
+    },
+    {
+      "id": "acc-fin-stmts",
+      "type": "node",
+      "label": "The Three Statements",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Every business reports itself through three core statements: the income statement (performance over a period), the balance sheet (position at a point in time), and the cash flow statement (movement of cash).",
+        "why": "These three documents are the primary output of accounting and the input to every analysis, loan decision, or audit. Reading them fluently is non-negotiable.",
+        "learn": [
+          "Read a balance sheet and name its five major sections",
+          "Explain what accrual net income does and does not tell you",
+          "Trace how net income flows into retained earnings on the balance sheet",
+          "Pick any public company and locate its three statements in a 10-K"
+        ],
+        "skills": [
+          "Financial statement analysis",
+          "Critical Thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          },
+          {
+            "title": "BLS OOH — Accountants and Auditors",
+            "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-excel",
+      "type": "node",
+      "label": "Excel Fundamentals",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Spreadsheets are the daily workbench of accountants: reconciliations, schedules, analysis, and reports all happen in Excel or Google Sheets.",
+        "why": "Job interviews for accounting roles routinely test spreadsheet fluency, and strong Excel skills compound every later topic on this map.",
+        "learn": [
+          "Master core formulas: SUM, IF, VLOOKUP/XLOOKUP, SUMIF, INDEX/MATCH",
+          "Use PivotTables to summarize transactions",
+          "Build a small monthly budget model with linked sheets",
+          "Learn date, text, and rounding functions used in reconciliations"
+        ],
+        "skills": [
+          "Spreadsheet software",
+          "Quantitative analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Microsoft Excel help & learning",
+            "url": "https://support.microsoft.com/excel",
+            "kind": "tool"
+          },
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "acc-debits",
+      "type": "node",
+      "label": "Debits & Credits",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Double-entry bookkeeping records every transaction twice — once as a debit and once as a credit — so the books always balance. Debits increase assets and expenses; credits increase liabilities, equity, and revenue.",
+        "why": "This single rule set powers the entire profession. If debits and credits are shaky, everything downstream (adjustments, statements, audits) is guesswork.",
+        "learn": [
+          "Memorize the debit/credit rules for the five account types",
+          "Journalize 25 sample transactions with equal debits and credits",
+          "Explain why a debit is not 'good' or 'bad' — it depends on the account",
+          "T-account practice: post entries and compute ending balances"
+        ],
+        "skills": [
+          "Double-entry bookkeeping",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 1",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-2011.00",
+          "43-3031.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-cycle",
+      "type": "node",
+      "label": "The Accounting Cycle",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The accounting cycle is the repeatable monthly/annual process: analyze transactions → journalize → post to the ledger → unadjusted trial balance → adjusting entries → adjusted trial balance → financial statements → close.",
+        "why": "Most accounting jobs are essentially operating this cycle reliably and quickly. Interviewers often walk candidates through it.",
+        "learn": [
+          "List the 8–10 steps of the cycle in order",
+          "Prepare an unadjusted trial balance from a ledger",
+          "Reconcile a bank statement to the cash account",
+          "Close temporary accounts to retained earnings"
+        ],
+        "skills": [
+          "Recordkeeping",
+          "Process management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 1",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "43-3031.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-adj",
+      "type": "node",
+      "label": "Adjusting & Closing",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Adjusting entries bring the books onto an accrual basis at period end: accruals, deferrals, depreciation, and estimates. Closing entries zero out revenue and expense accounts into retained earnings.",
+        "why": "Period-end close is the heartbeat of any accounting department. Understanding accruals separates accounting professionals from data entry.",
+        "learn": [
+          "Journalize the four types of adjustments: prepaid expenses, unearned revenue, accrued expenses, accrued revenue",
+          "Compute straight-line depreciation",
+          "Explain the matching principle with a concrete example",
+          "Post closing entries and prove the post-closing trial balance"
+        ],
+        "skills": [
+          "Accrual accounting",
+          "Matching principle",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 1",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-bs",
+      "type": "node",
+      "label": "Balance Sheet Deep Dive",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The balance sheet reports assets, liabilities, and equity at a moment in time. Mastery means classifying accounts correctly (current vs non-current) and understanding how transactions move the sheet.",
+        "why": "Lenders, investors, and auditors start here. Balance sheet fluency is also the entry point to liquidity and solvency analysis.",
+        "learn": [
+          "Classify 20 accounts as current/non-current asset or liability",
+          "Compute working capital and the current ratio",
+          "Explain how issuing stock vs debt changes the balance sheet",
+          "Link every balance sheet account to at least one statement"
+        ],
+        "skills": [
+          "Financial statement analysis",
+          "Balance sheet accounting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-2011.00",
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-is",
+      "type": "node",
+      "label": "Income Statement",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The income statement measures performance over a period: revenue, cost of goods sold, gross profit, operating expenses, and net income — in both single-step and multi-step formats.",
+        "why": "Profitability analysis, margin management, and budget-vs-actual reviews all start from a clean income statement.",
+        "learn": [
+          "Build a multi-step income statement from a trial balance",
+          "Compute gross margin and operating margin",
+          "Explain the difference between revenue recognition and cash receipt",
+          "Analyze a public company's income statement for two consecutive years"
+        ],
+        "skills": [
+          "Financial statement analysis",
+          "Income statement preparation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-cfs",
+      "type": "node",
+      "label": "Cash Flow Statement",
+      "x": 620,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The cash flow statement reconciles accrual profit to actual cash across operating, investing, and financing activities — using the direct or indirect method.",
+        "why": "\"Profit is an opinion, cash is a fact.\" Understanding cash flow protects you from profitable-but-broke businesses and is central to credit and treasury work.",
+        "learn": [
+          "Prepare an indirect-method statement of cash flows",
+          "Explain why depreciation is added back to net income",
+          "Compute free cash flow",
+          "Diagnose a company growing revenue while burning cash"
+        ],
+        "skills": [
+          "Cash flow analysis",
+          "Financial statement analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-payroll",
+      "type": "node",
+      "label": "Payroll Fundamentals",
+      "x": 900,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Payroll covers computing gross-to-net pay, withholding taxes, employer contributions, and the associated journal entries and filings.",
+        "why": "Payroll errors are expensive and personal to employees; it is a classic entry-level responsibility and a specialty in its own right.",
+        "learn": [
+          "Compute gross pay, deductions, and net pay for hourly and salaried staff",
+          "Record the payroll journal entries (expense, liability, payment)",
+          "Understand employer payroll tax obligations at a high level",
+          "Review your jurisdiction's payroll filing calendar"
+        ],
+        "skills": [
+          "Payroll processing",
+          "Regulatory compliance",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "IRS — Small business & self-employed tax center",
+            "url": "https://www.irs.gov/businesses/small-businesses-self-employed",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "43-3031.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-gaap",
+      "type": "node",
+      "label": "GAAP & IFRS",
+      "x": 60,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Financial reporting follows rule frameworks: US GAAP (rule-heavy, FASB) and IFRS (principle-based, IASB). Professionals must know the major differences and where each applies.",
+        "why": "Frameworks define what 'correct' means. Public companies, auditors, and multinational teams switch between these constantly.",
+        "learn": [
+          "Describe the accounting conceptual framework: relevance, reliability, comparability",
+          "List 5 notable GAAP vs IFRS differences (e.g., inventory LIFO, development costs)",
+          "Explain who sets GAAP (FASB) and IFRS (IASB)",
+          "Read the notes to a 10-K and identify the accounting policies section"
+        ],
+        "skills": [
+          "Financial reporting standards",
+          "Regulatory compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "IFRS Foundation — About",
+            "url": "https://www.ifrs.org/",
+            "kind": "guide"
+          },
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 1",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-revenue",
+      "type": "node",
+      "label": "Revenue Recognition",
+      "x": 340,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "ASC 606 / IFRS 15 define a five-step model: identify the contract, identify performance obligations, determine the price, allocate it, and recognize revenue when obligations are satisfied.",
+        "why": "Revenue is the most scrutinized number in finance and the most commonly manipulated. The five-step model is heavily tested on professional exams.",
+        "learn": [
+          "Recite and apply the five steps of ASC 606",
+          "Explain how bundled contracts with multiple obligations are allocated",
+          "Contrast point-in-time vs over-time recognition",
+          "Work through a subscription-with-support example"
+        ],
+        "skills": [
+          "Revenue recognition",
+          "Contract analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Investopedia — Revenue Recognition",
+            "url": "https://www.investopedia.com/terms/r/revenuerecognition.asp",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-inventory",
+      "type": "node",
+      "label": "Inventory & COGS",
+      "x": 620,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "For companies that sell goods, inventory accounting determines the cost of goods sold: perpetual vs periodic systems, FIFO/LIFO/weighted-average costing, and lower-of-cost-or-market write-downs.",
+        "why": "Inventory is often the largest current asset in retail and manufacturing, and costing choices directly move reported profit.",
+        "learn": [
+          "Compute COGS under FIFO, LIFO, and weighted average",
+          "Explain how LIFO reserve works (and why IFRS bans LIFO)",
+          "Journalize purchases and sales under a perpetual system",
+          "Calculate inventory turnover and days inventory outstanding"
+        ],
+        "skills": [
+          "Inventory accounting",
+          "Cost flow assumptions"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 1",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-cost",
+      "type": "node",
+      "label": "Cost Accounting",
+      "x": 60,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Managerial (cost) accounting measures product and service costs for internal decisions: job-order vs process costing, overhead allocation, activity-based costing, and cost-volume-profit analysis.",
+        "why": "Pricing, make-vs-buy, and profitability-by-product decisions all come from cost accounting. It is the heart of the CMA body of knowledge.",
+        "learn": [
+          "Distinguish direct vs indirect costs and product vs period costs",
+          "Apply job-order costing to a small manufacturer",
+          "Compute break-even in units and dollars (CVP)",
+          "Allocate overhead with activity-based costing"
+        ],
+        "skills": [
+          "Cost accounting",
+          "Management accounting",
+          "Quantitative analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 2 (Managerial)",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-budget",
+      "type": "node",
+      "label": "Budgeting & Variance",
+      "x": 340,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Budgets translate strategy into numbers: operating budgets, cash budgets, flexible budgets, and the variance analysis that explains why actuals differed from plan.",
+        "why": "FP&A and management accounting roles are built on budgeting. Variance analysis is the conversation starter in almost every monthly business review.",
+        "learn": [
+          "Build a master budget: sales, production, purchases, cash",
+          "Compute material, labor, and overhead variances",
+          "Explain flexible budgets vs static budgets",
+          "Write a one-page variance commentary a CFO would accept"
+        ],
+        "skills": [
+          "Budget management",
+          "Variance analysis",
+          "Forecasting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Principles of Accounting, Volume 2 (Managerial)",
+            "url": "https://openstax.org/subjects/business",
+            "kind": "book"
+          }
+        ],
+        "roles": [
+          "13-2011.00",
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-ratio",
+      "type": "node",
+      "label": "Ratio Analysis",
+      "x": 620,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ratios distill statements into comparable signals: liquidity (current, quick), profitability (margins, ROE), leverage (debt-to-equity), and efficiency (turnover) — analyzed over time and against peers.",
+        "why": "Ratio fluency is the bridge from accounting into finance roles like FP&A, credit analysis, and equity research.",
+        "learn": [
+          "Compute the DuPont decomposition of ROE",
+          "Calculate and interpret 12 core ratios",
+          "Compare two companies in the same industry using ratios",
+          "Explain what a rising DSO (days sales outstanding) signals"
+        ],
+        "skills": [
+          "Financial statement analysis",
+          "Financial analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-tax",
+      "type": "node",
+      "label": "Tax Fundamentals",
+      "x": 900,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Tax accounting covers how transactions create taxable income: individual vs corporate taxation, deductions and credits, and the difference between book income and taxable income.",
+        "why": "Tax is a stable, evergreen specialization, and every accountant needs working literacy even if they never practice tax.",
+        "learn": [
+          "Outline how taxable income differs from book income (temporary vs permanent differences)",
+          "Explain the structure: gross income, adjustments, deductions, credits",
+          "Follow a simple individual return line by line (Form 1040 concept)",
+          "Track current tax legislation headlines in your jurisdiction"
+        ],
+        "skills": [
+          "Taxation",
+          "Regulatory compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "IRS — Tax information for individuals",
+            "url": "https://www.irs.gov/individuals",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-software",
+      "type": "node",
+      "label": "Accounting Software",
+      "variant": "muted",
+      "x": 1180,
+      "y": 650,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Modern accounting runs on software: small-business tools like QuickBooks and Xero, mid-market ERPs like NetSuite, SAP, or Microsoft Dynamics, and the concepts they share — chart of accounts, subledgers, periods.",
+        "why": "Practically every job posting lists a system by name. Concepts transfer between tools; get fluent in one small-business package and one ERP mindset.",
+        "learn": [
+          "Set up a chart of accounts in a demo QuickBooks/Xero company",
+          "Run a full monthly cycle in software: enter bills, invoices, reconcile, close",
+          "Explain subledgers (AR, AP) and how they roll into the general ledger",
+          "Understand what an ERP adds beyond bookkeeping software"
+        ],
+        "skills": [
+          "Accounting software",
+          "Enterprise resource planning (ERP) software"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "QuickBooks — Small business accounting",
+            "url": "https://quickbooks.intuit.com/",
+            "kind": "tool"
+          }
+        ],
+        "roles": [
+          "43-3031.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-tvm",
+      "type": "node",
+      "label": "Time Value of Money",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A dollar today is worth more than a dollar tomorrow. TVM math — present value, future value, annuities, discount rates — underlies valuation, loans, leases, and pension accounting.",
+        "why": "TVM is the mathematical spine of finance. Bond pricing, NPV, and even lease accounting (ASC 842) are TVM problems.",
+        "learn": [
+          "Compute present and future values with formulas and Excel",
+          "Price a level-coupon bond",
+          "Explain how discount rate choice changes decisions",
+          "Value an annuity and a perpetuity"
+        ],
+        "skills": [
+          "Quantitative analysis",
+          "Financial analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-npv",
+      "type": "node",
+      "label": "NPV & Capital Budgeting",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Capital budgeting decides which long-term investments to fund, using NPV, IRR, and payback period on projected incremental cash flows.",
+        "why": "These are the tools corporate finance teams use to justify spending; accounting professionals who can build the model become advisors, not recorders.",
+        "learn": [
+          "Build a DCF-style NPV model for a project in Excel",
+          "Compute IRR and explain when IRR misleads (mutually exclusive projects)",
+          "Include taxes and depreciation shields in cash flows",
+          "Run sensitivity analysis on the discount rate"
+        ],
+        "skills": [
+          "Capital budgeting",
+          "Financial modeling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "13-2051.00",
+          "11-3031.01"
+        ]
+      }
+    },
+    {
+      "id": "acc-fpa",
+      "type": "node",
+      "label": "FP&A Basics",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Financial Planning & Analysis partners with business units to plan, forecast, and explain performance: rolling forecasts, driver-based models, and management reporting.",
+        "why": "FP&A is one of the fastest-growing destinations for accountants — it pays for analysis, not just accuracy.",
+        "learn": [
+          "Build a driver-based revenue and expense forecast",
+          "Design a monthly management reporting pack",
+          "Present a budget-vs-actual story with a clear recommendation",
+          "Understand rolling forecasts vs annual budgets"
+        ],
+        "skills": [
+          "Financial forecasting",
+          "Business partnering",
+          "Financial analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Investopedia — Financial Planning & Analysis (FP&A)",
+            "url": "https://www.investopedia.com/terms/f/financial-planning-analysis-fpna.asp",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-controls",
+      "type": "node",
+      "label": "Internal Controls",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Internal controls are the policies and mechanisms that keep financial reporting reliable: segregation of duties, approvals, reconciliations, and access restrictions, organized under frameworks like COSO.",
+        "why": "SOX made controls expertise mandatory for US public companies, and fraud prevention starts here — it is core to audit and to any senior accounting role.",
+        "learn": [
+          "Explain segregation of duties with three concrete examples",
+          "Map the five COSO components",
+          "Identify missing controls in a small-business scenario",
+          "Understand what SOX Section 404 requires"
+        ],
+        "skills": [
+          "Internal controls",
+          "Risk assessment",
+          "Fraud awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "COSO — Internal Control Framework",
+            "url": "https://www.coso.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-audit",
+      "type": "node",
+      "label": "Auditing Basics",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "External auditors independently verify that financial statements are fairly presented: risk assessment, testing controls, substantive procedures, and forming an opinion under auditing standards (PCAOB/ISA).",
+        "why": "Public accounting audit experience is the classic launchpad of the profession — it compresses years of exposure to many businesses into a few.",
+        "learn": [
+          "Describe the audit opinion types and what an unqualified opinion means",
+          "Explain materiality and audit risk (AR = IR × CR × DR)",
+          "Walk through testing one cycle end-to-end (e.g., revenue)",
+          "Understand independence and professional skepticism"
+        ],
+        "skills": [
+          "Auditing",
+          "Professional skepticism",
+          "Evidence evaluation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "PCAOB — Standards",
+            "url": "https://pcaobus.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ],
+        "tasks": [
+          "Examine accounting records and prepare audit reports to verify financial information."
+        ]
+      }
+    },
+    {
+      "id": "acc-taxprep",
+      "type": "node",
+      "label": "Tax Preparation Practice",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond theory, tax practice means preparing real returns: gathering documents, applying the law to facts, using software, and communicating with clients about notices and planning.",
+        "why": "Seasonal tax work is the most accessible paid entry point into accounting, and it tests whether you can apply rules to messy reality.",
+        "learn": [
+          "Complete a practice individual return in tax software or on paper forms",
+          "Volunteer with a free tax-preparation program if available in your country",
+          "Learn the client document checklist (income, deductions, credits)",
+          "Read one IRS notice and draft a response plan"
+        ],
+        "skills": [
+          "Tax preparation",
+          "Client communication",
+          "Regulatory compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "IRS — Free tax return preparation programs",
+            "url": "https://www.irs.gov/individuals/irs-free-tax-return-preparation-programs",
+            "kind": "community"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-cpa",
+      "type": "node",
+      "label": "CPA Path",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Certified Public Accountant license (US) is the profession's flagship credential, issued by state boards and examined through the Uniform CPA Exam. Under the 2024 CPA Evolution model the exam has three Core sections (AUD, FAR, REG) plus one Discipline section (BAR, ISC, or TCP).",
+        "why": "CPA licensure is required to sign audit reports and is strongly preferred for senior accounting roles; most public-accounting career ladders expect it.",
+        "learn": [
+          "Confirm your state board's education requirement (typically 150 semester hours)",
+          "Review the CPA Evolution exam structure (3 Core + 1 Discipline)",
+          "Choose a Discipline section aligned to your track",
+          "Plan a 12–18 month study calendar with a review course"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Financial accounting",
+          "Auditing",
+          "Taxation"
+        ],
+        "certs": [
+          {
+            "name": "CPA",
+            "issuer": "State boards / NASBA & AICPA",
+            "note": "Typically 150 semester hours of education; pass the 4-section Uniform CPA Exam; state-specific experience requirement (commonly 1–2 years)."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NASBA — Uniform CPA Examination",
+            "url": "https://nasba.org/exams/cpaexam/",
+            "kind": "certification"
+          },
+          {
+            "title": "AICPA & CIMA — CPA portal",
+            "url": "https://www.aicpa-cima.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-cma",
+      "type": "node",
+      "label": "CMA Path",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Certified Management Accountant (IMA) credential focuses on management accounting and corporate finance: planning, budgeting, cost management, and decision analysis. It is a two-part exam.",
+        "why": "CMA is the natural fit for industry (corporate) accountants heading toward controller, FP&A, or finance-manager roles rather than public audit.",
+        "learn": [
+          "Review CMA Part 1 and Part 2 content outlines",
+          "Verify eligibility (bachelor's degree + experience requirement)",
+          "Study managerial accounting deep topics: costing, budgeting, internal controls",
+          "Compare CMA vs CPA for your intended career track"
+        ],
+        "skills": [
+          "Management accounting",
+          "Cost management",
+          "Decision analysis"
+        ],
+        "certs": [
+          {
+            "name": "CMA",
+            "issuer": "Institute of Management Accountants (IMA)",
+            "note": "Two-part exam plus a bachelor's degree and a period of continuous professional experience."
+          }
+        ],
+        "resources": [
+          {
+            "title": "IMA — CMA Certification",
+            "url": "https://www.imanet.org/cma-certification",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-2011.00",
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-cfa",
+      "type": "node",
+      "label": "CFA Path (Finance)",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The CFA charter (CFA Institute) is the standard credential for investment analysis and portfolio management, earned across three exam levels with a strong ethics component.",
+        "why": "If the finance track (analysis, valuation, asset management) attracts you more than accounting practice, CFA is the credential employers recognize globally.",
+        "learn": [
+          "Review Level I topic areas: ethics, quant, financial reporting, equity, fixed income",
+          "Understand the required years of professional experience for the charter",
+          "Decide between CFA and an accounting license based on target roles",
+          "Practice item-set questions against the official curriculum"
+        ],
+        "skills": [
+          "Investment analysis",
+          "Valuation",
+          "Ethics"
+        ],
+        "certs": [
+          {
+            "name": "CFA Charter",
+            "issuer": "CFA Institute",
+            "note": "Pass three sequential exam levels and meet the experience requirement (typically around four thousand hours of qualifying experience)."
+          }
+        ],
+        "resources": [
+          {
+            "title": "CFA Institute — Programs",
+            "url": "https://www.cfainstitute.org/programs",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-2051.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-ea",
+      "type": "node",
+      "label": "Enrolled Agent (Tax)",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "An Enrolled Agent is a federally licensed tax practitioner (US) authorized to represent taxpayers before the IRS, earned by passing the Special Enrollment Examination (SEE) — three parts covering individuals, businesses, and representation.",
+        "why": "EA is the fastest inexpensive license for a tax-focused career and does not require the 150-hour education path that CPA does.",
+        "learn": [
+          "Review the SEE exam structure (Part 1–3)",
+          "Study individual and business taxation depth",
+          "Understand representation practice: audits, appeals, collections",
+          "Check PTIN registration requirements before practicing"
+        ],
+        "skills": [
+          "Taxation",
+          "Tax representation",
+          "Regulatory compliance"
+        ],
+        "certs": [
+          {
+            "name": "Enrolled Agent",
+            "issuer": "U.S. Department of the Treasury (IRS)",
+            "note": "Pass the three-part Special Enrollment Examination and pass a suitability check; PTIN required to practice."
+          }
+        ],
+        "resources": [
+          {
+            "title": "IRS — Enrolled Agents",
+            "url": "https://www.irs.gov/payments/irs-enrolled-agents",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-career",
+      "type": "node",
+      "label": "Career Paths & Titles",
+      "variant": "accent",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The typical industry ladder runs staff accountant → senior → accounting manager → controller → CFO; public accounting runs associate → senior → manager → partner. Adjacent tracks include internal audit, tax specialist, FP&A analyst, and systems accounting.",
+        "why": "Knowing the ladder helps you pick roles deliberately — title, track, and certification should line up with where you want to be in ten years.",
+        "learn": [
+          "Map the titles and typical tenure at each rung for your target track",
+          "Draft a 10-year goal and the 2–3 roles that bridge to it",
+          "Identify which certification each rung expects in your market",
+          "Build a LinkedIn profile aligned to your chosen track"
+        ],
+        "skills": [
+          "Career planning",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Accountants and Auditors",
+            "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Treasurers and Controllers",
+            "url": "https://www.onetonline.org/link/summary/11-3031.01",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3031.01",
+          "13-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "acc-acca",
+      "type": "node",
+      "label": "ACCA & CA (Intl)",
+      "variant": "muted",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Outside the US, the equivalents are ACCA (global, exam-based) and country-specific Chartered Accountant qualifications such as CA (UK/ICAEW), CA (Canada), CA (India), and CPA Australia.",
+        "why": "If you plan to work outside the United States, or for a multinational, these designations matter more than a US CPA.",
+        "learn": [
+          "Check which designation your target country recognizes for statutory audit",
+          "Compare ACCA's exam structure with the US CPA",
+          "Note mutual recognition agreements between bodies",
+          "Evaluate conversion pathways if you already hold one credential"
+        ],
+        "skills": [
+          "Financial reporting standards",
+          "Career planning"
+        ],
+        "certs": [
+          {
+            "name": "ACCA Qualification",
+            "issuer": "Association of Chartered Certified Accountants",
+            "note": "A series of exams plus professional experience; recognized in many countries as the route to statutory audit roles."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ACCA Global",
+            "url": "https://www.accaglobal.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "acc-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "acc-g-core",
+      "type": "group",
+      "label": "CORE MECHANICS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "acc-g-deepen",
+      "type": "group",
+      "label": "DEEPEN YOUR CRAFT",
+      "x": 36,
+      "y": 490,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "acc-g-finance",
+      "type": "group",
+      "label": "FINANCE TRACK",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "acc-g-compliance",
+      "type": "group",
+      "label": "CONTROLS, AUDIT & TAX",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "acc-g-career",
+      "type": "group",
+      "label": "CERTIFICATIONS & CAREER",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "acc-path",
+      "to": "acc-bookkeeping"
+    },
+    {
+      "from": "acc-bookkeeping",
+      "to": "acc-fin-stmts"
+    },
+    {
+      "from": "acc-path",
+      "to": "acc-excel",
+      "dashed": true
+    },
+    {
+      "from": "acc-bookkeeping",
+      "to": "acc-debits"
+    },
+    {
+      "from": "acc-debits",
+      "to": "acc-cycle"
+    },
+    {
+      "from": "acc-cycle",
+      "to": "acc-adj"
+    },
+    {
+      "from": "acc-adj",
+      "to": "acc-bs"
+    },
+    {
+      "from": "acc-adj",
+      "to": "acc-is"
+    },
+    {
+      "from": "acc-adj",
+      "to": "acc-payroll",
+      "dashed": true
+    },
+    {
+      "from": "acc-bs",
+      "to": "acc-cfs"
+    },
+    {
+      "from": "acc-is",
+      "to": "acc-cfs"
+    },
+    {
+      "from": "acc-bs",
+      "to": "acc-gaap"
+    },
+    {
+      "from": "acc-is",
+      "to": "acc-gaap",
+      "dashed": true
+    },
+    {
+      "from": "acc-is",
+      "to": "acc-revenue"
+    },
+    {
+      "from": "acc-revenue",
+      "to": "acc-inventory"
+    },
+    {
+      "from": "acc-inventory",
+      "to": "acc-cost"
+    },
+    {
+      "from": "acc-cost",
+      "to": "acc-budget"
+    },
+    {
+      "from": "acc-bs",
+      "to": "acc-ratio",
+      "dashed": true
+    },
+    {
+      "from": "acc-is",
+      "to": "acc-ratio"
+    },
+    {
+      "from": "acc-payroll",
+      "to": "acc-tax"
+    },
+    {
+      "from": "acc-excel",
+      "to": "acc-software",
+      "dashed": true
+    },
+    {
+      "from": "acc-budget",
+      "to": "acc-tvm"
+    },
+    {
+      "from": "acc-tvm",
+      "to": "acc-npv"
+    },
+    {
+      "from": "acc-npv",
+      "to": "acc-fpa"
+    },
+    {
+      "from": "acc-ratio",
+      "to": "acc-fpa",
+      "dashed": true
+    },
+    {
+      "from": "acc-gaap",
+      "to": "acc-controls"
+    },
+    {
+      "from": "acc-controls",
+      "to": "acc-audit"
+    },
+    {
+      "from": "acc-tax",
+      "to": "acc-taxprep"
+    },
+    {
+      "from": "acc-audit",
+      "to": "acc-cpa"
+    },
+    {
+      "from": "acc-budget",
+      "to": "acc-cma",
+      "dashed": true
+    },
+    {
+      "from": "acc-npv",
+      "to": "acc-cfa"
+    },
+    {
+      "from": "acc-taxprep",
+      "to": "acc-ea"
+    },
+    {
+      "from": "acc-cpa",
+      "to": "acc-career"
+    },
+    {
+      "from": "acc-cma",
+      "to": "acc-career",
+      "dashed": true
+    },
+    {
+      "from": "acc-cfa",
+      "to": "acc-career",
+      "dashed": true
+    },
+    {
+      "from": "acc-ea",
+      "to": "acc-career",
+      "dashed": true
+    },
+    {
+      "from": "acc-cpa",
+      "to": "acc-acca",
+      "dashed": true
+    },
+    {
+      "from": "acc-software",
+      "to": "acc-career",
+      "dashed": true
+    }
+  ]
+}

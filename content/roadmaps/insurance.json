@@ -1,0 +1,947 @@
+{
+  "slug": "insurance",
+  "title": "Insurance",
+  "tagline": "Agents, underwriters, and adjusters — the licensed profession that prices and manages risk.",
+  "summary": "Insurance is a licensed, recession-resistant industry with three big lanes: sales (agents and agencies), underwriting (pricing risk for carriers), and claims (helping people after losses). This roadmap covers licensing, the major roles, and the designations that anchor long careers.",
+  "category": "Business & Finance",
+  "color": "#7fa8d9",
+  "icon": "shield",
+  "onetRoles": [
+    "41-3021.00",
+    "13-2053.00",
+    "13-1031.00"
+  ],
+  "jelCodes": [
+    "G22"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Insurance Sales Agents (41-3021.00)",
+      "url": "https://www.onetonline.org/link/summary/41-3021.00"
+    },
+    {
+      "label": "BLS OOH — Insurance Sales Agents",
+      "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "in-explore",
+      "type": "node",
+      "label": "The Industry Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry splits into carriers (companies that write policies), agencies (who sell them), and adjusters (who settle claims) across property & casualty, life, and health lines.",
+        "why": "Insurance hires in every economy, licenses quickly, and offers unusually stable long-term careers with real ownership potential.",
+        "learn": [
+          "Read the BLS OOH insurance sales agents profile",
+          "Explain carrier vs agency vs independent vs captive",
+          "Learn the lines: auto, home, commercial, life, health",
+          "Interview one agent about their week"
+        ],
+        "skills": [
+          "Industry knowledge",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Insurance Sales Agents",
+            "url": "https://www.onetonline.org/link/summary/41-3021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-3021.00"
+        ],
+        "tasks": [
+          "Sell life, property, casualty, health, automotive, or other types of insurance to customers."
+        ]
+      }
+    },
+    {
+      "id": "in-lines",
+      "type": "node",
+      "label": "P&C vs Life & Health",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Property & casualty (auto, home, commercial) protects things; life & health protects people and incomes. They require separate licenses and have different sales rhythms.",
+        "why": "Your line choice shapes licensing, clientele, and renewal income — many agents eventually hold both.",
+        "learn": [
+          "Compare P&C vs life/health products and cycles",
+          "Note which lines your state licenses separately",
+          "Ask agents which line they'd start in today",
+          "Decide your first line to license"
+        ],
+        "skills": [
+          "Product knowledge",
+          "Dual-license planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-licensing",
+      "type": "node",
+      "label": "Licensing Overview",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Producers must pass state licensing exams per line, complete pre-licensing education, pass background checks, and maintain CE hours — administered through state insurance departments.",
+        "why": "Licensing is the entry gate for nearly every role that touches policyholders; it can be completed in weeks.",
+        "learn": [
+          "Check your state insurance department's requirements",
+          "Compare pre-licensing course providers",
+          "Note fingerprinting/background steps",
+          "Calendar CE requirements after licensure"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "Provider comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-lingo",
+      "type": "node",
+      "label": "Core Lingo & Concepts",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The vocabulary that makes policies readable: premium, deductible, limit, exclusion, rider, declarations page, peril vs hazard, and how risk pooling works.",
+        "why": "Clients trust agents who can translate a policy into plain language — this is the daily craft.",
+        "learn": [
+          "Learn 20 core terms cold",
+          "Read one sample policy's declarations page end-to-end",
+          "Explain deductible vs out-of-pocket maximum simply",
+          "Practice summarizing coverage for a mock client"
+        ],
+        "skills": [
+          "Policy literacy",
+          "Plain-language explanation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-prelicense",
+      "type": "node",
+      "label": "Pre-Licensing & Exam",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "State-approved pre-licensing courses (hours vary by line and state) end in a proctored exam per line — national and state portions.",
+        "why": "The exam is very passable with structured prep; most failures trace to skipped practice tests.",
+        "learn": [
+          "Complete pre-licensing hours with a strong provider",
+          "Take 3+ timed practice exams",
+          "Drill state-specific regulations separately",
+          "Schedule the exam within weeks of the course"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Practice testing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-appoint",
+      "type": "node",
+      "label": "Appointments & Carriers",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "After licensing, carriers 'appoint' you to sell their products — captive agents represent one carrier; independent agents hold appointments with many.",
+        "why": "Appointments determine what you can sell and at what commission — understanding them is business literacy.",
+        "learn": [
+          "Compare captive vs independent agency models",
+          "Learn how appointments and contracting work",
+          "Note E&O insurance requirements for agents",
+          "Understand commission structures per line"
+        ],
+        "skills": [
+          "Business literacy",
+          "Contract review"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-adjuster",
+      "type": "node",
+      "label": "Adjuster License",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Adjusters investigate and settle claims — licensed in most states (or via adjuster licenses in reciprocal hubs), employed by carriers, independent firms, or public adjusters who represent policyholders.",
+        "why": "Claims is a large, stable career lane with catastrophe work paying premium per-diem rates.",
+        "learn": [
+          "Compare staff vs independent vs public adjuster paths",
+          "Check your state's adjuster license (or reciprocal designation)",
+          "Learn the claims lifecycle: FNOL → investigation → settlement",
+          "Note catastrophe-deployment realities"
+        ],
+        "skills": [
+          "Investigation",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Claims Adjusters, Examiners, and Investigators",
+            "url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1031.00"
+        ]
+      }
+    },
+    {
+      "id": "in-ce",
+      "type": "node",
+      "label": "CE & Compliance",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Producers complete continuing-education hours each renewal cycle, follow strict advertising and replacement rules, and keep appointments and E&O current.",
+        "why": "Compliance discipline protects your license — the industry's regulators are active and documentation-heavy.",
+        "learn": [
+          "Calendar CE deadlines per state held",
+          "Learn replacement-regulation basics",
+          "Follow your state's advertising rules",
+          "Keep E&O policy and appointments current"
+        ],
+        "skills": [
+          "Compliance discipline",
+          "Renewal calendars"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-agent",
+      "type": "node",
+      "label": "Sales Agent Path",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Agents prospect, quote, and service policies: needs analysis, coverage recommendations, and annual reviews — building a renewal-income book over time.",
+        "why": "Sales is the largest lane with the clearest ownership path: your book becomes a saleable asset.",
+        "learn": [
+          "Learn a structured needs-analysis conversation",
+          "Practice quoting and explaining options honestly",
+          "Build an annual-review rhythm for clients",
+          "Track close rate, retention, and book growth"
+        ],
+        "skills": [
+          "Needs analysis",
+          "Consultative sales"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-3021.00"
+        ]
+      }
+    },
+    {
+      "id": "in-underwriter",
+      "type": "node",
+      "label": "Underwriter Path",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Underwriters price and accept risk for carriers: evaluating applications, setting terms, and balancing competitiveness against losses — analytical desk work with real authority.",
+        "why": "Underwriting is the industry's analytical backbone — stable, salaried, and promotion-rich inside carriers.",
+        "learn": [
+          "Learn risk-assessment fundamentals per line",
+          "Practice reading loss runs and application data",
+          "Understand how pricing adequacy works",
+          "Explore underwriting trainee programs at carriers"
+        ],
+        "skills": [
+          "Risk assessment",
+          "Analytical thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Insurance Underwriters",
+            "url": "https://www.onetonline.org/link/summary/13-2053.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Insurance Underwriters",
+            "url": "https://www.bls.gov/ooh/business-and-financial/insurance-underwriters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2053.00"
+        ],
+        "tasks": [
+          "Review individual applications for insurance to evaluate degree of risk involved and determine acceptance of applications."
+        ]
+      }
+    },
+    {
+      "id": "in-claims",
+      "type": "node",
+      "label": "Claims Adjuster Path",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Adjusters inspect damages, read policies for coverage, negotiate settlements, and document everything — desk roles for auto/property, field roles for catastrophes.",
+        "why": "Claims is where the promise gets kept — it suits investigators who like variety and real problem-solving.",
+        "learn": [
+          "Learn coverage-verification technique",
+          "Practice estimating damages with industry software concepts",
+          "Master empathetic-first-contact communication",
+          "Study negotiation within policy limits"
+        ],
+        "skills": [
+          "Claims investigation",
+          "Estimating",
+          "Empathy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Claims Adjusters, Examiners, and Investigators",
+            "url": "https://www.onetonline.org/link/summary/13-1031.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1031.00",
+          "13-1032.00"
+        ]
+      }
+    },
+    {
+      "id": "in-service",
+      "type": "node",
+      "label": "Service & Ops Roles",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Agencies and carriers run on service roles: customer service representatives, policy processing, endorsements, and producer support — the classic part-time-while-licensed entry.",
+        "why": "Getting licensed and working agency service teaches the whole policy lifecycle while earning — ideal for students of the business.",
+        "learn": [
+          "Apply to agency service roles once licensed",
+          "Learn endorsements, cancellations, and renewals workflows",
+          "Practice decomposing client requests into coverage actions",
+          "Own an agency process end-to-end"
+        ],
+        "skills": [
+          "Policy operations",
+          "Client service"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-policy",
+      "type": "node",
+      "label": "Policy Reading",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advanced policy craft: insuring agreements, exclusions, conditions, endorsements, and how courts read ambiguity — the difference between quoting and advising.",
+        "why": "Agents and adjusters who truly read policies become the ones clients and attorneys call first.",
+        "learn": [
+          "Read a full HO or BOP policy with a highlighter",
+          "Map exclusions to real-world scenarios",
+          "Learn how endorsements change coverage",
+          "Explain one exclusion battle in plain words"
+        ],
+        "skills": [
+          "Policy analysis",
+          "Exclusion mapping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-needs",
+      "type": "node",
+      "label": "Coverage Gap Analysis",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Advisory value comes from finding gaps: underinsured dwellings, excluded perils, liability limits mismatched to assets, business interruptions nobody planned for.",
+        "why": "Gap analysis is why clients keep paying you — it converts sales into genuine protection.",
+        "learn": [
+          "Build a client risk checklist per line",
+          "Practice identifying 3 gaps in a sample account",
+          "Present gaps as care, not fear",
+          "Document recommendations and client decisions"
+        ],
+        "skills": [
+          "Risk analysis",
+          "Advisory communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-claims-care",
+      "type": "node",
+      "label": "Claims Empathy",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Claimants call on their worst days: settle fast where fair, explain denials with care, and document with a defensible, human file.",
+        "why": "Claims reputation drives retention and litigation costs — empathy plus documentation is the professional standard.",
+        "learn": [
+          "Practice first-contact scripts for total losses",
+          "Write clear denial explanations with policy language",
+          "Keep files complete and contemporaneous",
+          "Learn fraud indicators without cynicism"
+        ],
+        "skills": [
+          "Empathy",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Claims Adjusters, Examiners, and Investigators",
+            "url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-agency",
+      "type": "node",
+      "label": "Agency Ownership",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Agency ownership means carrier contracts, a book of business, staff, and profit-sharing — carriers have programs to help producers open captive or independent agencies.",
+        "why": "Ownership converts renewal commissions into enterprise value — the industry's wealth path.",
+        "learn": [
+          "Compare captive vs independent agency economics",
+          "Learn carrier agency-development program requirements",
+          "Model startup costs and ramp timelines",
+          "Talk to two agency owners about year one"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Book building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-commercial",
+      "type": "node",
+      "label": "Commercial Lines",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Commercial lines (businessowners, general liability, workers comp, commercial auto) are larger, more analytical accounts requiring deeper risk assessment.",
+        "why": "Commercial specialists earn more and are scarcer — a natural growth direction for experienced producers.",
+        "learn": [
+          "Learn core commercial coverages and who needs them",
+          "Practice reading a businessowner policy",
+          "Understand workers-comp fundamentals",
+          "Shadow a commercial producer for a day"
+        ],
+        "skills": [
+          "Commercial risk analysis",
+          "Risk complexity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-cpcu",
+      "type": "node",
+      "label": "Designations",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry's respected designations: CPCU (The Institutes, chartered property casualty underwriter), CIC (Certified Insurance Counselors), and CISR-style team credentials.",
+        "why": "Designations signal mastery, raise trust, and often come with pay or profit-share bumps — agencies frequently fund them.",
+        "learn": [
+          "Compare CPCU vs CIC against your lane",
+          "Check employer reimbursement policies",
+          "Plan one course segment per quarter",
+          "Track CE overlap with designation credits"
+        ],
+        "skills": [
+          "Credential planning",
+          "Employer sponsorship"
+        ],
+        "certs": [
+          {
+            "name": "CPCU",
+            "issuer": "The Institutes",
+            "note": "Chartered Property Casualty Underwriter — the P&C industry's flagship designation (multi-exam program)."
+          },
+          {
+            "name": "CIC",
+            "issuer": "Society of Certified Insurance Counselors",
+            "note": "Five-institute designation for experienced insurance professionals."
+          }
+        ],
+        "resources": [
+          {
+            "title": "The Institutes",
+            "url": "https://web.theinstitutes.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "SCIC — CIC designation",
+            "url": "https://www.scic.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders by lane: producer → senior producer → agency owner; underwriter → senior → manager → chief underwriter; adjuster → senior → large-loss → claims manager.",
+        "why": "Every lane has a visible, stable ladder — insurance rewards tenure and accumulated trust unusually well.",
+        "learn": [
+          "Map the ladder for your lane using real postings",
+          "Identify the designation each rung expects",
+          "Find a mentor one rung ahead",
+          "Set a 5-year goal with annual checkpoints"
+        ],
+        "skills": [
+          "Career planning",
+          "Ladder mapping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-insurtech",
+      "type": "node",
+      "label": "InsurTech & Remote",
+      "variant": "muted",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Technology is reshaping the industry: digital quoting, remote desk-adjusting, and insurtech startups hiring licensed professionals for product, sales, and claims innovation.",
+        "why": "Licensed + tech-comfortable is a scarce combination — remote-friendly roles are growing fastest here.",
+        "learn": [
+          "Follow major insurtech employers in your market",
+          "Learn digital-quoting and remote-inspection tools",
+          "Note remote adjuster and hybrid producer roles",
+          "Keep data-privacy hygiene sharp"
+        ],
+        "skills": [
+          "Technology adoption",
+          "Remote-role tracking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-ethics",
+      "type": "node",
+      "label": "Suitability & Trust",
+      "variant": "muted",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The product is a promise: suitability means recommending coverage the client actually needs, honest disclosure of limits, and never churning policies for commissions.",
+        "why": "Insurance careers compound on trust — regulatory complaints and churn follow bad advice within a renewal cycle.",
+        "learn": [
+          "Follow your state's suitability and replacement rules",
+          "Document client decisions and declines",
+          "Practice the honest-limit conversation",
+          "Put client interest first in writing — always"
+        ],
+        "skills": [
+          "Ethics",
+          "Client trust"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NAIC — consumer and producer resources",
+            "url": "https://content.naic.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-study",
+      "type": "node",
+      "label": "Study Systems",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Between licensing, CE, and designations, insurance professionals are always studying — spaced repetition and small daily blocks make it sustainable.",
+        "why": "The credential ladder is long; a sustainable study system is the meta-skill that finishes it.",
+        "learn": [
+          "Build a 30-minute daily study block",
+          "Use practice questions as your main study tool",
+          "Join a study group for designation courses",
+          "Review renewal and exam dates quarterly"
+        ],
+        "skills": [
+          "Lifelong learning",
+          "Daily study blocks"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Insurance Sales Agents",
+            "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "in-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "in-g-license",
+      "type": "group",
+      "label": "GET LICENSED",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "in-g-roles",
+      "type": "group",
+      "label": "THE THREE LANES",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "in-g-craft",
+      "type": "group",
+      "label": "CRAFT & GROWTH",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "in-g-ladder",
+      "type": "group",
+      "label": "LADDER & CREDENTIALS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "in-g-career",
+      "type": "group",
+      "label": "CAREER & TRUST",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "in-explore",
+      "to": "in-lines"
+    },
+    {
+      "from": "in-explore",
+      "to": "in-licensing"
+    },
+    {
+      "from": "in-explore",
+      "to": "in-lingo",
+      "dashed": true
+    },
+    {
+      "from": "in-lines",
+      "to": "in-prelicense"
+    },
+    {
+      "from": "in-licensing",
+      "to": "in-prelicense"
+    },
+    {
+      "from": "in-prelicense",
+      "to": "in-appoint"
+    },
+    {
+      "from": "in-appoint",
+      "to": "in-adjuster",
+      "dashed": true
+    },
+    {
+      "from": "in-appoint",
+      "to": "in-ce",
+      "dashed": true
+    },
+    {
+      "from": "in-appoint",
+      "to": "in-agent"
+    },
+    {
+      "from": "in-agent",
+      "to": "in-underwriter",
+      "dashed": true
+    },
+    {
+      "from": "in-agent",
+      "to": "in-claims",
+      "dashed": true
+    },
+    {
+      "from": "in-appoint",
+      "to": "in-service",
+      "dashed": true
+    },
+    {
+      "from": "in-agent",
+      "to": "in-policy"
+    },
+    {
+      "from": "in-policy",
+      "to": "in-needs"
+    },
+    {
+      "from": "in-claims",
+      "to": "in-claims-care"
+    },
+    {
+      "from": "in-needs",
+      "to": "in-agency",
+      "dashed": true
+    },
+    {
+      "from": "in-needs",
+      "to": "in-commercial",
+      "dashed": true
+    },
+    {
+      "from": "in-needs",
+      "to": "in-cpcu"
+    },
+    {
+      "from": "in-cpcu",
+      "to": "in-career"
+    },
+    {
+      "from": "in-underwriter",
+      "to": "in-career",
+      "dashed": true
+    },
+    {
+      "from": "in-claims-care",
+      "to": "in-career",
+      "dashed": true
+    },
+    {
+      "from": "in-career",
+      "to": "in-insurtech",
+      "dashed": true
+    },
+    {
+      "from": "in-career",
+      "to": "in-ethics",
+      "dashed": true
+    },
+    {
+      "from": "in-career",
+      "to": "in-study",
+      "dashed": true
+    }
+  ]
+}

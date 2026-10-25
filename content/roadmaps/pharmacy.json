@@ -1,0 +1,720 @@
+{
+  "slug": "pharmacy",
+  "title": "Pharmacy",
+  "tagline": "Technicians and pharmacists — the medication-safety specialists.",
+  "summary": "A deep-dive specialization of the Healthcare Careers roadmap: pharmacy careers from certified technician to pharmacist — dispensing, controlled substances, clinical services, and specialty practice.",
+  "category": "Health & Public Service",
+  "color": "#7fb069",
+  "icon": "heart",
+  "parent": "healthcare",
+  "onetRoles": [
+    "29-2052.00",
+    "29-1051.00"
+  ],
+  "jelCodes": [
+    "I11"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Pharmacists (29-1051.00)",
+      "url": "https://www.onetonline.org/link/summary/29-1051.00"
+    },
+    {
+      "label": "BLS OOH — Pharmacists",
+      "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ph-map",
+      "type": "node",
+      "label": "Pharmacy Settings",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pharmacy spans community/retail, hospital, mail-order, specialty, and long-term-care settings — technicians and pharmacists work in all of them with different rhythms.",
+        "why": "Medication safety expertise is needed everywhere — and the field offers licensed careers at both the technician and doctoral levels.",
+        "learn": [
+          "Read the BLS OOH pharmacist profile",
+          "Compare retail vs hospital work environments",
+          "Note technician vs pharmacist scope differences",
+          "Shadow at a community pharmacy if possible"
+        ],
+        "skills": [
+          "Medication literacy",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacists",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Pharmacists",
+            "url": "https://www.onetonline.org/link/summary/29-1051.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1051.00"
+        ]
+      }
+    },
+    {
+      "id": "ph-math",
+      "type": "node",
+      "label": "Pharmacy Math",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dosage calculations, unit conversions, dilutions, and day-supply math — accuracy here is patient safety, and it's the core of every certification exam.",
+        "why": "Pharmacy math errors are the classic failure mode — fluency is tested, licensed, and lifesaving.",
+        "learn": [
+          "Drill dosage calculations daily until automatic",
+          "Master metric conversions and household measures",
+          "Learn day-supply and quantity-per-day math",
+          "Practice with exam-style word problems"
+        ],
+        "skills": [
+          "Dosage calculation",
+          "Precision"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacy Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-tech",
+      "type": "node",
+      "label": "Pharmacy Technician",
+      "variant": "accent",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Technicians count, fill, and label medications, manage inventory, process insurance, and support pharmacists — most states require PTCB certification or equivalent plus registration.",
+        "why": "Technician is the fastest licensed-adjacent healthcare entry (months), with strong demand in every setting.",
+        "learn": [
+          "Complete training (on-job or program) per your state",
+          "Pass the PTCB PTCE or NHA ExCPT exam",
+          "Register with your state board of pharmacy",
+          "Master the dispensing workflow and software"
+        ],
+        "skills": [
+          "Dispensing workflow",
+          "Inventory management"
+        ],
+        "certs": [
+          {
+            "name": "PTCE (CPhT)",
+            "issuer": "Pharmacy Technician Certification Board",
+            "note": "The national technician certification exam; most states require it or an equivalent for licensure."
+          }
+        ],
+        "resources": [
+          {
+            "title": "PTCB — certification",
+            "url": "https://www.ptcb.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "O*NET — Pharmacy Technicians",
+            "url": "https://www.onetonline.org/link/summary/29-2052.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2052.00"
+        ],
+        "tasks": [
+          "Prepare medications under the direction of a pharmacist; measure, mix, count out, label, and record quantities of medications."
+        ]
+      }
+    },
+    {
+      "id": "ph-controlled",
+      "type": "node",
+      "label": "Controlled Substances",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "DEA schedules (I–V), counting and recordkeeping duties, theft and diversion awareness, and the extra documentation controlled prescriptions require.",
+        "why": "Controlled-substance handling is the highest-stakes compliance duty in pharmacy — errors are legal events.",
+        "learn": [
+          "Learn the DEA schedule system",
+          "Master perpetual inventory counts for C-IIs",
+          "Understand prescription requirements per schedule",
+          "Know your state's PDMP (prescription database)"
+        ],
+        "skills": [
+          "DEA compliance",
+          "Recordkeeping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DEA — controlled substances",
+            "url": "https://www.deadiversion.usdoj.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-insurance",
+      "type": "node",
+      "label": "Insurance & Refills",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Third-party processing: adjudication rejections, prior authorizations, refill-too-soon rules, and helping patients navigate coverage — half of community pharmacy's daily work.",
+        "why": "Technicians who can fix insurance problems are gold — patients judge pharmacies by this.",
+        "learn": [
+          "Learn common rejection codes and fixes",
+          "Practice the prior-authorization workflow",
+          "Understand copay tiers and deductibles",
+          "Master patient-friendly insurance explanations"
+        ],
+        "skills": [
+          "Insurance processing",
+          "Problem solving"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacy Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-sterile",
+      "type": "node",
+      "label": "Sterile Compounding",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hospital and specialty pharmacies compound sterile IV medications in cleanrooms — requiring garbing, aseptic technique, and environmental monitoring to strict USP standards.",
+        "why": "Sterile compounding is the technician career's high-skill, high-pay branch (hospital pay scales).",
+        "learn": [
+          "Train in aseptic garbing and hand hygiene",
+          "Learn USP <797>-style concepts for sterile compounding",
+          "Practice media-fill technique validation",
+          "Understand beyond-use dating"
+        ],
+        "skills": [
+          "Aseptic technique",
+          "Cleanroom discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacy Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-hospital",
+      "type": "node",
+      "label": "Hospital Pharmacy",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hospital pharmacy runs on unit-dose distribution, IV admixture, automated cabinets, and medication order processing — faster pace, clinical exposure, higher pay.",
+        "why": "Hospital technician roles teach the clinical side and are the stepping stone to specialty and informatics roles.",
+        "learn": [
+          "Learn unit-dose and ADC (cabinet) workflows",
+          "Practice order-processing accuracy under pace",
+          "Understand medication-recall procedures",
+          "Explore tech-check-tech and tech specialty roles"
+        ],
+        "skills": [
+          "Hospital workflow",
+          "Order processing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacy Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-pharmacist",
+      "type": "node",
+      "label": "Pharmacist Path",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pharmacists complete prerequisite coursework plus a four-year PharmD, then pass the NAPLEX and state MPJE for licensure — counseling patients, verifying fills, and managing drug therapy.",
+        "why": "The PharmD is the field's doctoral license — clinical authority over medication use in every setting.",
+        "learn": [
+          "Complete prerequisites (chemistry, biology, math)",
+          "Apply to accredited PharmD programs (PharmCAS)",
+          "Plan the four-year professional curriculum",
+          "Prepare for NAPLEX and MPJE at graduation"
+        ],
+        "skills": [
+          "Pharmacotherapy knowledge",
+          "Clinical verification"
+        ],
+        "certs": [
+          {
+            "name": "NAPLEX + MPJE",
+            "issuer": "NABP / state boards of pharmacy",
+            "note": "The national licensure exam (NAPLEX) plus state law exam (MPJE) required for pharmacist licensure."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NABP — licensure",
+            "url": "https://nabp.pharmacy/",
+            "kind": "certification"
+          },
+          {
+            "title": "O*NET — Pharmacists",
+            "url": "https://www.onetonline.org/link/summary/29-1051.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1051.00"
+        ],
+        "tasks": [
+          "Dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use."
+        ]
+      }
+    },
+    {
+      "id": "ph-counsel",
+      "type": "node",
+      "label": "Patient Counseling",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pharmacists counsel on how to take medications, side effects, interactions, and storage — the clinical touchpoint that prevents readmissions and harm.",
+        "why": "Counseling is the pharmacist's distinct value over dispensing alone — communication here is clinical care.",
+        "learn": [
+          "Practice the counseling core: what, how, why, watch-for",
+          "Learn interaction-warning priorities",
+          "Adapt language to health-literacy levels",
+          "Use teach-back for every new medication"
+        ],
+        "skills": [
+          "Patient counseling",
+          "Interaction knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacists",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-vaccines",
+      "type": "node",
+      "label": "Immunization Services",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pharmacies administer most adult vaccines now: certification courses, storage and handling, documentation, and the queue management of flu season.",
+        "why": "Immunization authority expanded the profession's clinical role — and trained techs often support the workflow.",
+        "learn": [
+          "Complete an immunization-delivery certificate course (pharmacists)",
+          "Learn cold-chain storage and monitoring",
+          "Master vaccine documentation and registry reporting",
+          "Plan queue workflows for flu clinics"
+        ],
+        "skills": [
+          "Immunization practice",
+          "Cold-chain management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CDC — vaccine storage and handling",
+            "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-specialty",
+      "type": "node",
+      "label": "Specialty Pharmacy",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialty pharmacies handle high-cost, high-touch medications (oncology, biologics, rare disease): prior authorizations, patient support programs, and cold-chain shipping.",
+        "why": "Specialty is pharmacy's fastest-growing, best-paying segment — technicians and pharmacists alike.",
+        "learn": [
+          "Learn the specialty patient journey: referral to delivery",
+          "Master financial-assistance program navigation",
+          "Understand limited-distribution drugs",
+          "Practice adherence-support conversations"
+        ],
+        "skills": [
+          "Specialty workflow",
+          "Patient support"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacists",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Technician ladder: certified tech → senior/lead → inventory or sterile specialist → tech supervisor. Pharmacist ladder: staff → pharmacy manager → district/clinical coordinator.",
+        "why": "Both tracks have visible ladders and continuing-education paths — pharmacy rewards precision and persistence.",
+        "learn": [
+          "Map the ladder in your chosen setting",
+          "Identify specialty certifications (e.g., sterile compounding)",
+          "Find a mentor at your next rung",
+          "Track CE hours from year one"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacy Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-accuracy",
+      "type": "node",
+      "label": "Accuracy Culture",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Near-misses are lessons: error-reporting cultures, barcode scanning discipline, look-alike/sound-alike awareness, and never rushing the verification step.",
+        "why": "Pharmacy's entire value is giving the right drug to the right patient — accuracy culture is the professional identity.",
+        "learn": [
+          "Practice barcode-scanning discipline without shortcuts",
+          "Learn the top look-alike/sound-alike pairs",
+          "Report near-misses constructively",
+          "Slow down at handoffs — always"
+        ],
+        "skills": [
+          "Error prevention",
+          "Verification discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ISMP — medication safety",
+            "url": "https://www.ismp.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-burnout",
+      "type": "node",
+      "label": "Pace & Wellbeing",
+      "variant": "muted",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Retail pharmacy is metric-driven and understaffed at times — technicians and pharmacists report high burnout; choosing settings and boundaries matters.",
+        "why": "The field's wellbeing problem is real — picking the right setting early protects long careers.",
+        "learn": [
+          "Compare pace and metrics across settings",
+          "Learn your burnout signs early",
+          "Consider hospital or specialty settings if retail drains you",
+          "Use mental-health resources without stigma"
+        ],
+        "skills": [
+          "Wellbeing management",
+          "Setting selection"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Pharmacists",
+            "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-bridge",
+      "type": "node",
+      "label": "Tech-to-Pharmacist",
+      "variant": "muted",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Technician experience strengthens PharmD applications dramatically — some schools offer bridge pathways, and working techs know the workflow cold.",
+        "why": "Tech-to-pharmacist is a proven funded ladder — earn while confirming the career fits.",
+        "learn": [
+          "Log technician hours for applications",
+          "Take prerequisites at community-college cost",
+          "Research bridge or early-assurance programs",
+          "Ask pharmacist mentors for recommendations"
+        ],
+        "skills": [
+          "Academic planning",
+          "Prerequisite planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "PharmCAS — application service",
+            "url": "https://www.pharmcas.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-renewal",
+      "type": "node",
+      "label": "CE & Renewal",
+      "variant": "muted",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Technician certifications renew every two years with CE hours (including law and patient-safety); pharmacist licenses renew annually or biennially by state.",
+        "why": "CE is mandatory — choosing patient-safety-focused CE turns a chore into skill growth.",
+        "learn": [
+          "Calendar your renewal dates",
+          "Track CE hours in a running log",
+          "Prioritize safety and law CE topics",
+          "Verify your state's specific hour rules"
+        ],
+        "skills": [
+          "CE planning",
+          "CE logging"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "PTCB — renewal requirements",
+            "url": "https://www.ptcb.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ph-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ph-g-tech",
+      "type": "group",
+      "label": "TECHNICIAN CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ph-g-clinical",
+      "type": "group",
+      "label": "CLINICAL & SPECIALTY",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ph-g-ladder",
+      "type": "group",
+      "label": "LADDER & CULTURE",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ph-g-grow",
+      "type": "group",
+      "label": "GROWTH & RENEWAL",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    }
+  ],
+  "edges": [
+    {
+      "from": "ph-map",
+      "to": "ph-math"
+    },
+    {
+      "from": "ph-map",
+      "to": "ph-tech"
+    },
+    {
+      "from": "ph-math",
+      "to": "ph-tech"
+    },
+    {
+      "from": "ph-tech",
+      "to": "ph-controlled"
+    },
+    {
+      "from": "ph-tech",
+      "to": "ph-insurance"
+    },
+    {
+      "from": "ph-controlled",
+      "to": "ph-sterile",
+      "dashed": true
+    },
+    {
+      "from": "ph-insurance",
+      "to": "ph-hospital",
+      "dashed": true
+    },
+    {
+      "from": "ph-sterile",
+      "to": "ph-hospital"
+    },
+    {
+      "from": "ph-hospital",
+      "to": "ph-pharmacist",
+      "dashed": true
+    },
+    {
+      "from": "ph-tech",
+      "to": "ph-pharmacist",
+      "dashed": true
+    },
+    {
+      "from": "ph-pharmacist",
+      "to": "ph-counsel"
+    },
+    {
+      "from": "ph-pharmacist",
+      "to": "ph-vaccines",
+      "dashed": true
+    },
+    {
+      "from": "ph-hospital",
+      "to": "ph-specialty",
+      "dashed": true
+    },
+    {
+      "from": "ph-counsel",
+      "to": "ph-career"
+    },
+    {
+      "from": "ph-specialty",
+      "to": "ph-career",
+      "dashed": true
+    },
+    {
+      "from": "ph-career",
+      "to": "ph-accuracy",
+      "dashed": true
+    },
+    {
+      "from": "ph-career",
+      "to": "ph-burnout",
+      "dashed": true
+    },
+    {
+      "from": "ph-career",
+      "to": "ph-bridge",
+      "dashed": true
+    },
+    {
+      "from": "ph-career",
+      "to": "ph-renewal",
+      "dashed": true
+    }
+  ]
+}

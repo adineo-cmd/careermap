@@ -1,0 +1,597 @@
+{
+  "slug": "plumbing-pipefitting",
+  "title": "Plumbing & Pipefitting",
+  "tagline": "The dedicated piping-trades path — apprentice to journeyman to master to contractor.",
+  "summary": "A deep-dive specialization of the Skilled Trades roadmap: plumbing and pipefitting from apprenticeship hours through the journeyman license, service work, master status, and specialty systems.",
+  "category": "Skilled Trades & Services",
+  "color": "#6ea8c9",
+  "icon": "wrench",
+  "parent": "skilled-trades",
+  "onetRoles": [
+    "47-2152.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Plumbers, Pipefitters, and Steamfitters (47-2152.00)",
+      "url": "https://www.onetonline.org/link/summary/47-2152.00"
+    },
+    {
+      "label": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "pp-explore",
+      "type": "node",
+      "label": "The Piping Trades",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The piping trades split into plumbers (water, waste, gas in buildings) and pipefitters/steamfitters (industrial process, high-pressure, HVAC piping) — licensed, apprenticeship-trained crafts.",
+        "why": "Everything leaks eventually — the trade is recession-resistant, ownership-friendly, and impossible to outsource.",
+        "learn": [
+          "Compare plumber vs pipefitter vs steamfitter scopes",
+          "Read the BLS OOH profile",
+          "Visit a supply house and a job site",
+          "Talk to one service plumber and one fitter"
+        ],
+        "skills": [
+          "Mechanical aptitude",
+          "Safety discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.onetonline.org/link/summary/47-2152.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "47-2152.00"
+        ],
+        "tasks": [
+          "Assemble, install, and repair pipes, fittings, and fixtures of heating, water, and drainage systems according to specifications and plumbing codes."
+        ]
+      }
+    },
+    {
+      "id": "pp-apprentice",
+      "type": "node",
+      "label": "Apprenticeship",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Plumbing apprenticeships run ~4–5 years of paid OJT hours plus classroom — union JATC or open-shop — covering code, theory, and hands-on systems.",
+        "why": "Earn-while-you-learn with a license at the end — apply to several programs and prepare for aptitude testing.",
+        "learn": [
+          "Apply to union and open-shop programs",
+          "Prepare for aptitude tests (math, mechanical)",
+          "Keep hours documented and signed from day one",
+          "Balance experience categories per your license"
+        ],
+        "skills": [
+          "Persistence",
+          "Documentation discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-systems",
+      "type": "node",
+      "label": "Core Systems",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The systems knowledge: DWV (drain-waste-vent) design, water supply, gas piping, and fixture rough-in — learned across residential and commercial projects.",
+        "why": "Systems understanding is what turns pipe-handling into licensed plumbing — it's the exam and the job.",
+        "learn": [
+          "Learn DWV design: slope, venting, traps",
+          "Master water-supply sizing basics",
+          "Learn gas-pipe sizing and materials",
+          "Rough-in a full bathroom on paper correctly"
+        ],
+        "skills": [
+          "DWV systems",
+          "Water supply"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-joining",
+      "type": "node",
+      "label": "Joining & Materials",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The material craft: copper soldering, threading, PEX expansion, PVC/ABS solvent welds, cast iron, and press fittings — each with code and application logic.",
+        "why": "Material mastery is daily work and the visible mark of a real tradesperson.",
+        "learn": [
+          "Practice soldering until joints pass inspection",
+          "Learn PEX expansion and press systems",
+          "Understand where each material is legal",
+          "Build clean, measured pipe work habitually"
+        ],
+        "skills": [
+          "Joining methods",
+          "Material knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-journeyman",
+      "type": "node",
+      "label": "Journeyman License",
+      "variant": "accent",
+      "x": 1180,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The journeyman license: completed apprenticeship hours plus a state exam covering code, theory, and practical knowledge — licensing unsupervised work.",
+        "why": "The journeyman card is the trade's degree — full pay rates and the master-track prerequisite.",
+        "learn": [
+          "Verify your state's hour and exam requirements",
+          "Take a code-prep course before the exam",
+          "Do timed practice exams weekly",
+          "Keep your application paperwork flawless"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Code knowledge"
+        ],
+        "certs": [
+          {
+            "name": "Journeyman Plumber License",
+            "issuer": "State licensing boards (US)",
+            "note": "Issued after documented apprenticeship hours and passing the state journeyman examination."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-service",
+      "type": "node",
+      "label": "Service & Troubleshooting",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service plumbing diagnoses live problems: clogs, leaks, water-heater failures, sewer backups — a diagnostic craft with customer trust at its center.",
+        "why": "Service work pays the best hourly rates and is the base of most independent plumbing businesses.",
+        "learn": [
+          "Learn systematic drain-cleaning methods",
+          "Master water-heater diagnosis and replacement",
+          "Practice sewer-camera interpretation",
+          "Explain options and prices clearly to homeowners"
+        ],
+        "skills": [
+          "Troubleshooting",
+          "Customer communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-backflow",
+      "type": "node",
+      "label": "Backflow & Specialties",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialty certifications: backflow prevention assembly testing, medical gas, steam systems, and septic/well work — each adds legal capabilities and pay.",
+        "why": "Certifications expand what you can legally do — the tested path to premium wages.",
+        "learn": [
+          "Earn a backflow-prevention tester certification",
+          "Explore medical-gas installation endorsements",
+          "Learn septic and well-system basics",
+          "Track certification renewals carefully"
+        ],
+        "skills": [
+          "Backflow testing",
+          "Specialty systems"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-industrial",
+      "type": "node",
+      "label": "Pipefitting & Industrial",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pipefitting and steamfitting serve plants and process systems: high-pressure pipe, welding, blueprints, and rigging — bigger systems, bigger tolerances, industrial pay.",
+        "why": "Industrial pipefitting is the trade's heavy segment — strong union wages and long projects.",
+        "learn": [
+          "Learn process-pipe materials and schedules",
+          "Practice blueprint and isometric reading",
+          "Train in rigging and high-pressure safety",
+          "Note welding certifications that pair with fitting"
+        ],
+        "skills": [
+          "Industrial piping",
+          "Blueprint reading"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-master",
+      "type": "node",
+      "label": "Master License",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The master license adds years and a design-level exam — qualifying you to plan systems, pull permits, supervise, and (with a contractor license) own the business.",
+        "why": "Master status unlocks contracting, estimating authority, and inspection careers.",
+        "learn": [
+          "Confirm your jurisdiction's master requirements",
+          "Study design-level calculations and code depth",
+          "Log supervisory and planning experience",
+          "Prepare with a master-prep course"
+        ],
+        "skills": [
+          "Systems design",
+          "Supervision"
+        ],
+        "certs": [
+          {
+            "name": "Master Plumber License",
+            "issuer": "State/municipal licensing boards",
+            "note": "Senior license after additional experience and a design-focused examination; often required to contract."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-contractor",
+      "type": "node",
+      "label": "Contractor Path",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Contractor ownership: business license, bonding and insurance, estimating, crews, and the service-truck economics that make plumbing businesses durable.",
+        "why": "Ownership is the wealth path — master-level credibility plus business systems.",
+        "learn": [
+          "Study your state's contractor licensing",
+          "Learn job costing and truck-stock economics",
+          "Build supplier and inspection relationships",
+          "Hire helpers before you're overloaded"
+        ],
+        "skills": [
+          "Business management",
+          "Estimating"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-inspector",
+      "type": "node",
+      "label": "Inspector Path",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Master-level plumbers move into inspection for cities and counties: plan review and field inspection against code — steady hours using deep code knowledge.",
+        "why": "Inspection is the classic second act — respected, stable, and code-centered.",
+        "learn": [
+          "Check your AHJ's inspector requirements",
+          "Consider ICC-style inspector certification",
+          "Shadow an inspector for a day",
+          "Keep installation-quality habits impeccable"
+        ],
+        "skills": [
+          "Code enforcement",
+          "Code study habit"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ICC — inspector certifications",
+            "url": "https://www.iccsafe.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladder: helper → apprentice → journeyman → master/foreman → contractor-owner or inspector — each rung licensed and clearly defined.",
+        "why": "The piping trades ladder is visible and license-gated: you can always see the next step's requirements.",
+        "learn": [
+          "Map your state's ladder and timelines",
+          "Choose service vs construction vs industrial focus",
+          "Find a mentor one rung ahead",
+          "Plan your body's longevity transition"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-body",
+      "type": "node",
+      "label": "Body & Longevity",
+      "variant": "muted",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Crawls, trenches, and heavy fixtures wear bodies: knee/back protection, lifting technique, and honest transitions toward inspection, supervision, or ownership.",
+        "why": "Longevity planning at year five prevents the injury-driven exits that end good careers.",
+        "learn": [
+          "Use knee and back protection without exception",
+          "Keep a strength and mobility routine",
+          "Learn proper lifting permanently",
+          "Plan your field-to-desk shift timeline"
+        ],
+        "skills": [
+          "Self-care",
+          "Longevity planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — PPE",
+            "url": "https://www.osha.gov/personal-protective-equipment",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-customers",
+      "type": "node",
+      "label": "Customer Trust",
+      "variant": "muted",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service plumbing sells trust: clear explanations, options with honest prices, clean workspaces, and showing up when promised — reviews follow.",
+        "why": "Trust is the entire service business — plumbers known for honesty never run out of work.",
+        "learn": [
+          "Practice plain-language diagnosis explanations",
+          "Present three options with prices every time",
+          "Leave spaces cleaner than found",
+          "Ask for reviews at completion"
+        ],
+        "skills": [
+          "Customer communication",
+          "Trust building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — customer service",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pp-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "pp-g-license",
+      "type": "group",
+      "label": "APPRENTICE TO JOURNEYMAN",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "pp-g-career",
+      "type": "group",
+      "label": "SERVICE & MASTERY",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "pp-explore",
+      "to": "pp-apprentice"
+    },
+    {
+      "from": "pp-explore",
+      "to": "pp-systems",
+      "dashed": true
+    },
+    {
+      "from": "pp-apprentice",
+      "to": "pp-systems"
+    },
+    {
+      "from": "pp-systems",
+      "to": "pp-joining"
+    },
+    {
+      "from": "pp-joining",
+      "to": "pp-journeyman"
+    },
+    {
+      "from": "pp-journeyman",
+      "to": "pp-service"
+    },
+    {
+      "from": "pp-journeyman",
+      "to": "pp-industrial",
+      "dashed": true
+    },
+    {
+      "from": "pp-service",
+      "to": "pp-backflow",
+      "dashed": true
+    },
+    {
+      "from": "pp-journeyman",
+      "to": "pp-master"
+    },
+    {
+      "from": "pp-master",
+      "to": "pp-contractor"
+    },
+    {
+      "from": "pp-contractor",
+      "to": "pp-inspector",
+      "dashed": true
+    },
+    {
+      "from": "pp-career",
+      "to": "pp-body",
+      "dashed": true
+    },
+    {
+      "from": "pp-service",
+      "to": "pp-customers"
+    },
+    {
+      "from": "pp-customers",
+      "to": "pp-contractor",
+      "dashed": true
+    },
+    {
+      "from": "pp-career",
+      "to": "pp-customers",
+      "dashed": true
+    }
+  ]
+}

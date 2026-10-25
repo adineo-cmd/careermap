@@ -1,0 +1,1345 @@
+{
+  "slug": "law",
+  "title": "Law & Legal Careers",
+  "tagline": "The full legal path — pre-law skills, the LSAT, law school, the bar, practice areas, and the paralegal alternative.",
+  "summary": "Law rewards structured thinking and disciplined writing. This roadmap covers both major routes: the attorney path (pre-law skills → LSAT → JD → bar admission → practice) and the paralegal path (programs → NALA certification → specialized legal support), plus adjacent careers in mediation and compliance.",
+  "category": "Health & Public Service",
+  "color": "#a5b4fc",
+  "icon": "scale",
+  "onetRoles": [
+    "23-1011.00",
+    "23-2011.00",
+    "23-1021.00"
+  ],
+  "jelCodes": [
+    "K00",
+    "K12",
+    "K41"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Lawyers (23-1011.00)",
+      "url": "https://www.onetonline.org/link/summary/23-1011.00"
+    },
+    {
+      "label": "BLS OOH — Lawyers",
+      "url": "https://www.bls.gov/ooh/legal/lawyers.htm"
+    },
+    {
+      "label": "BLS OOH — Paralegals and Legal Assistants",
+      "url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm"
+    },
+    {
+      "label": "LSAC — Law School Admission Council",
+      "url": "https://www.lsac.org/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "lw-explore",
+      "type": "node",
+      "label": "The Legal Landscape",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The legal field centers on attorneys but runs on many roles: paralegals and legal assistants doing substantive work, court reporters, mediators, compliance officers, and contract managers. Attorneys advise, advocate, and draft; everyone else makes the system run.",
+        "why": "Law school is expensive and years-long; the support-track roles deliver legal-adjacent careers in a fraction of the time. Knowing both routes early is the smartest legal-career decision.",
+        "learn": [
+          "Read BLS profiles of both lawyers and paralegals",
+          "List 6 legal-adjacent careers and their education costs",
+          "Note the key fork: attorney (JD + bar) vs support track (certificate + experience)",
+          "Reflect honestly: do you want to argue and advise, or organize and execute?"
+        ],
+        "skills": [
+          "Career exploration",
+          "Analytical thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Paralegals and Legal Assistants",
+            "url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-1011.00",
+          "23-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-courts",
+      "type": "node",
+      "label": "Courts & Law Sources",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "US law comes from constitutions, statutes, regulations, and case law (judicial precedent), applied through a court hierarchy: trial courts → appellate courts → supreme courts, with parallel federal and state systems.",
+        "why": "Every legal skill depends on knowing where rules come from and which court's decisions bind whom.",
+        "learn": [
+          "Draw the federal court structure (district → circuit → Supreme Court)",
+          "Distinguish statute vs regulation vs common law with examples",
+          "Explain binding vs persuasive precedent",
+          "Find your state's court system structure online"
+        ],
+        "skills": [
+          "Legal systems knowledge",
+          "Analytical reading"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Scholar — case law search",
+            "url": "https://scholar.google.com/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-day",
+      "type": "node",
+      "label": "What Lawyers Do",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Daily lawyer work is research, writing, advising, negotiating, and (for litigators) courtroom advocacy — heavily weighted toward documents and communication rather than courtroom drama.",
+        "why": "Aligning expectations with the real work prevents the most common law-school regret and helps you pick practice areas later.",
+        "learn": [
+          "Read O*NET's task list for lawyers",
+          "Interview or read day-in-the-life accounts from two practice areas",
+          "Note the split: research/writing vs people/negotiation",
+          "Check which tasks energize you"
+        ],
+        "skills": [
+          "Analytical thinking",
+          "Writing",
+          "Research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Lawyers",
+            "url": "https://www.onetonline.org/link/summary/23-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-1011.00"
+        ],
+        "tasks": [
+          "Advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations."
+        ]
+      }
+    },
+    {
+      "id": "lw-paralegal",
+      "type": "node",
+      "label": "The Paralegal Role",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Paralegals and legal assistants do substantive legal work under attorney supervision: research, drafting documents, managing cases and evidence, filing, and client coordination. They cannot give legal advice or represent clients.",
+        "why": "It is a fast, affordable route into legal work — and the strongest paralegals often become the operational backbone of firms and legal departments.",
+        "learn": [
+          "Read the BLS paralegal profile fully",
+          "Note typical education: associate or bachelor's, or ABA-approved paralegal programs",
+          "Understand the boundary: what paralegals may not do (unauthorized practice of law)",
+          "Sample 10 paralegal job postings for required skills"
+        ],
+        "skills": [
+          "Legal research",
+          "Organization",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Paralegals and Legal Assistants",
+            "url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Paralegals and Legal Assistants",
+            "url": "https://www.onetonline.org/link/summary/23-2011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-2011.00"
+        ],
+        "tasks": [
+          "Assist lawyers by investigating facts, preparing legal documents, or researching legal precedent."
+        ]
+      }
+    },
+    {
+      "id": "lw-reading",
+      "type": "node",
+      "label": "Reading Cases",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Case reading is a skill: identify the facts, the legal issue, the holding, the reasoning, and the disposition. Briefing cases in a consistent format builds the habit.",
+        "why": "Every law school class and every paralegal research task starts here. Reading cases slowly and structurally is the fastest way to sound like a legal thinker.",
+        "learn": [
+          "Learn the case-brief format: facts, issue, holding, reasoning, disposition",
+          "Brief 5 landmark cases available via Google Scholar",
+          "Practice extracting the rule a case stands for in one sentence",
+          "Read one case twice: once for story, once for structure"
+        ],
+        "skills": [
+          "Legal reading",
+          "Critical thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Scholar — case law search",
+            "url": "https://scholar.google.com/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-irac",
+      "type": "node",
+      "label": "IRAC & Legal Writing",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "IRAC — Issue, Rule, Application, Conclusion — is the fundamental legal-analysis structure, used in exam answers, memos, and briefs. Legal writing prizes precision, signposting, and plain organization.",
+        "why": "IRAC is how law school exams are graded and how office memos are judged. Mastering it before school is a genuine head start.",
+        "learn": [
+          "Write a 1-page IRAC analysis of a simple scenario",
+          "Convert a rambling paragraph into a rule statement + application",
+          "Practice office-memo headers: question presented, short answer, facts, analysis",
+          "Edit your own writing: cut every unnecessary word"
+        ],
+        "skills": [
+          "Legal writing",
+          "Structured analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-research",
+      "type": "node",
+      "label": "Legal Research",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Legal research finds controlling authority: statutes and codes first, then cases interpreting them, checked for good law. Free tools (Google Scholar, court sites, government code sites) go far; Westlaw/Lexis are the professional standards.",
+        "why": "Research is the core deliverable paralegals and junior attorneys produce. Fluent research = immediate value in any legal job.",
+        "learn": [
+          "Find your state's statutes online and cite one correctly",
+          "Use Google Scholar's case law search with focused queries",
+          "Understand citators: checking a case is still good law",
+          "Build a research log template: question, source, finding"
+        ],
+        "skills": [
+          "Legal research",
+          "Information literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google Scholar — case law search",
+            "url": "https://scholar.google.com/",
+            "kind": "tool"
+          }
+        ],
+        "roles": [
+          "23-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-undergrad",
+      "type": "node",
+      "label": "Undergrad & GPA",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Law schools accept any major; GPA and LSAT dominate admissions. Philosophy, history, economics, political science, and English are common — but rigorous work in anything counts.",
+        "why": "Your GPA is locked in before applications; choosing courses and effort strategically from day one matters more than the major's name.",
+        "learn": [
+          "Check admissions medians (GPA/LSAT) at 5 schools you'd target",
+          "Choose a major you can ace, plus writing-heavy courses",
+          "Build relationships with 2 professors for letters",
+          "Avoid GPA-damaging course loads during application years"
+        ],
+        "skills": [
+          "Academic planning",
+          "Writing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "LSAC — Law School Admission Council",
+            "url": "https://www.lsac.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-lsat",
+      "type": "node",
+      "label": "LSAT Prep",
+      "variant": "accent",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The LSAT (administered by LSAC) tests logical reasoning, analytical reading, and argument analysis. It is learnable: most successful candidates treat preparation as a months-long skill-building project, not a one-off test.",
+        "why": "A strong LSAT is the single biggest lever for admissions and scholarships — often worth more than tens of thousands in tuition discounts.",
+        "learn": [
+          "Take a free official practice test for a baseline",
+          "Study logical reasoning fundamentals daily for 8–12 weeks",
+          "Take 6+ timed practice tests under real conditions",
+          "Research whether your target schools also accept the GRE"
+        ],
+        "skills": [
+          "Logical reasoning",
+          "Exam preparation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "LSAC — LSAT",
+            "url": "https://www.lsac.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-apps",
+      "type": "node",
+      "label": "Applications & Statement",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Applications combine LSAC's credential assembly service, transcripts, LSAT score, letters of recommendation, a personal statement, and often an optional essay. Timing and authenticity matter.",
+        "why": "Applications are read in rolling cycles; early, complete, specific applications win admissions and money.",
+        "learn": [
+          "Draft a personal statement about a real experience, not 'why I love law'",
+          "Request letters from professors who know your work",
+          "Build a school list across reach/target/safety with realistic medians",
+          "Submit early in the cycle"
+        ],
+        "skills": [
+          "Persuasive writing",
+          "Planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "LSAC — Law School Admission Council",
+            "url": "https://www.lsac.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-1l",
+      "type": "node",
+      "label": "1L Core Curriculum",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The first year of the JD is largely fixed: contracts, torts, criminal law, civil procedure, constitutional law, property, and legal research & writing — taught mostly by final exam.",
+        "why": "1L grades set initial employment trajectories. Knowing the terrain (and that it's a marathon of reading) shapes how you pace the year.",
+        "learn": [
+          "Preview one subject with a popular introduction book",
+          "Build an outlining system from day one, not exam month",
+          "Form a study group with complementary strengths",
+          "Protect sleep and exercise — 1L burnout is real and measurable"
+        ],
+        "skills": [
+          "Discipline",
+          "Legal analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-method",
+      "type": "node",
+      "label": "Socratic Method",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Law teaching is dialogic: professors cold-call and push through layers of hypotheticals to expose assumptions. It is uncomfortable by design and harmless if prepared.",
+        "why": "Fear of the Socratic method drives much 1L anxiety. Understanding its purpose (training real-time reasoning) defuses it.",
+        "learn": [
+          "Prepare every case; being ready is 90% of confidence",
+          "Practice answering hypothetics aloud before class",
+          "Reframe wrong answers as the method working",
+          "Learn to say 'I don't know, but here's how I'd reason'"
+        ],
+        "skills": [
+          "Oral reasoning",
+          "Composure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-clinics",
+      "type": "node",
+      "label": "Clinics & Moot Court",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond classes, law schools offer practice experiences: legal clinics serving real clients, moot court and trial advocacy competitions, negotiation teams, and pro bono projects.",
+        "why": "These build the practical skills and stories employers actually interview on — and clarify which practice areas fit you.",
+        "learn": [
+          "Join one clinic or competition by 2L",
+          "Take a real client meeting in a clinic setting if possible",
+          "Compete once even if you lose — interviews ask about it",
+          "Document your matters for resume narratives"
+        ],
+        "skills": [
+          "Advocacy",
+          "Client interaction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-summer",
+      "type": "node",
+      "label": "Summer Internships",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Legal employers hire from summer programs: firm summer associate programs (the big-firm pipeline), government and judicial internships, public-interest placements, and in-house legal departments.",
+        "why": "Most post-graduation offers come from summer performance. Choosing the right summer — not just the most famous one — shapes your whole career.",
+        "learn": [
+          "Target 1L summer for experience (government/public interest often hire 1Ls)",
+          "Prepare for 2L firm interviews: OCI-style questions, writing samples",
+          "Learn what summer associates are actually evaluated on",
+          "Ask about conversion rates when comparing offers"
+        ],
+        "skills": [
+          "Professional networking",
+          "Legal work product"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-2l3l",
+      "type": "node",
+      "label": "2L/3L Specialization",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Upper years are elective-heavy: tax, corporate, IP-adjacent, family, criminal, environmental, immigration — chosen to build a coherent story toward your target practice.",
+        "why": "A deliberate specialization narrative (courses + clinic + summer + journal note) wins offers over a random transcript.",
+        "learn": [
+          "Pick a target practice area by end of 2L",
+          "Choose electives that build depth in it",
+          "Take at least one practical skills course (drafting, trial advocacy)",
+          "Keep one breadth area as a fallback"
+        ],
+        "skills": [
+          "Strategic planning",
+          "Subject depth"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-journal",
+      "type": "node",
+      "label": "Law Review & Journals",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Law journals select members through writing competitions or grades, then train members in citation checking (Bluebook) and scholarly writing — a credential weighted heavily for clerkships and academia.",
+        "why": "Journal membership is a strong signal for judicial clerkships and some elite employers, but it costs serious time — choose based on your goals.",
+        "learn": [
+          "Weigh journal time against clinic time for your goals",
+          "Try the write-on competition if you're interested",
+          "Learn Bluebook citation basics either way",
+          "Publish one student note if you join"
+        ],
+        "skills": [
+          "Scholarly writing",
+          "Citation discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-clerkship",
+      "type": "node",
+      "label": "Judicial Clerkships",
+      "variant": "muted",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Judicial clerkships are 1–2 year positions working directly for a judge — researching, drafting, and observing advocacy at close range. They are prestigious accelerators for litigation careers.",
+        "why": "Clerkships open doors across litigation, academia, and appellate practice; applications run early and favor journal experience and strong writing.",
+        "learn": [
+          "Learn the application timeline (starts surprisingly early)",
+          "Talk to a clerk about the real work",
+          "Weigh clerkship vs immediate firm start for your goals",
+          "Note state and federal tiers and their different selects"
+        ],
+        "skills": [
+          "Writing",
+          "Judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-bar",
+      "type": "node",
+      "label": "Bar Exam & MPRE",
+      "variant": "accent",
+      "x": 60,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Bar admission requires passing the state bar exam — a multi-day test of essays, multiple choice (MBE), and performance tasks — plus the MPRE professional-responsibility exam in most jurisdictions.",
+        "why": "The bar is the profession's gate. Treat it as a 10-week structured study project immediately after graduation.",
+        "learn": [
+          "Check your jurisdiction's exam components and cut scores",
+          "Complete a commercial bar-prep course on schedule",
+          "Practice essays and MBE questions daily for 8–10 weeks",
+          "Register for the MPRE early (separate exam)"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Endurance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "LSAC — Law School Admission Council",
+            "url": "https://www.lsac.org/",
+            "kind": "guide"
+          },
+          {
+            "title": "American Bar Association — legal education",
+            "url": "https://www.americanbar.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-admission",
+      "type": "node",
+      "label": "Character & Fitness",
+      "x": 340,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Before licensure, bar applicants undergo character-and-fitness review: background checks, disclosure of past conduct (academic, financial, criminal), and interviews. Honesty — not perfection — is the standard.",
+        "why": "Nondisclosure, not the underlying incident, is what most often derails admissions. Understanding this early prevents panicked mistakes.",
+        "learn": [
+          "Review your jurisdiction's character-and-fitness questionnaire early",
+          "Disclose everything relevant, with context and evidence",
+          "Gather documentation for any past incidents",
+          "Keep records consistent between school, applications, and bar"
+        ],
+        "skills": [
+          "Integrity",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Bar Association",
+            "url": "https://www.americanbar.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-litigation",
+      "type": "node",
+      "label": "Litigation Track",
+      "x": 620,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Litigators manage disputes through pleadings, discovery, depositions, motions, settlement, and trial. The work is adversarial, writing-heavy, deadline-intense, and public-record-oriented.",
+        "why": "Litigation is the classic 'lawyer' track; its skills (storytelling under rules, composure under fire) transfer to leadership everywhere.",
+        "learn": [
+          "Learn the civil litigation lifecycle end-to-end",
+          "Read one full public complaint and answer",
+          "Practice a mock deposition outline",
+          "Assess yourself: thrive on conflict and deadlines?"
+        ],
+        "skills": [
+          "Advocacy",
+          "Dispute analysis",
+          "Composure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Lawyers",
+            "url": "https://www.onetonline.org/link/summary/23-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-1011.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-transactional",
+      "type": "node",
+      "label": "Transactional Track",
+      "x": 900,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Transactional lawyers structure deals and relationships: contracts, corporate formations, financing, real estate, M&A support — preventing disputes rather than fighting them.",
+        "why": "Most business law is transactional. It suits builders and drafters, offers steadier hours than litigation, and scales into in-house careers.",
+        "learn": [
+          "Read a simple services agreement clause-by-clause",
+          "Learn the lifecycle: term sheet → drafting → negotiation → signing → closing",
+          "Practice spotting missing terms (termination? liability? IP?)",
+          "Compare your temperament: prevention vs combat"
+        ],
+        "skills": [
+          "Drafting",
+          "Deal structuring",
+          "Risk assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Lawyers",
+            "url": "https://www.onetonline.org/link/summary/23-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-1011.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-areas",
+      "type": "node",
+      "label": "Practice Areas",
+      "x": 60,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Practice spans family, criminal (defense and prosecution), employment, personal injury, immigration, estate planning, environmental, health, and public interest — each with distinct clients, economics, and lifestyles.",
+        "why": "Choosing an area is choosing a daily life. Early exposure (clinics, internships) is worth more than reputation guessing.",
+        "learn": [
+          "Sample 4 areas through clinics or shadowing",
+          "Note client type: individuals vs companies vs government",
+          "Check area-specific market reality in your region",
+          "Reassess after each experience — fit beats prestige"
+        ],
+        "skills": [
+          "Career planning",
+          "Client-type awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Bar Association",
+            "url": "https://www.americanbar.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-ethics",
+      "type": "node",
+      "label": "Legal Ethics",
+      "x": 340,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Professional responsibility governs lawyers: client confidentiality, conflicts of interest, competence, candor to courts, safekeeping client funds, and advertising rules — codified in the ABA Model Rules as adopted by states.",
+        "why": "Ethics is examined (MPRE), practiced daily, and enforced by discipline systems. Ethical instincts are part of the job from day one.",
+        "learn": [
+          "Learn the duty of confidentiality and its exceptions",
+          "Understand conflicts of interest and screening",
+          "Know the trust-account rules at a high level",
+          "Work through 10 disciplinary hypotheticals"
+        ],
+        "skills": [
+          "Ethics",
+          "Judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Bar Association",
+            "url": "https://www.americanbar.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-clients",
+      "type": "node",
+      "label": "Client Development",
+      "x": 620,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Private practice careers depend on developing clients: responsiveness, clear communication, referral networks, community presence, and reputation for results — skills rarely taught in law school.",
+        "why": "The rainmaker divide defines firm careers. Building client-facing habits early compounds for decades.",
+        "learn": [
+          "Practice plain-language explanations of legal issues",
+          "Join one professional association and actually attend",
+          "Ask every satisfied contact for referrals and testimonials",
+          "Write or speak publicly on your practice area"
+        ],
+        "skills": [
+          "Client communication",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-paralegalpath",
+      "type": "node",
+      "label": "Paralegal Path & NALA",
+      "variant": "accent",
+      "x": 60,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The paralegal route: an associate/bachelor's or ABA-approved paralegal program, then certification — most notably the NALA Certified Paralegal (CP) — plus specialization (litigation, corporate, real estate, IP support).",
+        "why": "Certified, experienced paralegals are consistently in demand, can specialize deeply, and often out-earn many bachelor's-only careers — with a fraction of law school's cost.",
+        "learn": [
+          "Compare ABA-approved paralegal programs vs certificates",
+          "Review NALA CP eligibility (education route) and exam sections",
+          "Pick a specialization matching your market (litigation support is the classic)",
+          "Target e-discovery and research skills — they're the growth engines"
+        ],
+        "skills": [
+          "Legal research",
+          "Case management"
+        ],
+        "certs": [
+          {
+            "name": "Certified Paralegal (CP)",
+            "issuer": "NALA — Paralegal Association",
+            "note": "Pass NALA's CP examination (education/eligibility requirements apply); advanced tiers exist (CP with specialization exams)."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NALA — Paralegal certification",
+            "url": "https://www.nala.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "BLS OOH — Paralegals and Legal Assistants",
+            "url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-2011.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-mediation",
+      "type": "node",
+      "label": "Mediation & ADR",
+      "x": 340,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Alternative dispute resolution — mediation, arbitration, and ombuds work — resolves disputes outside court. Mediator training ranges from short courses (community mediation) to advanced credentials; O*NET lists arbitrators, mediators, and conciliators as a distinct occupation.",
+        "why": "ADR is growing as courts backlog; it rewards the same listening and reframing skills as therapy, without requiring clinical licensure.",
+        "learn": [
+          "Complete a basic mediation training (40 hours is a common standard)",
+          "Observe community mediations where allowed",
+          "Understand arbitration vs mediation vs conciliation",
+          "Check your state's court-connected mediator rosters and requirements"
+        ],
+        "skills": [
+          "Facilitation",
+          "Impartiality",
+          "Conflict resolution"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Arbitrators, Mediators, and Conciliators",
+            "url": "https://www.onetonline.org/link/summary/23-1021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-1021.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-compliance",
+      "type": "node",
+      "label": "Compliance & Contracts",
+      "x": 620,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Compliance officers and contract managers apply legal frameworks inside organizations: regulatory monitoring, policies, training, audits, and contract lifecycle management — legal-adjacent roles that rarely require a JD.",
+        "why": "Compliance is one of the largest legal-adjacent job families, hiring from business, healthcare, and finance backgrounds into well-paying careers.",
+        "learn": [
+          "Map the compliance function in one regulated industry",
+          "Learn contract lifecycle stages: request → draft → negotiate → manage → renew",
+          "Take a compliance fundamentals course",
+          "Note certifications exist (e.g., through compliance professional bodies) for later"
+        ],
+        "skills": [
+          "Regulatory knowledge",
+          "Contract management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-career",
+      "type": "node",
+      "label": "Legal Career Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Attorney careers branch: law-firm associate → partner or counsel of-lead; government (prosecutor, public defender, agency counsel); in-house counsel inside companies; public interest; judiciary. Paralegal careers branch into senior specialist, manager, and operations roles.",
+        "why": "Each branch trades money against autonomy, stability, and mission differently. Map them before locking your specialization.",
+        "learn": [
+          "Sketch the 5 attorney branches with typical trade-offs",
+          "Compare firm vs government vs in-house daily realities",
+          "Identify which branch your strengths and values fit",
+          "Set a 10-year sketch, not a contract"
+        ],
+        "skills": [
+          "Career planning",
+          "Strategic trade-off analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "23-1011.00"
+        ]
+      }
+    },
+    {
+      "id": "lw-debt",
+      "type": "node",
+      "label": "Costs & Debt Reality",
+      "variant": "muted",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Law school is a major investment — tuition plus living costs across three years, against salary distributions that vary enormously by school rank, region, and practice type. Loan-repayment programs exist for public-interest work.",
+        "why": "Debt shapes career freedom: heavy debt pushes graduates toward whatever pays, not what fits. Model the numbers before enrolling, not after.",
+        "learn": [
+          "Compute total cost of attendance for 3 target schools",
+          "Compare graduate salary distributions honestly (not medians only)",
+          "Research loan repayment assistance programs (LRAPs)",
+          "Scholarships are negotiated — ask, with offers in hand"
+        ],
+        "skills": [
+          "Financial planning",
+          "Loan literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "LSAC — Law School Admission Council",
+            "url": "https://www.lsac.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-firstjob",
+      "type": "node",
+      "label": "First Job Strategies",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "First legal jobs come from summer conversion, OCI (on-campus interviews), judicial clerkships, government hiring, small-firm outreach, and networking — with writing samples and references doing heavy lifting.",
+        "why": "Your first employer sets your training floor. A firm that lets juniors draft and argue beats a prestigious one where you babysit documents.",
+        "learn": [
+          "Prepare a polished writing sample (brief or memo)",
+          "Do informational interviews across 3 settings",
+          "Target employers by training quality, not only name",
+          "Negotiate for feedback structures, not just salary"
+        ],
+        "skills": [
+          "Job search strategy",
+          "Interviewing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Lawyers",
+            "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-intl",
+      "type": "node",
+      "label": "Intl: LLB & SQE",
+      "variant": "muted",
+      "x": 60,
+      "y": 1290,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Other jurisdictions train lawyers differently: the UK's LLB undergraduate law degree followed by the Solicitors Qualifying Examination (SQE) or the bar course; civil-law countries' integrated legal education; Canada's combined law-school and articling system.",
+        "why": "Global mobility in law is real but rule-heavy: qualification does not transfer automatically. Knowing the map matters for internationally mobile careers.",
+        "learn": [
+          "Note the UK route: LLB → SQE (solicitors) or bar course (barristers)",
+          "Understand civil-law vs common-law training divides",
+          "Research qualification recognition if you plan to move",
+          "Compare costs: LLB-inclusive routes vs US JD economics"
+        ],
+        "skills": [
+          "International awareness",
+          "Comparative analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Bar Association",
+            "url": "https://www.americanbar.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-wellbeing",
+      "type": "node",
+      "label": "Wellbeing & Workload",
+      "variant": "muted",
+      "x": 340,
+      "y": 1290,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Legal work carries elevated stress, long hours in some settings, and secondary trauma in criminal and family practice. Sustainable careers come from setting selection (firm vs government vs in-house), boundaries, and peer support.",
+        "why": "The profession's wellbeing problem is well documented. Choosing your setting with workload realism is a career-long advantage, not a weakness.",
+        "learn": [
+          "Compare real hours by setting before choosing",
+          "Learn the profession's wellbeing resources (bar associations run many)",
+          "Build peer-support habits during school",
+          "Treat workload data as due diligence in job choices"
+        ],
+        "skills": [
+          "Stress management",
+          "Boundaries"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "American Bar Association",
+            "url": "https://www.americanbar.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "lw-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "lw-g-prelaw",
+      "type": "group",
+      "label": "PRE-LAW SKILLS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "lw-g-school",
+      "type": "group",
+      "label": "LAW SCHOOL",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "lw-g-practice",
+      "type": "group",
+      "label": "BAR & PRACTICE",
+      "x": 36,
+      "y": 700,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "lw-g-alt",
+      "type": "group",
+      "label": "ALTERNATIVE LEGAL TRACKS",
+      "x": 36,
+      "y": 970,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "lw-g-career",
+      "type": "group",
+      "label": "CAREER & REALITIES",
+      "x": 36,
+      "y": 1130,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "lw-explore",
+      "to": "lw-courts"
+    },
+    {
+      "from": "lw-explore",
+      "to": "lw-day"
+    },
+    {
+      "from": "lw-explore",
+      "to": "lw-paralegal",
+      "dashed": true
+    },
+    {
+      "from": "lw-courts",
+      "to": "lw-reading"
+    },
+    {
+      "from": "lw-reading",
+      "to": "lw-irac"
+    },
+    {
+      "from": "lw-irac",
+      "to": "lw-research"
+    },
+    {
+      "from": "lw-day",
+      "to": "lw-undergrad",
+      "dashed": true
+    },
+    {
+      "from": "lw-undergrad",
+      "to": "lw-lsat"
+    },
+    {
+      "from": "lw-lsat",
+      "to": "lw-apps"
+    },
+    {
+      "from": "lw-apps",
+      "to": "lw-1l"
+    },
+    {
+      "from": "lw-1l",
+      "to": "lw-method"
+    },
+    {
+      "from": "lw-method",
+      "to": "lw-clinics"
+    },
+    {
+      "from": "lw-clinics",
+      "to": "lw-summer"
+    },
+    {
+      "from": "lw-summer",
+      "to": "lw-2l3l"
+    },
+    {
+      "from": "lw-2l3l",
+      "to": "lw-journal",
+      "dashed": true
+    },
+    {
+      "from": "lw-journal",
+      "to": "lw-clerkship",
+      "dashed": true
+    },
+    {
+      "from": "lw-2l3l",
+      "to": "lw-bar"
+    },
+    {
+      "from": "lw-bar",
+      "to": "lw-admission"
+    },
+    {
+      "from": "lw-admission",
+      "to": "lw-litigation",
+      "dashed": true
+    },
+    {
+      "from": "lw-admission",
+      "to": "lw-transactional",
+      "dashed": true
+    },
+    {
+      "from": "lw-litigation",
+      "to": "lw-areas"
+    },
+    {
+      "from": "lw-transactional",
+      "to": "lw-areas",
+      "dashed": true
+    },
+    {
+      "from": "lw-areas",
+      "to": "lw-ethics"
+    },
+    {
+      "from": "lw-ethics",
+      "to": "lw-clients"
+    },
+    {
+      "from": "lw-paralegal",
+      "to": "lw-paralegalpath"
+    },
+    {
+      "from": "lw-paralegal",
+      "to": "lw-compliance",
+      "dashed": true
+    },
+    {
+      "from": "lw-reading",
+      "to": "lw-paralegalpath",
+      "dashed": true
+    },
+    {
+      "from": "lw-mediation",
+      "to": "lw-areas",
+      "dashed": true
+    },
+    {
+      "from": "lw-explore",
+      "to": "lw-mediation",
+      "dashed": true
+    },
+    {
+      "from": "lw-clients",
+      "to": "lw-career"
+    },
+    {
+      "from": "lw-paralegalpath",
+      "to": "lw-career",
+      "dashed": true
+    },
+    {
+      "from": "lw-compliance",
+      "to": "lw-career",
+      "dashed": true
+    },
+    {
+      "from": "lw-career",
+      "to": "lw-firstjob",
+      "dashed": true
+    },
+    {
+      "from": "lw-career",
+      "to": "lw-debt",
+      "dashed": true
+    },
+    {
+      "from": "lw-career",
+      "to": "lw-intl",
+      "dashed": true
+    },
+    {
+      "from": "lw-career",
+      "to": "lw-wellbeing",
+      "dashed": true
+    }
+  ]
+}

@@ -1,0 +1,1322 @@
+{
+  "slug": "hr",
+  "title": "Human Resources",
+  "tagline": "Hire, develop, and support people — from recruiting fundamentals to strategic HR business partnering.",
+  "summary": "Human Resources turns organizational strategy into hiring, pay, development, and culture. This roadmap walks the full employee lifecycle: employment law, talent acquisition, compensation and benefits, performance and learning, employee relations, people analytics, and the certifications (SHRM-CP, PHR/SPHR) that mark professional credibility.",
+  "category": "People & Organizations",
+  "color": "#c084fc",
+  "icon": "users",
+  "onetRoles": [
+    "13-1071.00",
+    "11-3121.00",
+    "13-1075.00",
+    "43-4161.00"
+  ],
+  "jelCodes": [
+    "M12",
+    "M51"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Human Resources Specialists (13-1071.00)",
+      "url": "https://www.onetonline.org/link/summary/13-1071.00"
+    },
+    {
+      "label": "BLS OOH — Human Resources Specialists",
+      "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm"
+    },
+    {
+      "label": "SHRM — Certifications",
+      "url": "https://www.shrm.org/credentials/certification"
+    },
+    {
+      "label": "HRCI — Certifications",
+      "url": "https://www.hrci.org/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "hr-overview",
+      "type": "node",
+      "label": "What HR Does",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HR acquires, develops, and retains an organization's workforce, and administers the systems (pay, benefits, compliance) that make employment possible. Core functions: talent acquisition, total rewards, learning, employee relations, and HR operations.",
+        "why": "Every company employs people, so HR exists in every industry — and modern HR increasingly works with data and business strategy rather than paperwork alone.",
+        "learn": [
+          "Read the BLS profile of HR specialists and the O*NET task list",
+          "Name the six core HR functions and what each owns",
+          "Follow 2–3 HR thought leaders or publications for a month",
+          "Interview (informally) one HR practitioner about their week"
+        ],
+        "skills": [
+          "Active Listening",
+          "Communication",
+          "Discretion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Human Resources Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Human Resources Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ],
+        "tasks": [
+          "Administer compensation, benefits, and performance management systems, and safety and recreation programs."
+        ]
+      }
+    },
+    {
+      "id": "hr-lifecycle",
+      "type": "node",
+      "label": "The Employee Lifecycle",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The employee lifecycle is HR's organizing model: attract → recruit → onboard → develop → perform → retain (or exit). Each stage has its own programs, metrics, and risks.",
+        "why": "Nearly every HR role owns one or two lifecycle stages. Knowing the whole map helps you see how your work connects to retention and business outcomes.",
+        "learn": [
+          "Diagram the lifecycle stages and one HR program per stage",
+          "Define turnover, retention, and time-to-fill",
+          "Identify where employee experience breaks most often (onboarding, manager quality)",
+          "Sketch the HR org chart of a 500-person company"
+        ],
+        "skills": [
+          "Organizational awareness",
+          "Systems thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — HR topics",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-law",
+      "type": "node",
+      "label": "Employment Law Basics",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HR practice operates inside employment law. In the US the essentials are anti-discrimination law (Title VII, enforced by the EEOC), disability accommodation (ADA), wage and hour rules (FLSA), and unpaid family leave (FMLA).",
+        "why": "Legal literacy protects employees and employers alike. Most HR mistakes — misclassification, discriminatory screening, retaliation — are law failures, not process failures.",
+        "learn": [
+          "Summarize what Title VII prohibits and who enforces it",
+          "Explain ADA reasonable accommodation with an example",
+          "Distinguish exempt vs non-exempt employees under FLSA",
+          "Read the DOL FMLA guide and list employee eligibility criteria",
+          "Note that other countries have their own frameworks (e.g., UK employment law, EU directives)"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Legal awareness",
+          "Judgment and Decision Making"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "EEOC — Laws enforced by EEOC",
+            "url": "https://www.eeoc.gov/laws",
+            "kind": "guide"
+          },
+          {
+            "title": "US DOL — Wage and Hour Division (FLSA)",
+            "url": "https://www.dol.gov/agencies/whd/flsa",
+            "kind": "guide"
+          },
+          {
+            "title": "US DOL — FMLA",
+            "url": "https://www.dol.gov/agencies/whd/fmla",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-ethics",
+      "type": "node",
+      "label": "Ethics & Confidentiality",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HR handles the most sensitive data an organization has — salaries, health information, investigations, complaints — and must handle it with strict confidentiality and impartiality.",
+        "why": "Trust is HR's operating license. One leak or biased process can destroy employee confidence and create legal exposure.",
+        "learn": [
+          "Read the SHRM Code of Ethical and Professional Standards",
+          "Learn which records require special handling (medical files, background checks)",
+          "Practice the 'need to know' test for sharing employee information",
+          "Understand conflicts of interest in hiring and promotion"
+        ],
+        "skills": [
+          "Ethics",
+          "Integrity",
+          "Information confidentiality"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Code of Ethics",
+            "url": "https://www.shrm.org/about-shrm/pages/code-of-ethics.aspx",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-wfp",
+      "type": "node",
+      "label": "Workforce Planning",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Workforce planning forecasts how many people, with which skills, the business will need — then builds hiring and development plans to close the gap.",
+        "why": "Recruiting without a plan produces reactive hiring. Planners connect headcount to strategy, which is why this is often the recruiter's first conversation with leadership.",
+        "learn": [
+          "Build a simple headcount plan: current state, attrition, demand, gap",
+          "Define an ICP (ideal candidate profile) for one role",
+          "Model attrition using historical turnover rates",
+          "Distinguish build vs buy vs borrow (hire vs train vs contract)"
+        ],
+        "skills": [
+          "Strategic planning",
+          "Forecasting",
+          "Analytical thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Workforce planning resources",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-sourcing",
+      "type": "node",
+      "label": "Sourcing Candidates",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sourcing is proactively finding and engaging candidates: job postings, talent pools, referrals, and direct outreach rather than waiting for applications.",
+        "why": "Hard-to-fill roles are won at the sourcing stage. Sourcing skill (writing outreach, boolean search, candidate experience) is the most measurable recruiter capability.",
+        "learn": [
+          "Write a job posting that avoids biased or exclusionary language",
+          "Draft three outreach messages with different personalization angles",
+          "Understand boolean search strings for candidate discovery",
+          "Track response rates and iterate on your message"
+        ],
+        "skills": [
+          "Communication",
+          "Persuasion",
+          "Candidate assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Human Resources Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ],
+        "tasks": [
+          "Recruit, interview, select, and hire employees to fill vacant positions."
+        ]
+      }
+    },
+    {
+      "id": "hr-interview",
+      "type": "node",
+      "label": "Structured Interviewing",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Structured interviews ask all candidates the same job-related questions with predefined scoring rubrics. They are substantially more predictive and fairer than unstructured conversations.",
+        "why": "Poor selection is the most expensive HR mistake. Structured interviewing is the single highest-leverage skill in hiring quality.",
+        "learn": [
+          "Convert a job description into 6 behavioral interview questions",
+          "Build a 1–5 scoring rubric anchored with examples",
+          "Practice the STAR follow-up probe ('what did you specifically do?')",
+          "Run a mock interview and calibrate scores with a partner"
+        ],
+        "skills": [
+          "Candidate assessment",
+          "Active Listening",
+          "Judgment and Decision Making"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Interviewing resources",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-ats",
+      "type": "node",
+      "label": "ATS & Recruiting Ops",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Applicant tracking systems (Workday, Greenhouse, iCIMS, and peers) manage requisitions, pipelines, and candidate communication; recruiting ops keeps the process measurable and compliant.",
+        "why": "Virtually every corporate HR job touches an ATS daily. Process hygiene here determines whether the data used for people analytics is trustworthy.",
+        "learn": [
+          "Map a requisition's journey through an ATS from request to offer",
+          "Define funnel metrics: applications, screens, onsite, offer, accept",
+          "Understand data privacy obligations for candidate records",
+          "Explore one free tier of an ATS or CRM in demo mode"
+        ],
+        "skills": [
+          "Recruitment software",
+          "Process management",
+          "Data hygiene"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Greenhouse — Resources",
+            "url": "https://www.greenhouse.com/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-onboard",
+      "type": "node",
+      "label": "Onboarding",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Onboarding integrates a new hire into role, team, and culture over the first 90 days: paperwork and systems, plus the human experience of belonging and early wins.",
+        "why": "New hires decide whether to stay within their first months. Strong onboarding measurably improves time-to-productivity and retention.",
+        "learn": [
+          "Design a 30/60/90-day onboarding plan for one role",
+          "Separate onboarding (integration) from orientation (paperwork)",
+          "Define success metrics: time-to-first-contribution, 90-day retention",
+          "Collect onboarding feedback and iterate"
+        ],
+        "skills": [
+          "Program design",
+          "Coordination",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Onboarding resources",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "43-4161.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-brand",
+      "type": "node",
+      "label": "Employer Branding",
+      "variant": "muted",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Employer branding is how the organization is perceived as a place to work — careers site, employee stories, review sites, and candidate communication all shape it.",
+        "why": "Candidates research employers before applying. Brand work lowers cost-per-hire and is the bridge between HR and marketing skills.",
+        "learn": [
+          "Audit one company's presence on a major employer-review site",
+          "Draft employee story guidelines that stay authentic",
+          "Understand how Glassdoor-style reviews affect applications",
+          "Write a careers-page value proposition for one role"
+        ],
+        "skills": [
+          "Brand management",
+          "Content communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Human Resources Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-comp",
+      "type": "node",
+      "label": "Compensation Design",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Compensation design sets pay philosophy and structures: job architecture, salary bands and ranges, market benchmarking, and pay-equity analysis.",
+        "why": "Pay is both the largest controllable expense and the most emotional employee topic. Fair, explainable pay structures prevent both attrition and lawsuits.",
+        "learn": [
+          "Explain how salary bands, midpoints, and compa-ratios work",
+          "Benchmark one role using published salary survey data",
+          "Understand pay-equity analysis basics (controlling for role and tenure)",
+          "Design a merit-increase matrix linking performance and position-in-range"
+        ],
+        "skills": [
+          "Compensation analysis",
+          "Quantitative analysis",
+          "Equity awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Compensation resources",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS — Occupational Employment and Wage Statistics",
+            "url": "https://www.bls.gov/oes/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-benefits",
+      "type": "node",
+      "label": "Benefits & Total Rewards",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Total rewards bundles salary with health insurance, retirement plans, leave, wellbeing programs, and perks. Benefits administration covers enrollment, carriers, compliance, and communication.",
+        "why": "Benefits are a large share of total cost and a top driver of satisfaction; open-enrollment seasons are HR ops at their most intense.",
+        "learn": [
+          "List the core benefits stack (medical, retirement, leave) and who bears cost",
+          "Explain how a 401(k)-style match works",
+          "Compute total rewards value for a sample offer letter",
+          "Draft an open-enrollment communication plan"
+        ],
+        "skills": [
+          "Benefits administration",
+          "Communication",
+          "Vendor management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Compensation, Benefits, and Job Analysis Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/compensation-benefits-and-job-analysis-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-perf",
+      "type": "node",
+      "label": "Performance Management",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Performance management aligns individual work to goals and gives feedback: goal-setting (OKRs or SMART goals), check-ins, ratings (or ratings-free models), calibration, and improvement plans.",
+        "why": "Managers live in this system daily. HR designs it — badly designed performance systems are a leading cause of attrition and lawsuits.",
+        "learn": [
+          "Write a SMART goal and an OKR and explain when each fits",
+          "Practice delivering development-oriented feedback (SBI model)",
+          "Explain calibration and why it exists",
+          "Outline the steps of a fair performance improvement plan"
+        ],
+        "skills": [
+          "Performance management",
+          "Coaching",
+          "Feedback delivery"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Performance management",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-ld",
+      "type": "node",
+      "label": "Learning & Development",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "L&D builds the skills the organization needs: training needs analysis, program design, facilitation, learning platforms, and measuring behavior change rather than attendance.",
+        "why": "Development is a top reason people stay. L&D roles span instructional design, facilitation, and talent development strategy.",
+        "learn": [
+          "Run a training needs analysis for one team",
+          "Apply adult-learning principles (relevance, practice, feedback) to a workshop plan",
+          "Design a 60-minute session with an activity and assessment",
+          "Define learning KPIs beyond completion rates"
+        ],
+        "skills": [
+          "Training and development",
+          "Instructional design",
+          "Facilitation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ATD — Association for Talent Development",
+            "url": "https://www.td.org/",
+            "kind": "community"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-frameworks",
+      "type": "node",
+      "label": "Career Frameworks",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Career frameworks (levels, expectations, promotion criteria) make growth legible: what distinguishes a junior from a senior, and what evidence a promotion requires.",
+        "why": "Ambiguity about advancement drives departures. Frameworks are also the backbone of fair pay decisions.",
+        "learn": [
+          "Draft a 4-level career ladder for one function",
+          "Separate scope, autonomy, and impact as promotion signals",
+          "Understand how frameworks connect to compensation bands",
+          "Calibrate two sample promotion cases against your ladder"
+        ],
+        "skills": [
+          "Job architecture",
+          "Talent management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Career pathing",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-engage",
+      "type": "node",
+      "label": "Employee Engagement",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Engagement work measures and improves how committed people feel: surveys, listening sessions, manager enablement, and acting visibly on results.",
+        "why": "Engagement predicts retention and productivity — but only when results trigger real change. 'Survey fatigue' comes from listening without action.",
+        "learn": [
+          "Design a 10-question engagement pulse survey",
+          "Interpret results by team and tenure slice",
+          "Run a listening session that produces 3 concrete actions",
+          "Close the loop: publish what you heard and what changes"
+        ],
+        "skills": [
+          "Survey design",
+          "Data interpretation",
+          "Change facilitation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Gallup — Employee engagement research",
+            "url": "https://www.gallup.com/workplace/236927/employee-engagement-drives-growth.aspx",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-er",
+      "type": "node",
+      "label": "Employee Relations",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Employee relations handles conflict, complaints, policy application, and discipline fairly and consistently — while keeping documentation that would stand up to legal scrutiny.",
+        "why": "ER is where HR earns (or loses) trust with employees and managers alike. It is also the highest legal-risk area of HR practice.",
+        "learn": [
+          "Practice documenting a performance conversation factually (what/when/who)",
+          "Learn progressive discipline steps and when they flex",
+          "Understand retaliation risk and how to avoid it",
+          "Draft a policy FAQ that managers can actually use"
+        ],
+        "skills": [
+          "Conflict resolution",
+          "Documentation",
+          "Employment law knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Labor Relations Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1075.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1075.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-invest",
+      "type": "node",
+      "label": "Workplace Investigations",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Investigations respond to complaints (harassment, discrimination, policy violations) with a defensible process: intake, planning, impartial interviews, evidence weighing, findings, and remediation.",
+        "why": "A flawed investigation can double the legal damage of the original incident. This is a specialist skill every HR generalist needs at working level.",
+        "learn": [
+          "Outline the 6 steps of a standard workplace investigation",
+          "Practice open-ended, non-leading interview questions",
+          "Understand credibility assessment factors",
+          "Write a findings summary that separates facts from conclusions"
+        ],
+        "skills": [
+          "Investigation technique",
+          "Impartiality",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "EEOC — Enforcement guidance on harassment",
+            "url": "https://www.eeoc.gov/laws/guidance",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-hris",
+      "type": "node",
+      "label": "HRIS & HR Tech",
+      "x": 900,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The HRIS (Workday, SAP SuccessFactors, BambooHR and peers) is the system of record for people data: org structure, jobs, pay, absence, and the integrations feeding payroll and analytics.",
+        "why": "HR operations careers are increasingly technical-adjacent: implementations, data quality, and system ownership are well-paid specializations.",
+        "learn": [
+          "Map HR processes to an HRIS module diagram (core, payroll, talent, analytics)",
+          "Understand how a new hire record flows from offer to payroll",
+          "Learn data-ownership rules: who can see what, and why",
+          "Trace one report from raw field to dashboard"
+        ],
+        "skills": [
+          "HRIS software",
+          "Data quality",
+          "Process mapping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — HR technology",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-analytics",
+      "type": "node",
+      "label": "People Analytics",
+      "x": 1180,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "People analytics turns HR data into decisions: turnover prediction, time-to-fill, cost-per-hire, engagement-response drivers, and headcount-cost modeling.",
+        "why": "Analytics is the fastest-growing HR skill. Leaders fund what they can measure, and HR earns a seat at the table by speaking in numbers.",
+        "learn": [
+          "Compute the core metrics: turnover rate, time-to-fill, cost-per-hire, absence rate",
+          "Build a monthly people dashboard in a spreadsheet",
+          "Run a simple attrition analysis by manager and tenure",
+          "Translate one metric into a recommendation with estimated impact"
+        ],
+        "skills": [
+          "Data analysis",
+          "Spreadsheet software",
+          "Storytelling with data"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Human Resources Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-compliance",
+      "type": "node",
+      "label": "Compliance & Records",
+      "x": 60,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Compliance operations covers required postings and notices, records retention, I-9-style right-to-work documentation (US), required training, and audit readiness.",
+        "why": "It is unglamorous, foundational HR ops work — and the fastest way for a newcomer to prove reliability.",
+        "learn": [
+          "List the records HR must retain and typical retention periods",
+          "Understand right-to-work verification basics (US I-9 or your jurisdiction's equivalent)",
+          "Build a compliance calendar for one year",
+          "Prepare a mock audit checklist for personnel files"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Records management",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "US DOL — Compliance assistance",
+            "url": "https://www.dol.gov/compliance",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "43-4161.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-orgdesign",
+      "type": "node",
+      "label": "Org Design",
+      "x": 340,
+      "y": 1020,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Org design decides how work is structured: spans and layers, centralization vs decentralization, team topology, and role clarity. Reorganizations are its visible output.",
+        "why": "Structure drives behavior. HR leaders who can diagnose and redesign structure shape the company more than any single policy can.",
+        "learn": [
+          "Analyze a real org chart for spans, layers, and overlaps",
+          "Compare functional, divisional, and matrix structures with trade-offs",
+          "Map a reorg's risks: morale, knowledge loss, reporting gaps",
+          "Draft a one-page design proposal with rationale"
+        ],
+        "skills": [
+          "Organizational design",
+          "Systems thinking",
+          "Strategic planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Organizational development",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3121.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-change",
+      "type": "node",
+      "label": "Change Management",
+      "x": 620,
+      "y": 1020,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Change management helps organizations adopt new systems, policies, or structures: stakeholder mapping, communication plans, resistance handling, and adoption measurement.",
+        "why": "Most HR initiatives fail at adoption, not design. Change skill multiplies the value of everything else on this map.",
+        "learn": [
+          "Stakeholder-map a change by influence and impact",
+          "Draft a communication plan: audience, message, channel, timing",
+          "Anticipate three resistance patterns and responses",
+          "Define adoption metrics for a policy rollout"
+        ],
+        "skills": [
+          "Change management",
+          "Stakeholder management",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Prosci — Change management resources",
+            "url": "https://www.prosci.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3121.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-hrbp",
+      "type": "node",
+      "label": "The HRBP Role",
+      "x": 900,
+      "y": 1020,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The HR Business Partner embeds with a business unit as its people strategist: diagnosing issues, coaching leaders, and bringing HR programs to bear on business problems.",
+        "why": "HRBP is the standard senior individual-contributor destination in HR — where analytics, ER, talent, and strategy converge.",
+        "learn": [
+          "Shadow or interview an HRBP about their week",
+          "Practice a business-partnering conversation: start from a business metric, not an HR program",
+          "Build a quarterly people plan for a fictional 80-person division",
+          "Know the classic HR operating model: shared services, centers of excellence, HRBPs"
+        ],
+        "skills": [
+          "Business partnering",
+          "Consulting skills",
+          "Influence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Human Resources Managers",
+            "url": "https://www.bls.gov/ooh/management/human-resources-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3121.00"
+        ],
+        "tasks": [
+          "Plan, direct, or coordinate human resources activities and staff of an organization."
+        ]
+      }
+    },
+    {
+      "id": "hr-career",
+      "type": "node",
+      "label": "HR Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 1180,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Typical progression: HR assistant/coordinator → HR specialist or recruiter → HR generalist → HR manager/HRBP → director → CHRO. Lateral moves into compensation, HRIS, ER, or L&D deepen the profile.",
+        "why": "HR rewards breadth plus one deep spike. Choosing your spike early (analytics, ER, talent) determines which certifications and roles make sense.",
+        "learn": [
+          "Map the ladder in your local market using real job postings",
+          "Pick your first specialization spike and justify it",
+          "Build a resume that quantifies HR outcomes (metrics, scale)",
+          "Join a local SHRM chapter or equivalent HR association"
+        ],
+        "skills": [
+          "Career planning",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Human Resources Managers",
+            "url": "https://www.bls.gov/ooh/management/human-resources-managers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Human Resources Managers",
+            "url": "https://www.onetonline.org/link/summary/11-3121.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-3121.00",
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-shrm",
+      "type": "node",
+      "label": "SHRM-CP / SHRM-SCP",
+      "x": 340,
+      "y": 1180,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The SHRM Certified Professional and Senior Certified Professional credentials (Society for Human Resource Management) test behavioral-competency and HR-knowledge application through scenario-based questions.",
+        "why": "SHRM-CP is the most recognized US-based HR certification and a common screen for generalist and manager roles.",
+        "learn": [
+          "Compare SHRM-CP eligibility (no/less experience) vs SHRM-SCP",
+          "Review the SHRM BASK (body of applied skills and knowledge)",
+          "Practice scenario questions — the exam is application-heavy",
+          "Check whether your market prefers SHRM or HRCI credentials"
+        ],
+        "skills": [
+          "HR knowledge",
+          "Behavioral competencies"
+        ],
+        "certs": [
+          {
+            "name": "SHRM-CP / SHRM-SCP",
+            "issuer": "Society for Human Resource Management (SHRM)",
+            "note": "Pass a scenario-based exam; eligibility depends on degree and years in an HR role for the senior level."
+          }
+        ],
+        "resources": [
+          {
+            "title": "SHRM — Certification",
+            "url": "https://www.shrm.org/credentials/certification",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-phr",
+      "type": "node",
+      "label": "PHR / SPHR (HRCI)",
+      "x": 620,
+      "y": 1180,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Professional in Human Resources and Senior PHR (HR Certification Institute) are the other major US certification family, weighting technical and operational HR knowledge, with SPHR oriented to strategy and policy.",
+        "why": "HRCI credentials remain widely respected, especially in operations-heavy and compliance-heavy organizations.",
+        "learn": [
+          "Review PHR vs SPHR eligibility (experience requirements differ)",
+          "Study the HRCI body of knowledge outline",
+          "Compare SHRM vs HRCI for your target roles",
+          "Plan a 3–4 month study schedule with practice exams"
+        ],
+        "skills": [
+          "HR knowledge",
+          "Regulatory compliance"
+        ],
+        "certs": [
+          {
+            "name": "PHR / SPHR",
+            "issuer": "HR Certification Institute (HRCI)",
+            "note": "Pass the exam; eligibility requires a combination of HR experience and education, with higher experience thresholds for the senior level."
+          }
+        ],
+        "resources": [
+          {
+            "title": "HRCI — Certifications",
+            "url": "https://www.hrci.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-aphr",
+      "type": "node",
+      "label": "aPHR (Entry)",
+      "x": 900,
+      "y": 1180,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Associate Professional in Human Resources (HRCI) is an entry-level credential with no required HR experience — designed for students and career changers proving foundational knowledge.",
+        "why": "For breaking into HR from another field, aPHR signals commitment on a thin resume; it is the only major HR cert with no experience prerequisite.",
+        "learn": [
+          "Review aPHR exam content areas",
+          "Use it as a study scaffold for HR fundamentals",
+          "Pair it with an internship, HR assistant role, or volunteer HR work",
+          "Decide an upgrade path (PHR or SHRM-CP) once employed"
+        ],
+        "skills": [
+          "HR fundamentals",
+          "Exam preparation"
+        ],
+        "certs": [
+          {
+            "name": "aPHR",
+            "issuer": "HR Certification Institute (HRCI)",
+            "note": "Pass the exam; no HR experience required — aimed at early-career and transitioning professionals."
+          }
+        ],
+        "resources": [
+          {
+            "title": "HRCI — aPHR",
+            "url": "https://www.hrci.org/our-programs/get-certified/aphr",
+            "kind": "certification"
+          }
+        ],
+        "roles": [
+          "43-4161.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-intl",
+      "type": "node",
+      "label": "Global & Intl HR",
+      "variant": "muted",
+      "x": 60,
+      "y": 1270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Multinational HR adds cross-border complexity: local labor law compliance, global mobility and visas, international payroll, and culturally adaptable policy.",
+        "why": "Remote work globalized even small companies' HR. Understanding jurisdiction differences is a differentiator for multinational roles.",
+        "learn": [
+          "Compare employment-at-will (US) with notice/consultation regimes elsewhere",
+          "Learn what an employer-of-record does",
+          "Follow one global-mobility topic (visas, remote-work tax risk)",
+          "Note that SHRM and HRCI both offer global certifications (GPHR, SHRM-CP works globally)"
+        ],
+        "skills": [
+          "Global HR knowledge",
+          "Cultural competence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SHRM — Global HR",
+            "url": "https://www.shrm.org/topics-tools",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "hr-specialize",
+      "type": "node",
+      "label": "HR Specializations",
+      "x": 340,
+      "y": 1270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Deep specialist tracks branch from generalist work: compensation & benefits, talent acquisition, employee relations/labor relations, L&D, HRIS/people analytics, and DEI program management.",
+        "why": "Specialists often out-earn generalists and are harder to replace. Your earlier nodes here tell you which spike fits your strengths.",
+        "learn": [
+          "Interview or read day-in-the-life accounts for two specializations",
+          "Check specialist job postings for required tools and certs",
+          "Take one small project in your chosen spike this quarter",
+          "Set a 12-month plan to reach specialist-level competence"
+        ],
+        "skills": [
+          "Specialized HR knowledge",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Labor Relations Specialists",
+            "url": "https://www.onetonline.org/link/summary/13-1075.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Compensation, Benefits, and Job Analysis Specialists",
+            "url": "https://www.bls.gov/ooh/business-and-financial/compensation-benefits-and-job-analysis-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1075.00",
+          "13-1071.00"
+        ]
+      }
+    },
+    {
+      "id": "hr-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "hr-g-ta",
+      "type": "group",
+      "label": "TALENT ACQUISITION",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hr-g-comp",
+      "type": "group",
+      "label": "COMPENSATION, PERFORMANCE & GROWTH",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hr-g-er",
+      "type": "group",
+      "label": "RELATIONS, OPERATIONS & ANALYTICS",
+      "x": 36,
+      "y": 700,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "hr-g-strategy",
+      "type": "group",
+      "label": "STRATEGIC HR",
+      "x": 36,
+      "y": 950,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "hr-g-career",
+      "type": "group",
+      "label": "CAREERS & CERTIFICATIONS",
+      "x": 36,
+      "y": 1110,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "hr-overview",
+      "to": "hr-lifecycle"
+    },
+    {
+      "from": "hr-overview",
+      "to": "hr-law"
+    },
+    {
+      "from": "hr-law",
+      "to": "hr-ethics"
+    },
+    {
+      "from": "hr-lifecycle",
+      "to": "hr-wfp"
+    },
+    {
+      "from": "hr-wfp",
+      "to": "hr-sourcing"
+    },
+    {
+      "from": "hr-sourcing",
+      "to": "hr-interview"
+    },
+    {
+      "from": "hr-interview",
+      "to": "hr-ats",
+      "dashed": true
+    },
+    {
+      "from": "hr-interview",
+      "to": "hr-onboard"
+    },
+    {
+      "from": "hr-sourcing",
+      "to": "hr-brand",
+      "dashed": true
+    },
+    {
+      "from": "hr-law",
+      "to": "hr-comp"
+    },
+    {
+      "from": "hr-comp",
+      "to": "hr-benefits"
+    },
+    {
+      "from": "hr-onboard",
+      "to": "hr-perf"
+    },
+    {
+      "from": "hr-perf",
+      "to": "hr-ld"
+    },
+    {
+      "from": "hr-ld",
+      "to": "hr-frameworks"
+    },
+    {
+      "from": "hr-perf",
+      "to": "hr-frameworks",
+      "dashed": true
+    },
+    {
+      "from": "hr-onboard",
+      "to": "hr-engage"
+    },
+    {
+      "from": "hr-engage",
+      "to": "hr-er",
+      "dashed": true
+    },
+    {
+      "from": "hr-law",
+      "to": "hr-er"
+    },
+    {
+      "from": "hr-er",
+      "to": "hr-invest"
+    },
+    {
+      "from": "hr-ats",
+      "to": "hr-hris"
+    },
+    {
+      "from": "hr-hris",
+      "to": "hr-analytics"
+    },
+    {
+      "from": "hr-law",
+      "to": "hr-compliance"
+    },
+    {
+      "from": "hr-frameworks",
+      "to": "hr-orgdesign",
+      "dashed": true
+    },
+    {
+      "from": "hr-engage",
+      "to": "hr-change",
+      "dashed": true
+    },
+    {
+      "from": "hr-orgdesign",
+      "to": "hr-change"
+    },
+    {
+      "from": "hr-change",
+      "to": "hr-hrbp"
+    },
+    {
+      "from": "hr-analytics",
+      "to": "hr-hrbp",
+      "dashed": true
+    },
+    {
+      "from": "hr-hrbp",
+      "to": "hr-career"
+    },
+    {
+      "from": "hr-career",
+      "to": "hr-shrm"
+    },
+    {
+      "from": "hr-career",
+      "to": "hr-phr",
+      "dashed": true
+    },
+    {
+      "from": "hr-career",
+      "to": "hr-aphr",
+      "dashed": true
+    },
+    {
+      "from": "hr-career",
+      "to": "hr-specialize"
+    },
+    {
+      "from": "hr-career",
+      "to": "hr-intl",
+      "dashed": true
+    }
+  ]
+}

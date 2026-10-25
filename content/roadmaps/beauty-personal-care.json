@@ -1,0 +1,959 @@
+{
+  "slug": "beauty-personal-care",
+  "title": "Beauty & Personal Care",
+  "tagline": "Hair, skin, nails, and wellness — licensed craft careers with real ownership paths.",
+  "summary": "Beauty and personal care careers run on state licensure and clientele: cosmetology, barbering, esthetics, nails, and makeup, plus the wellness-adjacent care professions. This roadmap covers training and licensing, building a book of clients, and the booth-rental-versus-salon-versus-ownership business decisions.",
+  "category": "People & Organizations",
+  "color": "#d98cb3",
+  "icon": "sparkles",
+  "onetRoles": [
+    "39-5012.00",
+    "39-5092.00",
+    "39-5094.00",
+    "39-9021.00",
+    "39-5091.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Hairdressers, Hairstylists, and Cosmetologists (39-5012.00)",
+      "url": "https://www.onetonline.org/link/summary/39-5012.00"
+    },
+    {
+      "label": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "bc-explore",
+      "type": "node",
+      "label": "The Industry Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Personal care spans salons and barbershops, spas and skin clinics, nail studios, makeup for events and media, and care professions like aides who support daily living at home.",
+        "why": "It is a licensed-craft industry where skill plus personality builds a clientele you own — with among the clearest self-employment ladders of any field.",
+        "learn": [
+          "Read the BLS profile of barbers, hairstylists, and cosmetologists",
+          "Compare your state's license types and hour requirements",
+          "Visit three salons/spas and note how staff are compensated",
+          "Choose a lane to research: hair, skin, nails, makeup, or care work"
+        ],
+        "skills": [
+          "Client rapport",
+          "Craft dexterity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Hairdressers, Hairstylists, and Cosmetologists",
+            "url": "https://www.onetonline.org/link/summary/39-5012.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-5012.00"
+        ],
+        "tasks": [
+          "Provide beauty services, such as shampooing, cutting, coloring, and styling hair, and massaging and treating scalp."
+        ]
+      }
+    },
+    {
+      "id": "bc-licensure",
+      "type": "node",
+      "label": "Licensure Reality",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most beauty careers are state-licensed: cosmetology, barbering, esthetics, and nail technology each have hour requirements, board exams, and renewal/continuing-education rules that vary by state.",
+        "why": "Your license determines what you can legally do and where — checking your state board first prevents wasted tuition.",
+        "learn": [
+          "Read your state board's license types and hour counts",
+          "Compare cosmetology (broad) vs specialty licenses (focused)",
+          "Understand reciprocity if you might move states",
+          "Note renewal and CE requirements for planning"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-lane",
+      "type": "node",
+      "label": "Pick Your Specialty",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialties trade breadth for depth: hair (cuts/color/texture), barbering (clippers, shaves), esthetics (facials, skin health), nails (structured manicures), makeup (events, editorial), or care work (in-home support).",
+        "why": "Your specialty shapes school hours, start-up costs, clientele, and income ceiling — choose with your hands and your market, not just trends.",
+        "learn": [
+          "Try each service on friends under supervision if possible",
+          "Compare program lengths and costs per license",
+          "Check local demand: which specialties are booked out?",
+          "Interview two specialists about their weeks"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Market awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Personal Care and Service",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-settings",
+      "type": "node",
+      "label": "Salon, Suite, or Freelance",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Work settings shape everything: commission salons (built-in flow, split revenue), booth rentals (pay rent, keep the rest), suite studios (independence), and freelance/mobile work.",
+        "why": "This is the industry's core economic decision — and it changes as your clientele grows.",
+        "learn": [
+          "Model take-home pay in each setting at realistic client volumes",
+          "Learn what commission covers (products, reception, marketing)",
+          "Understand booth-rent obligations (insurance, supplies, taxes)",
+          "Ask 3 professionals which setting they chose and why"
+        ],
+        "skills": [
+          "Business literacy",
+          "Financial modeling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employed considerations",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-cosmo",
+      "type": "node",
+      "label": "Cosmetology School",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Cosmetology programs (roughly 1,000–1,600 state-hours) cover hair, skin, and nails with theory and clinic-floor practice on real clients, ending in the state board exam.",
+        "why": "Cosmetology is the broadest license — the standard base for hair careers and a foundation for adding specialties later.",
+        "learn": [
+          "Tour 3 schools; compare clinic-floor volume and pass rates",
+          "Learn core theory: chemistry of color, sanitation, hair structure",
+          "Practice service timing on the clinic floor deliberately",
+          "Track your state's required practicals and theory exams"
+        ],
+        "skills": [
+          "Hair services",
+          "Sanitation",
+          "Color chemistry"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-barber",
+      "type": "node",
+      "label": "Barbering",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Barbering focuses on clipper work, fades, beard shaping, and straight-razor shaves — a distinct license in most states with a strong shop culture and repeat-weekly clientele.",
+        "why": "Barbers build fast-cadence relationships; shops often offer the quickest route from license to steady book.",
+        "learn": [
+          "Master clipper-over-comb and fade technique on practice heads",
+          "Learn straight-razor safety and service flow",
+          "Study shop etiquette: chair turnover, ticket flow",
+          "Practice consultation-to-execution speed (15–30 min cuts)"
+        ],
+        "skills": [
+          "Clipper work",
+          "Razor technique",
+          "Speed with quality"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-esthetics",
+      "type": "node",
+      "label": "Esthetics & Skincare",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Estheticians perform facials, peels, hair removal, and skin-health treatments under a state esthetics license; advanced practice and medical-adjacent work expand with further training.",
+        "why": "Skincare is one of the industry's fastest-growing lanes, bridging spa, wellness, and clinical settings.",
+        "learn": [
+          "Learn skin analysis and the basic treatment menu",
+          "Master sanitation and contraindication screening",
+          "Compare spa, med-spa, and solo-studio careers",
+          "Practice consultation and home-care recommendations"
+        ],
+        "skills": [
+          "Skin analysis",
+          "Treatment technique",
+          "Consultation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Skincare Specialists",
+            "url": "https://www.onetonline.org/link/summary/39-5094.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-5094.00"
+        ]
+      }
+    },
+    {
+      "id": "bc-nails",
+      "type": "node",
+      "label": "Nail Technology",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nail technicians provide manicures, pedicures, and enhancements (gel, acrylic, structured systems) — often the shortest licensure path with strong repeat-cadence income.",
+        "why": "Nails reward precision and speed with a loyal, high-frequency clientele and low startup costs.",
+        "learn": [
+          "Learn sanitation standards for tools and pedicure equipment",
+          "Practice gel and acrylic application and safe removal",
+          "Master nail-shape architecture and e-file control",
+          "Build a 30-minute service rhythm"
+        ],
+        "skills": [
+          "Nail systems",
+          "Precision",
+          "Ergonomics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Manicurists and Pedicurists",
+            "url": "https://www.onetonline.org/link/summary/39-5092.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-5092.00"
+        ]
+      }
+    },
+    {
+      "id": "bc-makeup",
+      "type": "node",
+      "label": "Makeup Artistry",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Makeup artistry spans bridal and events, editorial and media, film/TV, and retail counter work — often layered on another license, with kit, portfolio, and network as the real credentials.",
+        "why": "Makeup is portfolio-first: strong work and relationships build bookings faster than certificates.",
+        "learn": [
+          "Build a starter kit matched to your market's skin tones",
+          "Practice on 20 faces across ages and skin types",
+          "Learn sanitation and product-hygiene standards",
+          "Shoot before/after portfolio images with good lighting"
+        ],
+        "skills": [
+          "Color theory",
+          "Hygiene",
+          "Portfolio building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Makeup Artists, Theatrical and Performance",
+            "url": "https://www.onetonline.org/link/summary/39-5091.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-5091.00"
+        ]
+      }
+    },
+    {
+      "id": "bc-care",
+      "type": "node",
+      "label": "Personal Care Aide Track",
+      "variant": "muted",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Personal care aides support clients' daily living at home — bathing, mobility, meals, companionship — usually without a license but with training and certification options in many states.",
+        "why": "It is one of the fastest-growing occupations, deeply meaningful, and a common bridge into nursing-support careers.",
+        "learn": [
+          "Check your state's aide training/certification options",
+          "Learn safe transfer and mobility assistance basics",
+          "Understand dignity-first communication with clients",
+          "Compare agency vs private-hire work"
+        ],
+        "skills": [
+          "Compassionate care",
+          "Reliability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Personal Care Aides",
+            "url": "https://www.onetonline.org/link/summary/39-9021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-9021.00"
+        ]
+      }
+    },
+    {
+      "id": "bc-board",
+      "type": "node",
+      "label": "State Board Exam",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Licensure concludes with the state board practical and theory exams — demonstrating sanitation, service steps, and knowledge under exam conditions.",
+        "why": "Exam failure usually traces to skipped sanitation steps and incomplete service sequencing — both fully drillable.",
+        "learn": [
+          "Rehearse the practical exactly as scored (order and wording)",
+          "Memorize sanitation and infection-control steps verbatim",
+          "Take at least two timed mock practicals",
+          "Book the exam early; slots fill seasonally"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Standards discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-renewal",
+      "type": "node",
+      "label": "Renewal & Continuing Ed",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Licenses renew every 1–2 years with CE hours in most states — and serious professionals far exceed minimums with brand academies and technique classes.",
+        "why": "Continuing education is how rates rise: every new certification is a pricing conversation with your clients.",
+        "learn": [
+          "Calendar your renewal date and CE hours now",
+          "Pick one advanced technique class per quarter",
+          "Track certificates for upgrades and insurance",
+          "Follow your state board's rule changes"
+        ],
+        "skills": [
+          "Lifelong learning",
+          "Skill investment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-booth",
+      "type": "node",
+      "label": "Renting a Chair",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Booth rental means independence: you pay fixed rent, set your prices and hours, buy your supplies, and handle your own taxes and insurance.",
+        "why": "Renting is the first ownership rung — profitable once your weekly book covers rent plus costs with margin.",
+        "learn": [
+          "Compute break-even services per week at local rent",
+          "Understand self-employment taxes and quarterly estimates",
+          "Get liability insurance before day one",
+          "Negotiate rent terms and what's included"
+        ],
+        "skills": [
+          "Small business management",
+          "Pricing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-clients",
+      "type": "node",
+      "label": "Building a Clientele",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clientele grows through consistency: prebooking at the chair, referral asks, retention rates, and filling gaps with new-client offers — tracked in a simple book or app.",
+        "why": "Your book is your business. Clientele math (retention × referrals) determines whether independence works.",
+        "learn": [
+          "Prebook every guest before they leave the chair",
+          "Ask for one referral per satisfied visit",
+          "Track retention monthly and diagnose drops",
+          "Run one new-client promotion per quarter"
+        ],
+        "skills": [
+          "Client retention",
+          "Self-promotion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing basics",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-retail",
+      "type": "node",
+      "label": "Retail & Upselling",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Recommending home-care products and add-on services honestly (prescribe, don't push) raises ticket averages and improves results — clients keep outcomes with the right home care.",
+        "why": "Retail and add-ons often decide commission income — and they work only when genuinely matched to the client.",
+        "learn": [
+          "Write a home-care prescription for every service",
+          "Practice one honest add-on recommendation per service",
+          "Learn your product line's ingredients story",
+          "Track retail-to-service ratio monthly"
+        ],
+        "skills": [
+          "Consultative selling",
+          "Product knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-advanced",
+      "type": "node",
+      "label": "Advanced Education",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Post-license growth comes from advanced academies: color certification programs, extension and texture mastery, barbering refinements, and skincare device training.",
+        "why": "Specialists with advanced skills command premium pricing and industry visibility — this is how rates double.",
+        "learn": [
+          "Choose one premium skill per year to certify in",
+          "Assist or shadow a top educator in your craft",
+          "Build a signature service around your specialty",
+          "Price new skills against local market ceilings"
+        ],
+        "skills": [
+          "Craft mastery",
+          "Personal branding"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-educator",
+      "type": "node",
+      "label": "Educator & Platform Path",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Experienced professionals teach at schools, train for brands, and present on stage — a career branch built on technical excellence plus the ability to demonstrate and inspire.",
+        "why": "Education multiplies your impact and income while protecting your hands from full-time chair work.",
+        "learn": [
+          "Volunteer to assist at a school's clinic floor",
+          "Practice teaching one technique to a junior weekly",
+          "Build a class: objective, demo, hands-on, assessment",
+          "Apply for brand educator programs with a portfolio"
+        ],
+        "skills": [
+          "Teaching",
+          "Public demonstration"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-salon",
+      "type": "node",
+      "label": "Opening a Salon",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Salon ownership adds leases, build-out, licensing of the establishment, payroll, retail inventory, and a brand — the full small-business skill set applied to a craft you know.",
+        "why": "Owners capture the enterprise value: the salon's brand, team, and book outlive any single chair.",
+        "learn": [
+          "Write a business plan with realistic chair utilization",
+          "Understand establishment licensing and inspections",
+          "Model payroll vs booth-rent compensation for staff",
+          "Meet an owner who opened in the last 3 years"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Operations management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-comms",
+      "type": "node",
+      "label": "Client Communication",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The consultation is the service: assessing hair/skin/nails honestly, translating requests into outcomes, and gracefully resetting expectations when reality differs from the inspo photo.",
+        "why": "Most bad reviews are consultation failures, not technical ones — this skill protects your book.",
+        "learn": [
+          "Script a 5-minute consultation: lifestyle, history, maintenance",
+          "Practice photo reality-check conversations kindly",
+          "Learn the 'healthy hair/skin first' boundary conversation",
+          "Confirm the plan verbally before starting every service"
+        ],
+        "skills": [
+          "Consultation",
+          "Expectation management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Barbers, Hairstylists, and Cosmetologists",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-social",
+      "type": "node",
+      "label": "Social Media & Brand",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Your book now grows online: consistent before/after content, local hashtags, Google reviews, and booking links — a few hours a week genuinely fills chairs.",
+        "why": "For independent professionals, social presence is the storefront; consistency beats virality.",
+        "learn": [
+          "Post 3 quality transformations per week with consistent lighting",
+          "Claim and optimize your Google Business profile",
+          "Automate booking links in every bio",
+          "Ask happy clients for reviews at checkout"
+        ],
+        "skills": [
+          "Content creation",
+          "Personal branding"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The ladder: assistant → licensed professional → senior stylist/specialist → educator or salon manager → owner/independent studio — with freelance and media branches along the way.",
+        "why": "Beauty careers compound on clientele and craft; every rung is visible and mostly self-paced.",
+        "learn": [
+          "Map the ladder in your market with realistic timelines",
+          "Choose your two-year target rung",
+          "Find a mentor one rung above you",
+          "Reassess your specialty-market fit yearly"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Personal Care and Service",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-reality",
+      "type": "node",
+      "label": "Body & Income Reality",
+      "variant": "muted",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The honest ledger: income builds slowly at first, the work is on your feet with repetitive motions, and self-employment means managing taxes, insurance, and quiet weeks.",
+        "why": "Professionals who plan for the physical and financial realities keep the careers; surprises are what push people out.",
+        "learn": [
+          "Budget for the first year (tools, rent, slow months)",
+          "Learn ergonomics: table height, posture, tool grip",
+          "Build a 3-month income cushion before going independent",
+          "Talk to a tax professional about deductions early"
+        ],
+        "skills": [
+          "Financial planning",
+          "Self-care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-wellness",
+      "type": "node",
+      "label": "Wellness Crossover",
+      "variant": "muted",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The industry increasingly overlaps wellness: massage-adjacent services (where licensed), scalp health, holistic skincare, and men's grooming — each adds services and clientele.",
+        "why": "Crossovers differentiate your book and future-proof it as trends shift.",
+        "learn": [
+          "Check which crossover services your license permits",
+          "Train in one adjacent service your clients already ask for",
+          "Follow your state board's scope rules carefully",
+          "Price the crossover against demand"
+        ],
+        "skills": [
+          "Service expansion",
+          "Ergonomics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Personal Care and Service",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bc-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bc-g-train",
+      "type": "group",
+      "label": "TRAIN YOUR CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "bc-g-license",
+      "type": "group",
+      "label": "LICENSE & FIRST BOOK",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "bc-g-adv",
+      "type": "group",
+      "label": "ADVANCED CRAFT",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bc-g-grow",
+      "type": "group",
+      "label": "GROW YOUR BUSINESS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bc-g-career",
+      "type": "group",
+      "label": "CAREER & REALITIES",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "bc-explore",
+      "to": "bc-licensure"
+    },
+    {
+      "from": "bc-explore",
+      "to": "bc-lane"
+    },
+    {
+      "from": "bc-explore",
+      "to": "bc-settings",
+      "dashed": true
+    },
+    {
+      "from": "bc-lane",
+      "to": "bc-cosmo"
+    },
+    {
+      "from": "bc-lane",
+      "to": "bc-barber",
+      "dashed": true
+    },
+    {
+      "from": "bc-lane",
+      "to": "bc-esthetics",
+      "dashed": true
+    },
+    {
+      "from": "bc-lane",
+      "to": "bc-nails",
+      "dashed": true
+    },
+    {
+      "from": "bc-lane",
+      "to": "bc-makeup",
+      "dashed": true
+    },
+    {
+      "from": "bc-lane",
+      "to": "bc-care",
+      "dashed": true
+    },
+    {
+      "from": "bc-cosmo",
+      "to": "bc-board"
+    },
+    {
+      "from": "bc-barber",
+      "to": "bc-board"
+    },
+    {
+      "from": "bc-esthetics",
+      "to": "bc-board"
+    },
+    {
+      "from": "bc-nails",
+      "to": "bc-board"
+    },
+    {
+      "from": "bc-board",
+      "to": "bc-renewal"
+    },
+    {
+      "from": "bc-renewal",
+      "to": "bc-booth"
+    },
+    {
+      "from": "bc-renewal",
+      "to": "bc-clients"
+    },
+    {
+      "from": "bc-clients",
+      "to": "bc-retail"
+    },
+    {
+      "from": "bc-clients",
+      "to": "bc-advanced"
+    },
+    {
+      "from": "bc-advanced",
+      "to": "bc-educator",
+      "dashed": true
+    },
+    {
+      "from": "bc-advanced",
+      "to": "bc-salon",
+      "dashed": true
+    },
+    {
+      "from": "bc-clients",
+      "to": "bc-comms"
+    },
+    {
+      "from": "bc-comms",
+      "to": "bc-social"
+    },
+    {
+      "from": "bc-social",
+      "to": "bc-career"
+    },
+    {
+      "from": "bc-career",
+      "to": "bc-reality",
+      "dashed": true
+    },
+    {
+      "from": "bc-career",
+      "to": "bc-wellness",
+      "dashed": true
+    }
+  ]
+}

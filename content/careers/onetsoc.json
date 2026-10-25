@@ -1,0 +1,1015 @@
+{
+  "meta": {
+    "title": "O*NET-SOC Careers Library",
+    "description": "A browsable directory of non-tech occupations organized by the O*NET-SOC 2019 taxonomy. Every code links to its official O*NET OnLine summary page with detailed tasks, skills, wages, and outlook.",
+    "source": "O*NET OnLine (onetonline.org), O*NET-SOC 2019 taxonomy",
+    "license": "O*NET data is in the public domain (CC BY 4.0). Codes and titles follow O*NET-SOC 2019."
+  },
+  "families": [
+    {
+      "code": "11",
+      "name": "Management",
+      "description": "Plan, direct, and coordinate the operations of organizations and their departments.",
+      "roles": [
+        {
+          "code": "11-1021.00",
+          "title": "General and Operations Managers",
+          "summary": "Run organizations or departments: set policy, manage staff, and own performance.",
+          "url": "https://www.onetonline.org/link/summary/11-1021.00"
+        },
+        {
+          "code": "11-2021.00",
+          "title": "Marketing Managers",
+          "summary": "Direct demand generation, positioning, and marketing programs for products and services.",
+          "url": "https://www.onetonline.org/link/summary/11-2021.00"
+        },
+        {
+          "code": "11-2022.00",
+          "title": "Sales Managers",
+          "summary": "Lead sales teams, set quotas, forecast revenue, and coach performance.",
+          "url": "https://www.onetonline.org/link/summary/11-2022.00"
+        },
+        {
+          "code": "11-3031.01",
+          "title": "Treasurers and Controllers",
+          "summary": "Direct financial functions: cash, budgeting, reporting, and financial controls.",
+          "url": "https://www.onetonline.org/link/summary/11-3031.01"
+        },
+        {
+          "code": "11-3071.00",
+          "title": "Transportation, Storage, and Distribution Managers",
+          "summary": "Run warehouses, fleets, and distribution networks safely and on time.",
+          "url": "https://www.onetonline.org/link/summary/11-3071.00"
+        },
+        {
+          "code": "11-9021.00",
+          "title": "Construction Managers",
+          "summary": "Plan, budget, and supervise construction projects from blueprint to completion.",
+          "url": "https://www.onetonline.org/link/summary/11-9021.00"
+        },
+        {
+          "code": "11-9032.00",
+          "title": "Education Administrators, Elementary and Secondary School",
+          "summary": "Lead schools: instruction, staffing, budgets, and community relationships.",
+          "url": "https://www.onetonline.org/link/summary/11-9032.00"
+        },
+        {
+          "code": "11-9111.00",
+          "title": "Medical and Health Services Managers",
+          "summary": "Manage healthcare facilities, departments, and clinical services operations.",
+          "url": "https://www.onetonline.org/link/summary/11-9111.00"
+        }
+      ]
+    },
+    {
+      "code": "13",
+      "name": "Business and Financial Operations",
+      "description": "Quantify, analyze, and steward organizational money, people, and operations.",
+      "roles": [
+        {
+          "code": "13-1023.00",
+          "title": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+          "summary": "Buy materials and services for organizations; evaluate and negotiate with suppliers.",
+          "url": "https://www.onetonline.org/link/summary/13-1023.00"
+        },
+        {
+          "code": "13-1071.00",
+          "title": "Human Resources Specialists",
+          "summary": "Recruit, interview, and support employees; administer HR programs.",
+          "url": "https://www.onetonline.org/link/summary/13-1071.00"
+        },
+        {
+          "code": "13-1075.00",
+          "title": "Labor Relations Specialists",
+          "summary": "Manage union relationships, grievances, and collective bargaining.",
+          "url": "https://www.onetonline.org/link/summary/13-1075.00"
+        },
+        {
+          "code": "13-1081.00",
+          "title": "Logisticians",
+          "summary": "Analyze and coordinate how materials and products move through supply chains.",
+          "url": "https://www.onetonline.org/link/summary/13-1081.00"
+        },
+        {
+          "code": "13-1082.00",
+          "title": "Project Management Specialists",
+          "summary": "Plan, schedule, and coordinate projects to deliver on time and budget.",
+          "url": "https://www.onetonline.org/link/summary/13-1082.00"
+        },
+        {
+          "code": "13-1111.00",
+          "title": "Management Analysts",
+          "summary": "Study how organizations work and recommend improvements to structure and process.",
+          "url": "https://www.onetonline.org/link/summary/13-1111.00"
+        },
+        {
+          "code": "13-1161.00",
+          "title": "Market Research Analysts and Marketing Specialists",
+          "summary": "Study market conditions and customers to guide product and campaign decisions.",
+          "url": "https://www.onetonline.org/link/summary/13-1161.00"
+        },
+        {
+          "code": "13-2011.00",
+          "title": "Accountants and Auditors",
+          "summary": "Prepare and examine financial records, statements, taxes, and audits.",
+          "url": "https://www.onetonline.org/link/summary/13-2011.00"
+        },
+        {
+          "code": "13-2051.00",
+          "title": "Financial and Investment Analysts",
+          "summary": "Analyze investments, valuations, and financial performance for decisions.",
+          "url": "https://www.onetonline.org/link/summary/13-2051.00"
+        },
+        {
+          "code": "13-2054.00",
+          "title": "Financial Risk Specialists",
+          "summary": "Assess and model financial exposure and risk for firms and portfolios.",
+          "url": "https://www.onetonline.org/link/summary/13-2054.00"
+        },
+        {
+          "code": "13-2052.00",
+          "title": "Personal Financial Advisors",
+          "summary": "Advise individuals on investments, retirement, insurance, and financial plans.",
+          "url": "https://www.onetonline.org/link/summary/13-2052.00"
+        },
+        {
+          "code": "13-2072.00",
+          "title": "Loan Officers",
+          "summary": "Evaluate, authorize, or recommend approval of loan applications.",
+          "url": "https://www.onetonline.org/link/summary/13-2072.00"
+        }
+      ]
+    },
+    {
+      "code": "19",
+      "name": "Life, Physical, and Social Science",
+      "description": "Study the natural and social world and apply that knowledge in labs, fieldwork, and policy.",
+      "roles": [
+        {
+          "code": "19-1021.00",
+          "title": "Biochemists and Biophysicists",
+          "summary": "Study the chemistry and physics of living processes in research settings.",
+          "url": "https://www.onetonline.org/link/summary/19-1021.00"
+        },
+        {
+          "code": "19-1041.00",
+          "title": "Environmental Scientists and Specialists",
+          "summary": "Protect the environment by monitoring pollution and advising on compliance.",
+          "url": "https://www.onetonline.org/link/summary/19-1041.00"
+        },
+        {
+          "code": "19-2031.00",
+          "title": "Chemists",
+          "summary": "Analyze substances and develop new materials, products, and processes.",
+          "url": "https://www.onetonline.org/link/summary/19-2031.00"
+        },
+        {
+          "code": "19-3011.00",
+          "title": "Economists",
+          "summary": "Study how societies allocate resources; analyze trends and inform policy.",
+          "url": "https://www.onetonline.org/link/summary/19-3011.00"
+        },
+        {
+          "code": "19-3033.00",
+          "title": "Clinical and Counseling Psychologists",
+          "summary": "Assess, diagnose, and treat mental, emotional, and behavioral disorders.",
+          "url": "https://www.onetonline.org/link/summary/19-3033.00"
+        },
+        {
+          "code": "19-3094.00",
+          "title": "Political Scientists",
+          "summary": "Study political systems, behavior, and policy; analyze governments and trends.",
+          "url": "https://www.onetonline.org/link/summary/19-3094.00"
+        },
+        {
+          "code": "19-4061.00",
+          "title": "Social Science Research Assistants",
+          "summary": "Support research: collect data, run surveys, and analyze social science studies.",
+          "url": "https://www.onetonline.org/link/summary/19-4061.00"
+        }
+      ]
+    },
+    {
+      "code": "21",
+      "name": "Community and Social Service",
+      "description": "Help people through counseling, social services, and community programs.",
+      "roles": [
+        {
+          "code": "21-1012.00",
+          "title": "Educational, Guidance, and Career Counselors and Advisors",
+          "summary": "Guide students on academics, careers, and personal development.",
+          "url": "https://www.onetonline.org/link/summary/21-1012.00"
+        },
+        {
+          "code": "21-1011.00",
+          "title": "Substance Abuse and Behavioral Disorder Counselors",
+          "summary": "Counsel people with alcohol, drug, and behavioral addictions.",
+          "url": "https://www.onetonline.org/link/summary/21-1011.00"
+        },
+        {
+          "code": "21-1014.00",
+          "title": "Mental Health Counselors",
+          "summary": "Treat individuals and groups for mental and emotional health concerns.",
+          "url": "https://www.onetonline.org/link/summary/21-1014.00"
+        },
+        {
+          "code": "21-1015.00",
+          "title": "Rehabilitation Counselors",
+          "summary": "Help people with disabilities live independently and find employment.",
+          "url": "https://www.onetonline.org/link/summary/21-1015.00"
+        },
+        {
+          "code": "21-1021.00",
+          "title": "Child, Family, and School Social Workers",
+          "summary": "Protect and support children and families through services and interventions.",
+          "url": "https://www.onetonline.org/link/summary/21-1021.00"
+        },
+        {
+          "code": "21-1091.00",
+          "title": "Health Education Specialists",
+          "summary": "Teach people about health and design programs that improve wellbeing.",
+          "url": "https://www.onetonline.org/link/summary/21-1091.00"
+        },
+        {
+          "code": "21-1093.00",
+          "title": "Social and Human Service Assistants",
+          "summary": "Connect clients to benefits and services and support social workers.",
+          "url": "https://www.onetonline.org/link/summary/21-1093.00"
+        },
+        {
+          "code": "21-1094.00",
+          "title": "Community Health Workers",
+          "summary": "Build health literacy and connect communities to care and resources.",
+          "url": "https://www.onetonline.org/link/summary/21-1094.00"
+        },
+        {
+          "code": "21-2011.00",
+          "title": "Clergy",
+          "summary": "Lead religious congregations: worship, counsel, teaching, and community care.",
+          "url": "https://www.onetonline.org/link/summary/21-2011.00"
+        }
+      ]
+    },
+    {
+      "code": "23",
+      "name": "Legal",
+      "description": "Interpret, apply, and support the law in courts, firms, and organizations.",
+      "roles": [
+        {
+          "code": "23-1011.00",
+          "title": "Lawyers",
+          "summary": "Advise and represent clients in legal matters, transactions, and court.",
+          "url": "https://www.onetonline.org/link/summary/23-1011.00"
+        },
+        {
+          "code": "23-1021.00",
+          "title": "Arbitrators, Mediators, and Conciliators",
+          "summary": "Facilitate negotiated and binding resolution of disputes outside court.",
+          "url": "https://www.onetonline.org/link/summary/23-1021.00"
+        },
+        {
+          "code": "23-2011.00",
+          "title": "Paralegals and Legal Assistants",
+          "summary": "Research law, prepare documents, and support attorneys' casework.",
+          "url": "https://www.onetonline.org/link/summary/23-2011.00"
+        },
+        {
+          "code": "23-2093.00",
+          "title": "Title Examiners, Abstractors, and Searchers",
+          "summary": "Search public records and summarize title history for real estate and legal use.",
+          "url": "https://www.onetonline.org/link/summary/23-2093.00"
+        }
+      ]
+    },
+    {
+      "code": "25",
+      "name": "Educational Instruction and Library",
+      "description": "Teach, train, and preserve knowledge across schools, colleges, and libraries.",
+      "roles": [
+        {
+          "code": "25-1012.00",
+          "title": "Librarians and Media Collections Specialists",
+          "summary": "Curate collections and help people find and evaluate information.",
+          "url": "https://www.onetonline.org/link/summary/25-1012.00"
+        },
+        {
+          "code": "25-2012.00",
+          "title": "Kindergarten Teachers, Except Special Education",
+          "summary": "Teach foundational academic and social skills to young children.",
+          "url": "https://www.onetonline.org/link/summary/25-2012.00"
+        },
+        {
+          "code": "25-2021.00",
+          "title": "Elementary School Teachers, Except Special Education",
+          "summary": "Teach multiple subjects to elementary students and manage classrooms.",
+          "url": "https://www.onetonline.org/link/summary/25-2021.00"
+        },
+        {
+          "code": "25-2031.00",
+          "title": "Secondary School Teachers, Except Special and Career/Technical Education",
+          "summary": "Teach specialized subjects to middle and high school students.",
+          "url": "https://www.onetonline.org/link/summary/25-2031.00"
+        },
+        {
+          "code": "25-3011.00",
+          "title": "Adult Basic Education, Adult Secondary Education, and ESL Instructors",
+          "summary": "Teach literacy, high-school equivalency, and English to adults.",
+          "url": "https://www.onetonline.org/link/summary/25-3011.00"
+        },
+        {
+          "code": "25-4011.00",
+          "title": "Archivists",
+          "summary": "Preserve and provide access to historically valuable records and collections.",
+          "url": "https://www.onetonline.org/link/summary/25-4011.00"
+        },
+        {
+          "code": "25-4012.00",
+          "title": "Curators",
+          "summary": "Acquire, interpret, and exhibit museum and gallery collections.",
+          "url": "https://www.onetonline.org/link/summary/25-4012.00"
+        },
+        {
+          "code": "25-4013.00",
+          "title": "Museum Technicians and Conservators",
+          "summary": "Prepare, preserve, and document museum objects and exhibits.",
+          "url": "https://www.onetonline.org/link/summary/25-4013.00"
+        },
+        {
+          "code": "25-9031.00",
+          "title": "Instructional Coordinators",
+          "summary": "Design curriculum and coach teachers on standards and teaching methods.",
+          "url": "https://www.onetonline.org/link/summary/25-9031.00"
+        },
+        {
+          "code": "25-9042.00",
+          "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+          "summary": "Support teachers with instruction, supervision, and student support.",
+          "url": "https://www.onetonline.org/link/summary/25-9042.00"
+        }
+      ]
+    },
+    {
+      "code": "27",
+      "name": "Arts, Design, Entertainment, Sports, and Media",
+      "description": "Create, perform, and communicate for audiences.",
+      "roles": [
+        {
+          "code": "27-1011.00",
+          "title": "Art Directors",
+          "summary": "Direct visual style and imagery for publications, media, and campaigns.",
+          "url": "https://www.onetonline.org/link/summary/27-1011.00"
+        },
+        {
+          "code": "27-1024.00",
+          "title": "Graphic Designers",
+          "summary": "Design visual communications for brands, products, and media.",
+          "url": "https://www.onetonline.org/link/summary/27-1024.00"
+        },
+        {
+          "code": "27-2012.00",
+          "title": "Producers and Directors",
+          "summary": "Create films, shows, and stage productions from concept to delivery.",
+          "url": "https://www.onetonline.org/link/summary/27-2012.00"
+        },
+        {
+          "code": "27-2041.00",
+          "title": "Music Directors and Composers",
+          "summary": "Write, arrange, and conduct music for performances and productions.",
+          "url": "https://www.onetonline.org/link/summary/27-2041.00"
+        },
+        {
+          "code": "27-3031.00",
+          "title": "Public Relations Specialists",
+          "summary": "Shape organizational image through media, messaging, and community relations.",
+          "url": "https://www.onetonline.org/link/summary/27-3031.00"
+        },
+        {
+          "code": "27-3043.00",
+          "title": "Writers and Authors",
+          "summary": "Create original written content for publications, brands, and media.",
+          "url": "https://www.onetonline.org/link/summary/27-3043.00"
+        },
+        {
+          "code": "27-4021.00",
+          "title": "Photographers",
+          "summary": "Capture images for portraits, events, editorial, and commercial use.",
+          "url": "https://www.onetonline.org/link/summary/27-4021.00"
+        },
+        {
+          "code": "27-3092.00",
+          "title": "Court Reporters and Simultaneous Captioners",
+          "summary": "Create verbatim transcripts of proceedings and live broadcast captions.",
+          "url": "https://www.onetonline.org/link/summary/27-3092.00"
+        }
+      ]
+    },
+    {
+      "code": "29",
+      "name": "Healthcare Practitioners and Technical",
+      "description": "Diagnose, treat, and support patients as licensed clinical professionals.",
+      "roles": [
+        {
+          "code": "29-1081.00",
+          "title": "Pharmacists",
+          "summary": "Dispense medications and counsel patients on their safe use.",
+          "url": "https://www.onetonline.org/link/summary/29-1081.00"
+        },
+        {
+          "code": "29-1123.00",
+          "title": "Physical Therapists",
+          "summary": "Restore movement and function through planned therapeutic exercise.",
+          "url": "https://www.onetonline.org/link/summary/29-1123.00"
+        },
+        {
+          "code": "29-1126.00",
+          "title": "Respiratory Therapists",
+          "summary": "Care for patients with breathing and cardiopulmonary conditions.",
+          "url": "https://www.onetonline.org/link/summary/29-1126.00"
+        },
+        {
+          "code": "29-1141.00",
+          "title": "Registered Nurses",
+          "summary": "Coordinate patient care, administer treatment, and educate patients.",
+          "url": "https://www.onetonline.org/link/summary/29-1141.00"
+        },
+        {
+          "code": "29-1171.00",
+          "title": "Nurse Practitioners",
+          "summary": "Diagnose and manage illness as advanced practice registered nurses.",
+          "url": "https://www.onetonline.org/link/summary/29-1171.00"
+        },
+        {
+          "code": "29-2042.00",
+          "title": "Emergency Medical Technicians",
+          "summary": "Deliver basic emergency pre-hospital care and transport the sick and injured.",
+          "url": "https://www.onetonline.org/link/summary/29-2042.00"
+        },
+        {
+          "code": "29-2043.00",
+          "title": "Paramedics",
+          "summary": "Provide advanced pre-hospital emergency care including medications and airway management.",
+          "url": "https://www.onetonline.org/link/summary/29-2043.00"
+        },
+        {
+          "code": "29-2055.00",
+          "title": "Surgical Technologists",
+          "summary": "Prepare operating rooms, instruments, and assist during surgery.",
+          "url": "https://www.onetonline.org/link/summary/29-2055.00"
+        },
+        {
+          "code": "29-2061.00",
+          "title": "Licensed Practical and Licensed Vocational Nurses",
+          "summary": "Provide basic nursing care under RN or physician direction.",
+          "url": "https://www.onetonline.org/link/summary/29-2061.00"
+        },
+        {
+          "code": "29-2072.00",
+          "title": "Medical Records Specialists",
+          "summary": "Organize and code patient health information for care and billing.",
+          "url": "https://www.onetonline.org/link/summary/29-2072.00"
+        }
+      ]
+    },
+    {
+      "code": "31",
+      "name": "Healthcare Support",
+      "description": "Assist clinical professionals and provide direct daily care to patients.",
+      "roles": [
+        {
+          "code": "31-1120.00",
+          "title": "Home Health Aides",
+          "summary": "Provide daily living assistance to people at home.",
+          "url": "https://www.onetonline.org/link/summary/31-1120.00"
+        },
+        {
+          "code": "31-1131.00",
+          "title": "Nursing Assistants",
+          "summary": "Provide basic patient care — bathing, feeding, vitals — under nursing supervision.",
+          "url": "https://www.onetonline.org/link/summary/31-1131.00"
+        },
+        {
+          "code": "31-2021.00",
+          "title": "Physical Therapist Assistants",
+          "summary": "Implement therapy plans that help patients regain movement.",
+          "url": "https://www.onetonline.org/link/summary/31-2021.00"
+        },
+        {
+          "code": "31-9011.00",
+          "title": "Massage Therapists",
+          "summary": "Treat clients through therapeutic bodywork for health and relaxation.",
+          "url": "https://www.onetonline.org/link/summary/31-9011.00"
+        },
+        {
+          "code": "31-9092.00",
+          "title": "Medical Assistants",
+          "summary": "Handle clinical and administrative tasks in physicians' offices and clinics.",
+          "url": "https://www.onetonline.org/link/summary/31-9092.00"
+        },
+        {
+          "code": "31-9097.00",
+          "title": "Phlebotomists",
+          "summary": "Draw blood for tests, transfusions, research, and donations.",
+          "url": "https://www.onetonline.org/link/summary/31-9097.00"
+        },
+        {
+          "code": "29-9091.00",
+          "title": "Athletic Trainers",
+          "summary": "Prevent, evaluate, and rehab injuries for athletes and active people.",
+          "url": "https://www.onetonline.org/link/summary/29-9091.00"
+        }
+      ]
+    },
+    {
+      "code": "33",
+      "name": "Protective Service",
+      "description": "Protect people and property and enforce laws and safety.",
+      "roles": [
+        {
+          "code": "33-1012.00",
+          "title": "First-Line Supervisors of Police and Detectives",
+          "summary": "Supervise and coordinate police and detective field operations.",
+          "url": "https://www.onetonline.org/link/summary/33-1012.00"
+        },
+        {
+          "code": "33-2011.00",
+          "title": "Firefighters",
+          "summary": "Control and extinguish fires and respond to emergencies and rescues.",
+          "url": "https://www.onetonline.org/link/summary/33-2011.00"
+        },
+        {
+          "code": "33-3012.00",
+          "title": "Correctional Officers and Jailers",
+          "summary": "Supervise and maintain security of people in correctional facilities.",
+          "url": "https://www.onetonline.org/link/summary/33-3012.00"
+        },
+        {
+          "code": "33-3021.00",
+          "title": "Detectives and Criminal Investigators",
+          "summary": "Investigate crimes, gather evidence, and build cases for prosecution.",
+          "url": "https://www.onetonline.org/link/summary/33-3021.00"
+        },
+        {
+          "code": "33-9032.00",
+          "title": "Security Guards",
+          "summary": "Protect property and people through monitoring and access control.",
+          "url": "https://www.onetonline.org/link/summary/33-9032.00"
+        }
+      ]
+    },
+    {
+      "code": "35",
+      "name": "Food Preparation and Serving Related",
+      "description": "Prepare and serve food and beverages in dining establishments.",
+      "roles": [
+        {
+          "code": "35-1012.00",
+          "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+          "summary": "Supervise kitchen and service staff and keep operations smooth.",
+          "url": "https://www.onetonline.org/link/summary/35-1012.00"
+        },
+        {
+          "code": "35-2011.00",
+          "title": "Cooks, Restaurant",
+          "summary": "Prepare, season, and cook menu items in restaurant kitchens.",
+          "url": "https://www.onetonline.org/link/summary/35-2011.00"
+        },
+        {
+          "code": "35-2021.00",
+          "title": "Food Preparation Workers",
+          "summary": "Prepare ingredients and support cooks across food service.",
+          "url": "https://www.onetonline.org/link/summary/35-2021.00"
+        },
+        {
+          "code": "35-3011.00",
+          "title": "Bartenders",
+          "summary": "Mix drinks, manage the bar, and serve customers responsibly.",
+          "url": "https://www.onetonline.org/link/summary/35-3011.00"
+        },
+        {
+          "code": "35-3021.00",
+          "title": "Combined Food Preparation and Serving Workers, Including Fast Food",
+          "summary": "Prepare and serve quick-service food to customers.",
+          "url": "https://www.onetonline.org/link/summary/35-3021.00"
+        },
+        {
+          "code": "35-9031.00",
+          "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+          "summary": "Welcome guests, manage seating, and coordinate the dining room.",
+          "url": "https://www.onetonline.org/link/summary/35-9031.00"
+        }
+      ]
+    },
+    {
+      "code": "37",
+      "name": "Building and Grounds Cleaning and Maintenance",
+      "description": "Keep buildings, facilities, and grounds clean, safe, and functional.",
+      "roles": [
+        {
+          "code": "37-1011.00",
+          "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+          "summary": "Supervise cleaning staff and manage facility cleanliness standards.",
+          "url": "https://www.onetonline.org/link/summary/37-1011.00"
+        },
+        {
+          "code": "37-2011.00",
+          "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+          "summary": "Keep buildings clean, orderly, and in good condition.",
+          "url": "https://www.onetonline.org/link/summary/37-2011.00"
+        },
+        {
+          "code": "37-2012.00",
+          "title": "Maids and Housekeeping Cleaners",
+          "summary": "Clean rooms, change linens, and maintain hospitality spaces.",
+          "url": "https://www.onetonline.org/link/summary/37-2012.00"
+        },
+        {
+          "code": "37-3011.00",
+          "title": "Landscaping and Groundskeeping Workers",
+          "summary": "Maintain outdoor spaces: planting, mowing, trimming, and irrigation.",
+          "url": "https://www.onetonline.org/link/summary/37-3011.00"
+        },
+        {
+          "code": "37-3013.00",
+          "title": "Tree Trimmers and Pruners",
+          "summary": "Cut away dead branches and maintain trees safely for health and clearance.",
+          "url": "https://www.onetonline.org/link/summary/37-3013.00"
+        }
+      ]
+    },
+    {
+      "code": "39",
+      "name": "Personal Care and Service",
+      "description": "Provide personal services — grooming, care, and recreation — to individuals.",
+      "roles": [
+        {
+          "code": "39-1021.00",
+          "title": "First-Line Supervisors of Personal Service Workers",
+          "summary": "Supervise and coordinate personal service providers.",
+          "url": "https://www.onetonline.org/link/summary/39-1021.00"
+        },
+        {
+          "code": "39-3091.00",
+          "title": "Amusement and Recreation Attendants",
+          "summary": "Operate attractions, enforce safety, and serve guests at venues.",
+          "url": "https://www.onetonline.org/link/summary/39-3091.00"
+        },
+        {
+          "code": "39-5012.00",
+          "title": "Hairdressers, Hairstylists, and Cosmetologists",
+          "summary": "Provide hair, beauty, and grooming services to clients.",
+          "url": "https://www.onetonline.org/link/summary/39-5012.00"
+        },
+        {
+          "code": "39-6011.00",
+          "title": "Baggage Porters and Bellhops",
+          "summary": "Assist hotel guests with luggage and requests.",
+          "url": "https://www.onetonline.org/link/summary/39-6011.00"
+        },
+        {
+          "code": "39-6012.00",
+          "title": "Concierges",
+          "summary": "Arrange services and experiences for hotel and residence guests.",
+          "url": "https://www.onetonline.org/link/summary/39-6012.00"
+        },
+        {
+          "code": "39-9011.00",
+          "title": "Childcare Workers",
+          "summary": "Supervise and care for children's safety, learning, and daily needs.",
+          "url": "https://www.onetonline.org/link/summary/39-9011.00"
+        },
+        {
+          "code": "39-9021.00",
+          "title": "Personal Care Aides",
+          "summary": "Assist elderly and disabled clients with daily living at home or in care facilities.",
+          "url": "https://www.onetonline.org/link/summary/39-9021.00"
+        },
+        {
+          "code": "39-2021.00",
+          "title": "Nonfarm Animal Caretakers",
+          "summary": "Feed, groom, and exercise animals in kennels, stables, shelters, and zoos.",
+          "url": "https://www.onetonline.org/link/summary/39-2021.00"
+        }
+      ]
+    },
+    {
+      "code": "41",
+      "name": "Sales and Related",
+      "description": "Sell goods and services directly to customers and businesses.",
+      "roles": [
+        {
+          "code": "41-1011.00",
+          "title": "First-Line Supervisors of Retail Sales Workers",
+          "summary": "Supervise retail teams, operations, and customer service.",
+          "url": "https://www.onetonline.org/link/summary/41-1011.00"
+        },
+        {
+          "code": "41-2011.00",
+          "title": "Cashiers",
+          "summary": "Process payments and serve customers at points of sale.",
+          "url": "https://www.onetonline.org/link/summary/41-2011.00"
+        },
+        {
+          "code": "41-2031.00",
+          "title": "Retail Salespersons",
+          "summary": "Advise customers and sell merchandise in retail stores.",
+          "url": "https://www.onetonline.org/link/summary/41-2031.00"
+        },
+        {
+          "code": "41-3011.00",
+          "title": "Advertising Sales Agents",
+          "summary": "Sell advertising space and campaigns to businesses.",
+          "url": "https://www.onetonline.org/link/summary/41-3011.00"
+        },
+        {
+          "code": "41-3091.00",
+          "title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+          "summary": "Sell services to businesses and organizations across industries.",
+          "url": "https://www.onetonline.org/link/summary/41-3091.00"
+        },
+        {
+          "code": "41-4012.00",
+          "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+          "summary": "Sell goods to businesses, government agencies, and other organizations.",
+          "url": "https://www.onetonline.org/link/summary/41-4012.00"
+        },
+        {
+          "code": "41-9022.00",
+          "title": "Real Estate Brokers",
+          "summary": "Run real estate offices and broker property transactions.",
+          "url": "https://www.onetonline.org/link/summary/41-9022.00"
+        }
+      ]
+    },
+    {
+      "code": "43",
+      "name": "Office and Administrative Support",
+      "description": "Keep organizations running through records, scheduling, communication, and clerical work.",
+      "roles": [
+        {
+          "code": "43-3031.00",
+          "title": "Bookkeeping, Accounting, and Auditing Clerks",
+          "summary": "Record and reconcile financial transactions for organizations.",
+          "url": "https://www.onetonline.org/link/summary/43-3031.00"
+        },
+        {
+          "code": "43-4051.00",
+          "title": "Customer Service Representatives",
+          "summary": "Resolve customer questions, orders, and complaints by phone and chat.",
+          "url": "https://www.onetonline.org/link/summary/43-4051.00"
+        },
+        {
+          "code": "43-4171.00",
+          "title": "Receptionists and Information Clerks",
+          "summary": "Greet visitors, manage front desks, and route communications.",
+          "url": "https://www.onetonline.org/link/summary/43-4171.00"
+        },
+        {
+          "code": "43-5061.00",
+          "title": "Production, Planning, and Expediting Clerks",
+          "summary": "Coordinate production schedules, materials, and workflow priorities.",
+          "url": "https://www.onetonline.org/link/summary/43-5061.00"
+        },
+        {
+          "code": "43-6011.00",
+          "title": "Executive Secretaries and Executive Administrative Assistants",
+          "summary": "Provide high-level administrative support to executives.",
+          "url": "https://www.onetonline.org/link/summary/43-6011.00"
+        },
+        {
+          "code": "43-6014.00",
+          "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+          "summary": "Handle office administration: correspondence, schedules, and records.",
+          "url": "https://www.onetonline.org/link/summary/43-6014.00"
+        },
+        {
+          "code": "43-9061.00",
+          "title": "Office Clerks, General",
+          "summary": "Perform varied clerical duties that keep offices organized.",
+          "url": "https://www.onetonline.org/link/summary/43-9061.00"
+        }
+      ]
+    },
+    {
+      "code": "45",
+      "name": "Farming, Fishing, and Forestry",
+      "description": "Grow food, raise animals, and manage natural resources.",
+      "roles": [
+        {
+          "code": "45-1011.00",
+          "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+          "summary": "Supervise agricultural, fishing, and forestry crews and operations.",
+          "url": "https://www.onetonline.org/link/summary/45-1011.00"
+        },
+        {
+          "code": "45-2021.00",
+          "title": "Animal Breeders",
+          "summary": "Breed and raise livestock and animals for production, sale, or show.",
+          "url": "https://www.onetonline.org/link/summary/45-2021.00"
+        },
+        {
+          "code": "45-2092.00",
+          "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+          "summary": "Plant, cultivate, and harvest crops by hand and machine.",
+          "url": "https://www.onetonline.org/link/summary/45-2092.00"
+        },
+        {
+          "code": "45-3011.00",
+          "title": "Fishers and Related Fishing Workers",
+          "summary": "Catch fish and shellfish using nets, traps, and other gear.",
+          "url": "https://www.onetonline.org/link/summary/45-3011.00"
+        },
+        {
+          "code": "45-4011.00",
+          "title": "Forest and Conservation Workers",
+          "summary": "Maintain forests, trails, and conservation projects under supervision.",
+          "url": "https://www.onetonline.org/link/summary/45-4011.00"
+        }
+      ]
+    },
+    {
+      "code": "47",
+      "name": "Construction and Extraction",
+      "description": "Build structures and extract natural resources with skilled trades.",
+      "roles": [
+        {
+          "code": "47-1011.00",
+          "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+          "summary": "Direct crews on construction and extraction sites.",
+          "url": "https://www.onetonline.org/link/summary/47-1011.00"
+        },
+        {
+          "code": "47-2031.00",
+          "title": "Carpenters",
+          "summary": "Build, install, and repair structures and fixtures of wood and materials.",
+          "url": "https://www.onetonline.org/link/summary/47-2031.00"
+        },
+        {
+          "code": "47-2061.00",
+          "title": "Construction Laborers",
+          "summary": "Perform physical construction work across building sites.",
+          "url": "https://www.onetonline.org/link/summary/47-2061.00"
+        },
+        {
+          "code": "47-2073.00",
+          "title": "Operating Engineers and Other Construction Equipment Operators",
+          "summary": "Drive and operate heavy construction machinery.",
+          "url": "https://www.onetonline.org/link/summary/47-2073.00"
+        },
+        {
+          "code": "47-2111.00",
+          "title": "Electricians",
+          "summary": "Install and maintain electrical systems in buildings and infrastructure.",
+          "url": "https://www.onetonline.org/link/summary/47-2111.00"
+        },
+        {
+          "code": "47-2152.00",
+          "title": "Plumbers, Pipefitters, and Steamfitters",
+          "summary": "Install and repair piping systems for water, gas, and process uses.",
+          "url": "https://www.onetonline.org/link/summary/47-2152.00"
+        }
+      ]
+    },
+    {
+      "code": "49",
+      "name": "Installation, Maintenance, and Repair",
+      "description": "Install, service, and repair the machinery and systems the economy runs on.",
+      "roles": [
+        {
+          "code": "49-1011.00",
+          "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+          "summary": "Supervise maintenance and repair teams and schedules.",
+          "url": "https://www.onetonline.org/link/summary/49-1011.00"
+        },
+        {
+          "code": "49-3011.00",
+          "title": "Aircraft Mechanics and Service Technicians",
+          "summary": "Inspect and repair aircraft to keep them flight-safe.",
+          "url": "https://www.onetonline.org/link/summary/49-3011.00"
+        },
+        {
+          "code": "49-3023.00",
+          "title": "Automotive Service Technicians and Mechanics",
+          "summary": "Diagnose, maintain, and repair cars and light trucks.",
+          "url": "https://www.onetonline.org/link/summary/49-3023.00"
+        },
+        {
+          "code": "49-9021.00",
+          "title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+          "summary": "Install and service HVACR systems in homes and buildings.",
+          "url": "https://www.onetonline.org/link/summary/49-9021.00"
+        },
+        {
+          "code": "49-9041.00",
+          "title": "Industrial Machinery Mechanics",
+          "summary": "Maintain and repair factory machinery to prevent downtime.",
+          "url": "https://www.onetonline.org/link/summary/49-9041.00"
+        }
+      ]
+    },
+    {
+      "code": "51",
+      "name": "Production",
+      "description": "Make goods — operating, assembling, inspecting, and producing at scale.",
+      "roles": [
+        {
+          "code": "51-1011.00",
+          "title": "First-Line Supervisors of Production and Operating Workers",
+          "summary": "Supervise production lines, output, and safety.",
+          "url": "https://www.onetonline.org/link/summary/51-1011.00"
+        },
+        {
+          "code": "51-2092.00",
+          "title": "Team Assemblers",
+          "summary": "Build products collaboratively on assembly lines and workstations.",
+          "url": "https://www.onetonline.org/link/summary/51-2092.00"
+        },
+        {
+          "code": "51-4041.00",
+          "title": "Machinists",
+          "summary": "Set up and operate machine tools to make precision metal parts.",
+          "url": "https://www.onetonline.org/link/summary/51-4041.00"
+        },
+        {
+          "code": "51-4121.00",
+          "title": "Welders, Cutters, Solderers, and Brazers",
+          "summary": "Join and fabricate metal components using welding processes.",
+          "url": "https://www.onetonline.org/link/summary/51-4121.00"
+        },
+        {
+          "code": "51-9061.00",
+          "title": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+          "summary": "Check product quality against specifications and standards.",
+          "url": "https://www.onetonline.org/link/summary/51-9061.00"
+        },
+        {
+          "code": "51-9111.00",
+          "title": "Packaging and Filling Machine Operators and Tenders",
+          "summary": "Operate machines that fill and package products.",
+          "url": "https://www.onetonline.org/link/summary/51-9111.00"
+        }
+      ]
+    },
+    {
+      "code": "53",
+      "name": "Transportation and Material Moving",
+      "description": "Move people and goods across air, road, rail, and water.",
+      "roles": [
+        {
+          "code": "53-1031.00",
+          "title": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+          "summary": "Supervise transport and material-moving crews and operations.",
+          "url": "https://www.onetonline.org/link/summary/53-1031.00"
+        },
+        {
+          "code": "53-2011.00",
+          "title": "Airline Pilots, Copilots, and Flight Engineers",
+          "summary": "Fly aircraft and manage flight operations safely.",
+          "url": "https://www.onetonline.org/link/summary/53-2011.00"
+        },
+        {
+          "code": "53-3011.00",
+          "title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+          "summary": "Drive and assist ambulance operations for patient transport.",
+          "url": "https://www.onetonline.org/link/summary/53-3011.00"
+        },
+        {
+          "code": "53-3032.00",
+          "title": "Heavy and Tractor-Trailer Truck Drivers",
+          "summary": "Transport goods over long distances safely and on schedule.",
+          "url": "https://www.onetonline.org/link/summary/53-3032.00"
+        },
+        {
+          "code": "53-3033.00",
+          "title": "Light Truck Drivers",
+          "summary": "Deliver goods locally with vans and small trucks.",
+          "url": "https://www.onetonline.org/link/summary/53-3033.00"
+        },
+        {
+          "code": "53-7062.00",
+          "title": "Laborers and Freight, Stock, and Material Movers, Hand",
+          "summary": "Load, unload, and move freight and materials by hand.",
+          "url": "https://www.onetonline.org/link/summary/53-7062.00"
+        }
+      ]
+    },
+    {
+      "code": "55",
+      "name": "Military Occupation Specialties",
+      "description": "Uniformed service roles across enlisted and officer tracks.",
+      "roles": [
+        {
+          "code": "55-1019.00",
+          "title": "Military Officer Special and Tactical Operations Leaders, All Other",
+          "summary": "Lead and coordinate military operations in specialized officer roles.",
+          "url": "https://www.onetonline.org/link/summary/55-1019.00"
+        },
+        {
+          "code": "55-3019.00",
+          "title": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",
+          "summary": "Perform tactical operations, weapons, and aircrew duties as enlisted service members.",
+          "url": "https://www.onetonline.org/link/summary/55-3019.00"
+        }
+      ]
+    }
+  ]
+}

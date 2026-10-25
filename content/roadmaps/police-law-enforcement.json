@@ -1,0 +1,609 @@
+{
+  "slug": "police-law-enforcement",
+  "title": "Police & Law Enforcement",
+  "tagline": "Patrol, investigations, and rank — the dedicated law-enforcement career path.",
+  "summary": "A deep-dive specialization of the Public Safety roadmap: the law-enforcement career from written exam and POST academy through patrol, investigations, specialty units, and rank — plus the professional standards that shape it.",
+  "category": "Health & Public Service",
+  "color": "#4a6fb5",
+  "icon": "shield",
+  "parent": "public-safety",
+  "onetRoles": [
+    "33-3051.00",
+    "33-3021.00"
+  ],
+  "jelCodes": [
+    "K42"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Police and Sheriff's Patrol Officers (33-3051.00)",
+      "url": "https://www.onetonline.org/link/summary/33-3051.00"
+    },
+    {
+      "label": "BLS OOH — Police and Detectives",
+      "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "pl-pipeline",
+      "type": "node",
+      "label": "The Hiring Pipeline",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Law-enforcement hiring runs written exam → physical test → oral board → background investigation → medical/psychological → academy → field training, often over a year.",
+        "why": "Understanding the full pipeline — and staying patient and documented through it — is the first professional skill.",
+        "learn": [
+          "Map the process for three target agencies",
+          "Assemble a complete background file early",
+          "Prepare for each stage deliberately",
+          "Apply broadly and track deadlines"
+        ],
+        "skills": [
+          "Process navigation",
+          "Persistence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3051.00"
+        ]
+      }
+    },
+    {
+      "id": "pl-academy",
+      "type": "node",
+      "label": "POST Academy",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The police academy (typically ~6 months) covers criminal law, traffic law, tactics, driving, fitness, and scenario training to state POST-style standards.",
+        "why": "Academy success is trainable — fitness, study discipline, and stress tolerance are buildable before day one.",
+        "learn": [
+          "Train past the academy's fitness standards",
+          "Build note systems for high-volume legal content",
+          "Practice scenario decisions aloud",
+          "Learn the FTO phase structure ahead"
+        ],
+        "skills": [
+          "Legal knowledge",
+          "Physical readiness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-fto",
+      "type": "node",
+      "label": "Field Training",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Field Training Officer phase pairs recruits with veteran officers for months of evaluated real calls — daily observation reports decide probation.",
+        "why": "FTO is where academy knowledge meets street reality; coachability is the trait FTOs grade hardest.",
+        "learn": [
+          "Own your daily observation reports",
+          "Ask for honest feedback at every shift end",
+          "Practice report writing until drafts need no edits",
+          "Learn your beat's geography cold"
+        ],
+        "skills": [
+          "Coachability",
+          "Report writing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Police and Sheriff's Patrol Officers",
+            "url": "https://www.onetonline.org/link/summary/33-3051.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3051.00"
+        ],
+        "tasks": [
+          "Patrol assigned areas, respond to calls, enforce laws, and prepare case reports for prosecution."
+        ]
+      }
+    },
+    {
+      "id": "pl-patrol",
+      "type": "node",
+      "label": "Patrol Craft",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Patrol work: proactive presence, calls for service, traffic enforcement, de-escalation, arrests, and the judgment calls that define modern policing.",
+        "why": "Patrol is the profession's foundation — every specialty unit recruits from strong patrol performance.",
+        "learn": [
+          "Master the traffic-stop routine and officer safety",
+          "Learn de-escalation and proportionate response",
+          "Write reports that survive court scrutiny",
+          "Know your use-of-force policy thoroughly"
+        ],
+        "skills": [
+          "Patrol tactics",
+          "De-escalation",
+          "Judgment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-reports",
+      "type": "node",
+      "label": "Reports & Court",
+      "x": 1180,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Reports are evidence: chronological, complete, objective writing — and testimony that survives cross-examination starts with the report.",
+        "why": "Cases and careers rise or fall on documentation; great reports make great courtroom days.",
+        "learn": [
+          "Practice factual chronological writing weekly",
+          "Learn to document force decisions precisely",
+          "Observe testimony from the gallery",
+          "Get veteran feedback on five drafts"
+        ],
+        "skills": [
+          "Documentation",
+          "Testimony"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-investigations",
+      "type": "node",
+      "label": "Investigations",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Detective work: case screening, interviews and interrogations, warrants, evidence coordination, and working cases to court — selected from strong patrol records.",
+        "why": "Investigations reward patience and analysis — the classic destination for officers who love casework.",
+        "learn": [
+          "Learn interview vs interrogation frameworks",
+          "Practice warrant-affidavit writing",
+          "Organize case files for prosecutors",
+          "Study one closed case end-to-end"
+        ],
+        "skills": [
+          "Investigation",
+          "Case management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Detectives and Criminal Investigators",
+            "url": "https://www.onetonline.org/link/summary/33-3021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "33-3021.00"
+        ]
+      }
+    },
+    {
+      "id": "pl-evidence",
+      "type": "node",
+      "label": "Evidence & Custody",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Chain of custody is sacred: collection, packaging, labeling, transfer logs, and storage discipline — one gap can destroy a prosecution.",
+        "why": "Evidence handling is unforgiving and teaches the discipline every specialty requires.",
+        "learn": [
+          "Learn collection and packaging standards per evidence type",
+          "Master transfer documentation completely",
+          "Practice courtroom-proof custody habits",
+          "Audit a mock property room for gaps"
+        ],
+        "skills": [
+          "Evidence handling",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-units",
+      "type": "node",
+      "label": "Specialty Units",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialty assignments: K9, traffic/DUI, narcotics, school resource officers, crisis intervention teams, SWAT selection, and task forces with federal partners.",
+        "why": "Specialties keep long careers engaged and build skills agencies and employers prize later.",
+        "learn": [
+          "List your agencies' units and selection bars",
+          "Build the fitness/skills your target unit tests",
+          "Ask unit members what actually gets people selected",
+          "Keep a spotless record as the entry ticket"
+        ],
+        "skills": [
+          "Specialized skills",
+          "Selection readiness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-rank",
+      "type": "node",
+      "label": "Sergeant & Beyond",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Promotions run exams and assessment centers: sergeant (first-line supervision) → lieutenant → captain → command staff — leadership, law, and administration tested throughout.",
+        "why": "Rank multiplies influence over culture and policy — the profession's leadership path.",
+        "learn": [
+          "Get the promotional reading list years early",
+          "Practice supervisory scenario exercises",
+          "Learn budget and discipline administration",
+          "Track eligibility windows and apply every cycle"
+        ],
+        "skills": [
+          "Supervision",
+          "Leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-federal",
+      "type": "node",
+      "label": "Federal Agencies",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Federal law enforcement (FBI, DEA, ATF, Marshal's Service, Homeland Security Investigations) hires from academia and from police experience — with its own academies and relocation expectations.",
+        "why": "Federal careers extend the profession nationally — competitive, well-paid, and selective about records.",
+        "learn": [
+          "Compare federal agencies' missions and entry programs",
+          "Note age limits and fitness standards",
+          "Keep a spotless record from day one",
+          "Learn the federal application rhythm"
+        ],
+        "skills": [
+          "Selection strategy",
+          "Fitness standards"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — law enforcement",
+            "url": "https://www.usajobs.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-community",
+      "type": "node",
+      "label": "Community Trust",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Legitimacy is built in relationships: knowing residents and businesses, transparent communication after incidents, and consistent fair treatment — operationally decisive, not decorative.",
+        "why": "Cooperation determines whether cases get solved — community trust is an investigative asset.",
+        "learn": [
+          "Introduce yourself on your beat by name",
+          "Attend one community meeting per quarter",
+          "Learn your city's oversight structure",
+          "Follow through visibly on resident concerns"
+        ],
+        "skills": [
+          "Community engagement",
+          "Cultural competence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-wellness",
+      "type": "node",
+      "label": "Wellness & Longevity",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The job's exposures — trauma, shifts, hypervigilance — require deliberate sleep, fitness, peer support, and normalizing counseling across a career.",
+        "why": "Officers who use wellness systems early keep judgment sharp and careers long.",
+        "learn": [
+          "Build a shift-work sleep system",
+          "Use peer-support and EAP resources early",
+          "Maintain fitness standards without drama",
+          "Keep one identity fully outside the badge"
+        ],
+        "skills": [
+          "Resilience",
+          "Self-care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-conduct",
+      "type": "node",
+      "label": "Off-Duty Conduct",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Officers are held to off-duty standards: social media, associations, finances, and public behavior are all reviewable — character-and-fitness continues after hiring.",
+        "why": "Most separations trace to off-duty conduct — knowing the rules protects a hard-won career.",
+        "learn": [
+          "Read your agency's conduct policy completely",
+          "Audit your online presence like an investigator",
+          "Keep finances orderly — checks continue",
+          "Disclose and ask when in doubt"
+        ],
+        "skills": [
+          "Professional judgment",
+          "Online hygiene"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladder: recruit → patrol officer → senior/unit officer → detective or sergeant → lieutenant → command; civilian continuations: federal service, security leadership, investigations, training.",
+        "why": "The ladder is transparent and pension-backed — planning branches early compounds into options.",
+        "learn": [
+          "Map the ladder and its timelines at your agency",
+          "Decide specialist-depth vs leadership-breadth",
+          "Build transferable skills from year five",
+          "Set a 20-year sketch with checkpoints"
+        ],
+        "skills": [
+          "Career planning",
+          "Pension planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Police and Detectives",
+            "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-civilian",
+      "type": "node",
+      "label": "Civilian Continuation",
+      "variant": "muted",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Post-service branches: security leadership, corporate investigations, emergency management, insurance investigation, and training roles — all valuing sworn experience.",
+        "why": "Knowing the landing zones makes service careers safer bets and shapes smart specializations.",
+        "learn": [
+          "List post-service roles common in your region",
+          "Note certifications private employers value",
+          "Build outside networks from year five",
+          "Keep a transferable-skills inventory"
+        ],
+        "skills": [
+          "Transfer planning",
+          "Certification research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Protective Service occupations",
+            "url": "https://www.bls.gov/ooh/protective-service/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "pl-g-craft",
+      "type": "group",
+      "label": "PATROL & CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "pl-g-special",
+      "type": "group",
+      "label": "INVESTIGATE & SPECIALIZE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 134
+    }
+  ],
+  "edges": [
+    {
+      "from": "pl-pipeline",
+      "to": "pl-academy"
+    },
+    {
+      "from": "pl-academy",
+      "to": "pl-fto"
+    },
+    {
+      "from": "pl-fto",
+      "to": "pl-patrol"
+    },
+    {
+      "from": "pl-patrol",
+      "to": "pl-reports"
+    },
+    {
+      "from": "pl-reports",
+      "to": "pl-investigations",
+      "dashed": true
+    },
+    {
+      "from": "pl-investigations",
+      "to": "pl-evidence"
+    },
+    {
+      "from": "pl-evidence",
+      "to": "pl-units",
+      "dashed": true
+    },
+    {
+      "from": "pl-patrol",
+      "to": "pl-units",
+      "dashed": true
+    },
+    {
+      "from": "pl-units",
+      "to": "pl-rank",
+      "dashed": true
+    },
+    {
+      "from": "pl-rank",
+      "to": "pl-federal",
+      "dashed": true
+    },
+    {
+      "from": "pl-career",
+      "to": "pl-wellness",
+      "dashed": true
+    },
+    {
+      "from": "pl-patrol",
+      "to": "pl-community"
+    },
+    {
+      "from": "pl-community",
+      "to": "pl-career"
+    },
+    {
+      "from": "pl-career",
+      "to": "pl-conduct",
+      "dashed": true
+    },
+    {
+      "from": "pl-reports",
+      "to": "pl-career"
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "slug": "dental-careers",
+  "title": "Dental Careers",
+  "tagline": "Assistants, hygienists, and dentists — the dedicated dental team path.",
+  "summary": "A deep-dive specialization of the Healthcare Careers roadmap: the dental team from assistant to hygienist to dentist — training, licensing, clinical skills, and practice roles.",
+  "category": "Health & Public Service",
+  "color": "#5eb0e5",
+  "icon": "heart",
+  "parent": "healthcare",
+  "onetRoles": [
+    "31-9091.00",
+    "29-2021.00",
+    "29-1021.00"
+  ],
+  "jelCodes": [
+    "I11"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Dental Hygienists (29-2021.00)",
+      "url": "https://www.onetonline.org/link/summary/29-2021.00"
+    },
+    {
+      "label": "BLS OOH — Dental Hygienists",
+      "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "dn-map",
+      "type": "node",
+      "label": "The Dental Team",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dental practices run on a team: dentists diagnose and treat, hygienists provide preventive care, assistants support procedures, and front office staff manage scheduling and insurance.",
+        "why": "Dental careers offer strong pay, regular hours (no nights), and clear tiers — each with a distinct training path.",
+        "learn": [
+          "Read the BLS OOH dental hygienists profile",
+          "Compare assistant vs hygienist vs dentist schooling",
+          "Shadow a dental office for a day",
+          "Note your state's dental-board requirements"
+        ],
+        "skills": [
+          "Team awareness",
+          "Dexterity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Hygienists",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Dental Hygienists",
+            "url": "https://www.onetonline.org/link/summary/29-2021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2021.00"
+        ]
+      }
+    },
+    {
+      "id": "dn-terminology",
+      "type": "node",
+      "label": "Dental Terminology",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Tooth numbering systems, surfaces, procedures (fillings, crowns, root canals), and charting shorthand — the language of every dental office.",
+        "why": "Terminology fluency is the entry ticket for any dental role and appears on every certification exam.",
+        "learn": [
+          "Learn universal tooth numbering",
+          "Master surface names and common procedures",
+          "Practice reading a mock dental chart",
+          "Learn the major specialties (ortho, endo, perio)"
+        ],
+        "skills": [
+          "Dental terminology",
+          "Charting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Assistants",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-shadow",
+      "type": "node",
+      "label": "Observe & Shadow",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dental schools and employers value observation hours; shadowing a hygienist or assistant shows you the pace, precision, and patient interaction honestly.",
+        "why": "Dental work is fine-motor and repetitive — confirming your fit before tuition protects your investment.",
+        "learn": [
+          "Arrange 2 shadow days at local practices",
+          "Log what surprised you about the work",
+          "Note the ergonomics and posture demands",
+          "Collect a reference from the practice"
+        ],
+        "skills": [
+          "Self-assessment",
+          "Fit confirmation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Assistants",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-assistant",
+      "type": "node",
+      "label": "Dental Assistant",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Assistants prepare patients, sterilize instruments, pass instruments chairside, take impressions, and manage the operatory — trained on the job or through programs, with optional DANB certification.",
+        "why": "Assisting is the fastest entry (months), and DANB certification makes you the hire every office wants.",
+        "learn": [
+          "Train on the job or complete a 9–12 month program",
+          "Earn the DANB CDA credential if your state values it",
+          "Master four-handed dentistry technique",
+          "Learn sterilization and infection-control standards"
+        ],
+        "skills": [
+          "Chairside assisting",
+          "Sterilization"
+        ],
+        "certs": [
+          {
+            "name": "CDA (DANB)",
+            "issuer": "Dental Assisting National Board",
+            "note": "Certified Dental Assistant credential — exam-based; required or valued in many states for expanded functions."
+          }
+        ],
+        "resources": [
+          {
+            "title": "DANB — certification",
+            "url": "https://www.danb.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "O*NET — Dental Assistants",
+            "url": "https://www.onetonline.org/link/summary/31-9091.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "31-9091.00"
+        ],
+        "tasks": [
+          "Assist dentist at chairside, set up instrument trays, sterilize and disinfect instruments and equipment."
+        ]
+      }
+    },
+    {
+      "id": "dn-radiology",
+      "type": "node",
+      "label": "Radiography Cert",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Taking dental X-rays legally requires radiation-safety training and, in most states, a specific certification or module — a core assistant/hygienist skill.",
+        "why": "Radiography certification is often the first credential a dental assistant earns and unlocks more chairside value.",
+        "learn": [
+          "Complete a radiation-health-and-safety course",
+          "Practice positioning techniques on training manikins",
+          "Learn your state's exact X-ray legal requirements",
+          "Master digital sensor and film workflows"
+        ],
+        "skills": [
+          "Radiography",
+          "Radiation safety"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DANB — radiation health and safety",
+            "url": "https://www.danb.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-assistant2",
+      "type": "node",
+      "label": "Expanded Functions",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Many states allow certified assistants to perform expanded functions — sealants, coronal polishing, temporary crowns — under supervision, boosting pay and responsibility.",
+        "why": "Expanded functions are the assistant career's growth lever: more clinical value, higher wages.",
+        "learn": [
+          "Learn your state's expanded-functions list",
+          "Train through board-approved courses",
+          "Document certifications for employers",
+          "Practice the new skills until chairside-fast"
+        ],
+        "skills": [
+          "Expanded functions",
+          "State compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "DANB — certification",
+            "url": "https://www.danb.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-front",
+      "type": "node",
+      "label": "Front Office & Insurance",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Treatment coordinators and front-desk staff handle scheduling, insurance verification, treatment-plan presentations, and the payment conversations that keep practices running.",
+        "why": "Every practice needs people who can explain treatment and costs kindly — a non-clinical career with clinical knowledge.",
+        "learn": [
+          "Learn dental insurance basics: premiums, coverage, pre-auth",
+          "Practice presenting a treatment plan with costs",
+          "Master dental practice software basics",
+          "Learn recall-system management"
+        ],
+        "skills": [
+          "Insurance literacy",
+          "Treatment presentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Assistants",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-hygiene",
+      "type": "node",
+      "label": "Dental Hygienist",
+      "variant": "accent",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hygienists complete an accredited associate or bachelor program, pass national and state/regional board exams, and deliver preventive care: cleanings, scaling, sealants, and patient education.",
+        "why": "Hygiene is one of healthcare's best work-life careers — strong pay, regular hours, and direct patient impact.",
+        "learn": [
+          "Complete an accredited dental hygiene program (2–4 years)",
+          "Pass the national board and clinical exam (e.g., regional)",
+          "Obtain state licensure and renew with CE",
+          "Master periodontal assessment and instrumentation"
+        ],
+        "skills": [
+          "Periodontal care",
+          "Patient education"
+        ],
+        "certs": [
+          {
+            "name": "RDH License",
+            "issuer": "State dental boards (national + regional exams)",
+            "note": "Registered Dental Hygienist licensure after an accredited program and board examinations; renewal requires continuing education."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ADHA — hygienist career",
+            "url": "https://www.adha.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "BLS OOH — Dental Hygienists",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2021.00"
+        ],
+        "tasks": [
+          "Administer oral hygiene care to patients, assess oral disease, and provide preventive clinical services and health education."
+        ]
+      }
+    },
+    {
+      "id": "dn-dentist",
+      "type": "node",
+      "label": "Dentist Path",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dentists complete a bachelor's-heavy prerequisite path, the DAT exam, four years of dental school (DDS/DMD), then state licensure — with specialties requiring residencies.",
+        "why": "Dentistry combines medicine, craftsmanship, and business ownership — among the highest-paying licensed professions.",
+        "learn": [
+          "Research dental school prerequisites and the DAT",
+          "Build shadowing and manual-dexterity evidence",
+          "Compare in-state vs private dental school costs",
+          "Plan for general practice vs specialty residencies"
+        ],
+        "skills": [
+          "Clinical dentistry",
+          "Manual dexterity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ADA — dental education",
+            "url": "https://www.ada.org/",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Dentists, General",
+            "url": "https://www.onetonline.org/link/summary/29-1021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1021.00"
+        ]
+      }
+    },
+    {
+      "id": "dn-patient",
+      "type": "node",
+      "label": "Patient Comfort",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dental anxiety is universal: calm explanations before and during procedures, gentle technique, breaks on request, and honest pain management conversations.",
+        "why": "Practices win lifelong patients through comfort — soft skills are as marketable as clinical ones.",
+        "learn": [
+          "Learn anxiety-reducing communication scripts",
+          "Practice stop-signal systems with patients",
+          "Master gentle-injection technique concepts",
+          "Follow up after difficult visits"
+        ],
+        "skills": [
+          "Anxiety management",
+          "Patient communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Hygienists",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-ergo",
+      "type": "node",
+      "label": "Ergonomics",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dental work is precision posture work: proper seating, loupes, instrument grip, and stretch routines prevent the chronic neck/back injuries common in the field.",
+        "why": "Career longevity in dentistry is ergonomics — the practitioners who last set up right from day one.",
+        "learn": [
+          "Learn neutral posture positioning chairside",
+          "Consider loupes early — posture follows magnification",
+          "Build a daily stretching routine",
+          "Adjust your operatory to your body"
+        ],
+        "skills": [
+          "Ergonomics",
+          "Self-care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Hygienists",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-infection",
+      "type": "node",
+      "label": "Infection Control",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dental infection control: instrument sterilization cycles, surface barriers, waterline maintenance, and exposure protocols — regulated and inspected.",
+        "why": "Infection control is every dental role's legal duty — mastery here is non-negotiable and examined.",
+        "learn": [
+          "Learn CDC dental infection-control guidelines",
+          "Master sterilizer monitoring and recordkeeping",
+          "Practice exposure-response procedures",
+          "Audit your operatory monthly"
+        ],
+        "skills": [
+          "Infection control",
+          "Standards compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CDC — dental infection control",
+            "url": "https://www.cdc.gov/oralhealth/infectioncontrol/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-specialties",
+      "type": "node",
+      "label": "Specialties",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dental specialties (orthodontics, endodontics, oral surgery, pediatric, periodontics) require residencies for dentists; hygienists and assistants also specialize by practice type.",
+        "why": "Specialty practices pay more and work differently — knowing them early shapes training choices.",
+        "learn": [
+          "Learn each specialty's scope in one line",
+          "Note residency length for dentist specialties",
+          "Explore specialty-practice employment for hygienists",
+          "Pick a practice type you'd enjoy"
+        ],
+        "skills": [
+          "Specialty awareness",
+          "Practice-type planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ADA — recognized specialties",
+            "url": "https://www.ada.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: assistant → expanded-functions assistant or hygiene school → hygienist → practice roles; assistant/hygienist → office management; pre-dental → dentist → practice owner.",
+        "why": "Dentistry's tiers are licensable and visible — each step earns while you train for the next.",
+        "learn": [
+          "Map your target tier's exact requirements",
+          "Identify the bridge programs between tiers",
+          "Find a mentor at your target tier",
+          "Set a 5-year plan with exam dates"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Hygienists",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-temp",
+      "type": "node",
+      "label": "Temp & Flex Work",
+      "variant": "muted",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Temporary staffing is big in dental: temp agencies place hygienists and assistants for vacations, maternity leaves, and shortages — often at premium rates.",
+        "why": "Temp work offers schedule freedom and market-rate pay — ideal for parents, students, and testers of the field.",
+        "learn": [
+          "Register with 2 dental temp agencies",
+          "Learn temp expectations: new charts, new systems weekly",
+          "Track your availability and rate honestly",
+          "Use temp roles to find permanent fits"
+        ],
+        "skills": [
+          "Adaptability",
+          "Rate negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Dental Hygienists",
+            "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-practice",
+      "type": "node",
+      "label": "Practice Ownership",
+      "variant": "muted",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dentists often become practice owners: purchasing or starting practices, managing staff and equipment financing, and building patient bases — business school plus clinic.",
+        "why": "Ownership is where dental income peaks — and it requires business skills dental school doesn't teach.",
+        "learn": [
+          "Learn practice-valuation basics",
+          "Study dental-specific financing and loans",
+          "Shadow an owner-dentist on the business side",
+          "Take practice-management coursework"
+        ],
+        "skills": [
+          "Practice management",
+          "Entrepreneurship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ADA — practice resources",
+            "url": "https://www.ada.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "dn-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "dn-g-roles",
+      "type": "group",
+      "label": "ROLES & CREDENTIALS",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "dn-g-craft",
+      "type": "group",
+      "label": "CLINICAL CRAFT",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "dn-g-ladder",
+      "type": "group",
+      "label": "LADDER & PATHS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    }
+  ],
+  "edges": [
+    {
+      "from": "dn-map",
+      "to": "dn-terminology"
+    },
+    {
+      "from": "dn-map",
+      "to": "dn-shadow",
+      "dashed": true
+    },
+    {
+      "from": "dn-terminology",
+      "to": "dn-assistant"
+    },
+    {
+      "from": "dn-shadow",
+      "to": "dn-assistant",
+      "dashed": true
+    },
+    {
+      "from": "dn-assistant",
+      "to": "dn-radiology"
+    },
+    {
+      "from": "dn-assistant",
+      "to": "dn-assistant2"
+    },
+    {
+      "from": "dn-front",
+      "to": "dn-assistant2",
+      "dashed": true
+    },
+    {
+      "from": "dn-assistant",
+      "to": "dn-hygiene"
+    },
+    {
+      "from": "dn-hygiene",
+      "to": "dn-dentist",
+      "dashed": true
+    },
+    {
+      "from": "dn-assistant",
+      "to": "dn-front",
+      "dashed": true
+    },
+    {
+      "from": "dn-hygiene",
+      "to": "dn-patient"
+    },
+    {
+      "from": "dn-hygiene",
+      "to": "dn-ergo"
+    },
+    {
+      "from": "dn-infection",
+      "to": "dn-hygiene",
+      "dashed": true
+    },
+    {
+      "from": "dn-assistant",
+      "to": "dn-infection"
+    },
+    {
+      "from": "dn-dentist",
+      "to": "dn-specialties",
+      "dashed": true
+    },
+    {
+      "from": "dn-hygiene",
+      "to": "dn-career"
+    },
+    {
+      "from": "dn-career",
+      "to": "dn-temp",
+      "dashed": true
+    },
+    {
+      "from": "dn-dentist",
+      "to": "dn-practice",
+      "dashed": true
+    }
+  ]
+}

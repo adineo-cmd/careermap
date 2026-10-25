@@ -1,0 +1,893 @@
+{
+  "slug": "events-travel",
+  "title": "Events & Tourism",
+  "tagline": "Event planners, travel agents, and tour guides — crafting experiences people remember.",
+  "summary": "Events and tourism turn logistics into memories: meeting and wedding planners, travel advisors, tour guides, and destination marketers. This roadmap covers the planning craft (budgets, vendors, day-of execution), the travel-advisor path, certifications, and building an experience business.",
+  "category": "Service & Hospitality",
+  "color": "#d9a05b",
+  "icon": "compass",
+  "onetRoles": [
+    "13-1121.00",
+    "39-7011.00",
+    "41-3041.00",
+    "39-6012.00"
+  ],
+  "jelCodes": [
+    "L83"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Meeting, Convention, and Event Planners (13-1121.00)",
+      "url": "https://www.onetonline.org/link/summary/13-1121.00"
+    },
+    {
+      "label": "BLS OOH — Meeting, Convention, and Event Planners",
+      "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ev-explore",
+      "type": "node",
+      "label": "The Experience Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The experience economy spans event planning (weddings, corporate, conferences), travel advising, tour operations, and venue/destination work — detail-obsessed, people-forward careers.",
+        "why": "Experience businesses reward organization and taste equally, hire from any background, and scale from freelance to agency.",
+        "learn": [
+          "Read the BLS OOH event planners profile",
+          "Attend one wedding or corporate event as an observer",
+          "Note which side pulls you: planning or travel",
+          "List your market's biggest event venues and DMO"
+        ],
+        "skills": [
+          "Organization",
+          "Taste",
+          "People skills"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Meeting, Convention, and Event Planners",
+            "url": "https://www.onetonline.org/link/summary/13-1121.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1121.00"
+        ],
+        "tasks": [
+          "Plan, direct, or coordinate activities of an organization or department that serves the public, organizes events, or provides lodging and related services."
+        ]
+      }
+    },
+    {
+      "id": "ev-roles",
+      "type": "node",
+      "label": "Planner vs Advisor",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Planners design and execute events in place; travel advisors design journeys across places; tour guides deliver them live. The skills overlap — logistics, vendors, and reading people.",
+        "why": "Knowing which craft you want determines your portfolio, certifications, and first clients.",
+        "learn": [
+          "Compare the day-to-day of each role honestly",
+          "Shadow one planner and one guide if possible",
+          "Note start-up costs per path",
+          "Pick a primary and a future crossover"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Portfolio planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-foundations",
+      "type": "node",
+      "label": "Logistics Foundations",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The universal craft: timelines backward from the date, budgets with contingency lines, vendor coordination, and checklists that assume nothing.",
+        "why": "Experience businesses fail on logistics, not creativity — foundational discipline is the moat.",
+        "learn": [
+          "Build a backward timeline for a mock event",
+          "Draft a budget with 10% contingency",
+          "Run a vendor-communication tracker",
+          "Practice the master checklist habit"
+        ],
+        "skills": [
+          "Logistics",
+          "Budget management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — business planning",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-people",
+      "type": "node",
+      "label": "People-First Skills",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Events are emotional for clients: listening to visions, translating them to budgets, managing family/stakeholder dynamics, and staying calm when things break.",
+        "why": "Clients hire calm. Composure plus empathy is the actual product in weddings, galas, and tours alike.",
+        "learn": [
+          "Practice the vision-intake conversation",
+          "Role-play a budget disappointment kindly",
+          "Learn a vendor-conflict de-escalation script",
+          "Build your 'things will go wrong' recovery kit"
+        ],
+        "skills": [
+          "Client empathy",
+          "Composure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-types",
+      "type": "node",
+      "label": "Event Types",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Each event type has its own economics and rhythm: weddings (emotional, high-touch), corporate (structured, repeatable), conferences (scale and AV), galas (fundraising), social parties.",
+        "why": "Specialists charge more and refer less competition — pick a type to master first.",
+        "learn": [
+          "Compare run-of-show complexity across three types",
+          "Note which type matches your temperament",
+          "Study one type's vendor ecosystem",
+          "Choose your specialty"
+        ],
+        "skills": [
+          "Specialty selection",
+          "Vendor ecosystems"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-budget",
+      "type": "node",
+      "label": "Budgets & Vendors",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The money craft: allocation templates, vendor quotes and contracts, payment schedules, insurance requirements, and the negotiation that protects both sides.",
+        "why": "Budget mastery is why planners get rehired — overspend once and the reputation follows.",
+        "learn": [
+          "Build a category allocation template (venue, F&B, AV, decor)",
+          "Read a vendor contract for hidden fees",
+          "Learn deposit and cancellation norms",
+          "Negotiate one mock vendor package"
+        ],
+        "skills": [
+          "Budget craft",
+          "Contract literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — contracts and pricing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-venues",
+      "type": "node",
+      "label": "Venues & Logistics",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Site craft: venue scouting, floor plans, capacity and fire codes, load-in/load-out, AV and power needs, accessibility, and the run-of-show that choreographs it all.",
+        "why": "Logistics fluency is what separates planners from decorators — it's the promotable skill.",
+        "learn": [
+          "Tour 3 venues and note their constraints",
+          "Draft a run-of-show to 15-minute resolution",
+          "Learn load-in/load-out scheduling",
+          "Build an accessibility checklist"
+        ],
+        "skills": [
+          "Venue logistics",
+          "Run-of-show planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-dayof",
+      "type": "node",
+      "label": "Day-of Execution",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The live craft: directing vendors, managing timelines, handling guests, absorbing surprises invisibly, and closing out with teardown and settlements.",
+        "why": "Day-of composure is what clients remember and refer — it is the audition for every future contract.",
+        "learn": [
+          "Coordinate one real event as second/assistant",
+          "Practice the invisible-fix mindset (no drama)",
+          "Build an emergency kit and vendor phone tree",
+          "Debrief every event: what broke, what saved it"
+        ],
+        "skills": [
+          "Live coordination",
+          "Crisis absorption"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-weddings",
+      "type": "node",
+      "label": "Weddings Track",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Wedding planning is the best-known specialty: full-service vs month-of coordination, family dynamics, vendor dreams vs budgets, and a 12-month planning arc.",
+        "why": "Weddings are the highest-emotion, highest-referral niche — a portfolio of three good ones launches a business.",
+        "learn": [
+          "Learn the 12-month wedding planning arc",
+          "Practice family-dynamics conversations",
+          "Build a preferred-vendor list for one venue",
+          "Offer month-of coordination to build reviews"
+        ],
+        "skills": [
+          "Wedding logistics",
+          "Family management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-corporate",
+      "type": "node",
+      "label": "Corporate & Conferences",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Corporate events run on objectives and ROI: conferences with registration and AV, product launches, retreats, and repeatable annual budgets — steadier than weddings.",
+        "why": "Corporate clients rebook annually — one good conference relationship can fund a year.",
+        "learn": [
+          "Learn registration and attendee-tracking basics",
+          "Understand AV/production terminology",
+          "Draft a conference run-of-show",
+          "Ask a corporate planner about sponsor sales"
+        ],
+        "skills": [
+          "Conference logistics",
+          "Stakeholder management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-travel",
+      "type": "node",
+      "label": "Travel Advisor Path",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Modern travel advisors are designers and advocates: itineraries, supplier relationships (cruises, tours, resorts), commissions from suppliers, and troubleshooting when travel breaks.",
+        "why": "The advisor profession rebuilt itself post-internet by selling expertise and service — complex trips are back in demand.",
+        "learn": [
+          "Compare host-agency vs independent advisor models",
+          "Learn commission structures (suppliers pay advisors)",
+          "Pick a specialization: honeymoons, groups, adventure",
+          "Take a supplier's free agent-training program"
+        ],
+        "skills": [
+          "Itinerary design",
+          "Supplier knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Travel Agents",
+            "url": "https://www.onetonline.org/link/summary/41-3041.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Travel Agents",
+            "url": "https://www.bls.gov/ooh/sales/travel-agents.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-3041.00"
+        ]
+      }
+    },
+    {
+      "id": "ev-guide",
+      "type": "node",
+      "label": "Tour Guide Craft",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Guides deliver experiences live: storytelling, group management, pacing, safety, and local depth — walking tours, museums, adventure, and multi-day coach tours.",
+        "why": "Guiding is the fastest entry into tourism (often seasonal) and the best public-speaking training money can't buy.",
+        "learn": [
+          "Write and rehearse a 10-minute walking tour",
+          "Learn group-management and safety basics",
+          "Get first-aid certification if leading actively",
+          "Collect guest feedback after every tour"
+        ],
+        "skills": [
+          "Storytelling",
+          "Group management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Tour Guides and Escorts",
+            "url": "https://www.onetonline.org/link/summary/39-7011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-7011.00"
+        ]
+      }
+    },
+    {
+      "id": "ev-systems",
+      "type": "node",
+      "label": "Booking Systems",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The trade's tools: consumer booking sites (for research), agency platforms, CRM and itinerary builders, and registration/RSVP systems for events.",
+        "why": "Advisors and planners run on systems — the right stack makes one person look like a team.",
+        "learn": [
+          "Trial 2 itinerary-builder or event platforms",
+          "Learn one registration/RSVP system end-to-end",
+          "Automate your client intake and proposals",
+          "Keep client data organized and private"
+        ],
+        "skills": [
+          "Systems fluency",
+          "Automation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — business tools",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-cmp",
+      "type": "node",
+      "label": "Certifications",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The recognized credentials: CMP (Events Industry Council, for experienced planners), CTA-style travel credentials (The Travel Institute), and destination-specialist courses from tourism boards.",
+        "why": "Certifications open corporate RFPs and supplier trust — most require experience first, so plan them at the right stage.",
+        "learn": [
+          "Check CMP eligibility (experience-heavy) for later",
+          "Explore The Travel Institute's entry credentials now",
+          "Take a destination-specialist course for your niche",
+          "Track CE requirements if certified"
+        ],
+        "skills": [
+          "Credential planning",
+          "Experience requirements"
+        ],
+        "certs": [
+          {
+            "name": "CMP",
+            "issuer": "Events Industry Council",
+            "note": "Certified Meeting Professional — requires substantial documented event experience plus an exam."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Events Industry Council — CMP",
+            "url": "https://www.eventscouncil.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "The Travel Institute",
+            "url": "https://thetravelinstitute.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-business",
+      "type": "node",
+      "label": "Building the Business",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Going independent: legal structure, contracts and liability insurance, pricing (flat fee vs percentage vs commission), and a portfolio that sells before you do.",
+        "why": "Independence is the field's wealth path — the planners and advisors who systemize early own the businesses later.",
+        "learn": [
+          "Register the business and get liability insurance",
+          "Build a contract template with a lawyer's review",
+          "Price your first year conservatively",
+          "Collect testimonials from every client"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Pricing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-portfolio",
+      "type": "node",
+      "label": "Portfolio & Reviews",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Your proof is visual and verbal: photo galleries, styled-shoot participation, video snippets, and honest reviews on the platforms your clients actually check.",
+        "why": "Experience businesses sell trust — a strong portfolio converts strangers into inquiries without ads.",
+        "learn": [
+          "Shoot every event professionally (hire or trade)",
+          "Publish 3 case studies: challenge, choices, outcome",
+          "Ask for reviews at the emotional peak",
+          "Refresh your portfolio quarterly"
+        ],
+        "skills": [
+          "Portfolio building",
+          "Review generation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-destination",
+      "type": "node",
+      "label": "Destination & DMOs",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Destinations have professional sides too: convention & visitors bureaus (DMOs), tourism boards, and hotels' own event-sales teams — salaried roles in the same ecosystem.",
+        "why": "DMO and hotel-sales roles offer the sector with a salary — and make you the person planners call.",
+        "learn": [
+          "Find your local DMO and follow their work",
+          "Explore hotel event-sales career pages",
+          "Learn how DMOs court meeting planners",
+          "Offer to help host a familiarization tour"
+        ],
+        "skills": [
+          "Destination knowledge",
+          "B2B sales"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Destinations International",
+            "url": "https://www.destinationsinternational.org/",
+            "kind": "community"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Planner ladder: coordinator → planner → senior → director of events or agency owner. Travel ladder: advisor → specialty advisor → agency owner. Guides grow into tour operators.",
+        "why": "The experience economy rewards reputation compounding — every well-run event or trip is a seed for the next tier.",
+        "learn": [
+          "Map the ladder for your lane with real postings",
+          "Choose year-one focus: skill depth or client volume",
+          "Find a mentor one tier ahead",
+          "Set a 3-year revenue or role goal"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Meeting, Convention, and Event Planners",
+            "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-season",
+      "type": "node",
+      "label": "Seasonality Reality",
+      "variant": "muted",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Weddings cluster in warm months, conferences follow fiscal calendars, tourism peaks seasonally — income arrives in waves, so planning and saving are professional skills.",
+        "why": "The field's biggest survival error is treating peak-season income as steady income.",
+        "learn": [
+          "Map your market's season calendar",
+          "Price peak work to carry the valleys",
+          "Build 3–6 months of reserves",
+          "Develop an off-season product (planning, consulting)"
+        ],
+        "skills": [
+          "Financial planning",
+          "Off-season products"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — managing finances",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-safety",
+      "type": "node",
+      "label": "Safety & Accessibility",
+      "variant": "muted",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Responsible experience design: crowd safety, weather and emergency plans, dietary and accessibility inclusion, and travel advisories — invisible when done right, catastrophic when ignored.",
+        "why": "One safety failure ends an experience business; inclusion and safety are now buying criteria.",
+        "learn": [
+          "Build an emergency-action plan per event/tour",
+          "Get first-aid/CPR certified",
+          "Learn accessibility-inclusive design basics",
+          "Follow official travel advisories for clients"
+        ],
+        "skills": [
+          "Safety planning",
+          "Inclusive design"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USA.gov — travel advisories",
+            "url": "https://www.usa.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-sustain",
+      "type": "node",
+      "label": "Sustainable Events",
+      "variant": "muted",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sustainable practice is now standard: waste reduction, local sourcing, carbon-conscious travel choices, and honest measurement — clients and venues increasingly require it.",
+        "why": "Sustainability literacy wins corporate RFPs and differentiates weddings and tours alike.",
+        "learn": [
+          "Learn waste-reduction options per event type",
+          "Practice sourcing local vendors first",
+          "Measure one event's waste honestly",
+          "Market improvements factually, not as greenwash"
+        ],
+        "skills": [
+          "Sustainable practice",
+          "Client communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "EPA — sustainable materials management",
+            "url": "https://www.epa.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ev-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ev-g-craft",
+      "type": "group",
+      "label": "THE CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ev-g-lanes",
+      "type": "group",
+      "label": "PLAN & TRAVEL",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ev-g-business",
+      "type": "group",
+      "label": "BUSINESS & CREDENTIALS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ev-g-ladder",
+      "type": "group",
+      "label": "LADDER & DESTINATIONS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ev-g-real",
+      "type": "group",
+      "label": "REALITIES & RESPONSIBILITY",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "ev-explore",
+      "to": "ev-roles"
+    },
+    {
+      "from": "ev-explore",
+      "to": "ev-foundations"
+    },
+    {
+      "from": "ev-explore",
+      "to": "ev-people"
+    },
+    {
+      "from": "ev-roles",
+      "to": "ev-types"
+    },
+    {
+      "from": "ev-foundations",
+      "to": "ev-budget"
+    },
+    {
+      "from": "ev-budget",
+      "to": "ev-venues"
+    },
+    {
+      "from": "ev-venues",
+      "to": "ev-dayof"
+    },
+    {
+      "from": "ev-types",
+      "to": "ev-weddings",
+      "dashed": true
+    },
+    {
+      "from": "ev-types",
+      "to": "ev-corporate",
+      "dashed": true
+    },
+    {
+      "from": "ev-people",
+      "to": "ev-travel",
+      "dashed": true
+    },
+    {
+      "from": "ev-people",
+      "to": "ev-guide",
+      "dashed": true
+    },
+    {
+      "from": "ev-dayof",
+      "to": "ev-systems",
+      "dashed": true
+    },
+    {
+      "from": "ev-travel",
+      "to": "ev-systems"
+    },
+    {
+      "from": "ev-dayof",
+      "to": "ev-cmp",
+      "dashed": true
+    },
+    {
+      "from": "ev-travel",
+      "to": "ev-cmp",
+      "dashed": true
+    },
+    {
+      "from": "ev-cmp",
+      "to": "ev-business"
+    },
+    {
+      "from": "ev-business",
+      "to": "ev-portfolio"
+    },
+    {
+      "from": "ev-portfolio",
+      "to": "ev-destination",
+      "dashed": true
+    },
+    {
+      "from": "ev-portfolio",
+      "to": "ev-career"
+    },
+    {
+      "from": "ev-career",
+      "to": "ev-season",
+      "dashed": true
+    },
+    {
+      "from": "ev-career",
+      "to": "ev-safety",
+      "dashed": true
+    },
+    {
+      "from": "ev-career",
+      "to": "ev-sustain",
+      "dashed": true
+    }
+  ]
+}

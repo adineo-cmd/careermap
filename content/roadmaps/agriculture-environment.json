@@ -1,0 +1,1067 @@
+{
+  "slug": "agriculture-environment",
+  "title": "Agriculture & Environment",
+  "tagline": "Farming, forestry, conservation, and environmental science — working with land, water, and ecosystems.",
+  "summary": "Food and environment careers span hands-on production agriculture, skilled equipment work, forestry and conservation fieldwork, and environmental science roles in compliance and stewardship. This roadmap covers production fundamentals, the science track, key licenses, and where public and private jobs actually are.",
+  "category": "Health & Public Service",
+  "color": "#74a852",
+  "icon": "leaf",
+  "onetRoles": [
+    "45-2092.00",
+    "45-1011.00",
+    "19-1041.00",
+    "19-1031.00",
+    "45-4011.00"
+  ],
+  "jelCodes": [
+    "Q10",
+    "Q20"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Environmental Scientists and Specialists (19-1041.00)",
+      "url": "https://www.onetonline.org/link/summary/19-1041.00"
+    },
+    {
+      "label": "BLS OOH — Agricultural Workers",
+      "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm"
+    },
+    {
+      "label": "BLS OOH — Environmental Scientists and Specialists",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ae-explore",
+      "type": "node",
+      "label": "Land & Environment Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "This field spans production agriculture (crops, livestock, nurseries), forestry and conservation work, environmental science and compliance, and the businesses around them — equipment, inputs, and land management.",
+        "why": "It is essential work with real labor shortages — and two distinct tracks: hands-on production and science-based stewardship.",
+        "learn": [
+          "Read BLS profiles for agricultural workers and environmental scientists",
+          "Compare production vs conservation vs science tracks",
+          "Tour a farm, nursery, or forestry site near you",
+          "Decide: outdoors craft, science office+field mix, or both"
+        ],
+        "skills": [
+          "Systems awareness",
+          "Physical stamina",
+          "Scientific curiosity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Agricultural Workers",
+            "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Environmental Scientists and Specialists",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "45-2092.00",
+          "19-1041.00"
+        ]
+      }
+    },
+    {
+      "id": "ae-tracks",
+      "type": "node",
+      "label": "Production vs Science",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Production careers learn through seasons and apprenticeship-like progression; science careers (environmental, conservation, forestry) usually need a bachelor's and mix fieldwork with analysis and permitting.",
+        "why": "The two tracks have different entry costs, education needs, and lifestyles — choosing early shapes your next five years.",
+        "learn": [
+          "Compare entry requirements side by side",
+          "Shadow one producer and one scientist if possible",
+          "Check local employers: farms, agencies, consultancies",
+          "Note which track's seasonality suits your life"
+        ],
+        "skills": [
+          "Career planning",
+          "Decision analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Farming, Fishing, and Forestry",
+            "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-season",
+      "type": "node",
+      "label": "Seasons & Physical Reality",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Agricultural work follows seasons: planting, cultivation, harvest, and maintenance cycles with weather dependency and physically demanding field conditions.",
+        "why": "Planning around seasonality — income, hours, migration of work — is career literacy in this field, not an afterthought.",
+        "learn": [
+          "Map your region's crop calendar",
+          "Plan finances for seasonal income gaps",
+          "Learn heat/cold/weather safety standards",
+          "Talk to growers about their least-glamorous weeks"
+        ],
+        "skills": [
+          "Planning",
+          "Resilience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Agricultural Workers",
+            "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-jobs",
+      "type": "node",
+      "label": "Where the Jobs Are",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Employers include farms and nurseries, ag cooperatives and suppliers, landscaping firms, forestry and conservation agencies, environmental consultancies, and government (agriculture, environment, parks).",
+        "why": "Knowing the employer map turns 'I love the outdoors' into a specific first job application.",
+        "learn": [
+          "List 10 employers within driving distance",
+          "Check your state's agriculture and environment agency job boards",
+          "Note cooperative extension and conservation district roles",
+          "Set job alerts on government boards (USAJOBS, state)"
+        ],
+        "skills": [
+          "Job market analysis",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — federal hiring",
+            "url": "https://www.usajobs.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-crop",
+      "type": "node",
+      "label": "Crop Production Basics",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Crop work follows the plant cycle: seedbed prep, planting, irrigation, pest and weed management, and harvest — with cultivar choice and timing driving yields.",
+        "why": "Understanding the cycle end-to-end is the foundation for every production role and for eventually running ground yourself.",
+        "learn": [
+          "Follow one crop's full season on a real operation",
+          "Learn irrigation scheduling basics",
+          "Scout for pests and diseases weekly; keep records",
+          "Harvest and grade to market standards"
+        ],
+        "skills": [
+          "Plant science",
+          "Field operations"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Agricultural Workers",
+            "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "45-2092.00"
+        ],
+        "tasks": [
+          "Manually plant, cultivate, and harvest vegetables, fruits, nuts, horticultural specialties, and field crops."
+        ]
+      }
+    },
+    {
+      "id": "ae-soil",
+      "type": "node",
+      "label": "Soil, Water & Irrigation",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Soil structure, pH, organic matter, and water-holding capacity determine everything above ground; irrigation design and scheduling conserve the scarcest input.",
+        "why": "Soil and water literacy separates growers from laborers — and it is the core of sustainable practice.",
+        "learn": [
+          "Learn soil texture by feel and basic soil testing",
+          "Read a soil test report and amend accordingly",
+          "Calculate a simple irrigation schedule",
+          "Understand evapotranspiration at a high level"
+        ],
+        "skills": [
+          "Soil science",
+          "Water management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USDA NRCS — soils resources",
+            "url": "https://www.nrcs.usda.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-livestock",
+      "type": "node",
+      "label": "Livestock Care",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Animal agriculture adds daily welfare routines: feeding programs, health checks, housing and handling systems, breeding cycles, and humane transport standards.",
+        "why": "Livestock operations need reliable, observant people year-round — skills transfer across species and regions.",
+        "learn": [
+          "Learn the five freedoms of animal welfare",
+          "Master low-stress livestock handling technique",
+          "Keep health records and spot illness early",
+          "Understand feed programs and body-condition scoring"
+        ],
+        "skills": [
+          "Animal husbandry",
+          "Observation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Agricultural Workers",
+            "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-equipment",
+      "type": "node",
+      "label": "Equipment Operation",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Tractors, harvesters, sprayers, and lifts require licensed or certified operation in many cases — plus daily maintenance discipline that keeps seasons on schedule.",
+        "why": "Equipment skill is a wage multiplier in production agriculture and a door to mechanic/dealer careers.",
+        "learn": [
+          "Get trained on tractors and implements safely",
+          "Perform daily pre-operation checks habitually",
+          "Learn basic hydraulics and PTO safety",
+          "Consider a CDL if hauling is part of your market's work"
+        ],
+        "skills": [
+          "Machinery operation",
+          "Preventive maintenance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — agricultural safety",
+            "url": "https://www.osha.gov/agricultural-operations",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-business",
+      "type": "node",
+      "label": "Farm Business & Markets",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Farm economics: enterprise budgets, input costs, market channels (wholesale, farmers market, CSA, direct), risk tools like crop insurance, and record-keeping for loans and programs.",
+        "why": "Most farm failures are business failures — markets and margin literacy are what make small farms viable.",
+        "learn": [
+          "Build an enterprise budget for one crop",
+          "Compare market channels' price and labor trade-offs",
+          "Learn what crop insurance and USDA programs cover",
+          "Keep clean records from day one"
+        ],
+        "skills": [
+          "Ag economics",
+          "Record keeping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USDA — Beginning Farmers resources",
+            "url": "https://www.usda.gov/topics/farming/beginning-farmers-and-ranchers",
+            "kind": "guide"
+          },
+          {
+            "title": "SBA — business planning",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-foodsafety",
+      "type": "node",
+      "label": "On-Farm Food Safety",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Produce safety standards (FSMA-style rules in the US) govern water quality, worker hygiene, and traceability — with audits increasingly required by buyers.",
+        "why": "Food-safety compliance is now a market-access requirement — knowing it makes you employable everywhere.",
+        "learn": [
+          "Learn worker hygiene and sanitation basics",
+          "Understand water-testing requirements at a high level",
+          "Practice lot labeling and traceability records",
+          "Read your state extension's produce-safety guides"
+        ],
+        "skills": [
+          "Food safety",
+          "Compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FDA — FSMA produce safety",
+            "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-envsci",
+      "type": "node",
+      "label": "Environmental Science Path",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Environmental scientists monitor air, water, and soil; run assessments; ensure permit compliance; and advise industry and government — typically with a bachelor's in an environmental or earth science.",
+        "why": "It is the field's analysis-and-impact track, with employers across consultancies, industry, and every level of government.",
+        "learn": [
+          "Plan a relevant bachelor's (env science, geology, chemistry)",
+          "Learn field sampling and chain-of-custody basics",
+          "Get comfortable with data handling (spreadsheets, stats)",
+          "Follow your state environmental agency's work"
+        ],
+        "skills": [
+          "Environmental analysis",
+          "Field sampling",
+          "Regulatory knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Environmental Scientists and Specialists",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Environmental Scientists and Specialists",
+            "url": "https://www.onetonline.org/link/summary/19-1041.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "19-1041.00"
+        ],
+        "tasks": [
+          "Conduct research or perform investigation for the purpose of identifying, abating, or eliminating sources of pollutants or hazards that affect either the environment or public health."
+        ]
+      }
+    },
+    {
+      "id": "ae-forestry",
+      "type": "node",
+      "label": "Forestry & Conservation",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Foresters and conservation scientists manage forests for health, timber, water, and recreation — cruising timber, marking treatments, managing burns, and leading field crews; technicians and workers do the hands-on work.",
+        "why": "Public agencies and land trusts hire steadily, and fire-management work is expanding fast.",
+        "learn": [
+          "Compare forester (degree) vs technician/worker (entry) paths",
+          "Learn tree identification for your region",
+          "Understand prescribed fire's role and training paths",
+          "Volunteer with a land trust or conservation corps"
+        ],
+        "skills": [
+          "Silviculture basics",
+          "Field navigation",
+          "Crew safety"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Conservation Scientists and Foresters",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/conservation-scientists-and-foresters.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Conservation Scientists and Foresters",
+            "url": "https://www.onetonline.org/link/summary/19-1031.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "19-1031.00"
+        ]
+      }
+    },
+    {
+      "id": "ae-wildlife",
+      "type": "node",
+      "label": "Wildlife & Habitat",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Wildlife and habitat work surveys species, restores ecosystems, manages invasive species, and balances human use with conservation — often seasonal fieldwork that builds toward biologist roles.",
+        "why": "Seasonal technician jobs are the classic entry — they build the field hours graduate programs and agencies want.",
+        "learn": [
+          "Volunteer for surveys with your state wildlife agency",
+          "Learn survey techniques for one species group",
+          "Keep a field notebook; build identification skills",
+          "Note the education path to biologist roles"
+        ],
+        "skills": [
+          "Species identification",
+          "Field methods"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Conservation Scientists and Foresters",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/conservation-scientists-and-foresters.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-water",
+      "type": "node",
+      "label": "Water Quality",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Water-quality work samples and protects streams, groundwater, and drinking sources — linking agriculture, industry, and municipal systems under permit frameworks.",
+        "why": "Water is the decade's defining resource issue; skills here transfer across agriculture, environment, and utilities.",
+        "learn": [
+          "Learn basic water-quality parameters (pH, DO, turbidity)",
+          "Practice sample collection technique and records",
+          "Follow your watershed's protections and issues",
+          "Explore operator certification paths for utilities"
+        ],
+        "skills": [
+          "Water chemistry",
+          "Sampling technique"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "EPA — water topics",
+            "url": "https://www.epa.gov/environmental-topics/water-topics",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-compliance",
+      "type": "node",
+      "label": "Compliance & Permitting",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Environmental compliance reviews permits, inspects sites, and writes enforcement documentation — a stable government and consultancy career built on regulation fluency.",
+        "why": "Every regulated operation needs compliance people; it is steady, well-structured work with clear advancement.",
+        "learn": [
+          "Learn the major environmental permit types in your state",
+          "Practice writing an inspection finding clearly",
+          "Follow one agency's enforcement docket",
+          "Consider the compliance-officer path (see Government roadmap)"
+        ],
+        "skills": [
+          "Regulatory knowledge",
+          "Technical writing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "EPA — compliance",
+            "url": "https://www.epa.gov/compliance",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-gis",
+      "type": "node",
+      "label": "Mapping & GIS Basics",
+      "variant": "muted",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Geographic information systems underpin modern land work: parcel maps, soil layers, canopy analysis, and trail planning — free tools (QGIS) make it learnable now.",
+        "why": "GIS is the most requested bonus skill in agriculture and environment postings — a genuine differentiator.",
+        "learn": [
+          "Install QGIS and load free data for your county",
+          "Complete a beginner GIS tutorial end-to-end",
+          "Make one useful map for a real property or project",
+          "Learn basic GPS field data collection"
+        ],
+        "skills": [
+          "GIS",
+          "Spatial thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "QGIS — free GIS software",
+            "url": "https://qgis.org/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-licenses",
+      "type": "node",
+      "label": "Pesticide Applicator License",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Applying restricted-use pesticides legally requires a state applicator license — written exams on labels, safety, and environmental protection, with category endorsements.",
+        "why": "The license is a hiring requirement across farming, landscaping, and right-of-way work — and it signals professionalism.",
+        "learn": [
+          "Study your state's core manual and a category",
+          "Pass the core exam, then add categories as needed",
+          "Learn label reading as the legal standard",
+          "Track recertification points/hours"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Chemical safety"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "EPA — pesticide applicator certification",
+            "url": "https://www.epa.gov/pesticide-worker-safety",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-arborist",
+      "type": "node",
+      "label": "Arborist & Tree Work",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Tree care spans pruning, removals, and plant health care — with the ISA Certified Arborist credential as the recognized standard and climbing skills as the craft.",
+        "why": "Urban tree work is steady, well-paid for skilled climbers, and a natural fit for people who love trees and heights.",
+        "learn": [
+          "Start as ground crew; learn rigging and chipper safety",
+          "Study for the ISA Certified Arborist exam",
+          "Learn climbing systems only through proper training",
+          "Note utility-line clearance as a specialty"
+        ],
+        "skills": [
+          "Tree biology",
+          "Climbing and rigging"
+        ],
+        "certs": [
+          {
+            "name": "ISA Certified Arborist",
+            "issuer": "International Society of Arboriculture",
+            "note": "Exam-based credential with experience prerequisites; the industry's recognized standard for tree-care professionals."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ISA — arborist certification",
+            "url": "https://www.isa-arbor.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-cdl",
+      "type": "node",
+      "label": "Equipment & CDL",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hauling grain, livestock, equipment, and feed requires a commercial driver's license (with farm-use exceptions that vary by state) — a wage multiplier in production agriculture.",
+        "why": "CDL holders are scarce in rural areas; combining ag knowledge with a CDL makes you indispensable.",
+        "learn": [
+          "Check your state's CDL classes and farm exemptions",
+          "Budget for training (company-sponsored options exist)",
+          "Learn hours-of-service and logbook basics",
+          "Add endorsements (tanker, HazMat) as your market needs"
+        ],
+        "skills": [
+          "Commercial driving",
+          "Safety compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FMCSA — CDL requirements",
+            "url": "https://www.fmcsa.dot.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-sustainable",
+      "type": "node",
+      "label": "Sustainable Practice",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sustainable and regenerative approaches — cover cropping, reduced tillage, integrated pest management, rotational grazing — are reshaping mainstream practice and opening premium markets.",
+        "why": "Fluency in sustainable practice is now a hiring and market advantage on both production and science tracks.",
+        "learn": [
+          "Learn IPM as the practical middle path",
+          "Try one soil-health practice and measure results",
+          "Read certification standards (organic-style) at a high level",
+          "Follow extension research on regenerative outcomes"
+        ],
+        "skills": [
+          "Soil health",
+          "Sustainable practice"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USDA NRCS — soil health",
+            "url": "https://www.nrcs.usda.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-agtech",
+      "type": "node",
+      "label": "AgTech Awareness",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Precision agriculture — GPS-guided equipment, sensors, drone imagery, and data dashboards — is changing field work; operators who adopt the tools become the new foremen.",
+        "why": "Technology comfort is becoming the promotion differentiator in production agriculture.",
+        "learn": [
+          "Fly a drone legally (recreational rules; Part 107 for commercial)",
+          "Learn one farm-data platform's basics",
+          "Practice reading yield maps and imagery",
+          "Stay current via extension agtech programs"
+        ],
+        "skills": [
+          "Technology adoption",
+          "Data literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FAA — Part 107 (commercial drones)",
+            "url": "https://www.faa.gov/uas/commercial_operators",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Production ladder: field hand → equipment operator → crew lead → farm/ranch manager → owner. Science ladder: technician → specialist → scientist/consultant. Forestry: worker → technician → forester/district lead.",
+        "why": "Both ladders reward seasons of demonstrated competence — and the two tracks cross-pollinate at the management level.",
+        "learn": [
+          "Map the ladder for your chosen track locally",
+          "Identify the next credential or season you need",
+          "Find a mentor a rung ahead",
+          "Set a 5-year goal with the employers that get you there"
+        ],
+        "skills": [
+          "Career planning",
+          "Credential planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Farming, Fishing, and Forestry",
+            "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/home.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+            "url": "https://www.onetonline.org/link/summary/45-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "45-1011.00"
+        ]
+      }
+    },
+    {
+      "id": "ae-smallfarm",
+      "type": "node",
+      "label": "Starting a Small Farm",
+      "variant": "muted",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Small-farm startups blend enterprise budgeting, land access (lease vs buy), water rights, market development, and USDA beginning-farmer programs for loans and support.",
+        "why": "Small farms succeed on focus: one or two enterprises, sold directly, run on real numbers rather than hope.",
+        "learn": [
+          "Write a one-page farm plan with enterprise budgets",
+          "Explore land-access options (incubator farms, leases)",
+          "Meet your local extension agent — they exist to help",
+          "Research USDA FSA beginning-farmer loan programs"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USDA — Beginning Farmers and Ranchers",
+            "url": "https://www.usda.gov/topics/farming/beginning-farmers-and-ranchers",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-public",
+      "type": "node",
+      "label": "Public Sector Paths",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Government employers — agriculture departments, environmental agencies, parks, soil and water districts, and extension services — offer steady careers with benefits and training.",
+        "why": "Public jobs trade some ceiling for stability, mission, and seasonally reasonable hours.",
+        "learn": [
+          "Browse USAJOBS and your state's boards for these series",
+          "Learn how civil-service applications differ (KSAs, announcements)",
+          "Volunteer first: conservation districts and master gardener programs",
+          "Note education requirements per series"
+        ],
+        "skills": [
+          "Civil service navigation",
+          "Job application strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS",
+            "url": "https://www.usajobs.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-mastergardener",
+      "type": "node",
+      "label": "Master Gardener & Extension",
+      "variant": "muted",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Cooperative-extension master gardener programs train volunteers in horticulture who then teach their communities — a structured, respected entry into plant-science knowledge.",
+        "why": "It is the most accessible formal horticulture education, and it connects you to the extension network that hires.",
+        "learn": [
+          "Apply to your county's master gardener program",
+          "Complete the training hours and volunteer commitment",
+          "Use the network to find field opportunities",
+          "Consider extension program-assistant roles"
+        ],
+        "skills": [
+          "Horticulture",
+          "Community education"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USDA NIFA — Extension system",
+            "url": "https://www.nifa.usda.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "ae-g",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ae-g2",
+      "type": "group",
+      "label": "PRODUCTION AGRICULTURE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ae-g3",
+      "type": "group",
+      "label": "SCIENCE & CONSERVATION",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "ae-g4",
+      "type": "group",
+      "label": "LICENSES & SKILLS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ae-g5",
+      "type": "group",
+      "label": "MODERN PRACTICE",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "ae-g6",
+      "type": "group",
+      "label": "CAREERS & PATHS",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "ae-explore",
+      "to": "ae-tracks"
+    },
+    {
+      "from": "ae-explore",
+      "to": "ae-season"
+    },
+    {
+      "from": "ae-explore",
+      "to": "ae-jobs"
+    },
+    {
+      "from": "ae-tracks",
+      "to": "ae-crop"
+    },
+    {
+      "from": "ae-tracks",
+      "to": "ae-envsci",
+      "dashed": true
+    },
+    {
+      "from": "ae-tracks",
+      "to": "ae-forestry",
+      "dashed": true
+    },
+    {
+      "from": "ae-crop",
+      "to": "ae-soil"
+    },
+    {
+      "from": "ae-crop",
+      "to": "ae-livestock",
+      "dashed": true
+    },
+    {
+      "from": "ae-crop",
+      "to": "ae-equipment"
+    },
+    {
+      "from": "ae-soil",
+      "to": "ae-business",
+      "dashed": true
+    },
+    {
+      "from": "ae-business",
+      "to": "ae-foodsafety"
+    },
+    {
+      "from": "ae-envsci",
+      "to": "ae-water"
+    },
+    {
+      "from": "ae-envsci",
+      "to": "ae-compliance"
+    },
+    {
+      "from": "ae-forestry",
+      "to": "ae-wildlife",
+      "dashed": true
+    },
+    {
+      "from": "ae-compliance",
+      "to": "ae-gis",
+      "dashed": true
+    },
+    {
+      "from": "ae-crop",
+      "to": "ae-licenses"
+    },
+    {
+      "from": "ae-licenses",
+      "to": "ae-arborist",
+      "dashed": true
+    },
+    {
+      "from": "ae-equipment",
+      "to": "ae-cdl",
+      "dashed": true
+    },
+    {
+      "from": "ae-soil",
+      "to": "ae-sustainable"
+    },
+    {
+      "from": "ae-sustainable",
+      "to": "ae-agtech",
+      "dashed": true
+    },
+    {
+      "from": "ae-business",
+      "to": "ae-career",
+      "dashed": true
+    },
+    {
+      "from": "ae-forestry",
+      "to": "ae-career"
+    },
+    {
+      "from": "ae-compliance",
+      "to": "ae-career",
+      "dashed": true
+    },
+    {
+      "from": "ae-career",
+      "to": "ae-smallfarm",
+      "dashed": true
+    },
+    {
+      "from": "ae-career",
+      "to": "ae-public",
+      "dashed": true
+    },
+    {
+      "from": "ae-career",
+      "to": "ae-mastergardener",
+      "dashed": true
+    }
+  ]
+}

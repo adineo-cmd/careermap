@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "title": "JEL Classification — Fields of Economics Mapped to Careers",
+    "description": "The Journal of Economic Literature (JEL) classification system, maintained by the American Economic Association, organizes economic research by field. CareerMap uses it to connect career roadmaps to formal fields of study.",
+    "source": "American Economic Association — JEL Classification System",
+    "url": "https://www.aeaweb.org/econlit/jelCodes"
+  },
+  "categories": [
+    {
+      "code": "A",
+      "name": "General Economics and Teaching",
+      "careerRelevant": false
+    },
+    {
+      "code": "B",
+      "name": "History of Economic Thought, Methodology, and Heterodox Approaches",
+      "careerRelevant": false
+    },
+    {
+      "code": "C",
+      "name": "Mathematical and Quantitative Methods",
+      "careerRelevant": false
+    },
+    {
+      "code": "D",
+      "name": "Microeconomics",
+      "careerRelevant": false
+    },
+    {
+      "code": "E",
+      "name": "Macroeconomics and Monetary Economics",
+      "careerRelevant": false
+    },
+    {
+      "code": "F",
+      "name": "International Economics",
+      "careerRelevant": false
+    },
+    {
+      "code": "G",
+      "name": "Financial Economics",
+      "careerRelevant": true,
+      "note": "The academic home of banking, investment, and corporate finance careers."
+    },
+    {
+      "code": "H",
+      "name": "Public Economics",
+      "careerRelevant": false
+    },
+    {
+      "code": "I",
+      "name": "Health, Education, and Welfare",
+      "careerRelevant": true,
+      "note": "Covers the economics behind healthcare, education, and social-service careers."
+    },
+    {
+      "code": "J",
+      "name": "Labor and Demographic Economics",
+      "careerRelevant": false
+    },
+    {
+      "code": "K",
+      "name": "Law and Economics",
+      "careerRelevant": true,
+      "note": "The economic analysis of the legal field — contracts, litigation, regulation."
+    },
+    {
+      "code": "L",
+      "name": "Industrial Organization",
+      "careerRelevant": true,
+      "note": "How firms organize production, compete, and manage logistics and transportation."
+    },
+    {
+      "code": "M",
+      "name": "Business Administration and Business Economics; Marketing; Accounting; Personnel Economics",
+      "careerRelevant": true,
+      "note": "The JEL home of most CareerMap roadmaps: marketing, accounting, auditing, HR."
+    },
+    {
+      "code": "N",
+      "name": "Economic History",
+      "careerRelevant": false
+    },
+    {
+      "code": "O",
+      "name": "Economic Development, Innovation, Technological Change, and Growth",
+      "careerRelevant": false
+    },
+    {
+      "code": "P",
+      "name": "Economic Systems",
+      "careerRelevant": false
+    },
+    {
+      "code": "Q",
+      "name": "Agricultural and Natural Resource Economics; Environmental and Ecological Economics",
+      "careerRelevant": false
+    },
+    {
+      "code": "R",
+      "name": "Urban, Rural, Regional, Real Estate, and Transportation Economics",
+      "careerRelevant": false
+    },
+    {
+      "code": "Y",
+      "name": "Miscellaneous Categories",
+      "careerRelevant": false
+    },
+    {
+      "code": "Z",
+      "name": "Other Special Topics",
+      "careerRelevant": false
+    }
+  ],
+  "codes": [
+    {
+      "code": "G10",
+      "name": "General Financial Markets",
+      "related": [
+        "accounting"
+      ]
+    },
+    {
+      "code": "G24",
+      "name": "Investment Banking; Venture Capital; Brokerage; Ratings and Rating Agencies",
+      "related": [
+        "accounting"
+      ]
+    },
+    {
+      "code": "I11",
+      "name": "Analysis of Health Care Markets",
+      "related": [
+        "healthcare"
+      ]
+    },
+    {
+      "code": "I12",
+      "name": "Health Behavior",
+      "related": [
+        "psychology-counseling",
+        "healthcare"
+      ]
+    },
+    {
+      "code": "I18",
+      "name": "Government Policy; Regulation; Public Health",
+      "related": [
+        "healthcare"
+      ]
+    },
+    {
+      "code": "I21",
+      "name": "Analysis of Education",
+      "related": [
+        "teaching"
+      ]
+    },
+    {
+      "code": "I28",
+      "name": "Government Policy; Regulation of Education",
+      "related": [
+        "teaching"
+      ]
+    },
+    {
+      "code": "I31",
+      "name": "General Welfare, Well-Being",
+      "related": [
+        "psychology-counseling"
+      ]
+    },
+    {
+      "code": "K00",
+      "name": "General Law and Economics",
+      "related": [
+        "law"
+      ]
+    },
+    {
+      "code": "K12",
+      "name": "Contract Law",
+      "related": [
+        "law"
+      ]
+    },
+    {
+      "code": "K41",
+      "name": "Litigation Process",
+      "related": [
+        "law"
+      ]
+    },
+    {
+      "code": "L23",
+      "name": "Organization of Production",
+      "related": [
+        "supply-chain"
+      ]
+    },
+    {
+      "code": "L91",
+      "name": "Transportation: General",
+      "related": [
+        "supply-chain"
+      ]
+    },
+    {
+      "code": "M12",
+      "name": "Personnel Management; Executives; Executive Compensation",
+      "related": [
+        "hr"
+      ]
+    },
+    {
+      "code": "M31",
+      "name": "Marketing",
+      "related": [
+        "marketing",
+        "sales"
+      ]
+    },
+    {
+      "code": "M37",
+      "name": "Advertising",
+      "related": [
+        "marketing",
+        "sales"
+      ]
+    },
+    {
+      "code": "M41",
+      "name": "Accounting",
+      "related": [
+        "accounting"
+      ]
+    },
+    {
+      "code": "M42",
+      "name": "Auditing",
+      "related": [
+        "accounting"
+      ]
+    },
+    {
+      "code": "M51",
+      "name": "Firm Employment Decisions; Promotions",
+      "related": [
+        "hr"
+      ]
+    },
+    {
+      "code": "O22",
+      "name": "Project Analysis",
+      "related": [
+        "project-management"
+      ]
+    },
+    {
+      "code": "L83",
+      "name": "Sports; Gambling; Restaurants; Recreation; Tourism",
+      "related": [
+        "culinary-hospitality",
+        "sports-fitness"
+      ]
+    },
+    {
+      "code": "K42",
+      "name": "Illegal Behavior and Deterrence; Criminal Law",
+      "related": [
+        "public-safety"
+      ]
+    },
+    {
+      "code": "Z11",
+      "name": "Economics of the Arts and Literature",
+      "related": [
+        "arts-media-design"
+      ]
+    },
+    {
+      "code": "Q10",
+      "name": "Agriculture: General",
+      "related": [
+        "agriculture-environment"
+      ]
+    },
+    {
+      "code": "Q20",
+      "name": "Renewable Resources and Conservation: General",
+      "related": [
+        "agriculture-environment"
+      ]
+    },
+    {
+      "code": "H11",
+      "name": "Structure, Scope, and Performance of Government",
+      "related": [
+        "government-public-policy"
+      ]
+    },
+    {
+      "code": "H53",
+      "name": "Government Expenditures and Welfare Programs",
+      "related": [
+        "government-public-policy"
+      ]
+    },
+    {
+      "code": "R41",
+      "name": "Transportation: Demand, Supply, and Congestion; Safety and Accidents",
+      "related": [
+        "transportation-driving"
+      ]
+    },
+    {
+      "code": "M11",
+      "name": "Firm Organization and Market Structure: General",
+      "related": [
+        "management-leadership"
+      ]
+    },
+    {
+      "code": "R31",
+      "name": "Housing Supply and Markets",
+      "related": [
+        "real-estate"
+      ]
+    },
+    {
+      "code": "G22",
+      "name": "Insurance; Insurance Companies; Actuarial Studies",
+      "related": [
+        "insurance"
+      ]
+    },
+    {
+      "code": "G21",
+      "name": "Banks; Depository Institutions; Micro Finance Institutions; Mortgages",
+      "related": [
+        "banking-finance"
+      ]
+    },
+    {
+      "code": "H56",
+      "name": "Government Expenditures and Related Policies: Defense",
+      "related": [
+        "military-defense"
+      ]
+    }
+  ]
+}

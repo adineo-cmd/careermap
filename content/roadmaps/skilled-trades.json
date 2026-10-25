@@ -1,0 +1,977 @@
+{
+  "slug": "skilled-trades",
+  "title": "Skilled Trades",
+  "tagline": "Electrician, plumber, HVAC, welding, automotive — earn while you learn in careers that can't be offshored.",
+  "summary": "Skilled trades are licensed, hands-on careers learned primarily through paid apprenticeships rather than four-year degrees — with strong demand and clear ladders from helper to journeyman to master to business owner. This roadmap covers the apprenticeship model, the major trades, licensing, and the business side.",
+  "category": "Skilled Trades & Services",
+  "color": "#e07a5f",
+  "icon": "wrench",
+  "onetRoles": [
+    "47-2111.00",
+    "47-2152.00",
+    "49-9021.00",
+    "49-3023.00",
+    "51-4121.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Electricians (47-2111.00)",
+      "url": "https://www.onetonline.org/link/summary/47-2111.00"
+    },
+    {
+      "label": "BLS OOH — Electricians",
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm"
+    },
+    {
+      "label": "U.S. Department of Labor — Apprenticeship",
+      "url": "https://www.apprenticeship.gov/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "tr-explore",
+      "type": "node",
+      "label": "Why the Trades",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Skilled trades are careers built on licenses and hands-on mastery — electrical, plumbing, HVAC, welding, automotive and more. You earn while you learn through apprenticeships instead of paying for a four-year degree.",
+        "why": "Demand is strong and supply of new tradespeople is short; for people who like tangible work, trades offer early income, durable skills, and a real ownership path.",
+        "learn": [
+          "Read the BLS OOH profiles for electricians and plumbers",
+          "Browse apprenticeship.gov for registered programs near you",
+          "Talk to one tradesperson about a typical week and body impact",
+          "List your constraints: physical work, hours, on-call, weather"
+        ],
+        "skills": [
+          "Manual dexterity",
+          "Safety awareness",
+          "Mechanical aptitude"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov — find programs",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "47-2111.00"
+        ]
+      }
+    },
+    {
+      "id": "tr-apprentice",
+      "type": "node",
+      "label": "The Apprenticeship Model",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Registered apprenticeships combine paid on-the-job training (typically 2–5 years) with related classroom instruction, run by unions, employers, or trade schools, and end with journeyman-level credentials.",
+        "why": "Apprenticeship is the on-ramp for nearly every trade — understanding how to get selected (aptitude tests, interviews, physical readiness) is step one.",
+        "learn": [
+          "Compare union vs open-shop (non-union) apprenticeships",
+          "Learn the typical structure: OJT hours + classroom hours per year",
+          "Prepare for common entry tests (basic math, mechanical aptitude)",
+          "Apply to 3+ programs; treat it like a job search"
+        ],
+        "skills": [
+          "Learning agility",
+          "Persistence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-safety",
+      "type": "node",
+      "label": "Safety Culture (OSHA)",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Safety is the first trade skill: OSHA 10/30-hour construction or general-industry cards, PPE discipline, lockout/tagout awareness, ladder and trenching basics.",
+        "why": "OSHA cards are hiring prerequisites on most sites, and safe habits are what keep a 30-year career possible.",
+        "learn": [
+          "Complete an OSHA 10-hour course (or OSHA 30 for supervisors)",
+          "Learn PPE selection for your trade's common hazards",
+          "Understand lockout/tagout basics for energized equipment",
+          "Practice spotting hazards on any site you visit"
+        ],
+        "skills": [
+          "Hazard recognition",
+          "Regulatory compliance"
+        ],
+        "certs": [
+          {
+            "name": "OSHA 10 / OSHA 30",
+            "issuer": "OSHA-authorized training providers",
+            "note": "10-hour (entry) and 30-hour (supervisor) safety courses; widely required on US job sites."
+          }
+        ],
+        "resources": [
+          {
+            "title": "OSHA — Training resources",
+            "url": "https://www.osha.gov/training",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-pick",
+      "type": "node",
+      "label": "Pick Your Trade",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Each trade has different work environments, physical demands, licensure depth, and pay ceilings: electrical and plumbing carry the deepest licensing; HVAC and automotive emphasize equipment; welding spans fabrication industries.",
+        "why": "Your trade choice is a decade-shaping decision — match it to your body, interests, and local market rather than general pay rankings.",
+        "learn": [
+          "Shadow or job-site-tour two trades if possible",
+          "Compare apprenticeship lengths and licensing steps per trade",
+          "Check your local demand: which trades are short-handed?",
+          "Rank trades on indoor/outdoor, on-call, and complexity fit"
+        ],
+        "skills": [
+          "Decision analysis",
+          "Market awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Construction and Extraction",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-electrical",
+      "type": "node",
+      "label": "Electrician Path",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Electricians install and maintain power, lighting, and control systems — apprenticeship (commonly ~4 years / 8,000 OJT hours), journeyman exam, optional master license, and specialties from residential to industrial controls.",
+        "why": "Electrical is one of the deepest-licensed trades with strong demand from electrification, solar, and data-center construction.",
+        "learn": [
+          "Learn the apprentice → journeyman → master ladder in your state",
+          "Study basic electrical theory (Ohm's law, circuits) before applying",
+          "Compare residential, commercial, and industrial niches",
+          "Note state licensing board requirements and exam outlines"
+        ],
+        "skills": [
+          "Electrical systems",
+          "Blueprint reading",
+          "Code compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Electricians",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Electricians",
+            "url": "https://www.onetonline.org/link/summary/47-2111.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "47-2111.00"
+        ],
+        "tasks": [
+          "Install, maintain, and repair electrical wiring, equipment, and fixtures, ensuring that work is in accordance with relevant codes."
+        ]
+      }
+    },
+    {
+      "id": "tr-plumbing",
+      "type": "node",
+      "label": "Plumbing Path",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Plumbers and pipefitters install water, drainage, and gas systems — apprenticeship (~4–5 years), journeyman license, optional master, with niches in service, new construction, medical gas, and steamfitting.",
+        "why": "Plumbing is recession-resistant (everything leaks eventually) and among the strongest trades for eventual business ownership.",
+        "learn": [
+          "Map your state's plumber licensing tiers",
+          "Learn DWV (drain-waste-vent) basics and code concepts",
+          "Compare service plumbing vs construction plumbing careers",
+          "Practice plumbing math (offsets, grades, volumes)"
+        ],
+        "skills": [
+          "Pipe systems",
+          "Code compliance",
+          "Problem diagnosis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Plumbers, Pipefitters, and Steamfitters",
+            "url": "https://www.onetonline.org/link/summary/47-2152.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "47-2152.00"
+        ]
+      }
+    },
+    {
+      "id": "tr-hvac",
+      "type": "node",
+      "label": "HVAC Path",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "HVACR technicians install and service heating, cooling, and refrigeration systems — trade school or apprenticeship, EPA Section 608 certification (federally required to handle refrigerants), then specialization.",
+        "why": "HVAC combines electrical, mechanical, and diagnostic skill with steady replacement demand and strong self-employment potential.",
+        "learn": [
+          "Plan for EPA 608 certification early (required by federal law)",
+          "Learn refrigeration cycle basics and electrical diagnostics",
+          "Compare residential service vs commercial install careers",
+          "Note NATE-style excellence credentials as later polish"
+        ],
+        "skills": [
+          "Refrigeration systems",
+          "Diagnostics",
+          "Electrical controls"
+        ],
+        "certs": [
+          {
+            "name": "EPA Section 608 Certification",
+            "issuer": "U.S. EPA (via approved providers)",
+            "note": "Federal certification required to service refrigerant-containing equipment; types I–IV by equipment class."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — HVACR Mechanics and Installers",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — HVACR Mechanics and Installers",
+            "url": "https://www.onetonline.org/link/summary/49-9021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "49-9021.00"
+        ]
+      }
+    },
+    {
+      "id": "tr-welding",
+      "type": "node",
+      "label": "Welding Path",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Welders join metal across construction, manufacturing, shipyards, and pipelines — trade school or employer training plus process-specific certifications (AWS) and heavy specialization (TIG, pipe, structural).",
+        "why": "Welding skill is portable and certifiable; top specialists (pipe, underwater, aerospace-adjacent) command strong premiums.",
+        "learn": [
+          "Compare the main processes: SMAW, MIG, TIG",
+          "Find a welding program with certification testing on site",
+          "Understand AWS certification structure basics",
+          "Note specialty paths: pipe welding, inspection (CWI) later"
+        ],
+        "skills": [
+          "Welding processes",
+          "Blueprint reading",
+          "Metallurgy basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Welders, Cutters, Solderers, and Brazers",
+            "url": "https://www.onetonline.org/link/summary/51-4121.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "51-4121.00"
+        ]
+      }
+    },
+    {
+      "id": "tr-auto",
+      "type": "node",
+      "label": "Automotive Path",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Automotive service technicians diagnose and repair vehicles — postsecondary programs or dealership apprenticeships, then ASE certification series by system area, with EV/electronics as the growth frontier.",
+        "why": "Diagnostics-driven work suits problem solvers; EV transition is pulling the trade toward electronics and software-adjacent skills.",
+        "learn": [
+          "Learn the ASE certification series (A1–A9 style areas)",
+          "Compare dealership, independent shop, and fleet employers",
+          "Build core tool budget awareness (it is real)",
+          "Follow EV/hybrid service training requirements early"
+        ],
+        "skills": [
+          "Diagnostics",
+          "Electrical systems",
+          "Customer explanation"
+        ],
+        "certs": [
+          {
+            "name": "ASE Certification",
+            "issuer": "National Institute for Automotive Service Excellence",
+            "note": "Series of system-area exams (brakes, engine, electrical…) with work-experience prerequisites; recertification every five years."
+          }
+        ],
+        "resources": [
+          {
+            "title": "O*NET — Automotive Service Technicians and Mechanics",
+            "url": "https://www.onetonline.org/link/summary/49-3023.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "49-3023.00"
+        ]
+      }
+    },
+    {
+      "id": "tr-laborer",
+      "type": "node",
+      "label": "Construction Laborer",
+      "variant": "muted",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Construction laborers support sites across trades — the classic entry point to discover which specialty fits, often with employer-paid training and union apprenticeship options afterward.",
+        "why": "It pays to learn site culture, tools, and safety while deciding which licensed trade to pursue.",
+        "learn": [
+          "Get OSHA 10 first — most sites require it",
+          "Learn common tools and site cleanup standards",
+          "Observe which trades you'd want to join from the inside",
+          "Ask about apprenticeship sponsorships from employers"
+        ],
+        "skills": [
+          "Physical stamina",
+          "Site awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Construction Laborers and Helpers",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-laborers-and-helpers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-journeyman",
+      "type": "node",
+      "label": "Journeyman License",
+      "x": 620,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Journeyman is the licensed professional tier in the licensed trades: completed apprenticeship hours plus a state exam covering code and practical knowledge. It means unsupervised work.",
+        "why": "The journeyman card is the trade's degree — it unlocks full pay rates and is the prerequisite for master and contractor tiers.",
+        "learn": [
+          "Confirm your state's OJT-hour and classroom requirements",
+          "Get your hours documented and signed from day one",
+          "Study your state's code-based exam outline deliberately",
+          "Plan the exam application timeline with your program"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Code knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-master",
+      "type": "node",
+      "label": "Master License",
+      "x": 900,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Master status (in electrical and plumbing especially) requires additional years and a harder exam covering design and supervision — it qualifies you to plan systems, pull permits in many jurisdictions, and supervise.",
+        "why": "Master licenses open estimator, superintendent, inspector, and contractor-owner doors.",
+        "learn": [
+          "Check whether your state/county uses master tiers and their requirements",
+          "Log supervisory and design-adjacent experience early",
+          "Prepare for code-depth exam questions with a prep course",
+          "Ask mentors what master status changed for them"
+        ],
+        "skills": [
+          "Systems design",
+          "Supervision"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Construction and Extraction",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-contractor",
+      "type": "node",
+      "label": "Contractor License",
+      "x": 1180,
+      "y": 560,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A contractor license lets you run your own business: state registration or exam (varies widely), bonding and insurance, and responsibility for permits, employees, and warranties.",
+        "why": "Ownership is the main wealth path in the trades — and it runs on craft credibility plus business skill.",
+        "learn": [
+          "Research your state's contractor licensing and exam",
+          "Learn bonding, liability insurance, and workers' comp basics",
+          "Study estimating and job costing before bidding",
+          "Talk to an owner about the first two years' reality"
+        ],
+        "skills": [
+          "Business management",
+          "Estimating"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-certs",
+      "type": "node",
+      "label": "Trade Certifications",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond licenses, trades stack certifications: EPA 608 for refrigerants, ASE for vehicles, AWS for welding, manufacturer training for equipment, and backflow/medical-gas endorsements in piping.",
+        "why": "Certifications raise your rate, expand the jobs you can legally do, and often come with employer-paid training.",
+        "learn": [
+          "List the certifications your target trade values most",
+          "Ask employers which they pay for",
+          "Schedule one certification per quarter while working",
+          "Track renewals in a simple calendar"
+        ],
+        "skills": [
+          "Credential planning",
+          "Renewal tracking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-foreman",
+      "type": "node",
+      "label": "Foreman & Superintendent",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Field leadership: foremen run crews and daily schedules; superintendents run entire sites — schedule, subcontractors, safety, and owner relationships.",
+        "why": "Leadership track tradespeople multiply their value without leaving the field they love.",
+        "learn": [
+          "Volunteer to lead small crews and material coordination",
+          "Learn reading construction schedules (lookahead planning)",
+          "Practice the daily huddle and end-of-day report",
+          "Study how superintendents manage subcontractor coordination"
+        ],
+        "skills": [
+          "Crew leadership",
+          "Scheduling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Construction Managers",
+            "url": "https://www.bls.gov/ooh/management/construction-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-inspector",
+      "type": "node",
+      "label": "Inspector & Trainer",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Experienced tradespeople branch into code inspection (municipal or third-party), apprenticeship instruction, warranty and field-trainer roles, and technical sales for tools and materials.",
+        "why": "These roles trade some field pay for physical longevity and steady schedules — a real second act built on your expertise.",
+        "learn": [
+          "Check your municipality's inspector requirements (often master-level)",
+          "Explore teaching at trade schools (experience-based hiring)",
+          "Consider manufacturer field-trainer and tech-rep roles",
+          "Note inspector certification options in your trade"
+        ],
+        "skills": [
+          "Code knowledge",
+          "Teaching"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-customer",
+      "type": "node",
+      "label": "Customer & Service Skills",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Service trades live or die on trust: explaining problems in plain language, giving options with prices, showing up when promised, and leaving spaces clean.",
+        "why": "Communication is the highest-leverage skill for independent tradespeople — it is the difference between a job and a customer for life.",
+        "learn": [
+          "Practice explaining one repair two ways: technical and plain",
+          "Build an options presentation: fix now / fix later / replace",
+          "Follow the walk-through-then-clean standard every job",
+          "Ask every customer for a review at completion"
+        ],
+        "skills": [
+          "Customer communication",
+          "Trust building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — customer service basics",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-business",
+      "type": "node",
+      "label": "Running a Trade Business",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Owning a trade business means estimating, scheduling, cash flow, hiring helpers, and marketing — roughly half the job once you're the owner.",
+        "why": "Owners capture the margin labor doesn't; the business side is learnable and compounds for decades.",
+        "learn": [
+          "Learn job costing: labor, materials, overhead, margin",
+          "Set up simple quoting and invoicing workflows",
+          "Understand payroll and workers' comp obligations",
+          "Build a simple marketing engine: reviews + referrals + local presence"
+        ],
+        "skills": [
+          "Estimating",
+          "Small business management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — starting a business",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The standard ladder: helper/apprentice → journeyman → master/foreman → superintendent, contractor-owner, inspector, or instructor — with earnings rising at each licensed tier.",
+        "why": "Unlike many careers, trades ladders are visible and license-gated: you can see exactly what the next rung requires.",
+        "learn": [
+          "Map your state's tiers for your trade",
+          "Set a target tier and its hour/exam requirements",
+          "Find two mentors a rung ahead of you",
+          "Revisit the plan yearly as your body and interests change"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Construction and Extraction",
+            "url": "https://www.bls.gov/ooh/construction-and-extraction/home.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Installation, Maintenance, and Repair",
+            "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-body",
+      "type": "node",
+      "label": "Body & Longevity",
+      "variant": "muted",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Trades are physical careers: knees, backs, and hearing need deliberate care — technique, PPE, strength work, and honest decisions about moving toward inspection, supervision, or ownership with age.",
+        "why": "The tradespeople who thrive for 30+ years planned for longevity from year one, not after the first injury.",
+        "learn": [
+          "Learn proper lifting and positioning technique early",
+          "Invest in knee/back protection and hearing protection habitually",
+          "Keep a simple strength and mobility routine",
+          "Plan your physical-to-mentally-weighted career shift timeline"
+        ],
+        "skills": [
+          "Self-care",
+          "Technique discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OSHA — PPE resources",
+            "url": "https://www.osha.gov/personal-protective-equipment",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-union",
+      "type": "node",
+      "label": "Union vs Open Shop",
+      "variant": "muted",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Union apprenticeships offer structured training, scale wages, and benefits; open shop offers faster responsibility and ownership paths. Both build excellent tradespeople — the choice is cultural and financial.",
+        "why": "Which system you enter shapes your training quality, network, and business options — worth deciding deliberately.",
+        "learn": [
+          "Compare local union apprenticeship wages/benefits vs open shop",
+          "Interview one person from each system",
+          "Note how licensing differs (it doesn't — but access does)",
+          "Choose based on your learning style and local market"
+        ],
+        "skills": [
+          "Market awareness",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov",
+            "url": "https://www.apprenticeship.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-diversity",
+      "type": "node",
+      "label": "Getting In (Everyone)",
+      "variant": "muted",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Programs actively recruit beyond the stereotype: pre-apprenticeship programs, women-in-trades organizations, veterans' programs (Helmets to Hardhats), and second-career entrants are all common paths.",
+        "why": "Trades shortages mean programs want motivated entrants of every background — support networks exist for yours.",
+        "learn": [
+          "Look for pre-apprenticeship programs in your area",
+          "Check veterans' pathway programs if applicable",
+          "Connect with trades-community organizations for your background",
+          "Use career-change programs that fund tools and training"
+        ],
+        "skills": [
+          "Persistence",
+          "Resourcefulness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Apprenticeship.gov — job seekers",
+            "url": "https://www.apprenticeship.gov/apprenticeship-job-finder",
+            "kind": "community"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "tr-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tr-g-trades",
+      "type": "group",
+      "label": "PICK & LEARN YOUR TRADE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "tr-g-license",
+      "type": "group",
+      "label": "LICENSING LADDER",
+      "x": 36,
+      "y": 490,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tr-g-advance",
+      "type": "group",
+      "label": "FIELD LEADERSHIP",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tr-g-skills",
+      "type": "group",
+      "label": "BUSINESS & SERVICE SKILLS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "tr-g-career",
+      "type": "group",
+      "label": "CAREER & REALITIES",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "tr-explore",
+      "to": "tr-apprentice"
+    },
+    {
+      "from": "tr-explore",
+      "to": "tr-safety"
+    },
+    {
+      "from": "tr-explore",
+      "to": "tr-pick"
+    },
+    {
+      "from": "tr-apprentice",
+      "to": "tr-electrical",
+      "dashed": true
+    },
+    {
+      "from": "tr-pick",
+      "to": "tr-electrical"
+    },
+    {
+      "from": "tr-pick",
+      "to": "tr-plumbing"
+    },
+    {
+      "from": "tr-pick",
+      "to": "tr-hvac"
+    },
+    {
+      "from": "tr-pick",
+      "to": "tr-welding"
+    },
+    {
+      "from": "tr-pick",
+      "to": "tr-auto"
+    },
+    {
+      "from": "tr-laborer",
+      "to": "tr-pick",
+      "dashed": true
+    },
+    {
+      "from": "tr-electrical",
+      "to": "tr-journeyman"
+    },
+    {
+      "from": "tr-plumbing",
+      "to": "tr-journeyman"
+    },
+    {
+      "from": "tr-hvac",
+      "to": "tr-certs",
+      "dashed": true
+    },
+    {
+      "from": "tr-journeyman",
+      "to": "tr-master"
+    },
+    {
+      "from": "tr-master",
+      "to": "tr-contractor"
+    },
+    {
+      "from": "tr-certs",
+      "to": "tr-foreman",
+      "dashed": true
+    },
+    {
+      "from": "tr-journeyman",
+      "to": "tr-foreman"
+    },
+    {
+      "from": "tr-foreman",
+      "to": "tr-inspector",
+      "dashed": true
+    },
+    {
+      "from": "tr-journeyman",
+      "to": "tr-customer"
+    },
+    {
+      "from": "tr-contractor",
+      "to": "tr-business"
+    },
+    {
+      "from": "tr-foreman",
+      "to": "tr-career"
+    },
+    {
+      "from": "tr-contractor",
+      "to": "tr-career",
+      "dashed": true
+    },
+    {
+      "from": "tr-career",
+      "to": "tr-body",
+      "dashed": true
+    },
+    {
+      "from": "tr-career",
+      "to": "tr-union",
+      "dashed": true
+    },
+    {
+      "from": "tr-explore",
+      "to": "tr-diversity",
+      "dashed": true
+    },
+    {
+      "from": "tr-diversity",
+      "to": "tr-apprentice",
+      "dashed": true
+    }
+  ]
+}

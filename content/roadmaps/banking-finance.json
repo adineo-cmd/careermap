@@ -1,0 +1,1008 @@
+{
+  "slug": "banking-finance",
+  "title": "Banking & Financial Services",
+  "tagline": "Tellers, personal bankers, loan officers, and analysts — careers inside the financial system.",
+  "summary": "Banking careers span retail branches, lending, credit analysis, and compliance — licensed or credential-light entry points that grow into well-paid lending, wealth, and risk roles. This roadmap covers the branch ladder, the NMLS lending path, credit analysis, and the compliance backbone.",
+  "category": "Business & Finance",
+  "color": "#67b7a4",
+  "icon": "credit-card",
+  "onetRoles": [
+    "43-3071.00",
+    "13-2072.00",
+    "13-2041.00"
+  ],
+  "jelCodes": [
+    "G21"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Loan Officers (13-2072.00)",
+      "url": "https://www.onetonline.org/link/summary/13-2072.00"
+    },
+    {
+      "label": "BLS OOH — Loan Officers",
+      "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "bk-explore",
+      "type": "node",
+      "label": "The Banking Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Banking spans retail branches (accounts, loans, service), commercial lending, wealth management, operations, and risk/compliance — with careers that start customer-facing and grow analytical.",
+        "why": "Banks hire steadily in every city, train extensively, and promote from within — the branch is one of the last true apprenticeship floors in finance.",
+        "learn": [
+          "Read the BLS OOH loan officers profile",
+          "Compare retail bank vs credit union vs commercial bank employers",
+          "Map the roles inside one branch",
+          "Identify which lane attracts you: service, lending, or analysis"
+        ],
+        "skills": [
+          "Financial literacy",
+          "Client service"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Loan Officers",
+            "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Loan Officers",
+            "url": "https://www.onetonline.org/link/summary/13-2072.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2072.00"
+        ],
+        "tasks": [
+          "Evaluate, authorize, or recommend approval of commercial, real estate, or credit loans; advise borrowers on financial status and payment methods."
+        ]
+      }
+    },
+    {
+      "id": "bk-roles",
+      "type": "node",
+      "label": "Roles Overview",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The ladder: teller → personal banker → assistant branch manager → branch manager; lateral tracks: loan officer, credit analyst, compliance officer, operations.",
+        "why": "Banking promotes from within — knowing the map helps you sequence roles deliberately instead of waiting to be chosen.",
+        "learn": [
+          "List the roles in a branch and their responsibilities",
+          "Note which roles require licenses (NMLS) vs internal training",
+          "Compare bank vs credit union cultures",
+          "Set a 5-year target role"
+        ],
+        "skills": [
+          "Career planning",
+          "Internal mobility awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Loan Officers",
+            "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-fund",
+      "type": "node",
+      "label": "Finance Fundamentals",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Working fluency in deposits and lending: how banks earn (spread), credit scores and reports, loan structures, interest math, and the basic regulatory duty of care.",
+        "why": "Every banking role translates money concepts for customers — fluency is the product.",
+        "learn": [
+          "Explain how a bank earns money on deposits",
+          "Read a credit report end-to-end",
+          "Master simple/compound interest and amortization math",
+          "Learn the 5 Cs of credit (character, capacity, capital, collateral, conditions)"
+        ],
+        "skills": [
+          "Credit knowledge",
+          "Financial math"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Khan Academy — Finance and capital markets",
+            "url": "https://www.khanacademy.org/economics-finance-domain",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-mindset",
+      "type": "node",
+      "label": "Trust & Compliance Mindset",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Banks operate under intense regulation (KYC, BSA/AML, fair lending) — accuracy, discretion, and doing things by the book are the professional baseline.",
+        "why": "Compliance awareness from day one is what banks screen for; shortcuts end careers in this industry.",
+        "learn": [
+          "Learn what KYC (know your customer) means",
+          "Understand BSA/AML purpose at a high level",
+          "Practice strict accuracy in every mock transaction",
+          "Study fair-lending principles briefly"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "Integrity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FDIC — consumer resources",
+            "url": "https://www.fdic.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-teller",
+      "type": "node",
+      "label": "Teller & Branch Ops",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The classic entry: processing transactions accurately, cash drawers that balance, identifying customer needs, and referrals to bankers — speed plus zero errors.",
+        "why": "Teller work teaches the bank's products, systems, and customers — and is the standard first rung for branch careers.",
+        "learn": [
+          "Practice cash handling to zero-variance standard",
+          "Learn core transactions: deposits, withdrawals, transfers, holds",
+          "Master your bank's systems and overrides politely",
+          "Log daily referral conversations"
+        ],
+        "skills": [
+          "Cash handling",
+          "Accuracy",
+          "Referrals"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Tellers",
+            "url": "https://www.onetonline.org/link/summary/43-3071.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "43-3071.00"
+        ],
+        "tasks": [
+          "Receive and pay out money; keep records of money and negotiable instruments involved in a financial institution's various transactions."
+        ]
+      }
+    },
+    {
+      "id": "bk-banker",
+      "type": "node",
+      "label": "Personal Banker",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Personal bankers open accounts, recommend products, handle service issues, and originate small loans — the relationship role where sales skill and care meet.",
+        "why": "This is where branch careers accelerate: goal-carrying bankers who balance sales with genuine care get promoted fastest.",
+        "learn": [
+          "Learn the consumer product suite deeply",
+          "Practice needs-based conversations (not product-pushing)",
+          "Understand account opening and KYC steps",
+          "Track referral and goal metrics weekly"
+        ],
+        "skills": [
+          "Needs-based sales",
+          "Relationship building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Loan Officers",
+            "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-onboarding",
+      "type": "node",
+      "label": "Onboarding & KYC",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Customer due diligence: identity verification, beneficial-ownership questions for businesses, CIP requirements, and spotting red flags that need escalation.",
+        "why": "Onboarding is where compliance meets the customer — doing it well is a real, promotable skill.",
+        "learn": [
+          "Learn CIP (Customer Identification Program) elements",
+          "Practice document verification standards",
+          "Know the red flags that trigger escalation",
+          "Keep clean, complete files every time"
+        ],
+        "skills": [
+          "KYC procedure",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FDIC — consumer resources",
+            "url": "https://www.fdic.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-products",
+      "type": "node",
+      "label": "Banking Products",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The catalog: checking/savings, CDs, money markets, credit cards, personal loans, auto, mortgages, HELOCs, and small-business products — with the fees and rules of each.",
+        "why": "Advisors who know every product's real use case can match needs honestly — and win referrals for it.",
+        "learn": [
+          "Build a one-page summary per product family",
+          "Compare similar products across two banks",
+          "Learn common fee structures and waivers",
+          "Practice matching needs to products"
+        ],
+        "skills": [
+          "Product knowledge",
+          "Needs matching"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FDIC — consumer resources",
+            "url": "https://www.fdic.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-ops",
+      "type": "node",
+      "label": "Back Office & Ops",
+      "variant": "muted",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Operations runs the machinery: payment processing, fraud monitoring, item handling, reconciliations, and service teams — steady, detail-focused careers away from sales goals.",
+        "why": "Ops is the no-sales alternative lane — ideal for meticulous people, and a quiet path into fraud and compliance roles.",
+        "learn": [
+          "Explore operations job postings at local banks",
+          "Learn payment rails basics (ACH, wires, cards)",
+          "Practice reconciliation exercises",
+          "Note the fraud-analyst career branch"
+        ],
+        "skills": [
+          "Process accuracy",
+          "Systems literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Business and Financial occupations",
+            "url": "https://www.bls.gov/ooh/business-and-financial/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-loan",
+      "type": "node",
+      "label": "Loan Officer Path",
+      "variant": "accent",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Loan officers evaluate applications, explain products, structure deals, and shepherd approvals — in consumer, mortgage, or commercial flavors, often with production incentives.",
+        "why": "Lending is banking's highest-paid branch lane and the natural destination for strong bankers.",
+        "learn": [
+          "Learn the loan lifecycle: application → underwriting → closing",
+          "Practice reading credit files and debt ratios",
+          "Shadow a loan officer for a day",
+          "Ask about your bank's internal LO development"
+        ],
+        "skills": [
+          "Credit evaluation",
+          "Client advisory"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Loan Officers",
+            "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Loan Officers",
+            "url": "https://www.onetonline.org/link/summary/13-2072.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2072.00"
+        ]
+      }
+    },
+    {
+      "id": "bk-nmls",
+      "type": "node",
+      "label": "NMLS Licensing",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Mortgage loan originators must be licensed through NMLS: pre-licensing education (20 hours), a national test, background/credit checks, and annual renewals with CE.",
+        "why": "The NMLS license is the legal key to residential mortgage origination — many banks sponsor strong employees through it.",
+        "learn": [
+          "Review NMLS pre-licensing and test requirements",
+          "Ask your employer about sponsorship",
+          "Complete 20 hours of approved education",
+          "Pass the SAFE MLO national test"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Exam preparation"
+        ],
+        "certs": [
+          {
+            "name": "MLO License (NMLS)",
+            "issuer": "State regulators via the Nationwide Multistate Licensing System",
+            "note": "20 hours of pre-licensing education, the SAFE MLO test, and background checks; renewals require continuing education."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NMLS Resource Center",
+            "url": "https://mortgage.nationwidelicensingsystem.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-credit",
+      "type": "node",
+      "label": "Credit Analysis",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Credit analysts examine borrower financials — statements, cash flow, collateral, and ratios — to recommend approvals; the analytical ladder toward commercial lending.",
+        "why": "Credit analysis is banking's analyst track: strong pay, clear progression, and skills that transfer everywhere in finance.",
+        "learn": [
+          "Learn the 5 Cs applied to real files",
+          "Practice spreading financial statements",
+          "Calculate key ratios: DSCR, debt-to-income, current ratio",
+          "Write one-page credit memos with recommendations"
+        ],
+        "skills": [
+          "Credit analysis",
+          "Financial statement analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Credit Analysts",
+            "url": "https://www.onetonline.org/link/summary/13-2041.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2041.00"
+        ]
+      }
+    },
+    {
+      "id": "bk-mortgage",
+      "type": "node",
+      "label": "Mortgage Processing",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Mortgage operations: processing files, coordinating appraisals/title, condition gathering, and regulatory disclosures — the engine room of residential lending.",
+        "why": "Processing is a licensed-adjacent career with strong remote-work presence and a direct view of the loan officer path.",
+        "learn": [
+          "Learn the loan file milestone flow",
+          "Practice condition-gathering checklists",
+          "Understand disclosures (Loan Estimate concepts)",
+          "Track a mock file from application to clear-to-close"
+        ],
+        "skills": [
+          "Process management",
+          "Mortgage knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CFPB — mortgage resources",
+            "url": "https://www.consumerfinance.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-commercial",
+      "type": "node",
+      "label": "Commercial Lending",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Commercial bankers underwrite businesses: working capital lines, equipment loans, CRE — relationships measured in years and memos measured in analysis.",
+        "why": "Commercial lending is the prestige lane of branch-to-commercial progression, pairing relationship skill with credit rigor.",
+        "learn": [
+          "Learn business entity basics and business credit",
+          "Study commercial loan structures (lines, term, CRE)",
+          "Practice a mock borrower meeting",
+          "Read one commercial credit memo with an analyst"
+        ],
+        "skills": [
+          "Business lending",
+          "Relationship management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — lender resources",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-wealth",
+      "type": "node",
+      "label": "Wealth Management",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Branch wealth roles refer and support investment and retirement relationships; the dedicated track (financial advisor) adds securities licensing — see the Personal Financial Advisor occupation.",
+        "why": "Wealth is banking's premium service line — bankers who master referrals here open the advisor door.",
+        "learn": [
+          "Learn basic investment products and retirement accounts",
+          "Practice warm referral conversations to advisors",
+          "Note the securities licensing step (SIE-style) for advisors",
+          "Compare bank wealth vs independent RIA careers"
+        ],
+        "skills": [
+          "Investment literacy",
+          "Referral skill"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Personal Financial Advisors",
+            "url": "https://www.onetonline.org/link/summary/13-2052.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-2052.00"
+        ]
+      }
+    },
+    {
+      "id": "bk-risk",
+      "type": "node",
+      "label": "Risk & BSA/AML",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Compliance and BSA/AML analysts monitor transactions, file reports (SARs), and keep the bank out of trouble — detail-driven roles with strong demand and certification ladders.",
+        "why": "Regulatory demand makes compliance one of banking's most stable growth tracks — ideal for meticulous investigators.",
+        "learn": [
+          "Learn BSA/AML fundamentals and SAR purpose",
+          "Practice transaction-monitoring case reviews",
+          "Explore certifications (CAMAS-style) and postings",
+          "Follow FinCEN guidance headlines"
+        ],
+        "skills": [
+          "AML analysis",
+          "Regulatory reporting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FinCEN",
+            "url": "https://www.fincen.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-branch",
+      "type": "node",
+      "label": "Branch Management",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Branch managers own a P&L: sales goals, staffing, coaching, audit readiness, and community presence — the classic destination of the branch ladder.",
+        "why": "Branch management is general management with real numbers — and the launchpad for market/region leadership.",
+        "learn": [
+          "Learn branch scorecards: deposits, loans, referrals, audits",
+          "Practice coaching conversations with tellers",
+          "Build a community business-development plan",
+          "Shadow a branch manager's full week"
+        ],
+        "skills": [
+          "Team leadership",
+          "P&L ownership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Loan Officers",
+            "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-analyst",
+      "type": "node",
+      "label": "Portfolio & Credit Ladder",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The credit track grows: analyst → portfolio manager → senior underwriter → credit officer, owning growing loan books and approval authority.",
+        "why": "Credit authority is banking's senior analytical currency — built file by file over years.",
+        "learn": [
+          "Take on larger, more complex credit files progressively",
+          "Learn portfolio-level risk views (concentration, migration)",
+          "Present credit opinions in committee",
+          "Build a reputation for balanced, defensible calls"
+        ],
+        "skills": [
+          "Portfolio risk",
+          "Credit committee communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Business and Financial occupations",
+            "url": "https://www.bls.gov/ooh/business-and-financial/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-fintech",
+      "type": "node",
+      "label": "Fintech Crossover",
+      "variant": "muted",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Fintech lenders and payment companies hire bank-trained people for operations, credit, and compliance — remote-friendly and faster-paced than traditional banks.",
+        "why": "Bank experience plus tech comfort is a portable combination — a real option, not a betrayal of the branch.",
+        "learn": [
+          "Follow fintech lenders hiring in your region",
+          "Map your banking skills to startup roles",
+          "Learn one digital-lending platform's concepts",
+          "Weigh equity/risk trade-offs honestly"
+        ],
+        "skills": [
+          "Technology adaptability",
+          "Career risk assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Business and Financial occupations",
+            "url": "https://www.bls.gov/ooh/business-and-financial/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Branch ladder: teller → banker → assistant manager → branch manager → market leader. Lending ladder: processor → LO → senior LO → lending manager. Credit ladder: analyst → portfolio manager → credit officer.",
+        "why": "Banking ladders are formal and internally documented — pick your track early and collect the checkpoints deliberately.",
+        "learn": [
+          "Map your bank's internal job families",
+          "Ask HR about development programs",
+          "Find a sponsor who advocates for promotions",
+          "Review your track annually"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Loan Officers",
+            "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-aba",
+      "type": "node",
+      "label": "Banking Credentials",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The American Bankers Association and similar bodies offer certificates and diplomas (e.g., ABA Branch Manager Certificate) that banks frequently fund for employees.",
+        "why": "Structured certificates signal seriousness and often satisfy internal promotion requirements — ask about reimbursement first.",
+        "learn": [
+          "Browse ABA certificate options for your role",
+          "Check your bank's tuition-assistance policy",
+          "Complete one certificate aligned to your next rung",
+          "Log completed training in your HR file"
+        ],
+        "skills": [
+          "Credential planning",
+          "Employer funding research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ABA — training and certificates",
+            "url": "https://www.aba.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-ethics",
+      "type": "node",
+      "label": "Selling Ethically",
+      "variant": "muted",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Banking sales carry fiduciary-adjacent duties: suitable products, transparent fees, no pushing overdraft or credit a customer can't carry — regulators and communities remember.",
+        "why": "The industry's worst scandals came from sales-pressure culture. A banker known for honesty keeps customers, regulators, and options.",
+        "learn": [
+          "Learn your bank's sales-practice rules",
+          "Practice declining unsuitable products kindly",
+          "Document needs behind every recommendation",
+          "Escalate pressure you can't manage"
+        ],
+        "skills": [
+          "Ethics",
+          "Client trust"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CFPB — consumer education",
+            "url": "https://www.consumerfinance.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-interview",
+      "type": "node",
+      "label": "Breaking In",
+      "variant": "muted",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Entry is via teller/banker postings and internship programs; interviews test accuracy, integrity scenarios, and customer empathy more than finance trivia.",
+        "why": "A prepared candidate with clean math, integrity answers, and genuine curiosity stands out immediately.",
+        "learn": [
+          "Practice a cash-handling accuracy story",
+          "Prepare integrity scenario answers",
+          "Learn the bank's products before interviewing",
+          "Apply broadly — every bank branches locally"
+        ],
+        "skills": [
+          "Interview preparation",
+          "Integrity scenarios"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Tellers",
+            "url": "https://www.bls.gov/ooh/office-and-administrative-support/bank-tellers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-continue",
+      "type": "node",
+      "label": "Keep Learning",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Banking rewards continuous learning: products change, regulations update, and markets move — reading one industry item daily compounds into seniority.",
+        "why": "Senior bankers are the ones who understood the 'why' behind every rule and product — curiosity is the compounding asset.",
+        "learn": [
+          "Follow your central bank's rate communications",
+          "Read one banking-industry piece daily",
+          "Take one new-product training per quarter",
+          "Teach what you learn to newer colleagues"
+        ],
+        "skills": [
+          "Lifelong learning",
+          "Industry reading habit"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Federal Reserve — education resources",
+            "url": "https://www.federalreserveeducation.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bk-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bk-g-entry",
+      "type": "group",
+      "label": "BRANCH ENTRY",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "bk-g-lending",
+      "type": "group",
+      "label": "LENDING & ANALYSIS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "bk-g-grow",
+      "type": "group",
+      "label": "SPECIALIZE & LEAD",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bk-g-ladder",
+      "type": "group",
+      "label": "LADDERS & CREDENTIALS",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bk-g-career",
+      "type": "group",
+      "label": "CAREER & INTEGRITY",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "bk-explore",
+      "to": "bk-roles"
+    },
+    {
+      "from": "bk-explore",
+      "to": "bk-fund"
+    },
+    {
+      "from": "bk-explore",
+      "to": "bk-mindset"
+    },
+    {
+      "from": "bk-roles",
+      "to": "bk-teller"
+    },
+    {
+      "from": "bk-teller",
+      "to": "bk-banker"
+    },
+    {
+      "from": "bk-banker",
+      "to": "bk-onboarding",
+      "dashed": true
+    },
+    {
+      "from": "bk-banker",
+      "to": "bk-products"
+    },
+    {
+      "from": "bk-ops",
+      "to": "bk-products",
+      "dashed": true
+    },
+    {
+      "from": "bk-products",
+      "to": "bk-loan"
+    },
+    {
+      "from": "bk-loan",
+      "to": "bk-nmls"
+    },
+    {
+      "from": "bk-loan",
+      "to": "bk-credit",
+      "dashed": true
+    },
+    {
+      "from": "bk-loan",
+      "to": "bk-mortgage",
+      "dashed": true
+    },
+    {
+      "from": "bk-credit",
+      "to": "bk-commercial"
+    },
+    {
+      "from": "bk-banker",
+      "to": "bk-wealth",
+      "dashed": true
+    },
+    {
+      "from": "bk-onboarding",
+      "to": "bk-risk",
+      "dashed": true
+    },
+    {
+      "from": "bk-banker",
+      "to": "bk-branch"
+    },
+    {
+      "from": "bk-credit",
+      "to": "bk-analyst",
+      "dashed": true
+    },
+    {
+      "from": "bk-branch",
+      "to": "bk-career"
+    },
+    {
+      "from": "bk-analyst",
+      "to": "bk-career",
+      "dashed": true
+    },
+    {
+      "from": "bk-loan",
+      "to": "bk-career",
+      "dashed": true
+    },
+    {
+      "from": "bk-career",
+      "to": "bk-aba",
+      "dashed": true
+    },
+    {
+      "from": "bk-career",
+      "to": "bk-fintech",
+      "dashed": true
+    },
+    {
+      "from": "bk-career",
+      "to": "bk-ethics",
+      "dashed": true
+    },
+    {
+      "from": "bk-career",
+      "to": "bk-interview",
+      "dashed": true
+    },
+    {
+      "from": "bk-career",
+      "to": "bk-continue",
+      "dashed": true
+    }
+  ]
+}

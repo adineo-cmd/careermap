@@ -1,0 +1,1216 @@
+{
+  "slug": "sales",
+  "title": "Sales & Business Development",
+  "tagline": "Find buyers, earn trust, and close — the complete path from first cold call to enterprise deals.",
+  "summary": "Sales is the revenue engine of every company and one of the few careers where results, not credentials, drive advancement. This roadmap covers the full craft: prospecting and qualification, discovery and demos, negotiation and closing, account growth, pipeline math, and the methodologies (SPIN, MEDDIC, Challenger) modern teams use.",
+  "category": "Business & Finance",
+  "color": "#34d399",
+  "icon": "trending-up",
+  "onetRoles": [
+    "41-3091.00",
+    "41-4012.00",
+    "11-2022.00",
+    "43-4051.00"
+  ],
+  "jelCodes": [
+    "M31",
+    "M37"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Sales Representatives, Services (41-3091.00)",
+      "url": "https://www.onetonline.org/link/summary/41-3091.00"
+    },
+    {
+      "label": "BLS OOH — Wholesale and Manufacturing Sales Representatives",
+      "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm"
+    },
+    {
+      "label": "HubSpot Academy — Sales certifications",
+      "url": "https://academy.hubspot.com/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "sal-foundations",
+      "type": "node",
+      "label": "How Sales Works",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sales matches a buyer's problem to a solution and guides the decision to purchase. Underneath the vocabulary, it is a repeatable process: find people with the problem, understand it deeply, show a credible fix, and make the decision easy.",
+        "why": "Sales roles exist in every industry, hire continuously, and reward skill faster than almost any other function. It is also superb training for running any business.",
+        "learn": [
+          "Read the BLS profile of sales representatives for the career shape",
+          "Identify the stages of a standard B2B sale",
+          "Follow 5 sellers on LinkedIn for a month and note how they communicate",
+          "Write down 3 problems you have personally 'sold' someone on"
+        ],
+        "skills": [
+          "Communication",
+          "Persuasion",
+          "Resilience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Wholesale and Manufacturing Sales Representatives",
+            "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Sales Representatives, Services",
+            "url": "https://www.onetonline.org/link/summary/41-3091.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-3091.00"
+        ],
+        "tasks": [
+          "Sell goods or services to businesses or individuals; explain product features and negotiate prices and terms."
+        ]
+      }
+    },
+    {
+      "id": "sal-b2b",
+      "type": "node",
+      "label": "B2B vs B2C Selling",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "B2C sales are short, emotional, and high-volume; B2B sales are long, multi-stakeholder, and rational on the surface. Deal size, cycle length, and the number of decision-makers differ sharply.",
+        "why": "The two games need different temperaments and skills. Knowing which you prefer shapes everything: role choice, company size, and even the methodologies worth learning.",
+        "learn": [
+          "Compare a $30 consumer purchase with a $30,000 software purchase: cycle, stakeholders, risk",
+          "Identify the buying committee roles in B2B: champion, economic buyer, users, blockers",
+          "Explain why B2B deals stall and who un-stalls them",
+          "Pick your preference and shortlist companies that match"
+        ],
+        "skills": [
+          "Stakeholder awareness",
+          "Sales process knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Inbound Sales (free)",
+            "url": "https://academy.hubspot.com/courses/inbound-sales",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-process",
+      "type": "node",
+      "label": "The Sales Process",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A defined sales process stages every deal — prospecting, qualification, discovery, proposal, negotiation, close, handoff — so forecasts mean something and coaching is possible.",
+        "why": "Companies hire against their process. Speaking its language fluently (stages, exit criteria, definitions) makes you productive from week one.",
+        "learn": [
+          "Diagram a 6-stage B2B sales process with exit criteria per stage",
+          "Define what makes a deal 'qualified' at each stage",
+          "Map where deals commonly die and why",
+          "Compare how a startup and an enterprise define the same stages"
+        ],
+        "skills": [
+          "Sales process management",
+          "Organization"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Inbound Sales (free)",
+            "url": "https://academy.hubspot.com/courses/inbound-sales",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-crm",
+      "type": "node",
+      "label": "CRM Fundamentals",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Customer relationship management systems (Salesforce, HubSpot, Pipedrive) track every contact, activity, and deal. Pipeline hygiene — accurate stages, next steps, and dates — is table stakes.",
+        "why": "Your pipeline is your credibility: managers coach from it and forecasts depend on it. Sloppy CRM data is the most common rookie failure.",
+        "learn": [
+          "Understand core objects: leads, contacts, accounts, deals, activities",
+          "Log 10 mock activities with correct associations",
+          "Move deals through stages with honest probabilities",
+          "Pull one pipeline report and explain what it says"
+        ],
+        "skills": [
+          "CRM software",
+          "Pipeline hygiene",
+          "Attention to Detail"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot — free CRM platform",
+            "url": "https://www.hubspot.com/products/crm",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-icp",
+      "type": "node",
+      "label": "ICP & Buyer Personas",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The ideal customer profile defines which organizations buy most and stay longest (size, industry, triggers); personas describe the humans inside them (role, goals, fears).",
+        "why": "Random outreach fails; targeted outreach works. ICP thinking is the difference between noise and relevance, and it drives every downstream tactic.",
+        "learn": [
+          "Write an ICP for a product you know: firmographics, triggers, disqualifiers",
+          "Draft 2 personas: role, day-in-the-life, pain, objections",
+          "List 20 companies matching your ICP",
+          "Justify each disqualifier with a cost-of-serving argument"
+        ],
+        "skills": [
+          "Market analysis",
+          "Customer insight"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Inbound Sales (free)",
+            "url": "https://academy.hubspot.com/courses/inbound-sales",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-prospect",
+      "type": "node",
+      "label": "Prospecting & Outreach",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Prospecting creates conversations: cold calls, cold email, warm referrals, and event follow-ups — in sequences with personalized opening lines and a single clear ask.",
+        "why": "Prospecting is the #1 skill of entry-level sales (the SDR job) and the hardest to automate well. People who can start conversations are never unemployed.",
+        "learn": [
+          "Write a 4-touch sequence: email, call, email, breakup",
+          "Draft cold emails under 90 words with one ask",
+          "Practice a 20-second cold call opener and objection pivot",
+          "Track reply and connect rates; iterate weekly"
+        ],
+        "skills": [
+          "Prospecting",
+          "Written communication",
+          "Persistence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": [
+          "41-3091.00"
+        ],
+        "tasks": [
+          "Contact new and existing customers to persuade them to purchase goods or services."
+        ]
+      }
+    },
+    {
+      "id": "sal-social",
+      "type": "node",
+      "label": "Social Selling",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Social selling builds visibility and trust where buyers already are — mainly LinkedIn: a credible profile, useful commentary, and patient relationship-building before any ask.",
+        "why": "Modern buyers research you before replying. A strong presence warms every cold touch and compounds over a career.",
+        "learn": [
+          "Rewrite your LinkedIn headline and About section for your buyer",
+          "Comment usefully on 10 industry posts per week for a month",
+          "Publish 4 short posts teaching something real",
+          "Convert 1 warm conversation into a discovery call"
+        ],
+        "skills": [
+          "Personal branding",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Social selling resources",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-discovery",
+      "type": "node",
+      "label": "Discovery Calls",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Discovery is diagnostic: understanding the buyer's current state, desired future state, cost of inaction, and decision process — before any pitch. Good discovery sounds like consulting, not selling.",
+        "why": "Deals are won or lost in discovery. The best reps talk for perhaps a third of the call and still control it completely.",
+        "learn": [
+          "Prepare a 12-question discovery framework (situation, problem, impact, decision)",
+          "Practice summarizing what you heard before responding",
+          "Quantify one prospect's problem in money or time",
+          "Role-play a discovery call and count your talk ratio"
+        ],
+        "skills": [
+          "Active Listening",
+          "Diagnosing needs",
+          "Questioning technique"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Sales Representatives, Wholesale and Manufacturing",
+            "url": "https://www.onetonline.org/link/summary/41-4011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-4012.00"
+        ]
+      }
+    },
+    {
+      "id": "sal-qualify",
+      "type": "node",
+      "label": "Qualification Frameworks",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Frameworks structure qualification: BANT (budget, authority, need, timeline), MEDDIC (metrics, economic buyer, decision criteria, decision process, identify pain, champion), and lighter variants.",
+        "why": "Time is a seller's only inventory. Qualification discipline protects it, and framework vocabulary is expected in interviews at most B2B companies.",
+        "learn": [
+          "Explain BANT and when its simplicity wins",
+          "Map MEDDIC letters to questions you would ask",
+          "Score 5 mock deals for qualification and forecast them",
+          "Know when to walk away — write your own disqualification rules"
+        ],
+        "skills": [
+          "Qualification",
+          "Deal assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Inbound Sales (free)",
+            "url": "https://academy.hubspot.com/courses/inbound-sales",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-listen",
+      "type": "node",
+      "label": "Listening & Questions",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Active listening — full attention, confirmation summaries, layered follow-ups — plus open and diagnostic questioning are the raw mechanics of discovery.",
+        "why": "Buyers trust people who understand them. Listening is also trainable and immediately separates you from most sellers, who pitch too early.",
+        "learn": [
+          "Practice paraphrase-and-confirm on every conversation for a week",
+          "Convert 10 closed questions into open ones",
+          "Use the 3-deep follow-up: why does that matter?",
+          "Record (with permission) one call and self-score your listening"
+        ],
+        "skills": [
+          "Active Listening",
+          "Empathy",
+          "Communication"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Investopedia — Active Listening overview",
+            "url": "https://www.investopedia.com/terms/a/activelistening.asp",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-value",
+      "type": "node",
+      "label": "Value Proposition",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A value proposition connects your solution to the buyer's quantified problem: what changes, by how much, over what time — expressed in the buyer's numbers, not your features.",
+        "why": "Deals clear procurement when value is explicit. Feature lists stall; business cases move.",
+        "learn": [
+          "Rewrite a feature list as a business-outcome story",
+          "Build a simple ROI calculator for a product you know",
+          "Practice the 'so that…' chain until you reach money",
+          "Tailor one value story to two different personas"
+        ],
+        "skills": [
+          "Value selling",
+          "Business acumen",
+          "Quantification"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-demo",
+      "type": "node",
+      "label": "Demos & Pitches",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A great demo is a story about the buyer's day made better — not a feature tour. Structure: their problem, the moment of value, proof, and a clear next step.",
+        "why": "Demos are the emotional peak of B2B deals. Sloppy demos un-do great discovery; sharp ones make champions out of attendees.",
+        "learn": [
+          "Design a 10-minute demo following problem → value moment → proof",
+          "Cut a feature tour down to the 3 moments your persona cares about",
+          "Handle 'can it also…?' detours gracefully",
+          "Rehearse on video and cut your intro to 60 seconds"
+        ],
+        "skills": [
+          "Presentation skills",
+          "Storytelling",
+          "Product knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-objections",
+      "type": "node",
+      "label": "Objection Handling",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Objections ('too expensive', 'we're fine as-is', 'need to think') are requests for more information or confidence. The craft: acknowledge, clarify the real concern, respond with evidence, confirm resolution.",
+        "why": "Most deals die from unhandled objections, and most reps argue instead of exploring. Calm objection handling is a career-long differentiator.",
+        "learn": [
+          "List the 8 most common objections in your market",
+          "Practice acknowledge → clarify → respond → confirm on each",
+          "Distinguish objections from conditions (real blockers)",
+          "Write proof points (case studies, data) for your top 3"
+        ],
+        "skills": [
+          "Objection handling",
+          "Composure",
+          "Persuasion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Investopedia — Negotiation overview",
+            "url": "https://www.investopedia.com/terms/n/negotiation.asp",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-negotiate",
+      "type": "node",
+      "label": "Negotiation",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Negotiation trades value instead of discounting blindly: know your walk-away, concede slowly and conditionally, and keep a list of non-price trades (term length, start date, scope, references).",
+        "why": "Discount discipline protects both your commission and the company's economics. Skilled negotiators close better deals with happier buyers.",
+        "learn": [
+          "Define your walk-away and opening positions for a sample deal",
+          "Practice conditional concessions: 'If you…, then we…'",
+          "List 6 non-price variables you can trade",
+          "Debrief one negotiation: what would you trade differently?"
+        ],
+        "skills": [
+          "Negotiation",
+          "Composure",
+          "Problem sensitivity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Investopedia — Negotiation overview",
+            "url": "https://www.investopedia.com/terms/n/negotiation.asp",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-close",
+      "type": "node",
+      "label": "Closing & Handoff",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Closing turns agreement into a signed contract: timeline alignment, paper process management, signature logistics — then a clean handoff to onboarding so the value promise survives.",
+        "why": "Deals restart endlessly without paper-process management, and sloppy handoffs cause early churn that reflects on you at renewal.",
+        "learn": [
+          "Ask for the business naturally: define mutual next steps with dates",
+          "Map a paper process: legal review, procurement, signatures",
+          "Write a handoff document a customer success team would praise",
+          "Set post-sale expectations with the buyer before signing"
+        ],
+        "skills": [
+          "Closing technique",
+          "Project coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-accounts",
+      "type": "node",
+      "label": "Account Growth",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Post-sale selling — renewals, upsells, cross-sells, QBRs (quarterly business reviews) — is where long-term sellers earn most: expansion revenue is cheaper and stickier than new logos.",
+        "why": "Account management and customer success are major hiring pipelines, and expansion skills make you valuable in almost any sales org.",
+        "learn": [
+          "Build a 90-day post-sale check-in cadence",
+          "Run a mock QBR: value delivered, goals ahead, expansion idea",
+          "Spot 5 expansion signals (usage growth, new stakeholders, budget cycles)",
+          "Map one account's whitespace honestly"
+        ],
+        "skills": [
+          "Account management",
+          "Customer retention",
+          "Consulting skills"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-proposals",
+      "type": "node",
+      "label": "Proposals & RFPs",
+      "x": 620,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Formal buying processes need written artifacts: proposals structured around the buyer's outcomes, and RFP responses assembled with legal, security, and product teams on deadline.",
+        "why": "Common in enterprise, government, and vendor management — strong proposal skills open door to higher-velocity deal types.",
+        "learn": [
+          "Outline a 5-section proposal: problem, impact, solution, proof, terms",
+          "Answer 10 standard RFP questions crisply",
+          "Learn to say 'no' to unpaid custom work politely",
+          "Build a reusable asset library for repeat questions"
+        ],
+        "skills": [
+          "Business writing",
+          "Cross-functional coordination"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Sales Representatives, Wholesale and Manufacturing",
+            "url": "https://www.onetonline.org/link/summary/41-4011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-4012.00"
+        ]
+      }
+    },
+    {
+      "id": "sal-pipeline",
+      "type": "node",
+      "label": "Pipeline Management",
+      "x": 60,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pipeline management keeps a portfolio of opportunities honest: coverage ratios against quota, stage discipline, next-step dates, and regular scrubs that kill dead deals.",
+        "why": "Your pipeline is your income. Sellers who manage coverage proactively hit quota; those who hope, don't.",
+        "learn": [
+          "Compute your required pipeline coverage (commonly 3–4× quota)",
+          "Run a weekly self-scrub: kill, advance, or date every deal",
+          "Maintain next steps on 100% of open deals for a month",
+          "Balance new, progressing, and closing deals by week"
+        ],
+        "skills": [
+          "Pipeline management",
+          "Time management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot — free CRM platform",
+            "url": "https://www.hubspot.com/products/crm",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-forecast",
+      "type": "node",
+      "label": "Forecasting",
+      "x": 340,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Forecasting predicts what will actually close this period: weighted pipeline, commit vs best-case categories, and honest calls that leaders can run the business on.",
+        "why": "Forecast accuracy is the fastest trust-builder with sales leadership and the core skill of the manager interview loop.",
+        "learn": [
+          "Explain commit / best case / pipeline categories",
+          "Apply stage-weighting to a sample pipeline",
+          "Call a month-end number and reconcile it after",
+          "Identify your personal sandbagging or happy-ears bias"
+        ],
+        "skills": [
+          "Forecasting",
+          "Judgment and Decision Making"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Sales Managers",
+            "url": "https://www.bls.gov/ooh/management/sales-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2022.00"
+        ]
+      }
+    },
+    {
+      "id": "sal-metrics",
+      "type": "node",
+      "label": "Sales Metrics",
+      "x": 620,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The dashboard of selling: activity volume, connect and reply rates, meetings held, conversion by stage, average deal size, sales cycle length, win rate, and quota attainment.",
+        "why": "Metrics make improvement possible. Knowing your own conversion rates tells you exactly what to fix and how much activity to add.",
+        "learn": [
+          "Compute your funnel math: activities → meetings → opps → wins",
+          "Find your weakest stage conversion and design one fix",
+          "Explain average deal size and cycle length trade-offs",
+          "Build a one-page personal scorecard and review it weekly"
+        ],
+        "skills": [
+          "Sales analytics",
+          "Self-management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Sales Managers",
+            "url": "https://www.bls.gov/ooh/management/sales-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-methods",
+      "type": "node",
+      "label": "Sales Methodologies",
+      "x": 900,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Methodologies codify how to sell: SPIN Selling's situation-problem-implication-need questions, Challenger's teach-tailor-take-control, MEDDIC's qualification rigor, Sandler's pain funnels.",
+        "why": "Teams run on one methodology; interviews test whether you know it. Understanding several makes you adaptable — and a better interviewer of employers.",
+        "learn": [
+          "Summarize SPIN, Challenger, and MEDDIC in one line each",
+          "Match each methodology to deal type it suits best",
+          "Read a primary source (e.g., SPIN Selling) and extract 5 practices",
+          "Blend two methodologies into your own discovery framework"
+        ],
+        "skills": [
+          "Sales methodology",
+          "Adaptability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-storytelling",
+      "type": "node",
+      "label": "Storytelling & Proof",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Stories carry proof: customer-before/customer-after narratives, specific numbers, and named outcomes beat adjectives. The best sellers speak in cases, not claims.",
+        "why": "Proof lowers buyer risk — the real obstacle in most deals. A library of stories lets you answer objections before they're voiced.",
+        "learn": [
+          "Write 5 customer stories in the before/after/result format",
+          "Attach a number to every story you tell",
+          "Practice the 90-second version and the 15-second version",
+          "Collect 3 'objection-matched' stories per common objection"
+        ],
+        "skills": [
+          "Storytelling",
+          "Proof presentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales training",
+            "url": "https://academy.hubspot.com/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-habits",
+      "type": "node",
+      "label": "Resilience & Habits",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sales is a rejection-heavy profession. Sustainable performers manage energy and ego deliberately: activity routines, loss reviews without self-flagellation, and separating self-worth from win rate.",
+        "why": "Most people who leave sales leave because of unmanaged rejection. Building the psychological toolkit early keeps you in the game long enough to get good.",
+        "learn": [
+          "Design a daily activity block you can hold for 90 days",
+          "Write a 5-minute loss-review template: what did I control?",
+          "Build a support network of peers outside your company",
+          "Practice reframing 'no' as data — track what you learned"
+        ],
+        "skills": [
+          "Resilience",
+          "Stress tolerance",
+          "Self-management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Wholesale and Manufacturing Sales Representatives",
+            "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-ethics",
+      "type": "node",
+      "label": "Ethical Selling",
+      "x": 620,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ethical selling means selling only what genuinely fits, representing products honestly, respecting no, and never pressuring vulnerable buyers. Long-term trust out-earns short-term tricks.",
+        "why": "Reputation compounds in sales like nowhere else — references and repeat buyers are the entire senior career. Ethical lapses end careers and appear in every negotiation you'll ever have.",
+        "learn": [
+          "Learn your industry's regulatory constraints (e.g., financial services suitability rules)",
+          "Practice disqualifying a bad-fit buyer out loud",
+          "Understand consent, privacy, and anti-spam basics for outreach (CAN-SPAM/GDPR concepts)",
+          "Write your personal 'lines I won't cross' list"
+        ],
+        "skills": [
+          "Ethics",
+          "Integrity",
+          "Regulatory awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FTC — Business guidance (US)",
+            "url": "https://www.ftc.gov/guidance",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-ladder",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The standard B2B ladder: SDR/BDR (outbound prospecting) → account executive (closing) → senior/enterprise AE → team lead → sales manager → director/VP/CRO. Adjacent tracks: customer success, partnerships, revenue operations.",
+        "why": "Sales promotions are performance-gated, not tenure-gated. Understanding the ladder lets you pick companies where your target rung is reachable.",
+        "learn": [
+          "Map typical tenure and metrics per rung in your market",
+          "Decide new-logo vs expansion vs channel track",
+          "Identify 3 target companies with a real SDR→AE path",
+          "Draft the specific quota attainment you need to earn promotion"
+        ],
+        "skills": [
+          "Career planning",
+          "Quota attainment tracking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Sales Managers",
+            "url": "https://www.bls.gov/ooh/management/sales-managers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Sales Managers",
+            "url": "https://www.onetonline.org/link/summary/11-2022.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2022.00",
+          "41-3091.00"
+        ]
+      }
+    },
+    {
+      "id": "sal-cert",
+      "type": "node",
+      "label": "Certifications & Training",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sales has few universal licenses; credentials are mostly vendor training — HubSpot's free Inbound Sales and Sales Software certifications being the most cited. Product companies run their own intensive onboarding academies.",
+        "why": "Certifications signal coachability to hiring managers, but a documented outreach experiment or mock discovery tape beats them. Do both cheaply.",
+        "learn": [
+          "Complete HubSpot's free Inbound Sales certification",
+          "Complete the Sales Software (CRM) certification",
+          "Record a 10-minute mock discovery call as a portfolio artifact",
+          "Note: most 'sales certifications' are internal programs — ask interviewers about theirs"
+        ],
+        "skills": [
+          "Coachability",
+          "Tooling"
+        ],
+        "certs": [
+          {
+            "name": "HubSpot Inbound Sales Certification",
+            "issuer": "HubSpot Academy",
+            "note": "Free course and exam on the inbound selling methodology; commonly listed on entry-level sales resumes."
+          }
+        ],
+        "resources": [
+          {
+            "title": "HubSpot Academy — Sales certifications",
+            "url": "https://academy.hubspot.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-verticals",
+      "type": "node",
+      "label": "Verticals & Deal Types",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Selling differs by context: SMB velocity vs enterprise rigor, inside vs field sales, channel/partner sales, technical and manufacturing sales (where domain knowledge dominates), and regulated industries with compliance constraints.",
+        "why": "Choosing your vertical early compounds domain expertise — the strongest moat a seller can build.",
+        "learn": [
+          "Compare SMB, mid-market, and enterprise selling on cycle and stakeholders",
+          "Explore technical/industrial sales where O*NET's wholesale reps dominate",
+          "Learn one regulated vertical's basic rules (e.g., medical devices, financial products)",
+          "Pick a vertical and read its trade publication for a month"
+        ],
+        "skills": [
+          "Domain knowledge",
+          "Vertical expertise"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Sales Representatives, Wholesale and Manufacturing",
+            "url": "https://www.onetonline.org/link/summary/41-4011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "41-4012.00"
+        ]
+      }
+    },
+    {
+      "id": "sal-comp",
+      "type": "node",
+      "label": "Comp & Quota Reality",
+      "variant": "muted",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sales pay is typically base + commission against a quota, with accelerators above target and clawbacks on churned deals. OTE (on-target earnings) splits vary by role and risk level.",
+        "why": "Evaluating offers requires understanding quota-to-OTE math, ramp expectations, and territory quality — not just the headline OTE.",
+        "learn": [
+          "Learn the vocabulary: OTE, quota, accelerator, draw, clawback",
+          "Model two offers: 50/50 vs 70/30 base/commission splits",
+          "Ask the right interview questions: attainment distribution, ramp time, territory",
+          "Understand why >100% of reps missing quota matters to you"
+        ],
+        "skills": [
+          "Offer evaluation",
+          "Financial literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Wholesale and Manufacturing Sales Representatives",
+            "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sal-leadership",
+      "type": "node",
+      "label": "Leadership Path",
+      "variant": "muted",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sales leadership (manager → director → VP) trades personal selling for hiring, coaching, forecasting, and territory design. The best managers coach process, not personality.",
+        "why": "Leadership is one of two senior paths (the other: enterprise/strategic accounts). Knowing what the job actually is — coaching math and people — helps you decide early.",
+        "learn": [
+          "Shadow a sales manager for a day if possible",
+          "Learn 1:1 coaching structures (pipeline review, call review)",
+          "Study how territories and quotas are designed",
+          "Decide: player-coach track vs senior IC track — both pay well"
+        ],
+        "skills": [
+          "Coaching",
+          "Hiring",
+          "Forecasting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Sales Managers",
+            "url": "https://www.bls.gov/ooh/management/sales-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-2022.00"
+        ]
+      }
+    },
+    {
+      "id": "sal-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sal-g-find",
+      "type": "group",
+      "label": "FIND & QUALIFY",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sal-g-close",
+      "type": "group",
+      "label": "PITCH, PROVE & CLOSE",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sal-g-ops",
+      "type": "group",
+      "label": "OPERATE & IMPROVE",
+      "x": 36,
+      "y": 700,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sal-g-mindset",
+      "type": "group",
+      "label": "THE SELLER'S CRAFT",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sal-g-career",
+      "type": "group",
+      "label": "CAREER & COMPENSATION",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "sal-foundations",
+      "to": "sal-b2b"
+    },
+    {
+      "from": "sal-foundations",
+      "to": "sal-process"
+    },
+    {
+      "from": "sal-process",
+      "to": "sal-crm"
+    },
+    {
+      "from": "sal-process",
+      "to": "sal-icp"
+    },
+    {
+      "from": "sal-icp",
+      "to": "sal-prospect"
+    },
+    {
+      "from": "sal-prospect",
+      "to": "sal-social",
+      "dashed": true
+    },
+    {
+      "from": "sal-prospect",
+      "to": "sal-discovery"
+    },
+    {
+      "from": "sal-discovery",
+      "to": "sal-qualify"
+    },
+    {
+      "from": "sal-discovery",
+      "to": "sal-listen"
+    },
+    {
+      "from": "sal-qualify",
+      "to": "sal-listen",
+      "dashed": true
+    },
+    {
+      "from": "sal-discovery",
+      "to": "sal-value"
+    },
+    {
+      "from": "sal-value",
+      "to": "sal-demo"
+    },
+    {
+      "from": "sal-demo",
+      "to": "sal-objections"
+    },
+    {
+      "from": "sal-objections",
+      "to": "sal-negotiate"
+    },
+    {
+      "from": "sal-negotiate",
+      "to": "sal-close"
+    },
+    {
+      "from": "sal-close",
+      "to": "sal-accounts"
+    },
+    {
+      "from": "sal-accounts",
+      "to": "sal-proposals",
+      "dashed": true
+    },
+    {
+      "from": "sal-qualify",
+      "to": "sal-proposals",
+      "dashed": true
+    },
+    {
+      "from": "sal-pipeline",
+      "to": "sal-forecast"
+    },
+    {
+      "from": "sal-close",
+      "to": "sal-pipeline"
+    },
+    {
+      "from": "sal-forecast",
+      "to": "sal-metrics"
+    },
+    {
+      "from": "sal-metrics",
+      "to": "sal-methods"
+    },
+    {
+      "from": "sal-prospect",
+      "to": "sal-storytelling",
+      "dashed": true
+    },
+    {
+      "from": "sal-objections",
+      "to": "sal-storytelling"
+    },
+    {
+      "from": "sal-prospect",
+      "to": "sal-habits"
+    },
+    {
+      "from": "sal-methods",
+      "to": "sal-ethics",
+      "dashed": true
+    },
+    {
+      "from": "sal-habits",
+      "to": "sal-ethics"
+    },
+    {
+      "from": "sal-accounts",
+      "to": "sal-ladder"
+    },
+    {
+      "from": "sal-methods",
+      "to": "sal-ladder",
+      "dashed": true
+    },
+    {
+      "from": "sal-ladder",
+      "to": "sal-cert"
+    },
+    {
+      "from": "sal-ladder",
+      "to": "sal-verticals"
+    },
+    {
+      "from": "sal-ladder",
+      "to": "sal-comp",
+      "dashed": true
+    },
+    {
+      "from": "sal-ladder",
+      "to": "sal-leadership",
+      "dashed": true
+    }
+  ]
+}

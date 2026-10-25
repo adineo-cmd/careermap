@@ -1,0 +1,1293 @@
+{
+  "slug": "teaching",
+  "title": "Teaching & Education",
+  "tagline": "Become a teacher the deliberate way — licensure, classroom craft, assessment, and leadership paths.",
+  "summary": "Teaching is a licensed profession with a well-defined on-ramp: a bachelor's with educator preparation, state certification exams, and student teaching — followed by a craft that takes years to master. This roadmap covers the licensure path, classroom management and planning skills, assessment, reaching every learner, and the growth routes (National Board, coaching, administration).",
+  "category": "Health & Public Service",
+  "color": "#a3e635",
+  "icon": "graduation-cap",
+  "onetRoles": [
+    "25-2021.00",
+    "25-2031.00",
+    "25-9045.00",
+    "11-9032.00"
+  ],
+  "jelCodes": [
+    "I21",
+    "I28"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Elementary School Teachers (25-2021.00)",
+      "url": "https://www.onetonline.org/link/summary/25-2021.00"
+    },
+    {
+      "label": "BLS OOH — Kindergarten and Elementary School Teachers",
+      "url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm"
+    },
+    {
+      "label": "ETS — Praxis tests",
+      "url": "https://www.ets.org/praxis"
+    },
+    {
+      "label": "NBPTS — National Board Certification",
+      "url": "https://www.nbpts.org/"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "te-explore",
+      "type": "node",
+      "label": "Is Teaching for You?",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Teaching blends subject expertise, performance, counseling, and project management — daily, in front of young people. The joy is real; so is the workload: planning, grading, families, and accountability.",
+        "why": "Teaching is a licensed, structured profession — going in with eyes open about the reality (not the movie version) is the single best predictor of staying and thriving.",
+        "learn": [
+          "Read the BLS profile of elementary teachers and O*NET task lists",
+          "Talk to 3 working teachers: best day, worst day, weekly hours",
+          "Tutor one student for a month and reflect weekly",
+          "List what attracts you and what worries you — check both against reality"
+        ],
+        "skills": [
+          "Communication",
+          "Patience",
+          "Organization"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Kindergarten and Elementary School Teachers",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Elementary School Teachers",
+            "url": "https://www.onetonline.org/link/summary/25-2021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-2021.00"
+        ],
+        "tasks": [
+          "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools."
+        ]
+      }
+    },
+    {
+      "id": "te-paths",
+      "type": "node",
+      "label": "K-12 vs Other Settings",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Teaching careers span public K-12 (licensed), private and charter schools (rules vary), early childhood, special education, adult education, and non-school settings: museums, corporate training, tutoring, ESL abroad.",
+        "why": "Licensure requirements differ by setting — knowing which door you want changes your degree and exam choices.",
+        "learn": [
+          "Compare public, private, and charter requirements in your state",
+          "Explore special education as a distinct (high-demand) path",
+          "List non-school teaching settings that don't require state licensure",
+          "Pick a primary target and a backup setting"
+        ],
+        "skills": [
+          "Career exploration",
+          "Regulatory awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Education, Training, and Library occupations",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-subjects",
+      "type": "node",
+      "label": "Choose Subject & Grade",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Your certification will name a grade band (early childhood, elementary, middle, high school) and subject or subjects. Elementary certifications are broad; secondary certifications are content-deep.",
+        "why": "This choice shapes your exams, coursework, and daily reality. High-need subjects (special education, math, science, bilingual) often carry incentives.",
+        "learn": [
+          "List grade bands with their daily realities (self-contained vs rotating periods)",
+          "Check your state's certification areas and which are designated shortage areas",
+          "Assess your content strength honestly (can you explain it five ways?)",
+          "Note shortage-area incentives: stipends, loan forgiveness"
+        ],
+        "skills": [
+          "Self-assessment",
+          "Content knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "U.S. Department of Education — teacher shortage areas",
+            "url": "https://www.ed.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-observe",
+      "type": "node",
+      "label": "Observe Classrooms",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Sitting in real classrooms — as a volunteer, paraprofessional, or observer — shows you pacing, management, and the invisible work teachers do before and after students arrive.",
+        "why": "Hours of observation are often required for program admission anyway, and they convert your decision from guess to evidence.",
+        "learn": [
+          "Arrange observations across two grade bands if possible",
+          "Log what the teacher does besides teaching (timing, transitions, data)",
+          "Note 3 management moves you'd steal and why",
+          "Reflect: energy level after a full day in a classroom"
+        ],
+        "skills": [
+          "Observation",
+          "Reflection"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — classroom practice videos and articles",
+            "url": "https://www.edutopia.org/",
+            "kind": "video"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-degree",
+      "type": "node",
+      "label": "Degree & Prep Program",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The standard route is a bachelor's degree that includes an approved educator preparation program — coursework in pedagogy plus supervised clinical practice. Program quality and placement support vary widely.",
+        "why": "Your prep program's reputation and clinical placements affect both your licensure and your first job offers.",
+        "learn": [
+          "Verify state approval/accreditation for any program you consider",
+          "Compare traditional university vs preparation-program-only routes",
+          "Map prerequisites you can complete at community-college cost",
+          "Ask programs: placement rate, mentor support, first-year alumni outcomes"
+        ],
+        "skills": [
+          "Academic planning",
+          "Program evaluation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "U.S. Department of Education",
+            "url": "https://www.ed.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-praxis",
+      "type": "node",
+      "label": "PRAXIS & State Exams",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most states require standardized licensure exams — commonly ETS Praxis tests covering core academic skills, pedagogy, and subject-specific content; some states use their own tests instead.",
+        "why": "Exams are gatekeeping events with real scheduling and fees. Knowing exactly which ones your state requires prevents semester-losing surprises.",
+        "learn": [
+          "List your state's exact required exams for your certification area",
+          "Take a full-length practice test and score it honestly",
+          "Build a 6–8 week study plan around weak domains",
+          "Register early — test seats and score reporting take weeks"
+        ],
+        "skills": [
+          "Exam preparation",
+          "Content knowledge"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ETS — Praxis tests",
+            "url": "https://www.ets.org/praxis",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-student-teach",
+      "type": "node",
+      "label": "Student Teaching",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Student teaching is a full-time supervised placement — typically a semester — where you gradually take over planning, instruction, assessment, and management under a mentor teacher and university supervisor.",
+        "why": "It is the true apprenticeship of teaching. What you put in (initiative, reflection, relationships) determines your readiness and your references.",
+        "learn": [
+          "Co-plan with your mentor from week one",
+          "Teach full days progressively; video yourself and review",
+          "Keep a daily reflection journal (what worked, what to change)",
+          "Build a portfolio artifact set: plans, assessments, student work"
+        ],
+        "skills": [
+          "Instruction",
+          "Classroom management",
+          "Reflection"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — new teacher resources",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-license",
+      "type": "node",
+      "label": "State Certification",
+      "variant": "accent",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "State education agencies issue teaching licenses: application, exams, program verification, background clearance, and fees. Initial licenses often carry induction requirements and renewal cycles.",
+        "why": "The license is the profession's gateway — and it's state-specific, which matters if you might move.",
+        "learn": [
+          "Read your state's licensure page end-to-end (requirements, fees, timelines)",
+          "Understand initial vs professional/standard license tiers",
+          "Learn license reciprocity basics before planning interstate moves",
+          "Calendar renewal and PD requirements from day one"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Documentation"
+        ],
+        "certs": [
+          {
+            "name": "State Teaching License",
+            "issuer": "State education agencies (US)",
+            "note": "Issued after an approved preparation program, required exams, and background clearance; requirements and titles vary by state."
+          }
+        ],
+        "resources": [
+          {
+            "title": "U.S. Department of Education — state contacts",
+            "url": "https://www.ed.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-alt",
+      "type": "node",
+      "label": "Alternative Certification",
+      "x": 60,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Alternative certification lets degree-holders teach while completing pedagogy requirements — often while employed as the teacher of record, with heavy first-year support.",
+        "why": "It is the most common route for career changers, and high-need subjects frequently offer it with stipends.",
+        "learn": [
+          "Find your state's approved alternative routes",
+          "Compare cost and support vs a full preparation program",
+          "Understand provisional/intern license conditions",
+          "Interview one alternatively certified teacher about their first year"
+        ],
+        "skills": [
+          "Career transition",
+          "Resilience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "U.S. Department of Education",
+            "url": "https://www.ed.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-masters",
+      "type": "node",
+      "label": "Master's Routes",
+      "variant": "muted",
+      "x": 340,
+      "y": 360,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A master's can serve three purposes: initial licensure (M.A.T. programs for degree-holders), salary advancement (many districts pay more for graduate credits), or specialization (special education, TESOL, reading, leadership).",
+        "why": "Timing matters: a M.A.T. makes sense before licensure; salary-lane credits often make sense after — doing it in the wrong order wastes money.",
+        "learn": [
+          "Check your district's salary schedule for graduate-credit lanes",
+          "Compare M.A.T. (licensure) vs M.Ed. (advanced) purposes",
+          "Calculate payback period for tuition against the salary bump",
+          "Consider endorsements (ESOL, special ed, reading) as cheaper specializations"
+        ],
+        "skills": [
+          "Career planning",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Kindergarten and Elementary School Teachers",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-planning",
+      "type": "node",
+      "label": "Lesson Planning",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Effective lessons start from the end: what students should know and do (objective), how you'll know they got there (assessment), then the activities — the backward design logic (Wiggins & McTighe).",
+        "why": "Planning is where teaching is actually won. Clear objectives and aligned checks turn chaotic days into purposeful ones.",
+        "learn": [
+          "Write objectives students can understand ('I can…' statements)",
+          "Design a lesson backward: objective → assessment → activity",
+          "Plan the opening 5 minutes and closing 5 minutes deliberately",
+          "Build one full lesson and teach it; revise from evidence"
+        ],
+        "skills": [
+          "Instructional planning",
+          "Backward design"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — lesson planning resources",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-2021.00"
+        ]
+      }
+    },
+    {
+      "id": "te-standards",
+      "type": "node",
+      "label": "Standards & Curriculum",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public teaching aligns to standards — state standards for each grade and subject (e.g., state adoptions of Common Core-style standards), delivered through adopted curriculum and pacing guides.",
+        "why": "Standards define what you're accountable for; curriculum defines the 'how'. Reading both fluently is a day-one professional skill.",
+        "learn": [
+          "Locate your state's standards for one grade/subject",
+          "Unpack one standard into teachable learning targets",
+          "Map a week of an adopted curriculum against the standards",
+          "Identify gaps you'd supplement and how"
+        ],
+        "skills": [
+          "Curriculum literacy",
+          "Standards alignment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "U.S. Department of Education",
+            "url": "https://www.ed.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-management",
+      "type": "node",
+      "label": "Classroom Management",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Classroom management is the system that makes learning possible: clear expectations, predictable routines, relationships, calm consistency, and low-key correction before escalation.",
+        "why": "New teachers overwhelmingly cite management as their hardest challenge. Proactive systems beat reactive discipline in every study of practice.",
+        "learn": [
+          "Draft your top 5 non-negotiable expectations and how you'll teach them",
+          "Script your first two weeks of routines explicitly",
+          "Practice the least-invasive correction ladder (proximity, eye contact, quiet word)",
+          "Observe a veteran teacher and count their management moves in 30 minutes"
+        ],
+        "skills": [
+          "Classroom management",
+          "Consistency",
+          "Relationship building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — classroom management",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-questioning",
+      "type": "node",
+      "label": "Questioning Techniques",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Questions drive thinking: open vs closed, wait time, cold-calling with warmth, follow-up probes ('say more', 'why?'), and checks for understanding after every segment.",
+        "why": "Questioning is the steering wheel of a lesson — it turns a lecture into thinking and reveals misconceptions in real time.",
+        "learn": [
+          "Practice 3-second wait time (it feels long; it works)",
+          "Write a question ladder: recall → explain → apply → justify",
+          "Try cold-call with names prepared in advance",
+          "Add a check-for-understanding to every 10-minute segment"
+        ],
+        "skills": [
+          "Questioning",
+          "Formative assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — instructional strategies",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-engagement",
+      "type": "node",
+      "label": "Student Engagement",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Engagement is attention plus effort: relevance, choice, collaboration, movement, and appropriately challenging tasks. It is designed, not hoped for.",
+        "why": "Behavior problems are often engagement problems. Teachers who can design absorbing work spend far less energy on discipline.",
+        "learn": [
+          "Audit a lesson: what % of students were actively thinking at minute 20?",
+          "Add one element of student choice to a planned lesson",
+          "Use think-pair-share and count participation breadth",
+          "Design a task students would do even without a grade"
+        ],
+        "skills": [
+          "Engagement design",
+          "Creativity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — student engagement",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-tech",
+      "type": "node",
+      "label": "Classroom Technology",
+      "variant": "muted",
+      "x": 340,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Practical classroom tech: learning management systems (Google Classroom, Canvas), presentation tools, formative-assessment apps, and accessibility features — chosen for learning value, not novelty.",
+        "why": "Districts assume LMS fluency; smart tech use also saves hours of grading and communication time.",
+        "learn": [
+          "Set up a course in a free LMS (Google Classroom or Canvas free tier)",
+          "Use one digital check-for-understanding tool in a mock lesson",
+          "Learn your platform's parent/family communication features",
+          "Set boundaries: tech should serve the objective, not drive it"
+        ],
+        "skills": [
+          "Educational technology",
+          "LMS software"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Google for Education — teacher center",
+            "url": "https://edu.google.com/teacher-center/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-assessment",
+      "type": "node",
+      "label": "Assessment & Grading",
+      "x": 60,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Assessment spans formative (checking during learning) and summative (measuring at milestones), with rubrics, clear criteria, and grading policies that measure learning rather than compliance.",
+        "why": "Grades communicate — to students, families, and next-year teachers. Fair, transparent assessment is both an equity issue and a skill.",
+        "learn": [
+          "Write a 4-level rubric for one authentic task",
+          "Design 3 formative checks for a single lesson",
+          "Compare zero-heavy vs evidence-based grading policies",
+          "Regrade one sample with your rubric and check consistency"
+        ],
+        "skills": [
+          "Assessment design",
+          "Rubric writing",
+          "Data literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — assessment resources",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-data",
+      "type": "node",
+      "label": "Data-Driven Instruction",
+      "x": 340,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Using assessment data to reteach, regroup, and plan: item analysis, error patterns, small-group formation, and progress monitoring over weeks.",
+        "why": "Modern schools run on data cycles. Teachers who move from 'gave the test' to 'changed Tuesday because of the test' stand out immediately.",
+        "learn": [
+          "Analyze a class assessment by item and error type",
+          "Form 3 flexible small groups from the results",
+          "Plan a reteach for the two weakest standards",
+          "Track one metric (e.g., mastery %) over 4 weeks"
+        ],
+        "skills": [
+          "Data analysis",
+          "Reteaching strategy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — data-informed instruction",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-differentiation",
+      "type": "node",
+      "label": "Differentiation",
+      "x": 620,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Differentiation adjusts content, process, or product to learner readiness, interest, or profile — tiered tasks, choice boards, flexible grouping — without writing 30 separate lesson plans.",
+        "why": "Every class spans years of reading levels. Sustainable differentiation (structures, not per-child plans) is the professional middle path.",
+        "learn": [
+          "Build a tiered task set (below/on/above) for one objective",
+          "Try a choice board with 6 options and one required element",
+          "Use flexible groups that change by skill, never by 'ability label'",
+          "Differentiate one homework task in two minutes flat"
+        ],
+        "skills": [
+          "Differentiation",
+          "Planning efficiency"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — differentiation",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-udl",
+      "type": "node",
+      "label": "UDL & Accessibility",
+      "x": 900,
+      "y": 770,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Universal Design for Learning plans for variability from the start: multiple means of representation, action/expression, and engagement (CAST framework) — benefiting everyone, required for some.",
+        "why": "UDL reduces the need for retrofitted accommodations and is increasingly embedded in teacher evaluation and law.",
+        "learn": [
+          "Read the three UDL principles at udlguidelines.cast.org",
+          "Redesign one lesson with two means of representation and expression",
+          "Check your materials for accessibility basics (captions, readable fonts)",
+          "Identify one barrier in your planned lesson and remove it"
+        ],
+        "skills": [
+          "Inclusive design",
+          "Accessibility"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CAST — UDL Guidelines",
+            "url": "https://udlguidelines.cast.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-iep",
+      "type": "node",
+      "label": "IEP & 504 Awareness",
+      "x": 60,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Students with disabilities learn under legal plans: IEPs (Individualized Education Programs, under IDEA) and 504 plans. General-education teachers implement accommodations and attend meetings.",
+        "why": "You will have students with plans in every class. Implementing accommodations faithfully is both a legal duty and good teaching.",
+        "learn": [
+          "Learn what IDEA guarantees (FAPE, least restrictive environment)",
+          "Read a sample IEP: present levels, goals, accommodations",
+          "Build an accommodation checklist for your class rosters",
+          "Know your role in IEP meetings and documentation"
+        ],
+        "skills": [
+          "Special education awareness",
+          "Legal compliance"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "IRIS Center — disability resources and modules",
+            "url": "https://iris.peabody.vanderbilt.edu/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-ell",
+      "type": "node",
+      "label": "Supporting ELLs",
+      "x": 340,
+      "y": 860,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "English language learners need language support inside content teaching: visuals, sentence frames, pre-taught vocabulary, and assessments that separate language from content mastery.",
+        "why": "ELL populations are growing in nearly every district, and supporting them well is both a legal obligation and a marked teaching skill.",
+        "learn": [
+          "Learn WIDA-style proficiency levels at a high level",
+          "Add sentence frames and visuals to one lesson",
+          "Pre-teach 5 academic vocabulary words with visuals",
+          "Separate language objectives from content objectives in your plan"
+        ],
+        "skills": [
+          "Language scaffolding",
+          "Cultural responsiveness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "WIDA — resources for multilingual learners",
+            "url": "https://wida.wisc.edu/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-mentoring",
+      "type": "node",
+      "label": "Mentoring & PLCs",
+      "x": 60,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Growth accelerates with structure: induction mentors for new teachers, professional learning communities (PLCs) that analyze data and plan together, and peer observation cycles.",
+        "why": "Isolated teachers plateau; networked teachers compound. Seeking and using mentorship is the highest-ROI professional habit.",
+        "learn": [
+          "Join or form a PLC around one shared course",
+          "Run a peer observation exchange twice per semester",
+          "Bring one student-work artifact to each PLC meeting",
+          "Ask for a mentor explicitly if your school doesn't assign one"
+        ],
+        "skills": [
+          "Collaboration",
+          "Coachability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — professional learning",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-nationalboard",
+      "type": "node",
+      "label": "National Board Cert",
+      "x": 340,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "National Board Certification (NBPTS) is the profession's advanced voluntary credential: a portfolio of practice plus content-knowledge assessment, organized around the Five Core Propositions.",
+        "why": "Many states reward it with salary stipends or license upgrades, and the process itself is widely described as the best professional development in teaching.",
+        "learn": [
+          "Review the certificate areas and component structure at nbpts.org",
+          "Check your state's incentive policy for NBCTs",
+          "Talk to an NBCT about the time commitment (roughly 1–3 years)",
+          "Decide timing: usually after 3+ years of practice"
+        ],
+        "skills": [
+          "Reflective practice",
+          "Advanced certification"
+        ],
+        "certs": [
+          {
+            "name": "National Board Certification",
+            "issuer": "National Board for Professional Teaching Standards (NBPTS)",
+            "note": "Portfolio submission plus assessment center exams; designed for experienced teachers."
+          }
+        ],
+        "resources": [
+          {
+            "title": "NBPTS — National Board Certification",
+            "url": "https://www.nbpts.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-reflection",
+      "type": "node",
+      "label": "Reflective Practice",
+      "x": 620,
+      "y": 1040,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Deliberate improvement comes from structured reflection: video review, student feedback, journals, and hypothesis-driven tweaks — treating your own classroom as a research site.",
+        "why": "Experience alone doesn't create expertise; reflected-on experience does. This habit underlies every other growth step on this map.",
+        "learn": [
+          "Video one lesson per month and code your talk ratio and wait time",
+          "Collect anonymous student feedback twice a year",
+          "Keep a running 'what I changed and why' log",
+          "Pick one skill per quarter to improve deliberately"
+        ],
+        "skills": [
+          "Reflection",
+          "Self-improvement"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — teacher development",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-career",
+      "type": "node",
+      "label": "Teacher Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Classroom teaching branches into three broad directions: master-teacher track (National Board, mentor, model classrooms), instructional leadership (coach, specialist, department head), and administration (assistant principal → principal → district roles).",
+        "why": "The profession rewards depth as well as management; knowing the branches early helps you build the right evidence for each.",
+        "learn": [
+          "Map your district's actual roles: coach, TOSA, AP, principal",
+          "Compare salary curves across the three branches",
+          "Identify which branch matches your energy: students, teachers, or systems",
+          "Set a 5-year target and the evidence it requires"
+        ],
+        "skills": [
+          "Career planning",
+          "Leadership awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Kindergarten and Elementary School Teachers",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-2021.00",
+          "25-2031.00"
+        ]
+      }
+    },
+    {
+      "id": "te-coach",
+      "type": "node",
+      "label": "Instructional Coach",
+      "x": 340,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Coaches support teachers one-on-one: co-planning, modeling lessons, observing with non-evaluative feedback, and facilitating data conversations — a teacher-leader role in most districts.",
+        "why": "Coaching is the most common first step out of the classroom that keeps you close to instruction, often with stipend or schedule advantages.",
+        "learn": [
+          "Learn a coaching model (e.g., student-centered or instructional coaching cycles)",
+          "Practice non-evaluative feedback language",
+          "Co-plan with a peer for a semester before seeking the role",
+          "Note what coaching requires: credibility, discretion, patience"
+        ],
+        "skills": [
+          "Coaching",
+          "Adult facilitation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Edutopia — instructional coaching",
+            "url": "https://www.edutopia.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-specialist",
+      "type": "node",
+      "label": "Curriculum Specialist",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Specialists design and support curriculum and intervention at school or district level: reading specialists, math interventionists, TESOL coordinators, and instructional materials leads — usually endorsement-backed.",
+        "why": "Specialist roles combine expertise with system impact, and endorsements (reading, ESOL, special education) make you both promotable and more effective now.",
+        "learn": [
+          "Identify the endorsement your target specialist role requires",
+          "Explore reading-specialist and TESOL endorsement programs",
+          "Pilot an intervention group at your school and document results",
+          "Present results to your admin — visibility creates the next role"
+        ],
+        "skills": [
+          "Curriculum design",
+          "Intervention"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Instructional Coordinators",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/instructional-coordinators.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-admin",
+      "type": "node",
+      "label": "Principal & Admin Path",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "School leadership (assistant principal → principal) requires an administrative license (typically a master's in educational leadership plus exam), and the job is part instruction-leader, part operations, part community politics.",
+        "why": "Principals shape entire school cultures — and administration is where education's largest salaries and widest impact sit.",
+        "learn": [
+          "Review your state's administrator licensure requirements",
+          "Shadow an AP or principal for a day",
+          "Lead one non-classroom initiative (schedule, event, PD session)",
+          "Consider leadership programs that pair licensure with residency"
+        ],
+        "skills": [
+          "Leadership",
+          "Operations management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Education Administrators, Elementary and Secondary School",
+            "url": "https://www.onetonline.org/link/summary/11-9032.00",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Elementary, Middle, and High School Principals",
+            "url": "https://www.bls.gov/ooh/management/elementary-middle-and-high-school-principals.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9032.00"
+        ]
+      }
+    },
+    {
+      "id": "te-intl",
+      "type": "node",
+      "label": "International & TEFL",
+      "variant": "muted",
+      "x": 60,
+      "y": 1290,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Teaching abroad spans licensed international schools (which prefer state certification and experience) and ESL/EFL teaching (where TEFL/TESOL certificates are the standard entry credential).",
+        "why": "International routes satisfy travel goals and often pay comparably with lower living costs — but licensure vs TEFL determines which tier you enter.",
+        "learn": [
+          "Compare international schools vs language academies honestly",
+          "Review TEFL/TESOL certificate basics (120-hour courses are the norm)",
+          "Note other countries' licensure equivalents (e.g., UK QTS/PGCE)",
+          "Attend an international-recruiting fair if you're licensed"
+        ],
+        "skills": [
+          "Adaptability",
+          "Cultural competence"
+        ],
+        "certs": [
+          {
+            "name": "TEFL/TESOL Certificate",
+            "issuer": "Accredited course providers",
+            "note": "A course-based teaching credential (not state licensure); ~120 hours is the widely accepted standard for EFL teaching roles."
+          }
+        ],
+        "resources": [
+          {
+            "title": "BLS OOH — Education, Training, and Library occupations",
+            "url": "https://www.bls.gov/ooh/education-training-and-library/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "te-tutoring",
+      "type": "node",
+      "label": "Tutoring & Side Paths",
+      "variant": "muted",
+      "x": 340,
+      "y": 1290,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Adjacent education work — private tutoring, test prep, teaching assistants, museum education, corporate training, and curriculum writing — offers flexible entry points and income bridges.",
+        "why": "These roles let you build teaching evidence before licensure, earn while studying, or shift later without leaving education entirely.",
+        "learn": [
+          "Note the TA path: paraprofessional roles (O*NET 25-9045) often require less schooling",
+          "Try 10 hours of paid tutoring to test your fit and pricing",
+          "Explore curriculum-writing side work with reputable publishers",
+          "Keep evidence of student outcomes for future applications"
+        ],
+        "skills": [
+          "Entrepreneurship",
+          "Instruction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Teaching Assistants, Except Postsecondary",
+            "url": "https://www.onetonline.org/link/summary/25-9045.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "25-9042.00"
+        ]
+      }
+    },
+    {
+      "id": "te-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "te-g-license",
+      "type": "group",
+      "label": "DEGREE & LICENSURE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "te-g-craft",
+      "type": "group",
+      "label": "CLASSROOM CRAFT",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "te-g-assess",
+      "type": "group",
+      "label": "ASSESSMENT & INCLUSION",
+      "x": 36,
+      "y": 700,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "te-g-grow",
+      "type": "group",
+      "label": "PROFESSIONAL GROWTH",
+      "x": 36,
+      "y": 970,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "te-g-career",
+      "type": "group",
+      "label": "LEADERSHIP & PATHS",
+      "x": 36,
+      "y": 1130,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "te-explore",
+      "to": "te-paths"
+    },
+    {
+      "from": "te-explore",
+      "to": "te-subjects"
+    },
+    {
+      "from": "te-explore",
+      "to": "te-observe"
+    },
+    {
+      "from": "te-paths",
+      "to": "te-degree",
+      "dashed": true
+    },
+    {
+      "from": "te-subjects",
+      "to": "te-degree"
+    },
+    {
+      "from": "te-observe",
+      "to": "te-degree",
+      "dashed": true
+    },
+    {
+      "from": "te-degree",
+      "to": "te-praxis"
+    },
+    {
+      "from": "te-degree",
+      "to": "te-student-teach"
+    },
+    {
+      "from": "te-praxis",
+      "to": "te-license"
+    },
+    {
+      "from": "te-student-teach",
+      "to": "te-license"
+    },
+    {
+      "from": "te-degree",
+      "to": "te-alt",
+      "dashed": true
+    },
+    {
+      "from": "te-alt",
+      "to": "te-license",
+      "dashed": true
+    },
+    {
+      "from": "te-degree",
+      "to": "te-masters",
+      "dashed": true
+    },
+    {
+      "from": "te-license",
+      "to": "te-planning"
+    },
+    {
+      "from": "te-planning",
+      "to": "te-standards"
+    },
+    {
+      "from": "te-planning",
+      "to": "te-management"
+    },
+    {
+      "from": "te-management",
+      "to": "te-questioning"
+    },
+    {
+      "from": "te-questioning",
+      "to": "te-engagement"
+    },
+    {
+      "from": "te-planning",
+      "to": "te-tech",
+      "dashed": true
+    },
+    {
+      "from": "te-standards",
+      "to": "te-assessment"
+    },
+    {
+      "from": "te-assessment",
+      "to": "te-data"
+    },
+    {
+      "from": "te-management",
+      "to": "te-differentiation"
+    },
+    {
+      "from": "te-differentiation",
+      "to": "te-udl"
+    },
+    {
+      "from": "te-udl",
+      "to": "te-iep",
+      "dashed": true
+    },
+    {
+      "from": "te-differentiation",
+      "to": "te-ell",
+      "dashed": true
+    },
+    {
+      "from": "te-data",
+      "to": "te-mentoring"
+    },
+    {
+      "from": "te-mentoring",
+      "to": "te-nationalboard"
+    },
+    {
+      "from": "te-nationalboard",
+      "to": "te-reflection",
+      "dashed": true
+    },
+    {
+      "from": "te-reflection",
+      "to": "te-career"
+    },
+    {
+      "from": "te-mentoring",
+      "to": "te-career",
+      "dashed": true
+    },
+    {
+      "from": "te-career",
+      "to": "te-coach"
+    },
+    {
+      "from": "te-career",
+      "to": "te-specialist",
+      "dashed": true
+    },
+    {
+      "from": "te-career",
+      "to": "te-admin"
+    },
+    {
+      "from": "te-career",
+      "to": "te-intl",
+      "dashed": true
+    },
+    {
+      "from": "te-career",
+      "to": "te-tutoring",
+      "dashed": true
+    }
+  ]
+}

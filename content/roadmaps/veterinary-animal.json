@@ -1,0 +1,887 @@
+{
+  "slug": "veterinary-animal",
+  "title": "Veterinary & Animal Care",
+  "tagline": "Vets, technicians, and caretakers — careers caring for the animals people love.",
+  "summary": "Animal-care careers span licensed medicine (veterinarians, veterinary technicians), hands-on husbandry (assistants, groomers, trainers), and shelter work. This roadmap covers the roles, the credentials, the clinical skills, and the honest realities — including compassion fatigue and the cost of veterinary school.",
+  "category": "Health & Public Service",
+  "color": "#c98a5e",
+  "icon": "paw",
+  "onetRoles": [
+    "29-1131.00",
+    "29-2056.00",
+    "39-2021.00"
+  ],
+  "jelCodes": [],
+  "sources": [
+    {
+      "label": "O*NET — Veterinarians (29-1131.00)",
+      "url": "https://www.onetonline.org/link/summary/29-1131.00"
+    },
+    {
+      "label": "BLS OOH — Veterinarians",
+      "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "vet-explore",
+      "type": "node",
+      "label": "The Animal-Care Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Animal-care careers run from licensed medicine (veterinarians, credentialed technicians) through hands-on roles (assistants, groomers, trainers) to shelters and animal-control work.",
+        "why": "Pet ownership keeps climbing and the field is genuinely short-staffed — for animal lovers who can handle the medical and emotional realities, demand is durable.",
+        "learn": [
+          "Read the BLS OOH veterinarian profile",
+          "Compare vet vs vet-tech vs assistant scopes and schooling",
+          "Shadow a clinic day or volunteer at a shelter",
+          "Note the emotional labor honestly — euthanasia is part of the job"
+        ],
+        "skills": [
+          "Animal handling",
+          "Compassion",
+          "Science literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Veterinarians",
+            "url": "https://www.onetonline.org/link/summary/29-1131.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-1131.00"
+        ]
+      }
+    },
+    {
+      "id": "vet-roles",
+      "type": "node",
+      "label": "Roles & Scopes",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Scopes matter legally: veterinarians diagnose and prescribe; credentialed technicians perform medical nursing under supervision; assistants handle restraint, feeding, and basic care.",
+        "why": "Choosing your tier first prevents expensive missteps — the technician route is a medical career; assistant is the fastest entry.",
+        "learn": [
+          "Write the three scopes in one line each",
+          "Check your state's technician credentialing rules",
+          "Compare salary and school cost per tier",
+          "Talk to one person at each tier"
+        ],
+        "skills": [
+          "Scope awareness",
+          "Career planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinary Technologists and Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-prereq",
+      "type": "node",
+      "label": "Science Foundations",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Animal medicine is biology in motion: anatomy, physiology, pharmacology basics, and medical math — the same scientific backbone as human medicine, across species.",
+        "why": "Whatever tier you choose, science fluency compounds — and vet/tech programs screen on it.",
+        "learn": [
+          "Take biology and chemistry seriously early",
+          "Learn common species' vital ranges",
+          "Practice dosage math by weight",
+          "Read one veterinary topic weekly out of curiosity"
+        ],
+        "skills": [
+          "Biology",
+          "Medical math"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "OpenStax — Anatomy and Physiology",
+            "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+            "kind": "book"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-volunteer",
+      "type": "node",
+      "label": "Volunteer & Shadow",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Shelter volunteering, clinic shadowing, and farm work build the animal-handling hours that schools and employers want — and reveal whether you can handle the hard parts.",
+        "why": "Admissions committees for vet/tech programs weigh logged animal experience heavily — start the log early.",
+        "learn": [
+          "Volunteer weekly at a shelter or rescue",
+          "Shadow a clinic for a day; ask hard questions",
+          "Log species, hours, and skills in a running document",
+          "Collect references from supervisors"
+        ],
+        "skills": [
+          "Animal handling",
+          "Reliability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-assistant",
+      "type": "node",
+      "label": "Veterinary Assistant",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Assistants support the clinic: restraint, kennel care, feeding, cleaning, prep, and client kindness — learned on the job, with optional certification programs.",
+        "why": "It is the fastest paid entry into animal medicine and the proving ground for technician or vet school ambitions.",
+        "learn": [
+          "Learn safe, low-stress restraint technique",
+          "Master kennel protocols and sanitation",
+          "Practice friendly client front-desk moments",
+          "Ask doctors to teach you one skill per week"
+        ],
+        "skills": [
+          "Restraint technique",
+          "Sanitation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinary Assistants and Laboratory Animal Caretakers",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinary-assistants-and-laboratory-animal-caretakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-tech",
+      "type": "node",
+      "label": "Vet Technician",
+      "variant": "accent",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Credentialed technicians complete an AVMA-accredited program (associate or bachelor) and pass the VTNE — performing nursing care, anesthesia, lab work, and radiology under veterinarian supervision.",
+        "why": "The credential is the profession's backbone role — medically substantive, licensed in most states, and in persistent demand.",
+        "learn": [
+          "Find AVMA-accredited tech programs near you",
+          "Review VTNE structure and pass rates",
+          "Practice clinical skills: IV placement, monitoring anesthesia",
+          "Check your state's credentialing and title rules"
+        ],
+        "skills": [
+          "Veterinary nursing",
+          "Anesthesia monitoring"
+        ],
+        "certs": [
+          {
+            "name": "VTNE",
+            "issuer": "American Association of Veterinary State Boards (AAVSB)",
+            "note": "Veterinary Technician National Examination — required for credentialing in most states after an accredited program."
+          }
+        ],
+        "resources": [
+          {
+            "title": "AAVSB — VTNE",
+            "url": "https://www.aavsb.org/",
+            "kind": "certification"
+          },
+          {
+            "title": "O*NET — Veterinary Technologists and Technicians",
+            "url": "https://www.onetonline.org/link/summary/29-2056.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2056.00"
+        ]
+      }
+    },
+    {
+      "id": "vet-groom",
+      "type": "node",
+      "label": "Grooming Path",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Professional groomers bathe, clip, and style — often through apprenticeship under experienced groomers, academy courses, and optional national certification.",
+        "why": "Grooming is a self-employment-friendly craft with loyal recurring clientele — and it teaches dog handling that transfers everywhere.",
+        "learn": [
+          "Learn breed-standard clips and handling safety",
+          "Apprentice under an experienced groomer",
+          "Practice bathing/drying volume to build speed",
+          "Research optional groomer certification bodies"
+        ],
+        "skills": [
+          "Grooming craft",
+          "Dog handling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Animal Care and Service Workers",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-trainer",
+      "type": "node",
+      "label": "Training Path",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Dog trainers teach obedience, behavior modification, and sport skills — the good ones study learning theory and use force-free, science-based methods.",
+        "why": "Training is unlicensed, so ethics and education are your differentiation — certification bodies exist for exactly that.",
+        "learn": [
+          "Study learning theory: reinforcement, timing, criteria",
+          "Volunteer to train shelter dogs for practice",
+          "Consider a certification (e.g., through national trainer bodies)",
+          "Run free classes to build case studies"
+        ],
+        "skills": [
+          "Learning theory",
+          "Patience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Animal Care and Service Workers",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-shelter",
+      "type": "node",
+      "label": "Shelter & Rescue",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Shelters and rescues need daily caretakers, adoption counselors, and vetting coordinators — emotionally heavy, mission-driven work that builds every other skill on this map.",
+        "why": "It is the sector's biggest volunteer-to-job pipeline, and shelter medicine exposure is gold for vet/tech applications.",
+        "learn": [
+          "Commit to a weekly shelter shift",
+          "Learn intake, vaccination, and adoption-counseling basics",
+          "Practice compassion for owners surrendering animals",
+          "Ask about vetting-coordinator roles"
+        ],
+        "skills": [
+          "Animal care",
+          "Adoption counseling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Animal Care and Service Workers",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "39-2021.00"
+        ]
+      }
+    },
+    {
+      "id": "vet-clinical",
+      "type": "node",
+      "label": "Clinical Skills",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The clinical toolkit: venipuncture, catheters, radiology positioning, lab processing (CBC/chemistry), pharmacy prep, dental prophylaxis, and monitoring anesthesia.",
+        "why": "Technicians live in these skills; assistants grow into them — competence here is what clinics desperately hire for.",
+        "learn": [
+          "Practice venipuncture on different species under supervision",
+          "Learn radiology positioning and safety (you're the one holding)",
+          "Master lab-machine QC basics",
+          "Build an anesthesia-monitoring checklist"
+        ],
+        "skills": [
+          "Venipuncture",
+          "Lab work",
+          "Anesthesia support"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinary Technologists and Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "29-2056.00"
+        ]
+      }
+    },
+    {
+      "id": "vet-surgery",
+      "type": "node",
+      "label": "Surgical Assistance",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Surgery support: patient prep, aseptic technique, instrument sterilization, induction and monitoring, and recovery — the technician's highest-responsibility craft.",
+        "why": "Surgical competence is the line between a good tech and an indispensable one.",
+        "learn": [
+          "Master surgical pack preparation and sterilization",
+          "Learn aseptic field discipline",
+          "Monitor anesthesia: depth, temp, vitals, fluid rates",
+          "Practice clean recovery care"
+        ],
+        "skills": [
+          "Aseptic technique",
+          "Surgical monitoring"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinary Technologists and Technicians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-clients",
+      "type": "node",
+      "label": "Client Communication",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Owners are scared and money-stressed: explaining treatment plans, costs, and home care kindly — and delivering hard news with honesty and warmth.",
+        "why": "Compliance (and the animal's outcome) depends on the client understanding and agreeing — communication is medicine here too.",
+        "learn": [
+          "Practice estimate conversations without apology",
+          "Learn teach-back for home-care instructions",
+          "Role-play delivering a difficult prognosis",
+          "Follow up with clients after hard visits"
+        ],
+        "skills": [
+          "Client communication",
+          "Empathy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-emerg",
+      "type": "node",
+      "label": "Emergencies & Triage",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Emergency and triage work: recognizing the crashing patient, CPR basics (RECOVER-style), toxin calls, and calm speed when everything is loud.",
+        "why": "ER and emergency skills are the highest-acuity craft in the field — and where teams most need steady people.",
+        "learn": [
+          "Learn triage categories for common presentations",
+          "Train CPR drills as a team regularly",
+          "Master the common toxins list and first responses",
+          "Practice composure drills — speed with accuracy"
+        ],
+        "skills": [
+          "Triage",
+          "Emergency care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-prevet",
+      "type": "node",
+      "label": "Pre-Vet & DVM Path",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Veterinarians complete a bachelor's-heavy prerequisite path, then a four-year DVM at an AVMA-accredited school — competitive admissions weighing GPA, hours, and experience.",
+        "why": "The DVM is the field's terminal clinical degree — costly and competitive, but the full diagnostic and surgical license.",
+        "learn": [
+          "Research AVMA-accredited DVM programs and prerequisites",
+          "Build GPA, animal hours, and vet references deliberately",
+          "Compare in-state vs out-of-state costs honestly",
+          "Consider vet-tech-first as a funded stepping stone"
+        ],
+        "skills": [
+          "Academic planning",
+          "Persistence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "AVMA — veterinary education",
+            "url": "https://www.avma.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-pm",
+      "type": "node",
+      "label": "Practice Management",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clinics need managers: scheduling, inventory, client flow, staff wellbeing, and the business metrics that keep medicine possible — a real career for organizers who love animals.",
+        "why": "Burnout in the field is often management failure — good managers are the retention strategy and earn like it.",
+        "learn": [
+          "Learn clinic metrics: average transaction, visits/day, inventory turns",
+          "Practice scheduling for coverage and fairness",
+          "Run one staff-recognition program",
+          "Take a practice-management course if drawn to it"
+        ],
+        "skills": [
+          "Operations management",
+          "Staff care"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-mobile",
+      "type": "node",
+      "label": "Mobile & Specialty",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Growth corners of the field: mobile and house-call practice, exotic and zoo medicine, equine work, and shelter medicine — each with its own training paths.",
+        "why": "Specialization differentiates clinics and careers — and mobile practice is reshaping pet-owner expectations.",
+        "learn": [
+          "Explore which specialties your region lacks",
+          "Shadow a mobile or equine vet if possible",
+          "Note the extra credentials exotic medicine expects",
+          "Weigh lifestyle fit per specialty"
+        ],
+        "skills": [
+          "Specialization planning",
+          "Lifestyle fit analysis"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-welfare",
+      "type": "node",
+      "label": "Welfare & Advocacy",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Beyond clinics: animal-welfare organizations, humane law enforcement support, spay/neuter programs, and policy work — mission-driven roles using the same skills.",
+        "why": "For many animal lovers, systemic impact is the point — welfare careers scale your compassion beyond one patient at a time.",
+        "learn": [
+          "Explore welfare organizations' career pages",
+          "Learn spay/neuter program operations basics",
+          "Follow animal-welfare legislation in your state",
+          "Volunteer for one campaign"
+        ],
+        "skills": [
+          "Advocacy",
+          "Program awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Animal Care and Service Workers",
+            "url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: assistant → technician → lead tech/practice manager; or assistant → tech → vet school; or groomer/trainer → business owner. All start with hours and heart.",
+        "why": "Every rung is visible and hireable — the field rewards people who show up consistently for animals.",
+        "learn": [
+          "Map your ladder with realistic timelines",
+          "Identify the credential your next rung needs",
+          "Log hours and skills from week one",
+          "Reassess your tier fit annually"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-fatigue",
+      "type": "node",
+      "label": "Compassion Fatigue",
+      "variant": "muted",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The field has one of the highest compassion-fatigue and suicide-risk rates in healthcare — euthanasia load, client conflict, and debt combine. Sustainability is a skill, not a slogan.",
+        "why": "Planning for the emotional weight — boundaries, peer support, counseling access — protects careers and lives.",
+        "learn": [
+          "Learn the signs of compassion fatigue early",
+          "Build debrief rituals after euthanasias",
+          "Keep peer support active and honest",
+          "Seek counseling support without stigma"
+        ],
+        "skills": [
+          "Emotional resilience",
+          "Peer support"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinarians",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-bites",
+      "type": "node",
+      "label": "Safety & Bites",
+      "variant": "muted",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Animal handling carries real injury risk: bites, scratches, kicks, and zoonotic disease — low-stress handling techniques and PPE discipline are professional skills.",
+        "why": "Fear-free handling protects you AND the patient — clinics increasingly hire for it explicitly.",
+        "learn": [
+          "Learn low-stress/fear-free handling principles",
+          "Use muzzle and restraint tools without shame",
+          "Know zoonotic disease basics and hygiene",
+          "Report and document every injury"
+        ],
+        "skills": [
+          "Low-stress handling",
+          "Safety discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Veterinary Assistants and Laboratory Animal Caretakers",
+            "url": "https://www.bls.gov/ooh/healthcare/veterinary-assistants-and-laboratory-animal-caretakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-cost",
+      "type": "node",
+      "label": "School Cost Reality",
+      "variant": "muted",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The honest ledger: DVM debt often exceeds early-career salaries; technician wages are modest relative to the medical skill. Plan financing before enrolling, not after.",
+        "why": "The field needs people who stay — debt-informed decisions keep good people in animal medicine longer.",
+        "learn": [
+          "Compare total debt vs starting salaries per tier",
+          "Research scholarship and service programs",
+          "Consider tech-first-then-DVM economics",
+          "Talk to graduates about their loan reality"
+        ],
+        "skills": [
+          "Financial planning",
+          "Debt modeling"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "AVMA — veterinary education",
+            "url": "https://www.avma.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "vet-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "vet-g-roles",
+      "type": "group",
+      "label": "CHOOSE YOUR TIER",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "vet-g-clinical",
+      "type": "group",
+      "label": "CLINICAL CRAFT",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "vet-g-grow",
+      "type": "group",
+      "label": "GROWTH CORNERS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "vet-g-ladder",
+      "type": "group",
+      "label": "LADDER & REALITIES",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "vet-g-career",
+      "type": "group",
+      "label": "CAREER & WELLBEING",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "vet-explore",
+      "to": "vet-roles"
+    },
+    {
+      "from": "vet-explore",
+      "to": "vet-prereq"
+    },
+    {
+      "from": "vet-explore",
+      "to": "vet-volunteer"
+    },
+    {
+      "from": "vet-roles",
+      "to": "vet-assistant"
+    },
+    {
+      "from": "vet-roles",
+      "to": "vet-tech"
+    },
+    {
+      "from": "vet-roles",
+      "to": "vet-groom",
+      "dashed": true
+    },
+    {
+      "from": "vet-roles",
+      "to": "vet-trainer",
+      "dashed": true
+    },
+    {
+      "from": "vet-volunteer",
+      "to": "vet-shelter",
+      "dashed": true
+    },
+    {
+      "from": "vet-assistant",
+      "to": "vet-clinical"
+    },
+    {
+      "from": "vet-tech",
+      "to": "vet-clinical"
+    },
+    {
+      "from": "vet-clinical",
+      "to": "vet-surgery"
+    },
+    {
+      "from": "vet-clinical",
+      "to": "vet-clients"
+    },
+    {
+      "from": "vet-clients",
+      "to": "vet-emerg",
+      "dashed": true
+    },
+    {
+      "from": "vet-clinical",
+      "to": "vet-prevet",
+      "dashed": true
+    },
+    {
+      "from": "vet-tech",
+      "to": "vet-pm",
+      "dashed": true
+    },
+    {
+      "from": "vet-prevet",
+      "to": "vet-mobile",
+      "dashed": true
+    },
+    {
+      "from": "vet-shelter",
+      "to": "vet-welfare",
+      "dashed": true
+    },
+    {
+      "from": "vet-career",
+      "to": "vet-fatigue",
+      "dashed": true
+    },
+    {
+      "from": "vet-career",
+      "to": "vet-bites",
+      "dashed": true
+    },
+    {
+      "from": "vet-prevet",
+      "to": "vet-cost",
+      "dashed": true
+    },
+    {
+      "from": "vet-assistant",
+      "to": "vet-career"
+    },
+    {
+      "from": "vet-tech",
+      "to": "vet-career",
+      "dashed": true
+    }
+  ]
+}

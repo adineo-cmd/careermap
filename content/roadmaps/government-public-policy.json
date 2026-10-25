@@ -1,0 +1,1028 @@
+{
+  "slug": "government-public-policy",
+  "title": "Government & Public Policy",
+  "tagline": "Public administration, policy analysis, urban planning, and regulatory work — careers in the public interest.",
+  "summary": "Government careers implement and shape public programs at every level: policy analysts, program administrators, urban planners, compliance and regulatory officers, budget staff, and emergency-management professionals. This roadmap covers how government actually hires, the core public-sector skills, the degree paths (MPA/MPP), and the long-game career calculus.",
+  "category": "Health & Public Service",
+  "color": "#6c7ac0",
+  "icon": "landmark",
+  "onetRoles": [
+    "19-3051.00",
+    "13-1041.00",
+    "11-9151.00",
+    "13-1111.00",
+    "19-3094.00"
+  ],
+  "jelCodes": [
+    "H11",
+    "H53"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Urban and Regional Planners (19-3051.00)",
+      "url": "https://www.onetonline.org/link/summary/19-3051.00"
+    },
+    {
+      "label": "USAJOBS — federal hiring",
+      "url": "https://www.usajobs.gov/"
+    },
+    {
+      "label": "BLS OOH — Urban and Regional Planners",
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "gv-explore",
+      "type": "node",
+      "label": "How Government Works",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Government operates through levels (federal, state, county, municipal/special districts), branches, and agencies — with civil-service systems, budgets, and public-accountability rules shaping every role.",
+        "why": "Understanding the machinery — who funds what, who approves what — is the foundation for every public-sector career on this map.",
+        "learn": [
+          "Diagram how a local budget becomes a service",
+          "Follow one agency's work for a month (meetings are public)",
+          "Learn the difference between elected, appointed, and career staff",
+          "Read your city charter or state constitution summary"
+        ],
+        "skills": [
+          "Civic literacy",
+          "Systems thinking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — federal hiring",
+            "url": "https://www.usajobs.gov/",
+            "kind": "tool"
+          },
+          {
+            "title": "USA.gov — government structure",
+            "url": "https://www.usa.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-levels",
+      "type": "node",
+      "label": "Levels & Employers",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Employers span federal agencies, state governments, counties, cities, school districts, public authorities, and international organizations — each with distinct hiring systems, pace, and mission focus.",
+        "why": "Your level choice shapes everything: scope, pay ceiling, pace, and how directly you see results.",
+        "learn": [
+          "List 10 public employers within commuting distance",
+          "Compare federal (USAJOBS) vs state/city application systems",
+          "Note which level owns issues you care about",
+          "Browse job postings to learn real titles"
+        ],
+        "skills": [
+          "Employer mapping",
+          "Mission mapping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS",
+            "url": "https://www.usajobs.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-civilservice",
+      "type": "node",
+      "label": "Civil Service Hiring",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public hiring is rule-based: announcements define qualifications and KSAs, applications are scored against them, veterans' preferences apply, and processes move slowly and precisely.",
+        "why": "Most people fail public applications by writing private-sector resumes — learning the format is a genuine competitive edge.",
+        "learn": [
+          "Translate your resume into announcement language (mirror the KSAs)",
+          "Answer essay questions with specific examples (CAR format)",
+          "Track announcement deadlines religiously",
+          "Apply repeatedly — lists reopen and hires cascade"
+        ],
+        "skills": [
+          "Application strategy",
+          "Patience"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — help center",
+            "url": "https://www.usajobs.gov/Help/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-policy",
+      "type": "node",
+      "label": "Policy vs Administration",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Policy roles analyze and recommend (what should government do); administration implements and manages (how government does it). Both are careers; most people prefer one clearly.",
+        "why": "Choosing your lane shapes degrees, first jobs, and daily work — analysts write briefs, administrators run programs.",
+        "learn": [
+          "Shadow both a policy analyst and a program manager if possible",
+          "Compare job postings: analysis vs program management",
+          "Reflect: research-and-writing or operations-and-people?",
+          "Note which lane matches your degree plans"
+        ],
+        "skills": [
+          "Career planning",
+          "Self-assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Management Analysts",
+            "url": "https://www.onetonline.org/link/summary/13-1111.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1111.00"
+        ]
+      }
+    },
+    {
+      "id": "gv-analysis",
+      "type": "node",
+      "label": "Policy Analysis",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Policy analysis defines problems, gathers evidence, models options against criteria, and recommends — delivered as concise, decision-ready briefs rather than tomes.",
+        "why": "Analysis is how non-elected professionals shape policy — and the skill transfers to consulting, nonprofits, and journalism.",
+        "learn": [
+          "Write a 2-page policy brief: problem, options, recommendation",
+          "Learn cost-benefit logic and basic program evaluation",
+          "Practice stakeholder mapping for one real policy",
+          "Present a recommendation in 5 minutes without notes"
+        ],
+        "skills": [
+          "Policy analysis",
+          "Brief writing",
+          "Evaluation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Political Scientists",
+            "url": "https://www.onetonline.org/link/summary/19-3094.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "19-3094.00"
+        ]
+      }
+    },
+    {
+      "id": "gv-program",
+      "type": "node",
+      "label": "Program Administration",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Program staff run public services: eligibility systems, case management, vendor coordination, reporting to funders, and continuous improvement inside strict rules.",
+        "why": "Administration is where policy meets residents — the largest volume of public-sector jobs lives here.",
+        "learn": [
+          "Learn one program's rules end-to-end (e.g., housing, benefits)",
+          "Map a service journey from application to outcome",
+          "Practice clear plain-language communication with the public",
+          "Track one efficiency improvement you can propose"
+        ],
+        "skills": [
+          "Program management",
+          "Public service delivery"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Social and Community Service Managers",
+            "url": "https://www.onetonline.org/link/summary/11-9151.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9151.00"
+        ]
+      }
+    },
+    {
+      "id": "gv-planning",
+      "type": "node",
+      "label": "Urban Planning",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Planners shape land use, transportation, housing, and community development — through comprehensive plans, zoning, permits, and public hearings, usually with an accredited planning degree for the main track.",
+        "why": "Planning blends analysis, design, law, and public process — with visible, lasting impact on how cities work.",
+        "learn": [
+          "Attend a public planning or zoning meeting",
+          "Learn your city's zoning map basics",
+          "Read one comprehensive-plan chapter",
+          "Check AICP-style accreditation for the degree path"
+        ],
+        "skills": [
+          "Land-use knowledge",
+          "Public process facilitation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Urban and Regional Planners",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Urban and Regional Planners",
+            "url": "https://www.onetonline.org/link/summary/19-3051.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "19-3051.00"
+        ]
+      }
+    },
+    {
+      "id": "gv-compliance",
+      "type": "node",
+      "label": "Compliance & Regulatory",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Compliance officers ensure organizations follow laws and regulations — licensing, inspections, audits, and corrective actions — across environmental, financial, health, and safety domains.",
+        "why": "It is one of the fastest-growing public-adjacent careers, hiring in government, healthcare, finance, and industry alike.",
+        "learn": [
+          "Learn the compliance function in one regulated domain",
+          "Practice writing clear findings and corrective actions",
+          "Follow one agency's guidance documents",
+          "Note certification options for later (compliance bodies)"
+        ],
+        "skills": [
+          "Regulatory knowledge",
+          "Investigation",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Compliance Officers",
+            "url": "https://www.onetonline.org/link/summary/13-1041.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "13-1041.00"
+        ]
+      }
+    },
+    {
+      "id": "gv-nonprofit",
+      "type": "node",
+      "label": "Nonprofits & Community",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Nonprofits deliver many public services: program managers run operations and grants, development staff fund them, and community managers connect them to residents — a major parallel employer to government.",
+        "why": "Nonprofit program management is the most common on-ramp into public administration — and a destination in itself.",
+        "learn": [
+          "Volunteer with an organization serving a cause you care about",
+          "Learn the grant cycle basics (application, reporting)",
+          "Compare nonprofit vs government program roles",
+          "Join one local board or committee as a beginner"
+        ],
+        "skills": [
+          "Grant management",
+          "Community engagement"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Social and Community Service Managers",
+            "url": "https://www.onetonline.org/link/summary/11-9151.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "11-9151.00"
+        ]
+      }
+    },
+    {
+      "id": "gv-budget",
+      "type": "node",
+      "label": "Public Budgeting",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public budgets are law: revenue sources, fund accounting, appropriation cycles, and the hearings where priorities become line items — the language of every government decision.",
+        "why": "Budget literacy is the fastest credibility builder in government — analysts who understand fiscal notes get promoted.",
+        "learn": [
+          "Read your city's budget summary document",
+          "Learn fund accounting basics (funds ≠ accounts)",
+          "Follow one budget hearing cycle",
+          "Write a fiscal-impact note for a mock proposal"
+        ],
+        "skills": [
+          "Budget analysis",
+          "Public finance basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "GFOA — public finance resources",
+            "url": "https://www.gfoa.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-writing",
+      "type": "node",
+      "label": "Policy & Memo Writing",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public writing is decision-support: memos with headlines first, options with trade-offs, plain-language public communications, and documentation that survives records requests.",
+        "why": "Governments run on documents — writing clearly under public-accountability rules is the core craft skill.",
+        "learn": [
+          "Write a decision memo: issue, background, options, recommendation",
+          "Practice plain-language rewriting of a dense regulation",
+          "Learn public-records implications of your writing",
+          "Build a template library for recurring documents"
+        ],
+        "skills": [
+          "Analytical writing",
+          "Plain language"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — resume and application help",
+            "url": "https://www.usajobs.gov/Help/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-engagement",
+      "type": "node",
+      "label": "Community Engagement",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public decisions require public involvement: meetings, surveys, comment periods, and translation of technical matters into accessible choices — done well, it builds legitimacy.",
+        "why": "Engagement quality determines whether plans survive contact with the community — and it is a hireable specialty.",
+        "learn": [
+          "Facilitate one small public-input session",
+          "Learn inclusive-engagement practices (language access, timing)",
+          "Summarize public comments into decision-ready themes",
+          "Follow one contentious project's engagement process"
+        ],
+        "skills": [
+          "Facilitation",
+          "Inclusive engagement"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Urban and Regional Planners",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-data",
+      "type": "node",
+      "label": "Data for Public Decisions",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Modern government runs on data: program metrics, open data portals, performance dashboards, and evaluation — spreadsheets are the floor, and public datasets are free practice material.",
+        "why": "Evidence-based decision-making is the stated standard everywhere — staff who can measure things become indispensable.",
+        "learn": [
+          "Analyze an open dataset from your city's portal",
+          "Build one performance dashboard for a mock program",
+          "Learn basic program-evaluation designs (pre/post, comparison)",
+          "Present findings in one chart and three sentences"
+        ],
+        "skills": [
+          "Data analysis",
+          "Performance measurement"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Data.gov — US open data",
+            "url": "https://data.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-grants",
+      "type": "node",
+      "label": "Grants Management",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Grants move money between governments and to nonprofits: writing applications, managing awards, compliance reporting, and closeouts — a specialist skill in constant demand.",
+        "why": "Grant-skilled staff directly fund their organizations — one of the most visibly valuable competencies in public service.",
+        "learn": [
+          "Write a mock grant application to a real funder's template",
+          "Learn federal grant compliance basics (2 CFR concepts)",
+          "Build a reporting calendar for a mock award",
+          "Follow Grants.gov for your issue area"
+        ],
+        "skills": [
+          "Grant writing",
+          "Compliance reporting"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Grants.gov",
+            "url": "https://www.grants.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-procurement",
+      "type": "node",
+      "label": "Procurement & Contracts",
+      "variant": "muted",
+      "x": 60,
+      "y": 610,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Government buys through public procurement: RFPs, competitive evaluation, contract management, and vendor accountability — a structured, rule-driven specialty.",
+        "why": "Procurement is a stable, well-paid career track and the mechanism through which every public project actually happens.",
+        "learn": [
+          "Read one public RFP end-to-end",
+          "Learn the evaluation-criteria structure",
+          "Follow a local contract award through the process",
+          "Note procurement certifications for later"
+        ],
+        "skills": [
+          "Contract management",
+          "Process discipline"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — government contracting",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-degrees",
+      "type": "node",
+      "label": "MPA / MPP Degrees",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The MPA (administration/management) and MPP (analysis/policy) are the field's standard graduate credentials — often pursued mid-career, part-time, or via employer-supported programs.",
+        "why": "Degrees matter most at the management and analysis ceiling; many careers run fine on experience plus targeted credentials.",
+        "learn": [
+          "Compare MPA vs MPP against your chosen lane",
+          "Check employer tuition-support policies first",
+          "Evaluate programs on alumni placement in your region",
+          "Consider public-service loan-forgiveness implications"
+        ],
+        "skills": [
+          "Education planning",
+          "Financial planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Urban and Regional Planners",
+            "url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-law",
+      "type": "node",
+      "label": "Law & Policy Crossover",
+      "variant": "muted",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Regulatory and legislative careers often border legal practice — agency counsel, legislative staff, hearing officers. See the Law roadmap for the JD path; many policy roles pair well with legal training.",
+        "why": "Policy work constantly reads law; knowing when to bring an attorney in is itself a professional skill.",
+        "learn": [
+          "Learn how agencies write and interpret rules (rulemaking basics)",
+          "Follow one rulemaking docket publicly",
+          "Note JD-adjacent roles that don't require the degree",
+          "Read the Law roadmap if considering the full path"
+        ],
+        "skills": [
+          "Regulatory literacy",
+          "Regulatory literacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Regulations.gov — rulemaking dockets",
+            "url": "https://www.regulations.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-planning-accred",
+      "type": "node",
+      "label": "Planning Credential (AICP)",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The AICP credential (American Institute of Certified Planners) marks certified professional planners — education plus experience plus exam, and a common requirement for senior planning roles.",
+        "why": "Certification signals ethics and standards mastery; many jurisdictions prefer or require it for principal planners.",
+        "learn": [
+          "Review AICP eligibility (accredited degree + experience)",
+          "Study the exam's ethics and law sections seriously",
+          "Plan the exam after your first years of practice",
+          "Check employer support for exam fees"
+        ],
+        "skills": [
+          "Professional certification",
+          "Exam preparation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "APA — AICP certification",
+            "url": "https://www.planning.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-cpm",
+      "type": "node",
+      "label": "Certified Public Manager",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Certified Public Manager programs (state-based consortia) develop mid-career public managers through cohort training in supervision, budgets, and public leadership.",
+        "why": "CPM is a low-cost, employer-friendly ladder credential — several states sponsor it for rising supervisors.",
+        "learn": [
+          "Check whether your state runs a CPM program",
+          "Ask HR about sponsorship and cohort timing",
+          "Compare CPM vs MPA for your next promotion",
+          "Join the cohort network deliberately"
+        ],
+        "skills": [
+          "Management development",
+          "Leadership development"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NCPMC — Certified Public Manager programs",
+            "url": "https://www.cpmconsortium.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-emergency",
+      "type": "node",
+      "label": "Emergency Management",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Emergency managers plan for and coordinate disaster response — mitigation plans, ICS coordination, exercises, grants, and recovery programs in every jurisdiction and many institutions.",
+        "why": "A growing, mission-driven specialty where FEMA's free training lets anyone start learning this week.",
+        "learn": [
+          "Complete FEMA ICS-100, 200, 700, 800 free courses",
+          "Join a Community Emergency Response Team (CERT)",
+          "Read your county's hazard-mitigation plan",
+          "Follow local EM job requirements"
+        ],
+        "skills": [
+          "ICS knowledge",
+          "Coordination under pressure"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "FEMA — Emergency Management Institute",
+            "url": "https://training.fema.gov/",
+            "kind": "course"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-intl",
+      "type": "node",
+      "label": "International & Diplomatic",
+      "variant": "muted",
+      "x": 340,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "International public service spans the Foreign Service, international organizations, development agencies, and global NGOs — competitive exams and language skills gate most of it.",
+        "why": "For globally minded policy professionals, these careers trade domestic stability for extraordinary scope.",
+        "learn": [
+          "Review the Foreign Service Officer selection process",
+          "Study a critical language if interested",
+          "Follow one international organization's recruiting",
+          "Note the mobility trade-offs honestly"
+        ],
+        "skills": [
+          "Languages",
+          "Cross-cultural competence"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "careers.state.gov — Foreign Service",
+            "url": "https://careers.state.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 620,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public ladders run analyst/specialist → program manager → division director → executive (city manager, agency head), with lateral moves across levels and into nonprofits or consulting.",
+        "why": "Government careers reward sustained institutional knowledge — and the ladder is unusually transparent via public salary schedules.",
+        "learn": [
+          "Map the ladder in your target jurisdiction (it's usually public)",
+          "Identify the two experiences the next rung requires",
+          "Decide breadth (generalist) vs depth (specialist) for you",
+          "Plan credential checkpoints along the way"
+        ],
+        "skills": [
+          "Career planning",
+          "Network building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS",
+            "url": "https://www.usajobs.gov/",
+            "kind": "tool"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-security",
+      "type": "node",
+      "label": "Clearances & Rules",
+      "variant": "muted",
+      "x": 900,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public employment comes with constraints: background investigations and clearances for sensitive roles, political-activity restrictions (Hatch-Act-style), ethics rules, and open-records exposure.",
+        "why": "Knowing the rulebook protects careers — and clearance eligibility affects which doors stay open.",
+        "learn": [
+          "Learn which roles require background investigations",
+          "Understand political-activity limits for public employees",
+          "Review your agency's ethics and gift rules",
+          "Keep finances tidy — clearances check them"
+        ],
+        "skills": [
+          "Regulatory compliance",
+          "Ethics awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — hiring process",
+            "url": "https://www.usajobs.gov/Help/working-in-government/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-benefits",
+      "type": "node",
+      "label": "Benefits & Pension Reality",
+      "variant": "muted",
+      "x": 1180,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Public compensation leans on pensions, healthcare, and stability rather than top-of-market salaries — with vesting schedules and service-credit rules worth understanding from year one.",
+        "why": "Total compensation math changes every career comparison — public vs private decisions should include the pension column.",
+        "learn": [
+          "Read your target pension system's vesting and formulas",
+          "Compare total compensation, not salary alone",
+          "Learn service-credit purchase options if relevant",
+          "Meet a benefits counselor early in your career"
+        ],
+        "skills": [
+          "Financial planning",
+          "Long-term planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "USAJOBS — pay and benefits",
+            "url": "https://www.usajobs.gov/Help/working-in-government/pay-and-benefits/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "gv-g",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "gv-g2",
+      "type": "group",
+      "label": "CHOOSE YOUR LANE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "gv-g3",
+      "type": "group",
+      "label": "CORE PUBLIC SKILLS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "gv-g4",
+      "type": "group",
+      "label": "EDUCATION & CREDENTIALS",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "gv-g5",
+      "type": "group",
+      "label": "SPECIALTIES",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "gv-g6",
+      "type": "group",
+      "label": "CAREERS & RULES",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "gv-explore",
+      "to": "gv-levels"
+    },
+    {
+      "from": "gv-explore",
+      "to": "gv-civilservice"
+    },
+    {
+      "from": "gv-explore",
+      "to": "gv-policy"
+    },
+    {
+      "from": "gv-policy",
+      "to": "gv-analysis"
+    },
+    {
+      "from": "gv-policy",
+      "to": "gv-program",
+      "dashed": true
+    },
+    {
+      "from": "gv-levels",
+      "to": "gv-planning",
+      "dashed": true
+    },
+    {
+      "from": "gv-levels",
+      "to": "gv-compliance",
+      "dashed": true
+    },
+    {
+      "from": "gv-program",
+      "to": "gv-nonprofit",
+      "dashed": true
+    },
+    {
+      "from": "gv-civilservice",
+      "to": "gv-writing",
+      "dashed": true
+    },
+    {
+      "from": "gv-analysis",
+      "to": "gv-budget"
+    },
+    {
+      "from": "gv-analysis",
+      "to": "gv-writing"
+    },
+    {
+      "from": "gv-writing",
+      "to": "gv-engagement"
+    },
+    {
+      "from": "gv-program",
+      "to": "gv-data",
+      "dashed": true
+    },
+    {
+      "from": "gv-data",
+      "to": "gv-grants",
+      "dashed": true
+    },
+    {
+      "from": "gv-program",
+      "to": "gv-procurement",
+      "dashed": true
+    },
+    {
+      "from": "gv-budget",
+      "to": "gv-degrees",
+      "dashed": true
+    },
+    {
+      "from": "gv-planning",
+      "to": "gv-planning-accred",
+      "dashed": true
+    },
+    {
+      "from": "gv-law",
+      "to": "gv-analysis",
+      "dashed": true
+    },
+    {
+      "from": "gv-compliance",
+      "to": "gv-law",
+      "dashed": true
+    },
+    {
+      "from": "gv-degrees",
+      "to": "gv-cpm",
+      "dashed": true
+    },
+    {
+      "from": "gv-emergency",
+      "to": "gv-program",
+      "dashed": true
+    },
+    {
+      "from": "gv-explore",
+      "to": "gv-emergency",
+      "dashed": true
+    },
+    {
+      "from": "gv-cpm",
+      "to": "gv-career"
+    },
+    {
+      "from": "gv-engagement",
+      "to": "gv-career",
+      "dashed": true
+    },
+    {
+      "from": "gv-planning-accred",
+      "to": "gv-career",
+      "dashed": true
+    },
+    {
+      "from": "gv-intl",
+      "to": "gv-career",
+      "dashed": true
+    },
+    {
+      "from": "gv-explore",
+      "to": "gv-intl",
+      "dashed": true
+    },
+    {
+      "from": "gv-career",
+      "to": "gv-security",
+      "dashed": true
+    },
+    {
+      "from": "gv-career",
+      "to": "gv-benefits",
+      "dashed": true
+    }
+  ]
+}

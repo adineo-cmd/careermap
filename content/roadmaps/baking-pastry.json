@@ -1,0 +1,584 @@
+{
+  "slug": "baking-pastry",
+  "title": "Baking & Pastry",
+  "tagline": "Breads, laminated doughs, cakes, and chocolate — the dedicated pastry path.",
+  "summary": "A deep-dive specialization of the Culinary & Hospitality roadmap: the baking and pastry career from bread fundamentals through laminated doughs, cakes, chocolate, production planning, and the home-bakery business.",
+  "category": "Service & Hospitality",
+  "color": "#e5a86e",
+  "icon": "utensils",
+  "parent": "culinary-hospitality",
+  "onetRoles": [
+    "51-3011.00"
+  ],
+  "jelCodes": [
+    "L83"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Bakers (51-3011.00)",
+      "url": "https://www.onetonline.org/link/summary/51-3011.00"
+    },
+    {
+      "label": "BLS OOH — Bakers",
+      "url": "https://www.bls.gov/ooh/production/bakers.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "bp-explore",
+      "type": "node",
+      "label": "The Pastry Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Baking splits into bread (lean and enriched doughs, fermentation), pastry (laminated doughs, plated desserts, chocolate), and production (bakeries, hotels, wholesale) — precision-driven and schedule-shaped.",
+        "why": "Baking rewards precision and patience — it is a craft with clear skills, steady demand, and a strong self-employment path.",
+        "learn": [
+          "Read the BLS OOH bakers profile",
+          "Compare bread vs pastry vs production environments",
+          "Visit a bakery at 4 a.m. to see the reality",
+          "Choose a lane to develop first"
+        ],
+        "skills": [
+          "Precision",
+          "Patience",
+          "Craft pride"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Bakers",
+            "url": "https://www.onetonline.org/link/summary/51-3011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "51-3011.00"
+        ],
+        "tasks": [
+          "Mix and bake ingredients to produce breads, pastries, and other baked goods."
+        ]
+      }
+    },
+    {
+      "id": "bp-bread",
+      "type": "node",
+      "label": "Bread Fundamentals",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Bread craft: lean vs enriched doughs, fermentation control, shaping, scoring, steam, and hearing crust crackle — the oldest and most fundamental baking skill.",
+        "why": "Bread teaches fermentation, timing, and feel — the foundation every pastry skill builds on.",
+        "learn": [
+          "Bake lean hearth breads consistently for weeks",
+          "Master shaping: boules, batards, baguettes",
+          "Learn fermentation timing by temperature",
+          "Bake enriched breads (brioche, challah)"
+        ],
+        "skills": [
+          "Fermentation control",
+          "Shaping"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-laminated",
+      "type": "node",
+      "label": "Laminated Doughs",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The showpiece craft: croissants and puff pastry built by laminating butter into dough — folding, chilling, and rolling with temperature discipline.",
+        "why": "Lamination is the technique that proves pastry skill — every layer visible in the crumb.",
+        "learn": [
+          "Make croissant dough and laminate properly",
+          "Control butter temperature throughout",
+          "Bake to shatter-crisp, honeycombed crumb",
+          "Compare butter brands and flour strengths"
+        ],
+        "skills": [
+          "Lamination",
+          "Temperature control"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-cakes",
+      "type": "node",
+      "label": "Cakes & Icing",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Cake craft: mixing methods, leveling and filling, crumb coats, buttercream and fondant finishing, and the stacking/structure basics behind celebration cakes.",
+        "why": "Cakes are the highest-ticket custom work — wedding and celebration cakes fund many home businesses.",
+        "learn": [
+          "Bake level, even cake layers consistently",
+          "Master buttercream texture and smoothing",
+          "Learn stacking and dowel structure safely",
+          "Practice one decorated showpiece"
+        ],
+        "skills": [
+          "Cake construction",
+          "Finishing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-plated",
+      "type": "node",
+      "label": "Plated Desserts",
+      "x": 1180,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Restaurant pastry: composed plated desserts with sauces, textures, and temperature contrasts — designed fast and executed to order on the line.",
+        "why": "Plated dessert work is the restaurant pastry chef's daily craft — creativity at service speed.",
+        "learn": [
+          "Build desserts with 3+ components and one sauce",
+          "Design for execution in 5 minutes at pickup",
+          "Learn mousse, curd, and tuile components",
+          "Plate for the camera honestly"
+        ],
+        "skills": [
+          "Dessert composition",
+          "Speed finishing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Chefs and Head Cooks",
+            "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-percent",
+      "type": "node",
+      "label": "Baker's Percentages",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Formulation literacy: baker's percentages (everything relative to flour), scaling accuracy, hydration effects, and adjusting formulas for batch size and environment.",
+        "why": "Percentages turn recipes into systems — the professional language of every bakery.",
+        "learn": [
+          "Convert 5 recipes to baker's percentages",
+          "Scale formulas up and down cleanly",
+          "Adjust hydration for flour and weather",
+          "Cost one formula per serving"
+        ],
+        "skills": [
+          "Formula math",
+          "Scaling accuracy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-production",
+      "type": "node",
+      "label": "Production Planning",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Bakery production is choreography: par-bakes and retarders, overnight proofs, oven scheduling, and hitting the case-full deadline every morning.",
+        "why": "Production planning is what separates home bakers from professional bakers — it's the promotable skill.",
+        "learn": [
+          "Plan a 200-unit morning bake on paper",
+          "Learn retarder/proof box scheduling",
+          "Build par levels from sales data",
+          "Execute one full production shift"
+        ],
+        "skills": [
+          "Production planning",
+          "Timing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-chocolate",
+      "type": "node",
+      "label": "Chocolate & Sugar",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The showpiece arts: tempering chocolate for shine and snap, ganaches, pulled and blown sugar, and isomalt work — competition-level display skills.",
+        "why": "Chocolate and sugar work are pastry's high-art corner — competition and hotel showpiece careers live here.",
+        "learn": [
+          "Temper chocolate properly (seed method) consistently",
+          "Make ganache for different uses",
+          "Practice basic pulled-sugar pieces",
+          "Build one small chocolate showpiece"
+        ],
+        "skills": [
+          "Tempering",
+          "Showpiece craft"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-allergen",
+      "type": "node",
+      "label": "Allergens & Safety",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Baking safety: the major allergens and cross-contact control, gluten-free and vegan substitution science, and food-handler sanitation discipline.",
+        "why": "Allergen mistakes are medical emergencies — substitution science is now a core professional skill.",
+        "learn": [
+          "Learn the major allergens and cross-contact prevention",
+          "Master one GF flour blend and its behavior",
+          "Practice vegan substitution systems",
+          "Keep sanitation certification current"
+        ],
+        "skills": [
+          "Allergen control",
+          "Substitution science"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ServSafe — food safety",
+            "url": "https://www.servsafe.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-costing",
+      "type": "node",
+      "label": "Costing & Pricing",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Pastry economics: ingredient costing per unit, labor time honesty, waste factors, and pricing custom work (weddings especially) to real value.",
+        "why": "Custom cakes and pastries underprice themselves into extinction — costing is the business survival skill.",
+        "learn": [
+          "Cost 10 items per ingredient and labor hour",
+          "Learn wedding-cake pricing by servings and complexity",
+          "Build a pricing sheet you defend confidently",
+          "Track waste and adjust production"
+        ],
+        "skills": [
+          "Costing",
+          "Pricing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — pricing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-wedding",
+      "type": "node",
+      "label": "Custom & Wedding Cakes",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The custom-cake business: consultations, design sketches, delivery and setup logistics, contracts with deposits, and the structural engineering of tall tiers.",
+        "why": "Custom cakes are the most accessible pastry business — a home kitchen, portfolio, and booking system can start it.",
+        "learn": [
+          "Build a consultation-to-contract process",
+          "Learn safe stacking and transport technique",
+          "Practice a consultation conversation",
+          "Post every finished cake with story"
+        ],
+        "skills": [
+          "Custom cake craft",
+          "Client process"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-cottage",
+      "type": "node",
+      "label": "Cottage Food Laws",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Most US states allow home-based sale of certain low-risk baked goods under cottage-food laws — with labeling, sales-channel, and revenue caps to learn.",
+        "why": "Cottage laws are the legal on-ramp for home bakeries — knowing yours prevents expensive mistakes.",
+        "learn": [
+          "Read your state's cottage food law",
+          "Learn allowed foods, labels, and channels",
+          "Register or permit as required locally",
+          "Plan the commercial-kitchen upgrade path"
+        ],
+        "skills": [
+          "Regulatory awareness",
+          "Business registration"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "Forrager — cottage food laws by state",
+            "url": "https://www.forrager.com/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: baker assistant → baker → head baker; pastry cook → pastry chef (hotels and restaurants); or home baker → farmers market → custom business → storefront.",
+        "why": "Pastry ladders reward precision plus reliability — every shift is an audition for the next rung.",
+        "learn": [
+          "Map the ladder in your target setting",
+          "Choose bread, pastry, or cake depth first",
+          "Find a mentor pastry chef or baker",
+          "Build a portfolio of consistent work"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-hours",
+      "type": "node",
+      "label": "Hours & Body Reality",
+      "variant": "muted",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Baking runs nights and early mornings on your feet, with heat, repetition, and holiday peaks — sleep systems, body care, and honest pacing are career equipment.",
+        "why": "The craft's physical schedule ends more careers than skill does — planning for it is professional.",
+        "learn": [
+          "Build a night-shift sleep system",
+          "Protect wrists and backs with technique",
+          "Plan holiday-peak staffing and pricing",
+          "Keep one weekday fully off, always"
+        ],
+        "skills": [
+          "Self-care",
+          "Schedule management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Bakers",
+            "url": "https://www.bls.gov/ooh/production/bakers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "bp-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "bp-g-craft",
+      "type": "group",
+      "label": "THE CRAFT",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "bp-g-business",
+      "type": "group",
+      "label": "PRODUCTION & BUSINESS",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "bp-explore",
+      "to": "bp-bread"
+    },
+    {
+      "from": "bp-bread",
+      "to": "bp-laminated"
+    },
+    {
+      "from": "bp-explore",
+      "to": "bp-cakes",
+      "dashed": true
+    },
+    {
+      "from": "bp-explore",
+      "to": "bp-plated",
+      "dashed": true
+    },
+    {
+      "from": "bp-bread",
+      "to": "bp-percent"
+    },
+    {
+      "from": "bp-percent",
+      "to": "bp-production"
+    },
+    {
+      "from": "bp-production",
+      "to": "bp-costing"
+    },
+    {
+      "from": "bp-laminated",
+      "to": "bp-chocolate",
+      "dashed": true
+    },
+    {
+      "from": "bp-cakes",
+      "to": "bp-wedding",
+      "dashed": true
+    },
+    {
+      "from": "bp-costing",
+      "to": "bp-wedding",
+      "dashed": true
+    },
+    {
+      "from": "bp-wedding",
+      "to": "bp-cottage",
+      "dashed": true
+    },
+    {
+      "from": "bp-career",
+      "to": "bp-hours",
+      "dashed": true
+    },
+    {
+      "from": "bp-allergen",
+      "to": "bp-production",
+      "dashed": true
+    },
+    {
+      "from": "bp-career",
+      "to": "bp-allergen",
+      "dashed": true
+    }
+  ]
+}

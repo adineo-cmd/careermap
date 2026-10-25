@@ -1,0 +1,681 @@
+{
+  "slug": "social-work",
+  "title": "Social Work",
+  "tagline": "Case managers, clinical social workers, and advocates — supporting people through systems.",
+  "summary": "A deep-dive specialization of the Psychology & Counseling roadmap: social work from BSW through MSW and LCSW — case management, child and family services, clinical therapy, and macro practice.",
+  "category": "People & Organizations",
+  "color": "#c88d5e",
+  "icon": "users",
+  "parent": "psychology-counseling",
+  "onetRoles": [
+    "21-1021.00",
+    "21-1093.00"
+  ],
+  "jelCodes": [
+    "I31"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Child, Family, and School Social Workers (21-1021.00)",
+      "url": "https://www.onetonline.org/link/summary/21-1021.00"
+    },
+    {
+      "label": "BLS OOH — Social Workers",
+      "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "sw-explore",
+      "type": "node",
+      "label": "What Social Work Is",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Social work connects people to resources and helps them through crises and systems — from child welfare and hospitals to therapy practices and policy, under a professional code of ethics.",
+        "why": "It is the most flexible mental-health degree: the LCSW license enables therapy, while the broader field spans case management to community leadership.",
+        "learn": [
+          "Read the BLS OOH social workers profile",
+          "Learn micro, mezzo, and macro practice distinctions",
+          "Read the NASW Code of Ethics overview",
+          "Talk to one social worker per setting"
+        ],
+        "skills": [
+          "Empathy",
+          "Systems thinking",
+          "Advocacy"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Child, Family, and School Social Workers",
+            "url": "https://www.onetonline.org/link/summary/21-1021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "21-1021.00"
+        ]
+      }
+    },
+    {
+      "id": "sw-bsw",
+      "type": "node",
+      "label": "BSW Path",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Bachelor of Social Work (CSWE-accredited) includes supervised field practicum hours and qualifies graduates for generalist case-management roles — and advanced-standing MSW admission.",
+        "why": "A BSW is the fastest accredited entry into professional social work — and shortens the MSW later.",
+        "learn": [
+          "Verify CSWE accreditation for programs",
+          "Compare field-practicum structures",
+          "Use the BSW to work while planning the MSW",
+          "Check advanced-standing MSW eligibility"
+        ],
+        "skills": [
+          "Case management",
+          "Field practice"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CSWE — accredited programs",
+            "url": "https://www.cswe.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-case",
+      "type": "node",
+      "label": "Case Management",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The core craft: assessment, service planning, connecting clients to benefits and providers, monitoring progress, and documenting everything defensibly.",
+        "why": "Case management is the field's largest job family — and the skill every other role builds on.",
+        "learn": [
+          "Learn the assessment → plan → link → monitor cycle",
+          "Master documentation standards early",
+          "Build a local resource directory from scratch",
+          "Practice boundaries with high-need clients"
+        ],
+        "skills": [
+          "Case management",
+          "Documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Social and Human Service Assistants",
+            "url": "https://www.onetonline.org/link/summary/21-1093.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "21-1093.00"
+        ]
+      }
+    },
+    {
+      "id": "sw-populations",
+      "type": "node",
+      "label": "Populations & Settings",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Social workers specialize by population: child and family (including child welfare), aging, medical/hospital, schools, addiction, and corrections — each with distinct systems.",
+        "why": "Population choice shapes licensure needs, emotional load, and daily work — sample before you commit.",
+        "learn": [
+          "Volunteer or intern in two different populations",
+          "Learn each system's legal framework briefly",
+          "Note the emotional demands per setting",
+          "Pick a primary population to start"
+        ],
+        "skills": [
+          "Population knowledge",
+          "Adaptability"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-ethics",
+      "type": "node",
+      "label": "Ethics & Boundaries",
+      "x": 1180,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The NASW Code of Ethics governs the profession: self-determination, confidentiality, dual relationships, cultural competence, and mandated-reporting duties.",
+        "why": "Social workers hold power over vulnerable people — ethics is the license's spine and the exam's core.",
+        "learn": [
+          "Study the NASW Code section by section",
+          "Practice applying self-determination to real dilemmas",
+          "Learn dual-relationship rules for small communities",
+          "Know your state's reporting laws exactly"
+        ],
+        "skills": [
+          "Ethics",
+          "Boundaries"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NASW — Code of Ethics",
+            "url": "https://www.socialworkers.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-msw",
+      "type": "node",
+      "label": "MSW Path",
+      "variant": "accent",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The Master of Social Work (CSWE-accredited, ~2 years) offers clinical and macro concentrations with substantial internship hours; BSW holders qualify for advanced-standing one-year programs.",
+        "why": "The MSW is the gateway to clinical licensure (LCSW) and to supervisory and program-leadership roles.",
+        "learn": [
+          "Verify CSWE accreditation before applying",
+          "Choose clinical vs macro concentration deliberately",
+          "Compare advanced-standing options for BSW holders",
+          "Plan internship hours around work"
+        ],
+        "skills": [
+          "Graduate planning",
+          "Concentration planning"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "CSWE — accredited programs",
+            "url": "https://www.cswe.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-clinical",
+      "type": "node",
+      "label": "Clinical vs Macro",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Clinical social workers provide therapy (toward LCSW); macro social workers run programs, organize communities, and shape policy — both are 'real' social work.",
+        "why": "MSW programs force this fork — choosing it consciously prevents mid-degree regret.",
+        "learn": [
+          "Shadow one clinical and one macro social worker",
+          "Compare daily outputs: therapy notes vs program reports",
+          "Assess which change scale energizes you",
+          "Confirm your concentration supports licensure if wanted"
+        ],
+        "skills": [
+          "Track selection",
+          "Observation shadowing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-childwelfare",
+      "type": "node",
+      "label": "Child Welfare",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Child-protective work: investigations, safety assessment, family reunification services, court documentation, and foster-care coordination — demanding and consequential.",
+        "why": "Child welfare is the largest social-work employer and a profound responsibility — many agencies fund MSWs for committed staff.",
+        "learn": [
+          "Learn your state's child-welfare structure",
+          "Practice objective safety documentation",
+          "Understand court timelines and roles",
+          "Build resilience habits before, not after"
+        ],
+        "skills": [
+          "Child welfare practice",
+          "Court documentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Child, Family, and School Social Workers",
+            "url": "https://www.onetonline.org/link/summary/21-1021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "21-1021.00"
+        ],
+        "tasks": [
+          "Assess family and social situations, provide counseling, arrange services, and maintain case records for children and families."
+        ]
+      }
+    },
+    {
+      "id": "sw-medical",
+      "type": "node",
+      "label": "Medical Social Work",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Hospital social workers handle discharge planning, crisis intervention, resource connection, and family support inside clinical teams.",
+        "why": "Medical social work is salaried, structured, and teaches rapid assessment — a strong MSW internship target.",
+        "learn": [
+          "Learn discharge-planning workflows",
+          "Practice crisis conversations with families",
+          "Coordinate with nursing and case-management teams",
+          "Learn insurance-driven care constraints"
+        ],
+        "skills": [
+          "Discharge planning",
+          "Crisis intervention"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-therapy",
+      "type": "node",
+      "label": "Therapy as LCSW",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Licensed clinical social workers deliver psychotherapy independently after the MSW, supervised clinical hours, and the ASWB clinical exam — the profession's therapy license.",
+        "why": "LCSW combines therapy practice with systems training — the most portable mental-health license.",
+        "learn": [
+          "Confirm your state's LCSW hour requirements",
+          "Complete supervised clinical hours with quality supervision",
+          "Pass the ASWB clinical exam",
+          "Choose post-licensure training in a therapy modality"
+        ],
+        "skills": [
+          "Psychotherapy",
+          "Clinical licensure"
+        ],
+        "certs": [
+          {
+            "name": "LCSW",
+            "issuer": "State licensing boards (ASWB clinical exam)",
+            "note": "Licensed Clinical Social Worker — MSW plus supervised clinical experience plus the ASWB clinical exam."
+          }
+        ],
+        "resources": [
+          {
+            "title": "ASWB — exams",
+            "url": "https://www.aswb.org/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-macro",
+      "type": "node",
+      "label": "Macro & Policy",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Macro practice runs programs and changes systems: nonprofit leadership, community organizing, grant management, and policy advocacy for the populations social workers serve.",
+        "why": "Macro social work scales impact beyond one client at a time — leadership without leaving the mission.",
+        "learn": [
+          "Learn community-organizing frameworks",
+          "Practice grant-writing for a local nonprofit",
+          "Follow state policy affecting your population",
+          "Join a coalition or board as a beginner"
+        ],
+        "skills": [
+          "Program leadership",
+          "Community organizing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social and Community Service Managers",
+            "url": "https://www.bls.gov/ooh/management/social-and-community-service-managers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-doc",
+      "type": "node",
+      "label": "Documentation Craft",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Social work documentation is legal and clinical: objective language, defensible decisions, timelines, and privacy — often reviewed in courts and audits.",
+        "why": "Files protect clients and workers alike — documentation quality is a hiring and survival skill.",
+        "learn": [
+          "Practice objective, non-judgmental note style",
+          "Learn your agency's format (DAP/SOAP variants)",
+          "Keep timelines exact for court settings",
+          "Audit your own files monthly"
+        ],
+        "skills": [
+          "Documentation",
+          "Legal awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Ladders: case manager → supervisor → program director → agency executive; clinical: associate → LCSW → supervisor/private practice; macro: organizer → program manager → policy roles.",
+        "why": "Social work ladders fork at the MSW — knowing your fork early shapes concentrations and hours.",
+        "learn": [
+          "Map the ladder for your chosen fork",
+          "Identify licensure/credential needs per rung",
+          "Find a mentor who took your path",
+          "Set a 5-year goal with annual reviews"
+        ],
+        "skills": [
+          "Career planning",
+          "Mentorship"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-fatigue",
+      "type": "node",
+      "label": "Vicarious Trauma",
+      "x": 900,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Social workers absorb others' crises daily — vicarious trauma, burnout, and secondary stress are occupational realities with evidence-based counters.",
+        "why": "The field's turnover problem is preventable with supervision, boundaries, and real self-care — starting in school.",
+        "learn": [
+          "Learn vicarious-trauma signs and counters",
+          "Use supervision to process hard cases",
+          "Keep caseloads honest — advocate for limits",
+          "Maintain life outside the work deliberately"
+        ],
+        "skills": [
+          "Resilience",
+          "Boundary practice"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Social Workers",
+            "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-licensure",
+      "type": "node",
+      "label": "Licensure Mobility",
+      "variant": "muted",
+      "x": 1180,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Social work licensure is state-specific with varying titles and requirements; the ASWB Passport-style mobility options and endorsement processes matter for movers.",
+        "why": "License portability affects every relocation — checking rules before moving prevents career gaps.",
+        "learn": [
+          "Compare license titles and tiers across states you'd consider",
+          "Learn the endorsement process",
+          "Track CE requirements per state held",
+          "Note telehealth practice rules across lines"
+        ],
+        "skills": [
+          "Regulatory planning",
+          "State comparison"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "ASWB — licensing mobility",
+            "url": "https://www.aswb.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-telehealth",
+      "type": "node",
+      "label": "Telehealth Practice",
+      "variant": "muted",
+      "x": 60,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "LCSWs deliver therapy by video widely — with platform privacy rules, emergency protocols at a distance, and multistate practice considerations.",
+        "why": "Telehealth made social-work therapy careers location-flexible — with new professional duties to master.",
+        "learn": [
+          "Learn telehealth privacy and platform standards",
+          "Practice remote rapport-building techniques",
+          "Build distance emergency protocols",
+          "Check interstate practice rules for your clients"
+        ],
+        "skills": [
+          "Telehealth practice",
+          "Digital ethics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "NASW — telehealth resources",
+            "url": "https://www.socialworkers.org/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "sw-g-start",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "sw-g-msw",
+      "type": "group",
+      "label": "DEGREE & PRACTICE",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sw-g-fork",
+      "type": "group",
+      "label": "CLINICAL VS MACRO",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "sw-g-career",
+      "type": "group",
+      "label": "CAREER & WELLBEING",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    }
+  ],
+  "edges": [
+    {
+      "from": "sw-explore",
+      "to": "sw-bsw"
+    },
+    {
+      "from": "sw-explore",
+      "to": "sw-case",
+      "dashed": true
+    },
+    {
+      "from": "sw-explore",
+      "to": "sw-ethics"
+    },
+    {
+      "from": "sw-bsw",
+      "to": "sw-case"
+    },
+    {
+      "from": "sw-case",
+      "to": "sw-populations"
+    },
+    {
+      "from": "sw-populations",
+      "to": "sw-childwelfare",
+      "dashed": true
+    },
+    {
+      "from": "sw-populations",
+      "to": "sw-medical",
+      "dashed": true
+    },
+    {
+      "from": "sw-ethics",
+      "to": "sw-doc"
+    },
+    {
+      "from": "sw-case",
+      "to": "sw-msw"
+    },
+    {
+      "from": "sw-msw",
+      "to": "sw-clinical"
+    },
+    {
+      "from": "sw-clinical",
+      "to": "sw-therapy"
+    },
+    {
+      "from": "sw-clinical",
+      "to": "sw-macro",
+      "dashed": true
+    },
+    {
+      "from": "sw-doc",
+      "to": "sw-career"
+    },
+    {
+      "from": "sw-therapy",
+      "to": "sw-career",
+      "dashed": true
+    },
+    {
+      "from": "sw-career",
+      "to": "sw-fatigue",
+      "dashed": true
+    },
+    {
+      "from": "sw-career",
+      "to": "sw-licensure",
+      "dashed": true
+    },
+    {
+      "from": "sw-career",
+      "to": "sw-telehealth",
+      "dashed": true
+    }
+  ]
+}

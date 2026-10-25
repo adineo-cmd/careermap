@@ -1,0 +1,980 @@
+{
+  "slug": "arts-media-design",
+  "title": "Arts, Media & Design",
+  "tagline": "Design, photography, writing, video, and illustration — creative careers built on portfolios.",
+  "summary": "Creative careers are portfolio-driven: what you can show matters more than credentials. This roadmap maps the major creative crafts (graphic design, photography, writing, video, illustration), the business skills that make them sustainable (pricing, clients, rights), and the paths into studios, agencies, and independent work.",
+  "category": "Marketing & Communications",
+  "color": "#8d7bef",
+  "icon": "palette",
+  "onetRoles": [
+    "27-1024.00",
+    "27-3043.00",
+    "27-2012.00",
+    "27-4021.00",
+    "27-1011.00"
+  ],
+  "jelCodes": [
+    "Z11"
+  ],
+  "sources": [
+    {
+      "label": "O*NET — Graphic Designers (27-1024.00)",
+      "url": "https://www.onetonline.org/link/summary/27-1024.00"
+    },
+    {
+      "label": "BLS OOH — Graphic Designers",
+      "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm"
+    },
+    {
+      "label": "BLS OOH — Media and Communication occupations",
+      "url": "https://www.bls.gov/ooh/media-and-communication/home.htm"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "am-explore",
+      "type": "node",
+      "label": "Creative Industries Map",
+      "variant": "accent",
+      "x": 60,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Creative work spans design (brands, products, interfaces), media (writing, photo, video, audio), performing and visual arts, and the hybrid roles around them — art direction, production, and creative strategy.",
+        "why": "Every industry now needs creative output, so careers exist in-house, at agencies and studios, and freelance — with portfolio quality as the universal currency.",
+        "learn": [
+          "Read BLS profiles for graphic designers and media occupations",
+          "Map which craft pulls you: visuals, words, moving image, or sound",
+          "Study 10 professionals you admire and trace their career paths",
+          "Start a swipe file of work you love and annotate why"
+        ],
+        "skills": [
+          "Visual literacy",
+          "Curiosity"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Graphic Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Media and Communication",
+            "url": "https://www.bls.gov/ooh/media-and-communication/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-1024.00"
+        ]
+      }
+    },
+    {
+      "id": "am-portfolio",
+      "type": "node",
+      "label": "Portfolio-First Reality",
+      "x": 340,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Creative hiring is portfolio-first: a focused site with 6–10 strong pieces and clear case narratives beats any credential. School helps, but the portfolio is the product.",
+        "why": "Understanding this early changes how you spend time — every project should become a portfolio piece with a story.",
+        "learn": [
+          "Start a portfolio site with 3 projects (quality over quantity)",
+          "Write one case study: brief, process, decisions, outcome",
+          "Get honest critique from working professionals",
+          "Replace your weakest piece every quarter"
+        ],
+        "skills": [
+          "Portfolio building",
+          "Case study writing"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Graphic Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-fundamentals",
+      "type": "node",
+      "label": "Design Fundamentals",
+      "x": 620,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "The shared fundamentals: composition, hierarchy, color theory, typography, and grid systems — plus the craft of receiving and applying critique without ego.",
+        "why": "Trends change; fundamentals are why some work looks 'right'. They transfer across every medium on this map.",
+        "learn": [
+          "Study type: classify faces, practice pairing",
+          "Recreate 5 classic layouts to internalize grids",
+          "Learn color systems (RGB/CMYK) and contrast basics",
+          "Give and receive structured critique weekly"
+        ],
+        "skills": [
+          "Typography",
+          "Color theory",
+          "Composition"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Graphic Designers",
+            "url": "https://www.onetonline.org/link/summary/27-1024.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-medium",
+      "type": "node",
+      "label": "Choose Your Medium",
+      "x": 900,
+      "y": 110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Each medium has its own market: design serves brands and products; photography serves events, editorial, and commerce; writing serves content, journalism, and brand voice; video serves everything, at higher production cost.",
+        "why": "Depth in one medium beats dabbling in four — choose by the work you'd do for free, then check the market pays for it.",
+        "learn": [
+          "Test each medium with one small real project",
+          "Check local and remote demand for each",
+          "Interview one professional per medium",
+          "Commit to a primary and a secondary"
+        ],
+        "skills": [
+          "Medium selection",
+          "Market awareness"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Arts and Design",
+            "url": "https://www.bls.gov/ooh/arts-and-design/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-design",
+      "type": "node",
+      "label": "Graphic Design",
+      "x": 60,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Designers solve communication problems: identity systems, marketing assets, packaging, publications, and digital layouts — translating client goals into visual systems.",
+        "why": "Design is the largest creative employer and the clearest ladder: junior designer → designer → senior → art director.",
+        "learn": [
+          "Build a brand mini-system: logo, palette, type, templates",
+          "Design in real constraints (sizes, budgets, brand rules)",
+          "Master one professional tool deeply",
+          "Redesign a real local business's materials as practice"
+        ],
+        "skills": [
+          "Visual design",
+          "Brand systems",
+          "Tool mastery"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Graphic Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "O*NET — Graphic Designers",
+            "url": "https://www.onetonline.org/link/summary/27-1024.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-1024.00"
+        ],
+        "tasks": [
+          "Design or create graphics to meet specific commercial or promotional needs, such as packaging, displays, or logos."
+        ]
+      }
+    },
+    {
+      "id": "am-photo",
+      "type": "node",
+      "label": "Photography",
+      "x": 340,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Photography careers concentrate in weddings and portraits, commercial and product, editorial, and real estate — with lighting skill and consistent delivery separating professionals from hobbyists.",
+        "why": "Entry costs are moderate and demand is steady; specialization + client experience compound into premium rates.",
+        "learn": [
+          "Master manual exposure and one off-camera light",
+          "Shoot 10 practice sessions per chosen niche",
+          "Build a post-processing workflow and stick to it",
+          "Second-shoot a professional to learn client management"
+        ],
+        "skills": [
+          "Lighting",
+          "Post-processing",
+          "Client direction"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Photographers",
+            "url": "https://www.onetonline.org/link/summary/27-4021.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-4021.00"
+        ]
+      }
+    },
+    {
+      "id": "am-writing",
+      "type": "node",
+      "label": "Writing & Storytelling",
+      "x": 620,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Writing careers span content and copywriting, journalism, technical writing, and books — all built on clarity, voice, and meeting deadlines that clients can plan around.",
+        "why": "Words are the cheapest asset for clients to buy and the easiest craft to practice daily — writers are always hireable somewhere.",
+        "learn": [
+          "Write 500 words daily for 30 days on varied briefs",
+          "Learn the difference: copy sells, content informs, journalism reports",
+          "Build 3 writing samples for your chosen lane",
+          "Study one great writer's structure line by line"
+        ],
+        "skills": [
+          "Writing craft",
+          "Editing",
+          "Research"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Writers and Authors",
+            "url": "https://www.onetonline.org/link/summary/27-3043.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-3043.00"
+        ],
+        "tasks": [
+          "Create original written works, such as scripts, essays, prose, poetry or song lyrics, for publication or performance."
+        ]
+      }
+    },
+    {
+      "id": "am-video",
+      "type": "node",
+      "label": "Video & Production",
+      "x": 900,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Video careers span production (shooting, lighting, sound) and post (editing, color, motion graphics) for brands, events, and platforms — teams range from one-person crews to sets with departments.",
+        "why": "Video demand keeps climbing; editors especially are hired continuously, and production skills transfer to every medium.",
+        "learn": [
+          "Learn the production pipeline: pre, shoot, post",
+          "Edit 5 practice projects to tight briefs",
+          "Master audio basics — bad sound kills good video",
+          "Find your seat: camera, edit, motion, or producing"
+        ],
+        "skills": [
+          "Editing",
+          "Production planning",
+          "Sound basics"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Producers and Directors",
+            "url": "https://www.onetonline.org/link/summary/27-2012.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-2012.00"
+        ]
+      }
+    },
+    {
+      "id": "am-illustration",
+      "type": "node",
+      "label": "Illustration & Art",
+      "x": 1180,
+      "y": 270,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Illustrators serve publishing, advertising, games, and products with a recognizable personal style; fine artists sell work, commissions, and experiences through galleries and direct audiences.",
+        "why": "Style is the moat in illustration — developed deliberately over hundreds of pieces, not found by accident.",
+        "learn": [
+          "Draw daily; keep volume over perfection",
+          "Deliberately develop a style (constraints help)",
+          "Build an audience around your process",
+          "Learn licensing basics for your work"
+        ],
+        "skills": [
+          "Drawing",
+          "Style development",
+          "Audience building"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Craft and Fine Artists",
+            "url": "https://www.bls.gov/ooh/arts-and-design/craft-and-fine-artists.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-tools",
+      "type": "node",
+      "label": "Industry Tools",
+      "x": 60,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Tool fluency is table stakes: design suites (Adobe or Figma-class), photo and video editing, and writing workflow. Employers list specific tools; clients don't care which you use.",
+        "why": "Tools change; learning them fast is the meta-skill. Get good enough that the tool stops being the bottleneck.",
+        "learn": [
+          "Pick and master the standard tool for your medium",
+          "Learn keyboard shortcuts until they're automatic",
+          "Build reusable templates and presets",
+          "Audit your workflow quarterly for bottlenecks"
+        ],
+        "skills": [
+          "Tool mastery",
+          "Workflow design"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Graphic Designers",
+            "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-pricing",
+      "type": "node",
+      "label": "Pricing & Licensing",
+      "x": 340,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Creative work is sold as value and rights: day rates vs project fees, usage licensing (who uses the work, where, for how long), and revisions scoped clearly in the contract.",
+        "why": "Underpricing is the most common creative-career failure — licensing literacy protects both income and ownership.",
+        "learn": [
+          "Draft a simple rate card: hourly, project, usage",
+          "Learn licensing terms: exclusive vs non-exclusive, territory, term",
+          "Price one real project three ways and compare",
+          "Never start work without a signed scope"
+        ],
+        "skills": [
+          "Pricing",
+          "Licensing knowledge",
+          "Negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — pricing your work",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-clients",
+      "type": "node",
+      "label": "Clients & Briefs",
+      "x": 620,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Client craft: turning vague asks into written briefs, managing feedback rounds, presenting work with rationale, and declining scope creep politely.",
+        "why": "Creative careers fail on client management more than on talent — professionals who manage the process get rehired.",
+        "learn": [
+          "Write a brief template: goal, audience, deliverables, rounds",
+          "Present work as solutions to the brief, not decoration",
+          "Practice the scope-creep conversation kindly",
+          "Log every feedback round; learn your patterns"
+        ],
+        "skills": [
+          "Client management",
+          "Presentation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — working with clients",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-rights",
+      "type": "node",
+      "label": "Contracts & Rights",
+      "x": 900,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Contracts define ownership: work-for-hire vs licensed rights, portfolio permissions, kill fees, and payment terms. Copyright basics protect you on both sides of a deal.",
+        "why": "One bad contract can cost a year of work; the basics are short and permanently valuable.",
+        "learn": [
+          "Learn copyright basics in your country (authorship, default rights)",
+          "Use a simple contract template for every engagement",
+          "Understand work-for-hire's true meaning before signing",
+          "Keep portfolio rights explicit in every agreement"
+        ],
+        "skills": [
+          "Contract literacy",
+          "Rights management"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "U.S. Copyright Office — basics",
+            "url": "https://www.copyright.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-work",
+      "type": "node",
+      "label": "Finding the Work",
+      "x": 1180,
+      "y": 520,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Work comes from four channels: staff jobs (in-house, agencies, studios), freelance platforms, direct outreach to ideal clients, and referral networks built by delivering well.",
+        "why": "Diversified pipelines keep income steady — most successful creatives run two or three simultaneously.",
+        "learn": [
+          "Set up profiles on 1–2 reputable platforms",
+          "Send 10 tailored outreach pitches to ideal local clients",
+          "Tell your network exactly what you make (specifically)",
+          "Track where every client comes from"
+        ],
+        "skills": [
+          "Prospecting",
+          "Networking"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — marketing",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-style",
+      "type": "node",
+      "label": "Personal Style",
+      "x": 60,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "A recognizable style is a deliberate body of work: consistent choices in subject, treatment, and voice — developed by making a lot and curating honestly.",
+        "why": "Clients hire a point of view. Style is what turns you from a vendor into a destination.",
+        "learn": [
+          "Define 3 constraints that make your work recognizably yours",
+          "Make 30 pieces within those constraints",
+          "Ask 5 people what threads they see",
+          "Keep what resonates; kill the rest"
+        ],
+        "skills": [
+          "Self-editing",
+          "Creative consistency"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Arts and Design",
+            "url": "https://www.bls.gov/ooh/arts-and-design/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-critique",
+      "type": "node",
+      "label": "Critique & Growth",
+      "x": 340,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Improvement runs on structured critique: communities, mentors, and honest self-review — separating taste from skill and closing the gap deliberately.",
+        "why": "Isolated creatives plateau; critiqued ones compound. Learning to hear hard notes is a professional skill.",
+        "learn": [
+          "Join one critique community in your medium",
+          "Give useful critique (specific, actionable, kind)",
+          "Keep a 'lessons learned' note per project",
+          "Redo one old piece per year to measure growth"
+        ],
+        "skills": [
+          "Coachability",
+          "Self-assessment"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Arts and Design",
+            "url": "https://www.bls.gov/ooh/arts-and-design/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-consistency",
+      "type": "node",
+      "label": "Consistent Creation",
+      "x": 620,
+      "y": 800,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Careers are built on output through the dips: sustainable schedules, personal projects that feed the client work, and finishing what you start.",
+        "why": "Volume with reflection is how skill compounds — and a full archive makes marketing effortless.",
+        "learn": [
+          "Set a sustainable weekly output and hold it for 90 days",
+          "Run one personal project purely for craft joy",
+          "Finish everything; ship imperfectly on schedule",
+          "Archive everything with searchable tags"
+        ],
+        "skills": [
+          "Discipline",
+          "Project completion"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Arts and Design",
+            "url": "https://www.bls.gov/ooh/arts-and-design/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-artdir",
+      "type": "node",
+      "label": "Art Direction",
+      "x": 900,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Art directors lead creative teams: setting visual direction, briefing and selecting creators, reviewing work against strategy, and owning the client relationship at the visual level.",
+        "why": "It is the classic senior path from design and photo — leadership of vision rather than production of every asset.",
+        "learn": [
+          "Lead a small creative project end-to-end (brief to delivery)",
+          "Practice writing creative briefs others can execute from",
+          "Review others' work with clear, kind direction",
+          "Study award-winning campaigns for their strategy logic"
+        ],
+        "skills": [
+          "Creative direction",
+          "Briefing",
+          "Team leadership"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "O*NET — Art Directors",
+            "url": "https://www.onetonline.org/link/summary/27-1011.00",
+            "kind": "guide"
+          }
+        ],
+        "roles": [
+          "27-1011.00"
+        ]
+      }
+    },
+    {
+      "id": "am-ip",
+      "type": "node",
+      "label": "Original IP & Products",
+      "x": 1180,
+      "y": 960,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Senior creatives build owned assets: books, prints, templates, courses, games, and series — income that decouples hours from revenue.",
+        "why": "Client work trades time for money; intellectual property compounds. Most lasting creative wealth comes from owned work.",
+        "learn": [
+          "Turn one repeated client request into a product",
+          "Learn distribution for your medium (shops, platforms, licensing)",
+          "Start with one small product and ship it",
+          "Reinvest margins into the next owned asset"
+        ],
+        "skills": [
+          "Product thinking",
+          "Distribution"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — small business products",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-career",
+      "type": "node",
+      "label": "Career Ladder",
+      "variant": "accent",
+      "x": 60,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Common arcs: junior/assistant → specialist → senior → art director/producer/author; or freelancer → studio owner. Hybrid paths (creative strategist, content lead) sit between crafts.",
+        "why": "Creative careers have porous walls between paths — knowing the standard rungs helps you price and plan each move.",
+        "learn": [
+          "Map the ladder in your medium via real job postings",
+          "Decide staff vs freelance for your next 3 years",
+          "Identify the one credit or client that unlocks the next rung",
+          "Review your rate yearly against the market"
+        ],
+        "skills": [
+          "Career planning",
+          "Rate negotiation"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Arts and Design",
+            "url": "https://www.bls.gov/ooh/arts-and-design/home.htm",
+            "kind": "guide"
+          },
+          {
+            "title": "BLS OOH — Media and Communication",
+            "url": "https://www.bls.gov/ooh/media-and-communication/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-certs",
+      "type": "node",
+      "label": "Certifications",
+      "x": 340,
+      "y": 1110,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Few licenses exist in creative work; the useful credentials are tool certifications (e.g., Adobe Certified Professional) and platform-specific certificates — supporting, never replacing, the portfolio.",
+        "why": "Certifications help with agency HR screens and corporate jobs; clients never ask. Spend accordingly.",
+        "learn": [
+          "Get one tool certification if you target corporate/agency roles",
+          "Treat certificate courses as structured learning, not proof",
+          "Skip pay-to-play awards; enter real juried shows instead",
+          "Keep the portfolio as the headline always"
+        ],
+        "skills": [
+          "Credential judgment",
+          "Portfolio-first judgment"
+        ],
+        "certs": [
+          {
+            "name": "Adobe Certified Professional",
+            "issuer": "Adobe (via Certiport)",
+            "note": "Tool-proficiency certification for Photoshop/Illustrator/Premiere and peers; used by some agencies and schools as a baseline signal."
+          }
+        ],
+        "resources": [
+          {
+            "title": "Adobe — certification programs",
+            "url": "https://www.adobe.com/",
+            "kind": "certification"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-income",
+      "type": "node",
+      "label": "Income Reality",
+      "variant": "muted",
+      "x": 620,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Creative incomes are lumpy: feast-famine cycles, spec work temptations, and underpricing pressure. Steady careers come from retainers, diversified pipelines, and honest pricing.",
+        "why": "Planning for variability — cushions, retainers, and Saying No to unpaid exposure — keeps the career sustainable.",
+        "learn": [
+          "Build a 3-month income cushion before going independent",
+          "Pursue one retainer client for baseline income",
+          "Track effective hourly rate per project type",
+          "Write your own 'never again' list (exposure deals)"
+        ],
+        "skills": [
+          "Financial planning",
+          "Boundaries"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "SBA — self-employment",
+            "url": "https://www.sba.gov/",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-adjacent",
+      "type": "node",
+      "label": "Adjacent Careers",
+      "variant": "muted",
+      "x": 900,
+      "y": 1200,
+      "w": 220,
+      "h": 44,
+      "detail": {
+        "description": "Craft skills open adjacent roles: creative project management, marketing (see Digital Marketing roadmap), museum and gallery work, education, and production coordination.",
+        "why": "Adjacent paths use your taste and craft literacy with steadier schedules — real careers, not consolation prizes.",
+        "learn": [
+          "List 5 adjacent roles and their entry requirements",
+          "Try coordinating one project for a peer collective",
+          "Explore teaching workshops in your medium",
+          "Keep the portfolio warm regardless of path"
+        ],
+        "skills": [
+          "Transfer planning",
+          "Skill transfer"
+        ],
+        "certs": [],
+        "resources": [
+          {
+            "title": "BLS OOH — Media and Communication",
+            "url": "https://www.bls.gov/ooh/media-and-communication/home.htm",
+            "kind": "guide"
+          }
+        ],
+        "roles": []
+      }
+    },
+    {
+      "id": "am-g",
+      "type": "group",
+      "label": "START HERE",
+      "x": 36,
+      "y": 40,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "am-g2",
+      "type": "group",
+      "label": "CHOOSE YOUR MEDIUM",
+      "x": 36,
+      "y": 200,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "am-g3",
+      "type": "group",
+      "label": "THE BUSINESS OF CRAFT",
+      "x": 36,
+      "y": 450,
+      "w": 1392,
+      "h": 224
+    },
+    {
+      "id": "am-g4",
+      "type": "group",
+      "label": "DEVELOP YOUR VOICE",
+      "x": 36,
+      "y": 730,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "am-g5",
+      "type": "group",
+      "label": "LEAD & COMPOUND",
+      "x": 36,
+      "y": 890,
+      "w": 1392,
+      "h": 134
+    },
+    {
+      "id": "am-g6",
+      "type": "group",
+      "label": "CAREERS & REALITIES",
+      "x": 36,
+      "y": 1040,
+      "w": 1392,
+      "h": 224
+    }
+  ],
+  "edges": [
+    {
+      "from": "am-explore",
+      "to": "am-portfolio"
+    },
+    {
+      "from": "am-explore",
+      "to": "am-fundamentals"
+    },
+    {
+      "from": "am-explore",
+      "to": "am-medium"
+    },
+    {
+      "from": "am-medium",
+      "to": "am-design"
+    },
+    {
+      "from": "am-medium",
+      "to": "am-photo",
+      "dashed": true
+    },
+    {
+      "from": "am-medium",
+      "to": "am-writing",
+      "dashed": true
+    },
+    {
+      "from": "am-medium",
+      "to": "am-video",
+      "dashed": true
+    },
+    {
+      "from": "am-medium",
+      "to": "am-illustration",
+      "dashed": true
+    },
+    {
+      "from": "am-fundamentals",
+      "to": "am-tools"
+    },
+    {
+      "from": "am-tools",
+      "to": "am-pricing",
+      "dashed": true
+    },
+    {
+      "from": "am-pricing",
+      "to": "am-clients"
+    },
+    {
+      "from": "am-clients",
+      "to": "am-rights"
+    },
+    {
+      "from": "am-rights",
+      "to": "am-work"
+    },
+    {
+      "from": "am-clients",
+      "to": "am-style"
+    },
+    {
+      "from": "am-style",
+      "to": "am-critique"
+    },
+    {
+      "from": "am-critique",
+      "to": "am-consistency"
+    },
+    {
+      "from": "am-consistency",
+      "to": "am-artdir"
+    },
+    {
+      "from": "am-artdir",
+      "to": "am-ip",
+      "dashed": true
+    },
+    {
+      "from": "am-work",
+      "to": "am-career"
+    },
+    {
+      "from": "am-consistency",
+      "to": "am-career",
+      "dashed": true
+    },
+    {
+      "from": "am-career",
+      "to": "am-certs",
+      "dashed": true
+    },
+    {
+      "from": "am-career",
+      "to": "am-income",
+      "dashed": true
+    },
+    {
+      "from": "am-career",
+      "to": "am-adjacent",
+      "dashed": true
+    }
+  ]
+}
