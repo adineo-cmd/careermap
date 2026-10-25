@@ -83,7 +83,7 @@ let activeFilter = "All";
 
 async function viewHome() {
   setActiveNav("home");
-  const { roadmaps } = await api("/api/roadmaps");
+  const { roadmaps } = await api("api/roadmaps.json");
   const categories = ["All", ...new Set(roadmaps.map((r) => r.category))];
   const totalTopics = roadmaps.reduce((s, r) => s + r.nodeCount, 0);
   document.title = "CareerMap — Step-by-step career roadmaps for non-tech fields";
@@ -157,14 +157,14 @@ async function viewHome() {
 // ---------- roadmap page ----------
 async function viewRoadmap(slug, params) {
   setActiveNav("roadmaps");
-  const data = await api(`/api/roadmaps/${slug}`);
+  const data = await api(`api/roadmaps/${slug}.json`);
   document.title = `${data.title} — CareerMap`;
   const nodes = data.items.filter((i) => i.type === "node");
   const done = getDone(slug);
   currentRoadmap = { data, nodes };
 
   // parent / niche relationships
-  const { roadmaps: allRoadmaps } = await api("/api/roadmaps");
+  const { roadmaps: allRoadmaps } = await api("api/roadmaps.json");
   const parentInfo = data.parent ? allRoadmaps.find((r) => r.slug === data.parent) : null;
   const children = allRoadmaps.filter((r) => r.parent === data.slug);
 
@@ -322,7 +322,7 @@ document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeDrawe
 let famFilter = "";
 async function viewCareers() {
   setActiveNav("careers");
-  const { families } = await api("/api/careers");
+  const { families } = await api("api/careers.json");
   document.title = "Careers Library — CareerMap";
   const total = families.reduce((s, f) => s + f.roles.length, 0);
 
@@ -365,7 +365,7 @@ async function viewCareers() {
 // ---------- fields (JEL) ----------
 async function viewFields() {
   setActiveNav("fields");
-  const [fields, rms] = await Promise.all([api("/api/fields"), api("/api/roadmaps")]);
+  const [fields, rms] = await Promise.all([api("api/fields.json"), api("api/roadmaps.json")]);
   const rmBySlug = Object.fromEntries(rms.roadmaps.map((r) => [r.slug, r]));
   document.title = "Fields of Study — CareerMap";
   const subs = fields.codes.filter((c) => c.level === "sub");
@@ -446,7 +446,13 @@ function initSearch(inputEl, resultsEl) {
     if (q.length < 2) { resultsEl.hidden = true; resultsEl.innerHTML = ""; return; }
     timer = setTimeout(async () => {
       try {
-        const r = await fetch(`/api/search?q=${encodeURIComponent(q)}`).then((x) => x.json());
+        const r = (await (window.__cmIndex || (window.__cmIndex = fetch("api/search-index.json").then((x) => x.json()))))
+            .then((ix) => ({
+              roadmaps: ix.roadmaps.filter((m) => (m.title + " " + m.tagline + " " + (m.summary || "")).toLowerCase().includes(q.toLowerCase())).slice(0, 6)
+                .map((m) => ({ slug: m.slug, title: m.title, tagline: m.tagline, category: m.category, color: m.color, icon: m.icon })),
+              topics: ix.topics.filter((t) => t.label.toLowerCase().includes(q.toLowerCase())).slice(0, 12),
+              careers: ix.careers.filter((c) => (c.title + " " + (c.summary || "")).toLowerCase().includes(q.toLowerCase())).slice(0, 10),
+            }));
         if ((inputEl.value || "").trim() !== q) return;
         const groups = [];
         if (r.roadmaps.length) groups.push(["Roadmaps", r.roadmaps.map((m) => `

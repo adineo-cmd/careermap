@@ -4,3 +4,6 @@ data/
 *.db-shm
 __pycache__/
 nohup.out
+data/
+public/api/
+__pycache__/

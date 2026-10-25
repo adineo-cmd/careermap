@@ -28,9 +28,9 @@ export async function viewTree() {
     </div>`;
 
   const [rms, careers, fields] = await Promise.all([
-    fetch("/api/roadmaps").then((r) => r.json()),
-    fetch("/api/careers").then((r) => r.json()),
-    fetch("/api/fields").then((r) => r.json()),
+    fetch("api/roadmaps.json").then((r) => r.json()),
+    fetch("api/careers.json").then((r) => r.json()),
+    fetch("api/fields.json").then((r) => r.json()),
   ]);
 
   // ---------- hierarchy ----------
@@ -77,7 +77,7 @@ export async function viewTree() {
   const detailCache = {};
   async function fillRoadmapChildren(node) {
     if (!detailCache[node.slug]) {
-      detailCache[node.slug] = fetch(`/api/roadmaps/${node.slug}`).then((r) => r.json());
+      detailCache[node.slug] = fetch(`api/roadmaps/${node.slug}.json`).then((r) => r.json());
     }
     const detail = await detailCache[node.slug];
     const groups = detail.items.filter((i) => i.type === "group");
