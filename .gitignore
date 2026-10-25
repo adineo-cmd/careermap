@@ -7,3 +7,6 @@ nohup.out
 data/
 public/api/
 __pycache__/
+node_modules/
+dist/
+.astro/
