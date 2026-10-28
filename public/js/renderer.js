@@ -3,13 +3,13 @@
 import { GROUP_COLORS } from "./icons.js";
 
 const NS = "http://www.w3.org/2000/svg";
-const NODE_FILL = "#101114";
-const NODE_STROKE = "#b9bec6";
-const MUTED_STROKE = "#565c66";
-const ACCENT_DEFAULT = "#f5c518";
-const EDGE = "#7d838c";
-const EDGE_DASH = "#565c66";
-const DONE = "#3fb950";
+const NODE_FILL = "var(--svg-node-fill)";
+const NODE_STROKE = "var(--svg-node-stroke)";
+const MUTED_STROKE = "var(--svg-muted-stroke)";
+const ACCENT_DEFAULT = "var(--accent)";
+const EDGE = "var(--svg-edge)";
+const EDGE_DASH = "var(--svg-edge-dash)";
+const DONE = "var(--green)";
 const R = 8;          // node corner radius
 const CR = 9;         // connector corner radius
 

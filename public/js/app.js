@@ -7,6 +7,50 @@ import { viewTree } from "./tree.js";
 const $app = document.getElementById("app");
 const cache = {};
 
+// ---------- shared Meridian theme ----------
+const THEME_KEY = "meridian-theme";
+const themeRoot = document.documentElement;
+
+function paintThemeControls() {
+  const light = themeRoot.getAttribute("data-theme") === "light";
+  const label = light ? "Switch to dark theme" : "Switch to light theme";
+  document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
+    button.setAttribute("aria-label", label);
+    button.setAttribute("title", label);
+  });
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.setAttribute("content", light ? "#f3eee2" : "#0e0f0c");
+}
+
+function applyTheme(theme, persist = true) {
+  const next = theme === "light" ? "light" : "dark";
+  themeRoot.setAttribute("data-theme", next);
+  themeRoot.style.colorScheme = next;
+  if (persist) {
+    try {
+      localStorage.setItem(THEME_KEY, next);
+    } catch {
+      /* private mode — the theme still applies for this visit */
+    }
+  }
+  paintThemeControls();
+}
+
+document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
+  button.addEventListener("click", () => {
+    applyTheme(themeRoot.getAttribute("data-theme") === "light" ? "dark" : "light");
+  });
+});
+
+window.addEventListener("storage", (event) => {
+  if (event.key !== THEME_KEY) return;
+  if (event.newValue === "light" || event.newValue === "dark") {
+    applyTheme(event.newValue, false);
+  }
+});
+
+paintThemeControls();
+
 async function api(path) {
   if (cache[path]) return cache[path];
   const res = await fetch(path);

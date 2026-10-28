@@ -16,7 +16,7 @@ export function mountRoadmapTree(container, data, opts = {}) {
   const rootData = {
     name: data.title,
     kind: "root",
-    color: data.color || "#f5c518",
+    color: data.color || "var(--tree-root)",
     children: [],
   };
   const grouped = new Set();
@@ -93,9 +93,9 @@ export function mountRoadmapTree(container, data, opts = {}) {
       .attr("r", (d) => (d.data.kind === "root" ? 10 : d.data.kind === "stage" ? 7 : 5))
       .attr("class", (d) => `tn-circle tn-${d.data.kind}${d.data.done ? " tn-done" : ""}`)
       .style("fill", (d) =>
-        d.data.kind === "root" ? (d.data.color || "#f5c518")
-        : d.data.kind === "stage" ? (d.data.color || "#5d6cc0")
-        : d.data.done ? "#3fb950" : "#8ab4ff");
+        d.data.kind === "root" ? (d.data.color || "var(--tree-root)")
+        : d.data.kind === "stage" ? (d.data.color || "var(--tree-roadmaps)")
+        : d.data.done ? "var(--green)" : "var(--tree-topic)");
 
     nodeEnter.append("text")
       .attr("dy", "0.32em")

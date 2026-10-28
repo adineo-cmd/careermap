@@ -5,6 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CareerMap — Step-by-step career roadmaps for non-tech fields</title>
   <meta name="description" content="Free, open career roadmaps for non-tech fields: accounting, HR, marketing, sales, project management, supply chain, healthcare, teaching, law, psychology and more.">
+  <meta name="theme-color" content="#0e0f0c">
+  <script>
+    (() => {
+      const root = document.documentElement;
+      let theme = "dark";
+      try {
+        const saved = localStorage.getItem("meridian-theme") || localStorage.getItem("arbor-theme");
+        theme = saved === "light" || saved === "dark"
+          ? saved
+          : (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+      } catch {
+        /* storage can be blocked; the dark default still works */
+      }
+      root.setAttribute("data-theme", theme);
+      root.style.colorScheme = theme;
+    })();
+  </script>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -38,7 +55,19 @@
       <a href="#/fields" data-nav="fields"><b>Fields</b><span>JEL fields of study</span></a>
       <a href="#/about" data-nav="about"><b>About</b><span>Methodology &amp; sources</span></a>
     </nav>
-    <div class="sb-foot">Free · No accounts · Progress saved in your browser</div>
+    <div class="sb-foot">
+      <span>Free · No accounts · Progress saved in your browser</span>
+      <button class="theme-toggle theme-toggle--side" type="button" data-theme-toggle aria-label="Switch to light theme" title="Switch to light theme">
+        <svg class="theme-toggle__sun" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.6"/>
+          <path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3 17 7M7 17l-1.7 1.7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        <svg class="theme-toggle__moon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.3 8.3 0 1 0 10.2 10.2Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+        </svg>
+        <span>Theme</span>
+      </button>
+    </div>
   </aside>
   <header class="site-header">
     <div class="header-inner">
@@ -63,6 +92,15 @@
         <input id="global-search" type="search" placeholder="Search topics, careers…" autocomplete="off" spellcheck="false">
         <div id="search-results" class="search-results" hidden></div>
       </div>
+      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to light theme" title="Switch to light theme">
+        <svg class="theme-toggle__sun" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.6"/>
+          <path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M18.7 5.3 17 7M7 17l-1.7 1.7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+        <svg class="theme-toggle__moon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.3 8.3 0 1 0 10.2 10.2Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+        </svg>
+      </button>
     </div>
   </header>
 
