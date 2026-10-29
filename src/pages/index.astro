@@ -3,7 +3,25 @@ import Layout from "../layouts/Layout.astro";
 import raw from "../raw/index.html?raw";
 const head = (raw.match(/<head[^>]*>([\s\S]*?)<\/head>/i)?.[1] ?? "")
   .replace(/<title[\s\S]*?<\/title>/i, "");
-const body = raw.match(/<body[^>]*>([\s\S]*?)<\/body>/i)?.[1] ?? raw;
+// Set only by the Treehouse build; standalone Pages has no sibling map.
+const home = process.env.TREEHOUSE_HOME ?? "";
+const switchTo = process.env.TREEHOUSE_SWITCH ?? "";
+const switchLabel = process.env.TREEHOUSE_SWITCH_LABEL ?? "Open the other map";
+
+const body = (raw.match(/<body[^>]*>([\s\S]*?)<\/body>/i)?.[1] ?? raw)
+  .replace(
+    "<!--TREEHOUSE_SWITCH_MAIN-->",
+    switchTo
+      ? `<a class="nav-switch" href="${switchTo}">Switch map <span aria-hidden="true">↗</span></a>`
+      : "",
+  )
+  .replace(
+    "<!--TREEHOUSE_SWITCH_SIDE-->",
+    switchTo
+      ? `<a class="sb-switch" href="${switchTo}"><b>Switch map</b><span>${switchLabel}</span></a>`
+      : "",
+  )
+  .replace("<!--TREEHOUSE_HOME-->", home ? `<a href="${home}">Treehouse</a>` : "");
 const title = raw.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]?.trim() ?? "Compass";
 ---
 <Layout title={title} head={head} body={body} />
