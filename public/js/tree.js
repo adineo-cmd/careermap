@@ -8,7 +8,7 @@ function shorten(s, n) {
 }
 
 export async function viewTree() {
-  document.title = "Explorer — CareerMap";
+  document.title = "Explorer — Compass";
   const $app = document.getElementById("app");
   $app.innerHTML = `
     <div class="explorer-wrap">
@@ -35,7 +35,7 @@ export async function viewTree() {
 
   // ---------- hierarchy ----------
   const rootData = {
-    name: "CareerMap",
+    name: "Compass",
     kind: "root",
     children: [
       {

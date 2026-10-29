@@ -1,6 +1,6 @@
-# CareerMap Content Spec (roadmap JSON v1)
+# Compass Content Spec (roadmap JSON v1)
 
-This spec defines the exact JSON format for CareerMap roadmap files. Follow it precisely.
+This spec defines the exact JSON format for Compass roadmap files. Follow it precisely.
 Files live in `content/roadmaps/<slug>.json`. All content must be strictly valid JSON
 (no trailing commas, no comments, UTF-8, straight quotes escaped properly).
 

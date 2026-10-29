@@ -4,6 +4,6 @@ import raw from "../raw/index.html?raw";
 const head = (raw.match(/<head[^>]*>([\s\S]*?)<\/head>/i)?.[1] ?? "")
   .replace(/<title[\s\S]*?<\/title>/i, "");
 const body = raw.match(/<body[^>]*>([\s\S]*?)<\/body>/i)?.[1] ?? raw;
-const title = raw.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]?.trim() ?? "CareerMap";
+const title = raw.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]?.trim() ?? "Compass";
 ---
 <Layout title={title} head={head} body={body} />

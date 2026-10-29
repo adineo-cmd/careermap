@@ -1,4 +1,4 @@
-// CareerMap SPA — hash router + views (no frameworks, no accounts)
+// Compass SPA — hash router + views (no frameworks, no accounts)
 import { icon, GROUP_COLORS } from "./icons.js";
 import { esc } from "./renderer.js";
 import { mountRoadmapTree } from "./roadmap-tree.js";
@@ -7,8 +7,8 @@ import { viewTree } from "./tree.js";
 const $app = document.getElementById("app");
 const cache = {};
 
-// ---------- shared Meridian theme ----------
-const THEME_KEY = "meridian-theme";
+// ---------- shared Treehouse theme ----------
+const THEME_KEY = "treehouse-theme";
 const themeRoot = document.documentElement;
 
 function paintThemeControls() {
@@ -130,7 +130,7 @@ async function viewHome() {
   const { roadmaps } = await api("api/roadmaps.json");
   const categories = ["All", ...new Set(roadmaps.map((r) => r.category))];
   const totalTopics = roadmaps.reduce((s, r) => s + r.nodeCount, 0);
-  document.title = "CareerMap — Step-by-step career roadmaps for non-tech fields";
+  document.title = "Compass — Step-by-step career roadmaps for non-tech fields";
 
   $app.innerHTML = `
     <div class="container">
@@ -202,7 +202,7 @@ async function viewHome() {
 async function viewRoadmap(slug, params) {
   setActiveNav("roadmaps");
   const data = await api(`api/roadmaps/${slug}.json`);
-  document.title = `${data.title} — CareerMap`;
+  document.title = `${data.title} — Compass`;
   const nodes = data.items.filter((i) => i.type === "node");
   const done = getDone(slug);
   currentRoadmap = { data, nodes };
@@ -362,18 +362,18 @@ function closeDrawer() {
 backdrop.onclick = closeDrawer;
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeDrawer(); });
 
-// ---------- careers library ----------
+// ---------- careers directory ----------
 let famFilter = "";
 async function viewCareers() {
   setActiveNav("careers");
   const { families } = await api("api/careers.json");
-  document.title = "Careers Library — CareerMap";
+  document.title = "Careers — Compass";
   const total = families.reduce((s, f) => s + f.roles.length, 0);
 
   $app.innerHTML = `
     <div class="container">
       <div class="page-head">
-        <h1>Careers Library</h1>
+        <h1>Careers</h1>
         <p class="lead">${total} occupations across ${families.length} families, organized by the O*NET-SOC 2019 taxonomy
         (onetonline.org). IT &amp; engineering occupations are out of scope — those live on <a href="https://roadmap.sh" target="_blank" rel="noopener">roadmap.sh</a>.</p>
         <div style="margin-top:16px"><input id="role-search" type="search" placeholder="Filter occupations…"
@@ -411,7 +411,7 @@ async function viewFields() {
   setActiveNav("fields");
   const [fields, rms] = await Promise.all([api("api/fields.json"), api("api/roadmaps.json")]);
   const rmBySlug = Object.fromEntries(rms.roadmaps.map((r) => [r.slug, r]));
-  document.title = "Fields of Study — CareerMap";
+  document.title = "Fields of Study — Compass";
   const subs = fields.codes.filter((c) => c.level === "sub");
   const tops = fields.codes.filter((c) => c.level === "top");
 
@@ -444,17 +444,17 @@ async function viewFields() {
 // ---------- about ----------
 function viewAbout() {
   setActiveNav("about");
-  document.title = "About — CareerMap";
+  document.title = "About — Compass";
   $app.innerHTML = `
     <div class="container about-body">
       <div class="page-head">
-        <h1>About CareerMap</h1>
+        <h1>About Compass</h1>
         <p class="lead">Free, open, roadmap-style guides to non-tech careers — inspired by
         <a href="https://roadmap.sh" target="_blank" rel="noopener">roadmap.sh</a>, which does the same brilliantly for software roles.</p>
       </div>
       <h2>Why this exists</h2>
       <p>Almost every “career roadmap” project on the internet is about software. Yet most jobs are not in tech.
-      CareerMap applies the roadmap.sh pattern — interactive, clickable learning graphs — to accounting, marketing,
+      Compass applies the roadmap.sh pattern — interactive, clickable learning graphs — to accounting, marketing,
       healthcare, trades, education, law and more.</p>
       <h2>Methodology &amp; sources</h2>
       <ul>

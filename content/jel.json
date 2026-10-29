@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "JEL Classification — Fields of Economics Mapped to Careers",
-    "description": "The Journal of Economic Literature (JEL) classification system, maintained by the American Economic Association, organizes economic research by field. CareerMap uses it to connect career roadmaps to formal fields of study.",
+    "description": "The Journal of Economic Literature (JEL) classification system, maintained by the American Economic Association, organizes economic research by field. Compass uses it to connect career roadmaps to formal fields of study.",
     "source": "American Economic Association — JEL Classification System",
     "url": "https://www.aeaweb.org/econlit/jelCodes"
   },
@@ -74,7 +74,7 @@
       "code": "M",
       "name": "Business Administration and Business Economics; Marketing; Accounting; Personnel Economics",
       "careerRelevant": true,
-      "note": "The JEL home of most CareerMap roadmaps: marketing, accounting, auditing, HR."
+      "note": "The JEL home of most Compass roadmaps: marketing, accounting, auditing, HR."
     },
     {
       "code": "N",

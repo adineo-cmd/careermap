@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""CareerMap server — zero-dependency (Python stdlib only).
+"""Compass server — zero-dependency (Python stdlib only).
 
 Serves the static frontend from public/ and a JSON API backed by data/roadmap.db.
 No authentication, no accounts — the site is free for users.
@@ -155,7 +155,7 @@ class Handler(BaseHTTPRequestHandler):
             "meta": {
                 "title": "JEL Classification — Fields of Economics Mapped to Careers",
                 "description": "The Journal of Economic Literature (JEL) classification, maintained by the "
-                               "American Economic Association, organizes economic research by field. CareerMap "
+                               "American Economic Association, organizes economic research by field. Compass "
                                "maps each roadmap to the JEL fields it belongs to.",
                 "source": "American Economic Association — JEL Classification System",
                 "url": "https://www.aeaweb.org/econlit/jelCodes",
@@ -218,7 +218,7 @@ class Handler(BaseHTTPRequestHandler):
 def main():
     port = int(os.environ.get("PORT", "8080"))
     server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
-    print(f"CareerMap running  →  http://127.0.0.1:{port}   (Ctrl+C to stop)")
+    print(f"Compass running  →  http://127.0.0.1:{port}   (Ctrl+C to stop)")
     try:
         server.serve_forever()
     except KeyboardInterrupt:

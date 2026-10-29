@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CareerMap — Step-by-step career roadmaps for non-tech fields</title>
+  <title>Compass — Step-by-step career roadmaps for non-tech fields</title>
   <meta name="description" content="Free, open career roadmaps for non-tech fields: accounting, HR, marketing, sales, project management, supply chain, healthcare, teaching, law, psychology and more.">
   <meta name="theme-color" content="#0e0f0c">
   <script>
@@ -11,7 +11,7 @@
       const root = document.documentElement;
       let theme = "dark";
       try {
-        const saved = localStorage.getItem("meridian-theme") || localStorage.getItem("arbor-theme");
+        const saved = localStorage.getItem("treehouse-theme") || localStorage.getItem("arbor-theme");
         theme = saved === "light" || saved === "dark"
           ? saved
           : (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
@@ -115,7 +115,7 @@
       <div class="footer-col">
         <h4>Site</h4>
         <a href="#/">All roadmaps</a>
-        <a href="#/careers">Careers library</a>
+        <a href="#/careers">Careers</a>
         <a href="#/fields">Fields of study</a>
         <a href="#/about">About &amp; methodology</a>
       </div>
@@ -129,7 +129,7 @@
       <div class="footer-col">
         <h4>Inspiration</h4>
         <a href="https://roadmap.sh" target="_blank" rel="noopener">roadmap.sh</a>
-        <p class="footer-note">CareerMap borrows the roadmap-graph idea from roadmap.sh — applied to non-tech careers.</p>
+        <p class="footer-note">Compass borrows the roadmap-graph idea from roadmap.sh — applied to non-tech careers.</p>
       </div>
     </div>
     <div class="footer-bottom">Built as an open, free resource. Content verified against O*NET 2019 taxonomy and issuing-body pages.</div>

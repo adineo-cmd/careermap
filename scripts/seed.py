@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Seed the CareerMap SQLite database from content/*.json files."""
+"""Seed the Compass SQLite database from content/*.json files."""
 import json, os, sqlite3, glob, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

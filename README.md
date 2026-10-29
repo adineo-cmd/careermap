@@ -1,4 +1,4 @@
-# CareerMap — Career roadmaps for non-tech fields
+# Compass — Career roadmaps for non-tech fields
 
 A free, open, **roadmap.sh-style website for non-tech careers**: accounting, HR, marketing,
 sales, project management, supply chain, healthcare, teaching, law, and psychology — with a
@@ -8,7 +8,7 @@ of study mapped to the [JEL classification](https://www.aeaweb.org/econlit/jelCo
 **No login. No accounts. No tracking.** Progress is saved in your browser's local storage.
 
 > Inspired by [roadmap.sh](https://roadmap.sh), which does this brilliantly for software
-> roles. CareerMap applies the same interactive roadmap-graph idea to the rest of the job
+> roles. Compass applies the same interactive roadmap-graph idea to the rest of the job
 > market. (A fork-style reference of developer-roadmap lives at
 > [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap).)
 
@@ -62,7 +62,7 @@ HVAC & Refrigeration (under Skilled Trades), Social Work (under Psychology), Bak
 ## Architecture
 
 ```
-careermap/
+compass/
 ├── server.py               # zero-dependency HTTP server (stdlib http.server) + JSON API
 ├── scripts/
 │   ├── seed.py             # content/*.json  →  SQLite (data/roadmap.db)

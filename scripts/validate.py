@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate CareerMap roadmap content files against content/SPEC.md."""
+"""Validate Compass roadmap content files against content/SPEC.md."""
 import json, sys, re, glob, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
